@@ -27,7 +27,8 @@ for lang in languages:
             'date': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': f"https://www.bing.com{image['urlbase']}",
-            'copyright': image['copyright']
+            'copyright': image['copyright'],
+            'hsh': image['hsh']
         }
         images_info.append(image_info)
 
