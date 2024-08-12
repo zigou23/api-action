@@ -32,7 +32,7 @@ for lang in languages:
         images_info.append(image_info)
 
     # 定义与语言代码相关的文件路径
-    file_path = f'../bing/bing_{lang}.json'
+    file_path = f'./bing/bing_{lang}.json'
 
     # 尝试读取现有的本地JSON文件
     try:
