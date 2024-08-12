@@ -25,7 +25,7 @@ for lang in languages:
     for image in data['images']:
         image_info = {
             'date': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
-            'url': f"https://www.bing.com{image['url']}",
+            'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': f"https://www.bing.com{image['urlbase']}",
             'copyright': image['copyright']
         }
