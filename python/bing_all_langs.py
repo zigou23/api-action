@@ -7,7 +7,7 @@ from datetime import datetime
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'fr-FR', 'it-IT', 'ja-JP', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
 
 # 确保目标文件夹存在
-output_dir = '../bing'
+output_dir = './bing'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
@@ -55,7 +55,7 @@ for lang in languages:
         json.dump(existing_images_info, file, ensure_ascii=False, indent=4)
 
     # 将数据写入以语言代码命名的每周JSON文件
-    weekly_file_path = f'../bing/bing_weekly_{lang}.json'
+    weekly_file_path = f'./bing/bing_weekly_{lang}.json'
     with open(weekly_file_path, 'w', encoding='utf-8') as file:
         json.dump(images_info, file, ensure_ascii=False, indent=4)
 
