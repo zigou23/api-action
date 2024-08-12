@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 
 # 定义API URL
-api_url = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt=hu-HU"
+api_url = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt=en-US"
 # api_url2 = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt=en-US"
-
+# https://r2.cdn.qsim.top/bing.json
 # 发起请求获取数据
 response = requests.get(api_url)
 data = response.json()
@@ -22,7 +22,7 @@ for image in data['images']:
     images_info.append(image_info)
 
 # 尝试读取现有的本地JSON文件
-file_path = './bing/bing.json'
+file_path = './test/bing.json'
 try:
     with open(file_path, 'r', encoding='utf-8') as file:
         existing_images_info = json.load(file)
@@ -44,7 +44,7 @@ with open(file_path, 'w', encoding='utf-8') as file:
 
 
 # 将数据写入本地JSON文件
-with open('./bing/bing_weekly.json', 'w', encoding='utf-8') as file:
+with open('./test/bing_weekly.json', 'w', encoding='utf-8') as file:
     json.dump(images_info, file, ensure_ascii=False, indent=4)
 
 print("Bing每日一图数据已保存到 'bing_weekly.json'")

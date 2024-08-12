@@ -50,12 +50,17 @@ for lang in languages:
         if image_info['date'] not in existing_dates:
             existing_images_info.append(image_info)
 
+    # 按日期倒序排序现有数据
+    existing_images_info.sort(key=lambda x: datetime.strptime(x['date'], '%Y%m%d'), reverse=True)
+
     # 将更新后的数据写回到本地JSON文件
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(existing_images_info, file, ensure_ascii=False, indent=4)
 
     # 将数据写入以语言代码命名的每周JSON文件
     weekly_file_path = f'./bing/bing_weekly_{lang}.json'
+    # 按日期倒序排序每周数据
+    images_info.sort(key=lambda x: datetime.strptime(x['date'], '%Y%m%d'), reverse=True)
     with open(weekly_file_path, 'w', encoding='utf-8') as file:
         json.dump(images_info, file, ensure_ascii=False, indent=4)
 
