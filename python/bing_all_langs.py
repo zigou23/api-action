@@ -14,7 +14,7 @@ if not os.path.exists(output_dir):
 # 遍历每种语言
 for lang in languages:
     # 定义API URL，使用不同的语言代码
-    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
+    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}"
     if (lang == "hu-HU"): lang = "ROW"
     # 发起请求获取数据
     response = requests.get(api_url)
