@@ -1,6 +1,7 @@
 name: Download and Push Image
-
 on:
+  schedule:
+    - cron: '10 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +21,7 @@ jobs:
       run: pip install requests
 
     - name: run bing
-      run: python bing.py
+      run: python ./python/bing_all_langs.py
 
     - name: Commit and Push
       run: |
