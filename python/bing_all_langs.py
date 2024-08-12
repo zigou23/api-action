@@ -1,9 +1,15 @@
 import requests
 import json
+import os
 from datetime import datetime
 
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'fr-FR', 'it-IT', 'ja-JP', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
+
+# 确保目标文件夹存在
+output_dir = '../bing'
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
 
 # 遍历每种语言
 for lang in languages:
