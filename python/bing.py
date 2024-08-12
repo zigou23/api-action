@@ -22,7 +22,7 @@ for image in data['images']:
     images_info.append(image_info)
 
 # 尝试读取现有的本地JSON文件
-file_path = '../bing/bing.json'
+file_path = './bing/bing.json'
 try:
     with open(file_path, 'r', encoding='utf-8') as file:
         existing_images_info = json.load(file)
@@ -44,7 +44,7 @@ with open(file_path, 'w', encoding='utf-8') as file:
 
 
 # 将数据写入本地JSON文件
-with open('../bing/bing_weekly.json', 'w', encoding='utf-8') as file:
+with open('./bing/bing_weekly.json', 'w', encoding='utf-8') as file:
     json.dump(images_info, file, ensure_ascii=False, indent=4)
 
 print("Bing每日一图数据已保存到 'bing_weekly.json'")
