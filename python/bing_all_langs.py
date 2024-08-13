@@ -23,12 +23,16 @@ for lang in languages:
     # 提取所需数据并格式化
     images_info = []
     for image in data['images']:
+        urlbase = f"https://www.bing.com{image['urlbase']}"
+        parts = urlbase.split("OHR.")
+        name, id = parts[1].split("_")
         image_info = {
             'date': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
-            'urlbase': f"https://www.bing.com{image['urlbase']}",
+            'urlbase': urlbase,
             'copyright': image['copyright'],
-            'hsh': image['hsh']
+            'hsh': image['hsh'],
+            'tag': [name, id]
         }
         images_info.append(image_info)
 
