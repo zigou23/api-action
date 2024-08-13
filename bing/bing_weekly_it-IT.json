@@ -1,10 +1,17 @@
 [
     {
+        "date": "20240813",
+        "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_IT-IT0800672865_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_IT-IT0800672865",
+        "copyright": "Scogliere del Parco Naturale di Telašćica, Isola di Dugi Otok, Croazia (© Ilija Ascic/Shutterstock)",
+        "hsh": "30f4d376c91b53d85bc191360c472e5d"
+    },
+    {
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870",
         "copyright": "Elefanti africani, Parco Nazionale di Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images)",
-        "hsh": "4993eca8847caebf55cdc825aa23ba74"
+        "hsh": "843da0236ccc0ba1eb90167e6a4ad3d5"
     },
     {
         "date": "20240811",
@@ -47,12 +54,5 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_IT-IT9190436704",
         "copyright": "Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)",
         "hsh": "107c8f55bf7d08d56acd88286359c8fd"
-    },
-    {
-        "date": "20240805",
-        "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_IT-IT3555753109_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_IT-IT3555753109",
-        "copyright": "Campo di lavanda, Hertfordshire, Inghilterra, Regno Unito (© George W Johnson/Getty Images)",
-        "hsh": "a4c816d82d7209d2daaaafe3f477d7c4"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "date": "20240813",
+        "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_DE-DE7505074249_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_DE-DE7505074249",
+        "copyright": "Klippen des Naturparks Telašćica, Insel Dugi Otok, Kroatien (© Ilija Ascic/Shutterstock)",
+        "hsh": "a32d7433020dec7d826128ccc3a9e702"
+    },
+    {
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249",
@@ -47,12 +54,5 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_DE-DE0192501099",
         "copyright": "Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)",
         "hsh": "8198b0c19dff5c541a7e7ed5b49982f3"
-    },
-    {
-        "date": "20240805",
-        "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_DE-DE9702415169_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_DE-DE9702415169",
-        "copyright": "Lavendelfeld, Hertfordshire, England, Großbritannien (© George W Johnson/Getty Images)",
-        "hsh": "0606e4199d22c2abfd40278747dfcc9a"
     }
 ]
