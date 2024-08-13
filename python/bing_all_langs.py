@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # 定义语言代码列表
-languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'fr-FR', 'it-IT', 'ja-JP', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
+languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
 
 # 确保目标文件夹存在
 output_dir = './bing'
@@ -15,6 +15,7 @@ if not os.path.exists(output_dir):
 for lang in languages:
     # 定义API URL，使用不同的语言代码
     api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
+    # api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}" # old
     # 语言不支持，会使用通用 ROW 数据
     if (lang == "hu-HU"): lang = "ROW"
     # 发起请求获取数据
