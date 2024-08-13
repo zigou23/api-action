@@ -15,6 +15,7 @@ if not os.path.exists(output_dir):
 for lang in languages:
     # 定义API URL，使用不同的语言代码
     api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
+    # 语言不支持，会使用通用 ROW 数据
     if (lang == "hu-HU"): lang = "ROW"
     # 发起请求获取数据
     response = requests.get(api_url)
@@ -31,8 +32,8 @@ for lang in languages:
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': urlbase,
             'copyright': image['copyright'],
-            'hsh': image['hsh'],
-            'tag': [name, id]
+            'hsh': image['hsh']
+            # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
         }
         images_info.append(image_info)
 
