@@ -4,55 +4,87 @@
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_JA-JP9531782423_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_JA-JP9531782423",
         "copyright": "テラシュチカ自然公園, クロアチア (© Ilija Ascic/Shutterstock)",
-        "hsh": "92b7781b167bb4ecb1ca98d71152cc8b"
+        "hsh": "92b7781b167bb4ecb1ca98d71152cc8b",
+        "tag": [
+            "DugiOtokCroatia",
+            "JA-JP9531782423"
+        ]
     },
     {
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040",
         "copyright": "アンボセリ国立公園, ケニア (© Ruzdi Ekenheim/Getty Images)",
-        "hsh": "976f9a57c8320c5324fbaa37af9854fa"
+        "hsh": "976f9a57c8320c5324fbaa37af9854fa",
+        "tag": [
+            "ElephantsAmboseli",
+            "JA-JP9387144040"
+        ]
     },
     {
         "date": "20240811",
         "url": "https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329",
         "copyright": "草津白根山, 群馬県 吾妻郡 (© Twenty47studio/Getty Images)",
-        "hsh": "df9a5b3c2772a806e070e6654095d622"
+        "hsh": "df9a5b3c2772a806e070e6654095d622",
+        "tag": [
+            "MountainDay2024",
+            "JA-JP9130465329"
+        ]
     },
     {
         "date": "20240810",
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537",
         "copyright": "ケネディ湖州立公園, カナダ ブリティッシュコロンビア州 (© EB Adventure Photography/Shutterstock)",
-        "hsh": "cbb09da63582f05a9ae175665b10f8a8"
+        "hsh": "cbb09da63582f05a9ae175665b10f8a8",
+        "tag": [
+            "TofinoVancouver",
+            "JA-JP8938759537"
+        ]
     },
     {
         "date": "20240809",
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251",
         "copyright": "サクサイワマン, ペルー (© SL_Photography/Getty Images)",
-        "hsh": "e89e2e3c0b4a55185175a22578df2459"
+        "hsh": "e89e2e3c0b4a55185175a22578df2459",
+        "tag": [
+            "IncaRuinPeru",
+            "JA-JP8602736251"
+        ]
     },
     {
         "date": "20240808",
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493",
         "copyright": "インドコキンメフクロウ, タイ バンコク (© Tfilm/Getty Images)",
-        "hsh": "530fba1b4e2430c12022e19097e21eb3"
+        "hsh": "530fba1b4e2430c12022e19097e21eb3",
+        "tag": [
+            "SpottedOwlet",
+            "JA-JP9234740493"
+        ]
     },
     {
         "date": "20240807",
         "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371",
         "copyright": "ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)",
-        "hsh": "6eae773f0ccaf4f058310fcaaefb227f"
+        "hsh": "6eae773f0ccaf4f058310fcaaefb227f",
+        "tag": [
+            "MichiganLighthouse",
+            "JA-JP9089561371"
+        ]
     },
     {
         "date": "20240806",
         "url": "https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169",
         "copyright": "巨大な吹き流し, 宮城県 仙台市 (© rujin/Shutterstock)",
-        "hsh": "1d2380ae4b6a4bf2a76669e6eb77eccc"
+        "hsh": "1d2380ae4b6a4bf2a76669e6eb77eccc",
+        "tag": [
+            "SendaiTanabata2024",
+            "JA-JP8906260169"
+        ]
     }
 ]

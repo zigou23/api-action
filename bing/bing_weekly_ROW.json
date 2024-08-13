@@ -4,55 +4,87 @@
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
-        "hsh": "532cf80c2e6b3626b1591073fbd88b86"
+        "hsh": "532cf80c2e6b3626b1591073fbd88b86",
+        "tag": [
+            "ElephantsAmboseli",
+            "ROW1361038642"
+        ]
     },
     {
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
-        "hsh": "29f8aac30ad00abd724a6127ac681820"
+        "hsh": "29f8aac30ad00abd724a6127ac681820",
+        "tag": [
+            "TofinoVancouver",
+            "ROW1209784731"
+        ]
     },
     {
         "date": "20240811",
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
-        "hsh": "304a9eced746971d767bc15365e71b0f"
+        "hsh": "304a9eced746971d767bc15365e71b0f",
+        "tag": [
+            "JoshuaTreeNP",
+            "ROW1075085716"
+        ]
     },
     {
         "date": "20240810",
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054",
         "copyright": "Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)",
-        "hsh": "d9455e0db27e99a935536c0e0f44ebd6"
+        "hsh": "d9455e0db27e99a935536c0e0f44ebd6",
+        "tag": [
+            "IncaRuinPeru",
+            "ROW0885643054"
+        ]
     },
     {
         "date": "20240809",
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888",
         "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
-        "hsh": "33db0f2a0898e926a980a694fa754960"
+        "hsh": "33db0f2a0898e926a980a694fa754960",
+        "tag": [
+            "SpottedOwlet",
+            "ROW7217108888"
+        ]
     },
     {
         "date": "20240808",
         "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690",
         "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
-        "hsh": "48b686fc3e19384f0bf6e46e0d5634e5"
+        "hsh": "48b686fc3e19384f0bf6e46e0d5634e5",
+        "tag": [
+            "MichiganLighthouse",
+            "ROW7023012690"
+        ]
     },
     {
         "date": "20240807",
         "url": "https://www.bing.com/th?id=OHR.MolokiniHawaii_ROW6862198585_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_ROW6862198585",
         "copyright": "Molokini, Maui, Hawaii (© Douglas Peebles/eStock Photo)",
-        "hsh": "9a9e6240cd64f66a6c55cc451e7c7875"
+        "hsh": "9a9e6240cd64f66a6c55cc451e7c7875",
+        "tag": [
+            "MolokiniHawaii",
+            "ROW6862198585"
+        ]
     },
     {
         "date": "20240806",
         "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_ROW6696300267_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_ROW6696300267",
         "copyright": "Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)",
-        "hsh": "7c266443b26b2b9f7d6f269d0c6f048a"
+        "hsh": "7c266443b26b2b9f7d6f269d0c6f048a",
+        "tag": [
+            "HertfordshireLavender",
+            "ROW6696300267"
+        ]
     }
 ]
