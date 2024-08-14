@@ -1,4 +1,5 @@
 ## Bing Wallpaper (2019)
+### [Below 2019-04-26, only 1080p available.](#the-following-have-no-uhd-version-only-1080p-version)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://bing.com/th?id=OHR.SkyIslands_EN-US4150149691_UHD.jpg&w=384)[2019-12-31](https://bing.com/th?id=OHR.SkyIslands_EN-US4150149691_UHD.jpg): Saguaro cacti in the Sonoran Desert near Tucson, Arizona (© Jack Dykinga/Minden Pictures)|![](https://bing.com/th?id=OHR.InnsbruckSkiJump_EN-US4058119779_UHD.jpg&w=384)[2019-12-30](https://bing.com/th?id=OHR.InnsbruckSkiJump_EN-US4058119779_UHD.jpg): German ski jumper Markus Eisenbichler competing in the Four Hills Tournament, Innsbruck, Austria, on January 3, 2018 (© Daniel Karmann/picture alliance via Getty Images)|![](https://bing.com/th?id=OHR.TrumpeterWinter_EN-US3945298100_UHD.jpg&w=384)[2019-12-29](https://bing.com/th?id=OHR.TrumpeterWinter_EN-US3945298100_UHD.jpg): Trumpeter swans at Kelly Warm Springs, near Kelly, Wyoming (© DEEPOL by plainpicture)|
