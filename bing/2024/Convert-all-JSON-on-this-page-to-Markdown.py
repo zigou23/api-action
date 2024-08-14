@@ -16,7 +16,7 @@ for filename in os.listdir(json_dir):
             data = json.load(json_file)
 
         # Initialize the Markdown content
-        md_content = "## Bing Wallpaper (2022)\n"
+        md_content = "## Bing Wallpaper (2024)\n"
         md_content += "|      |      |      |\n"
         md_content += "| :----: | :----: | :----: |\n"
 
@@ -30,7 +30,7 @@ for filename in os.listdir(json_dir):
             copyright_text = item['copyright']
 
             # Construct the Markdown link with the modified URL
-            md_link = f"![]({urlbase}_UHD.jpg&w=384)[{date[:4]}-{date[4:6]}-{date[6:]}]({urlbase}_UHD.jpg&w=384): {copyright_text}"
+            md_link = f"![]({urlbase}_UHD.jpg&w=384)[{date[:4]}-{date[4:6]}-{date[6:]}]({urlbase}_UHD.jpg): {copyright_text}"
 
             # Add the link to the current row
             row += f"|{md_link}"
