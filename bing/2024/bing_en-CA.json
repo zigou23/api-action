@@ -5,6 +5,7 @@
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-CA4804344545_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-CA4804344545",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Thorny devil",
         "hsh": "bd2f1eab1925ba3f7cf9c9b10ce7cd67"
     },
     {
@@ -13,6 +14,7 @@
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-CA6561432536_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-CA6561432536",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Telascica Nature Park",
         "hsh": "94e421b6b9b5f32a18adeb36bb7de92e"
     },
     {
@@ -21,6 +23,7 @@
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-CA6017662869_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-CA6017662869",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "World Elephant Day",
         "hsh": "772a56f9c4d8ce16241a78dcdfaaf847"
     },
     {
@@ -29,6 +32,7 @@
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-CA5475468429_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-CA5475468429",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
+        "copyrightKeyword": "Kennedy Lake Vancouver Island",
         "hsh": "68bdfcf53e9100279b497caa39fa2170"
     },
     {
@@ -37,6 +41,7 @@
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Joshua Tree National Park",
         "hsh": "1b90544eb8cb6d0114fa51913ebb9f7e"
     },
     {
@@ -45,6 +50,7 @@
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-CA5058760637_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-CA5058760637",
         "copyright": "Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)",
+        "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
         "hsh": "d95e541c99016cec76cb5dbe3028d750"
     },
     {
@@ -53,6 +59,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-CA8167068450_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-CA8167068450",
         "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
+        "copyrightKeyword": "Spotted owlet",
         "hsh": "186afbdf096be31a05b8f8888d9c7a9d"
     },
     {
@@ -61,6 +68,7 @@
         "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-CA1739744082_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-CA1739744082",
         "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
+        "copyrightKeyword": "St. Joseph North Pier Inner and Outer Lights",
         "hsh": "8864134b9d5476aa048fb5498395fa10"
     },
     {
@@ -69,6 +77,7 @@
         "url": "https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-CA7505567262_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-CA7505567262",
         "copyright": "Molokini, Maui, Hawaii (© Douglas Peebles/eStock Photo)",
+        "copyrightKeyword": "Molokini crater ",
         "hsh": "5304ebab95bb67e2ed09694f0b6e8f1e"
     },
     {
@@ -77,6 +86,7 @@
         "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_EN-CA7120535968_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_EN-CA7120535968",
         "copyright": "Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)",
+        "copyrightKeyword": "Lavender",
         "hsh": "e9ef2c08383b671c8d94dc95b484b53f"
     },
     {
@@ -85,6 +95,7 @@
         "url": "https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-CA7040522932_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-CA7040522932",
         "copyright": "Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)",
+        "copyrightKeyword": "Friendship Day",
         "hsh": "2116429fb8173982cd6fa5194a135691"
     },
     {
@@ -93,6 +104,7 @@
         "url": "https://www.bing.com/th?id=OHR.WulongKarst_EN-CA6720061040_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WulongKarst_EN-CA6720061040",
         "copyright": "Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)",
+        "copyrightKeyword": "Three Natural Bridges Wulong Karst",
         "hsh": "04eabce96aaa854290452a2dcd50cfae"
     },
     {
@@ -101,6 +113,7 @@
         "url": "https://www.bing.com/th?id=OHR.GeesefamilyBanff_EN-CA8574111296_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GeesefamilyBanff_EN-CA8574111296",
         "copyright": "A family of Canadian geese swimming in a lake in Banff National Park, Alberta (© Chase Dekker Wild-Life Images/Moment/Getty Images)",
+        "copyrightKeyword": "Banff National Park",
         "hsh": "a41f97512d0ac27439d7b5a64a7b55b3"
     },
     {
@@ -109,6 +122,7 @@
         "url": "https://www.bing.com/th?id=OHR.KaptaiLake_EN-CA6019136030_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KaptaiLake_EN-CA6019136030",
         "copyright": "Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightKeyword": "Kaptai Lake Rangamati Bangladesh",
         "hsh": "5e955f670834fcdf6e70baa660bc1ec9"
     },
     {
@@ -117,6 +131,7 @@
         "url": "https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421",
         "copyright": "Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Bryce Canyon National Park Utah",
         "hsh": "e2016dbad58048f23c5ee4c57ba2c6b2"
     },
     {
@@ -125,6 +140,7 @@
         "url": "https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077",
         "copyright": "San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)",
+        "copyrightKeyword": "San Gimignano",
         "hsh": "b4fd482bac84e3c11822ae5f5eff239d"
     },
     {
@@ -133,6 +149,7 @@
         "url": "https://www.bing.com/th?id=OHR.CorbettTigers_EN-CA4355248170_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CorbettTigers_EN-CA4355248170",
         "copyright": "Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)",
+        "copyrightKeyword": "International Tiger day",
         "hsh": "9e9aed714070618dc0b274a0da393937"
     },
     {
@@ -141,6 +158,7 @@
         "url": "https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-CA0435377423_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-CA0435377423",
         "copyright": "Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)",
+        "copyrightKeyword": "Skane County Sweden",
         "hsh": "b01002c6792da717c95c355f7bfa8447"
     },
     {
@@ -149,6 +167,7 @@
         "url": "https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-CA9625336200_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-CA9625336200",
         "copyright": "Vineyards in the Moselle Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)",
+        "copyrightKeyword": "Palatinate wine region",
         "hsh": "52919493e99a61b5644783fe2201e27a"
     },
     {
@@ -157,6 +176,7 @@
         "url": "https://www.bing.com/th?id=OHR.PontNeuf_EN-CA9337401252_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PontNeuf_EN-CA9337401252",
         "copyright": "Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)",
+        "copyrightKeyword": "Paris Olympics 2024",
         "hsh": "38db2ea3edbb841290398cd3d6a8debb"
     },
     {
@@ -165,6 +185,7 @@
         "url": "https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-CA9002253362_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-CA9002253362",
         "copyright": "Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)",
+        "copyrightKeyword": "Great Smoky Mountains National Park",
         "hsh": "fa0f6840aaacdf3340bd0feabe081749"
     },
     {
@@ -173,6 +194,7 @@
         "url": "https://www.bing.com/th?id=OHR.SheepCousins_EN-CA1277302803_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SheepCousins_EN-CA1277302803",
         "copyright": "Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)",
+        "copyrightKeyword": "Cousin",
         "hsh": "2a5173ed455f6007337d5b0ddf35ab4b"
     },
     {
@@ -181,6 +203,7 @@
         "url": "https://www.bing.com/th?id=OHR.MethoniCastle_EN-CA0696523421_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MethoniCastle_EN-CA0696523421",
         "copyright": "Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)",
+        "copyrightKeyword": "Methoni Castle",
         "hsh": "ded22a36c3066912cf80ef1b8e96bddc"
     },
     {
@@ -189,6 +212,7 @@
         "url": "https://www.bing.com/th?id=OHR.HammockCamping_EN-CA7138576311_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HammockCamping_EN-CA7138576311",
         "copyright": "Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightKeyword": "Hammock Day",
         "hsh": "232446a542787fe56e3cd8b984f295a6"
     },
     {
@@ -197,6 +221,7 @@
         "url": "https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-CA8357127050_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-CA8357127050",
         "copyright": "Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)",
+        "copyrightKeyword": "Zanzibar",
         "hsh": "ee11c48cb75772e4dd9b6e8696571305"
     },
     {
@@ -205,6 +230,7 @@
         "url": "https://www.bing.com/th?id=OHR.MineralMoon_EN-CA8937891241_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MineralMoon_EN-CA8937891241",
         "copyright": "The moon (© Victor Blum/Getty Images)",
+        "copyrightKeyword": "Moon",
         "hsh": "417e48e534a6796944d5999f17f04cfd"
     },
     {
@@ -213,6 +239,7 @@
         "url": "https://www.bing.com/th?id=OHR.YoungJaguar_EN-CA9065680800_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YoungJaguar_EN-CA9065680800",
         "copyright": "A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)",
+        "copyrightKeyword": "Jaguar animal",
         "hsh": "a596935d7e602c7b9cc2a5c53779d399"
     },
     {
@@ -221,6 +248,7 @@
         "url": "https://www.bing.com/th?id=OHR.MayotteCoral_EN-CA5144997966_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MayotteCoral_EN-CA5144997966",
         "copyright": "Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+        "copyrightKeyword": "Coral Reef Awareness Week",
         "hsh": "513224508be7bf98fb56a555c2fa2a89"
     },
     {
@@ -229,6 +257,7 @@
         "url": "https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344",
         "copyright": "Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)",
+        "copyrightKeyword": "Rothenburg ob der Tauber Germany",
         "hsh": "34dadc811cdfd67b014906cc422be305"
     },
     {
@@ -237,6 +266,7 @@
         "url": "https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155",
         "copyright": "Summer Milky Way over the badlands formations at Dinosaur Provincial Park, Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Dinosaur Provincial Park",
         "hsh": "653b133a9107f0f7e892b815a0184c7b"
     },
     {
@@ -245,6 +275,7 @@
         "url": "https://www.bing.com/th?id=OHR.TateishiPark_EN-CA6542034123_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TateishiPark_EN-CA6542034123",
         "copyright": "Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)",
+        "copyrightKeyword": "Marine Day Japan",
         "hsh": "d7d7196ead26157a24a2f926ecce0454"
     },
     {
@@ -253,6 +284,7 @@
         "url": "https://www.bing.com/th?id=OHR.SestriLevante_EN-CA8470730847_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SestriLevante_EN-CA8470730847",
         "copyright": "Baia del Silenzio in Sestri Levante, Liguria, Italy (© StevanZZ/Getty Images)",
+        "copyrightKeyword": "Sestri Levante",
         "hsh": "bffa915c06a6f0479a8a77be17f0fbf2"
     },
     {
@@ -261,6 +293,7 @@
         "url": "https://www.bing.com/th?id=OHR.CappadociaRocks_EN-CA1807054291_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CappadociaRocks_EN-CA1807054291",
         "copyright": "Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)",
+        "copyrightKeyword": "Rocks",
         "hsh": "6c6147468d8605ca10aaa22448f04512"
     },
     {
@@ -269,6 +302,7 @@
         "url": "https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642",
         "copyright": "Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)",
+        "copyrightKeyword": "Mount Rainier National Park",
         "hsh": "8fe58372796073a5171a12cf5de0f08a"
     },
     {
@@ -277,6 +311,7 @@
         "url": "https://www.bing.com/th?id=OHR.GangiSicily_EN-CA3763946308_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GangiSicily_EN-CA3763946308",
         "copyright": "Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)",
+        "copyrightKeyword": "World Population Day",
         "hsh": "dc948036b3ba7789f56dd1e9c24d3796"
     },
     {
@@ -285,6 +320,7 @@
         "url": "https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA2465482704_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CollaredAracari_EN-CA2465482704",
         "copyright": "Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightKeyword": "Collared Aracari",
         "hsh": "d51bcd3f450ace6da0018a108677478c"
     },
     {
@@ -293,6 +329,7 @@
         "url": "https://www.bing.com/th?id=OHR.TalampayaNP_EN-CA3117263692_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TalampayaNP_EN-CA3117263692",
         "copyright": "Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)",
+        "copyrightKeyword": "Talampaya National Park Argentina",
         "hsh": "0eac7204db736e7d29b75300c4ef1c40"
     },
     {
@@ -301,6 +338,7 @@
         "url": "https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-CA2657408447_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-CA2657408447",
         "copyright": "Blueberries growing in the wild (© Baac3nes/Getty Images)",
+        "copyrightKeyword": "Blueberry",
         "hsh": "237c0a9da1af2f109f9659a83f694433"
     },
     {
@@ -309,6 +347,7 @@
         "url": "https://www.bing.com/th?id=OHR.YenBaiTerraces_EN-CA2341347163_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YenBaiTerraces_EN-CA2341347163",
         "copyright": "Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)",
+        "copyrightKeyword": "Rice terraces of Mu Cang Chai",
         "hsh": "3507b58491cc9df66620485d22fdbe65"
     },
     {
@@ -317,6 +356,7 @@
         "url": "https://www.bing.com/th?id=OHR.ConwyRiver_EN-CA1909669827_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ConwyRiver_EN-CA1909669827",
         "copyright": "Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)",
+        "copyrightKeyword": "Conwy River Festival",
         "hsh": "bb38076e0a4ec52178ee185f94cabda3"
     },
     {
@@ -325,6 +365,7 @@
         "url": "https://www.bing.com/th?id=OHR.NoahBeach_EN-CA1574566780_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.NoahBeach_EN-CA1574566780",
         "copyright": "Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)",
+        "copyrightKeyword": "Daintree Rainforest",
         "hsh": "a34e1c8ecaa7cb3bc4b493105908d0df"
     },
     {
@@ -333,6 +374,7 @@
         "url": "https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-CA1018639901_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-CA1018639901",
         "copyright": "Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+        "copyrightKeyword": "Fisgard Lighthouse National Historic Site",
         "hsh": "c947d39449c1ff4a2f60d1a6937d3313"
     },
     {
@@ -341,6 +383,7 @@
         "url": "https://www.bing.com/th?id=OHR.MeerkatManor_EN-CA9684864184_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MeerkatManor_EN-CA9684864184",
         "copyright": "Meerkat family (© anetapics/Shutterstock)",
+        "copyrightKeyword": "World Meerkat Day",
         "hsh": "6b2a412edfc2ec63291f7d894ac3893a"
     },
     {
@@ -349,6 +392,7 @@
         "url": "https://www.bing.com/th?id=OHR.ItalicaRuins_EN-CA9389971381_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ItalicaRuins_EN-CA9389971381",
         "copyright": "Italica, an old Roman city in Santiponce, Sevilla, Andalusia, Spain (© Moses Palermo/Amazing Aerial Agency)",
+        "copyrightKeyword": "Italica Spain",
         "hsh": "464efa064478ec149c64ede175cdc046"
     },
     {
@@ -357,6 +401,7 @@
         "url": "https://www.bing.com/th?id=OHR.CanadaDayOttawa_EN-CA8916971167_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CanadaDayOttawa_EN-CA8916971167",
         "copyright": "Canada Day firework show behind the National Gallery of Canada, Ottawa (© gqxue/iStock Editorial/Gettty Images)",
+        "copyrightKeyword": "Canada Day",
         "hsh": "ce9451607b3231ac019bee89dbce246b"
     },
     {
@@ -365,6 +410,7 @@
         "url": "https://www.bing.com/th?id=OHR.UbudBali_EN-CA8434577809_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.UbudBali_EN-CA8434577809",
         "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
+        "copyrightKeyword": "Ubud history",
         "hsh": "e5487cc9511e0a976e02577f6aed0482"
     },
     {
@@ -373,6 +419,7 @@
         "url": "https://www.bing.com/th?id=OHR.TourCorsica_EN-CA6661370949_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TourCorsica_EN-CA6661370949",
         "copyright": "Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)",
+        "copyrightKeyword": "Tour de France 2024",
         "hsh": "33e6c07eb9cd4c9a4deeb96e22f87207"
     },
     {
@@ -381,6 +428,7 @@
         "url": "https://www.bing.com/th?id=OHR.ChristopherPark_EN-CA4001451105_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ChristopherPark_EN-CA4001451105",
         "copyright": "Pride flags at Christopher Street Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)",
+        "copyrightKeyword": "Stonewall Anniversary",
         "hsh": "70d3cb8f9d65f9f72b654cf39cc13040"
     },
     {
@@ -389,6 +437,7 @@
         "url": "https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-CA9972074175_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-CA9972074175",
         "copyright": "Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)",
+        "copyrightKeyword": "Duomo Santa Maria del Fiore",
         "hsh": "8bb90cab6ca3ef18ae3d5b014e4b51e7"
     },
     {
@@ -397,6 +446,7 @@
         "url": "https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-CA9725559395_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-CA9725559395",
         "copyright": "Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)",
+        "copyrightKeyword": "Banggai cardinalfish",
         "hsh": "59b1b4cc0f32d8950cc28507593b4c61"
     },
     {
@@ -405,6 +455,7 @@
         "url": "https://www.bing.com/th?id=OHR.FireWave_EN-CA9559982578_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.FireWave_EN-CA9559982578",
         "copyright": "The Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)",
+        "copyrightKeyword": "Valley of Fire State Park Nevada ",
         "hsh": "2d034f5396affaeb2c0490d4008313ff"
     },
     {
@@ -413,6 +464,7 @@
         "url": "https://www.bing.com/th?id=OHR.FloresIsland_EN-CA9405786955_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.FloresIsland_EN-CA9405786955",
         "copyright": "Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)",
+        "copyrightKeyword": "Kelimutu Flores Indonesia",
         "hsh": "12d5cca44e5ff951c44a2a3b034b972f"
     },
     {
@@ -421,6 +473,7 @@
         "url": "https://www.bing.com/th?id=OHR.DhakaBangladesh_EN-CA1292742742_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DhakaBangladesh_EN-CA1292742742",
         "copyright": "Aerial view of a roundabout in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightKeyword": "Dhaka Bangladesh",
         "hsh": "36ae98a2c3e00685ffaefe3ff931625e"
     },
     {
@@ -429,6 +482,7 @@
         "url": "https://www.bing.com/th?id=OHR.BrazilRainforest_EN-CA8803781461_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BrazilRainforest_EN-CA8803781461",
         "copyright": "Amazon rainforest, Brazil (© Claus Meyer/plainpicture)",
+        "copyrightKeyword": "World Rainforest Day",
         "hsh": "2b556de72e20da23e4bb802af26b5102"
     },
     {
@@ -437,6 +491,7 @@
         "url": "https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275",
         "copyright": "Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock)",
+        "copyrightKeyword": "National Indigenous Peoples Day",
         "hsh": "6a00ad5e3fb20d74541ed8540b689f1a"
     },
     {
@@ -445,6 +500,7 @@
         "url": "https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-CA8649662259_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-CA8649662259",
         "copyright": "Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)",
+        "copyrightKeyword": "Summer solstice",
         "hsh": "63bce13c2f3481e8724464057495be2b"
     },
     {
@@ -453,6 +509,7 @@
         "url": "https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554",
         "copyright": "Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)",
+        "copyrightKeyword": "Lewa Wildlife Conservancy",
         "hsh": "0e438330513875b4dc1616cea50cc757"
     },
     {
@@ -461,6 +518,7 @@
         "url": "https://www.bing.com/th?id=OHR.LupinIceland_EN-CA8487496970_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LupinIceland_EN-CA8487496970",
         "copyright": "Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)",
+        "copyrightKeyword": "Snaefellsnes",
         "hsh": "b63e35e6e7c9328f03f0e5f64ad09318"
     },
     {
@@ -469,6 +527,7 @@
         "url": "https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552",
         "copyright": "Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)",
+        "copyrightKeyword": "Pollinator Week",
         "hsh": "41bc42f75f7d6365910aa07254e09ce6"
     },
     {
@@ -477,6 +536,7 @@
         "url": "https://www.bing.com/th?id=OHR.RedFoxDad_EN-CA5585165755_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RedFoxDad_EN-CA5585165755",
         "copyright": "Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)",
+        "copyrightKeyword": "Fathers Day",
         "hsh": "adc9ebb9abbeac0a91a3f2cebbcc81aa"
     },
     {
@@ -485,6 +545,7 @@
         "url": "https://www.bing.com/th?id=OHR.NazareWave_EN-CA5439968025_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.NazareWave_EN-CA5439968025",
         "copyright": "Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)",
+        "copyrightKeyword": "International Surfing day",
         "hsh": "00d789781029a047f11ff927fa75dcc5"
     },
     {
@@ -493,6 +554,7 @@
         "url": "https://www.bing.com/th?id=OHR.PeggysCove_EN-CA5369786988_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PeggysCove_EN-CA5369786988",
         "copyright": "Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)",
+        "copyrightKeyword": "Peggys Point Lighthouse Nova Scotia",
         "hsh": "741dc2865683706dc17377a2324ee39f"
     },
     {
@@ -501,6 +563,7 @@
         "url": "https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-CA2957046494",
         "copyright": "Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)",
+        "copyrightKeyword": "Samarkand",
         "hsh": "25d37988073277fea1527806286a6176"
     },
     {
@@ -509,6 +572,7 @@
         "url": "https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-CA2391615132",
         "copyright": "Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)",
+        "copyrightKeyword": "Big Bend National Park",
         "hsh": "a2d05e6c9d5e55c3b25e464b14ba665f"
     },
     {
@@ -517,6 +581,7 @@
         "url": "https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-CA0854561262_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-CA0854561262",
         "copyright": "Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)",
+        "copyrightKeyword": "Gemsbok animal",
         "hsh": "b5cf72f2a4c67f0a7d0f4cbda3c9d001"
     },
     {
@@ -525,6 +590,7 @@
         "url": "https://www.bing.com/th?id=OHR.OsakaNight_EN-CA0467122795_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OsakaNight_EN-CA0467122795",
         "copyright": "Osaka at night, Japan (© wichianduangsri/Getty Images)",
+        "copyrightKeyword": "Osaka Japan",
         "hsh": "73cabedea67cbbeeeaffae7786636f27"
     },
     {
@@ -533,6 +599,7 @@
         "url": "https://www.bing.com/th?id=OHR.BardenasBiosphere_EN-CA9390385116_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BardenasBiosphere_EN-CA9390385116",
         "copyright": "Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyrightKeyword": "Bardenas Reales Biosphere Reserve",
         "hsh": "3c2fa6579e6c876e18824c437c602f48"
     },
     {
@@ -541,6 +608,7 @@
         "url": "https://www.bing.com/th?id=OHR.CanadianGP_EN-CA8496728904_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CanadianGP_EN-CA8496728904",
         "copyright": "Skyline of Downtown Montreal, Quebec, Canada (© benedek/E+/Getty Images)",
+        "copyrightKeyword": "Canadian Grand Prix 2024",
         "hsh": "3fc487e2aea7e3be5a6a8d6999ba57d8"
     },
     {
@@ -549,6 +617,7 @@
         "url": "https://www.bing.com/th?id=OHR.HumpbackFamily_EN-CA7093213035_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HumpbackFamily_EN-CA7093213035",
         "copyright": "Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)",
+        "copyrightKeyword": "World Oceans Day",
         "hsh": "977efdc6459f8a8e696ed1122fdee213"
     },
     {
@@ -557,6 +626,7 @@
         "url": "https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-CA6288296004_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-CA6288296004",
         "copyright": "Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)",
+        "copyrightKeyword": "Normandy landings",
         "hsh": "9e00205e1ffc4c2506f16843fafb9dc0"
     },
     {
@@ -565,6 +635,7 @@
         "url": "https://www.bing.com/th?id=OHR.MadagascarRiver_EN-CA5413298689_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MadagascarRiver_EN-CA5413298689",
         "copyright": "Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)",
+        "copyrightKeyword": "World Environment Day",
         "hsh": "5f748148b64bc4d480f9b5dcf4077530"
     },
     {
@@ -573,6 +644,7 @@
         "url": "https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-CA4730115773_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-CA4730115773",
         "copyright": "Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)",
+        "copyrightKeyword": "Chestnut-headed bee-eater",
         "hsh": "369f86b58702b3a758653b7f6997fdfa"
     },
     {
@@ -581,6 +653,7 @@
         "url": "https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-CA1742529177_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-CA1742529177",
         "copyright": "Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)",
+        "copyrightKeyword": "World Bicycle Day",
         "hsh": "ae05d6245ccdb912ef54c70597987236"
     },
     {
@@ -589,6 +662,7 @@
         "url": "https://www.bing.com/th?id=OHR.Annahummingbird_EN-CA0660927808_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.Annahummingbird_EN-CA0660927808",
         "copyright": "Female Anna's hummingbird, Canada (© Devonyu/iStock/Getty Images)",
+        "copyrightKeyword": "Annas hummingbird",
         "hsh": "516b6756d1aefc562535191b4570e909"
     },
     {
@@ -597,6 +671,7 @@
         "url": "https://www.bing.com/th?id=OHR.PrideMonthSF_EN-CA8827257205_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PrideMonthSF_EN-CA8827257205",
         "copyright": "San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)",
+        "copyrightKeyword": "Pride Month",
         "hsh": "1001787528596ddf977ec4baccb51a45"
     },
     {
@@ -605,6 +680,7 @@
         "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA8134519875_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-CA8134519875",
         "copyright": "Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)",
+        "copyrightKeyword": "Gunnerside",
         "hsh": "266189f11d18c4b5fa2ecb53ce8bcce3"
     },
     {
@@ -613,6 +689,7 @@
         "url": "https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105",
         "copyright": "A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)",
+        "copyrightKeyword": "Everglades National Park Florida",
         "hsh": "fd4a269c186c74f65ac97da36dbbfd8a"
     },
     {
@@ -621,6 +698,7 @@
         "url": "https://www.bing.com/th?id=OHR.MullOtter_EN-CA6618769900_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MullOtter_EN-CA6618769900",
         "copyright": "Adolescent European otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)",
+        "copyrightKeyword": "World Otter Day",
         "hsh": "9747c7d8cf88e7240b96df59b0817538"
     },
     {
@@ -629,6 +707,7 @@
         "url": "https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-CA9255017946_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-CA9255017946",
         "copyright": "Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)",
+        "copyrightKeyword": "Monastery of Roussanou Greece",
         "hsh": "ad108f9864aff2cc581f81292dad5db3"
     },
     {
@@ -637,6 +716,7 @@
         "url": "https://www.bing.com/th?id=OHR.MinganArchipelago_EN-CA5872186861_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MinganArchipelago_EN-CA5872186861",
         "copyright": "Mingan Archipelago National Park Reserve, Quebec, Canada (© Instants/E+/Getty Images)",
+        "copyrightKeyword": "Mingan Archipelago National Park Reserve",
         "hsh": "ba85d78a59c2abdff68bd523882a9f62"
     },
     {
@@ -645,6 +725,7 @@
         "url": "https://www.bing.com/th?id=OHR.MethowWildflowers_EN-CA5562185332_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MethowWildflowers_EN-CA5562185332",
         "copyright": "Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)",
+        "copyrightKeyword": "Methow Washington",
         "hsh": "16ddd0a75bcbb09792b4afebb8231306"
     },
     {
@@ -653,6 +734,7 @@
         "url": "https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-CA5085608684_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-CA5085608684",
         "copyright": "Aït Benhaddou, Morocco (© Grant Faint/Getty Images)",
+        "copyrightKeyword": "Ait BenHaddou Morocco",
         "hsh": "e47e5ff0d6d99c87606641880df5bff1"
     },
     {
@@ -661,6 +743,7 @@
         "url": "https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-CA4762724069_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-CA4762724069",
         "copyright": "Añisclo gorge, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)",
+        "copyrightKeyword": "Ordesa y Monte Perdido National Park",
         "hsh": "3b615ae3b28fb6b1b06f9f45b295cc42"
     },
     {
@@ -669,6 +752,7 @@
         "url": "https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-CA4291882907_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-CA4291882907",
         "copyright": "Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures)",
+        "copyrightKeyword": "World Turtle Day",
         "hsh": "2e1a78f88967389e7ecf1f98363fb7a7"
     },
     {
@@ -677,6 +761,7 @@
         "url": "https://www.bing.com/th?id=OHR.SnowGumTasmania_EN-CA3820234055_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SnowGumTasmania_EN-CA3820234055",
         "copyright": "Tasmanian snow gum, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)",
+        "copyrightKeyword": "International Day for Biological Diversity",
         "hsh": "d137bd86bc3833d5b3a081be254cf18c"
     },
     {
@@ -685,6 +770,7 @@
         "url": "https://www.bing.com/th?id=OHR.MalaysiaTea_EN-CA2918348578_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MalaysiaTea_EN-CA2918348578",
         "copyright": "Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)",
+        "copyrightKeyword": "International Tea Day",
         "hsh": "21cbed1ccf50098691abd3ebf560e06d"
     },
     {
@@ -693,6 +779,7 @@
         "url": "https://www.bing.com/th?id=OHR.OttawaParliamentHill_EN-CA0974893499_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OttawaParliamentHill_EN-CA0974893499",
         "copyright": "Parliament Hill in Ottawa, Ontario, Canada (© f11photo/iStock/Getty Images)",
+        "copyrightKeyword": "Victoria Day",
         "hsh": "4f65b631e454bc4842f8bb6d3d7f7e7e"
     },
     {
@@ -701,6 +788,7 @@
         "url": "https://www.bing.com/th?id=OHR.VernazzaItaly_EN-CA4571085041_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.VernazzaItaly_EN-CA4571085041",
         "copyright": "Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)",
+        "copyrightKeyword": "Vernazza Liguria",
         "hsh": "c756bc0c229ab93512fca2b53e172ff2"
     },
     {
@@ -709,6 +797,7 @@
         "url": "https://www.bing.com/th?id=OHR.MuseumWhale_EN-CA4260843358_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumWhale_EN-CA4260843358",
         "copyright": "Blue whale skeleton named Hope, Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)",
+        "copyrightKeyword": "International Museum Day",
         "hsh": "815b7cc75fd08c538dadcf40809d972e"
     },
     {
@@ -717,6 +806,7 @@
         "url": "https://www.bing.com/th?id=OHR.TarangireElephants_EN-CA3710985340_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TarangireElephants_EN-CA3710985340",
         "copyright": "A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightKeyword": "Endangered Species",
         "hsh": "1042e6a60e707b0ce5aa519061525f09"
     },
     {
@@ -725,6 +815,7 @@
         "url": "https://www.bing.com/th?id=OHR.DayOfLight_EN-CA8566531785_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DayOfLight_EN-CA8566531785",
         "copyright": "'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)",
+        "copyrightKeyword": "International day of light",
         "hsh": "2f770f172a84f24cde9cc34d718b070c"
     },
     {
@@ -733,6 +824,7 @@
         "url": "https://www.bing.com/th?id=OHR.BlueCityIndia_EN-CA8486097428_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BlueCityIndia_EN-CA8486097428",
         "copyright": "The Blue City of Jodhpur, India (© cinoby/Getty Images)",
+        "copyrightKeyword": "Jodhpur India",
         "hsh": "e65815f3cb25718dd6b643cc7c58321c"
     },
     {
@@ -741,6 +833,7 @@
         "url": "https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629",
         "copyright": "Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)",
+        "copyrightKeyword": "Carlsbad Caverns New Mexico",
         "hsh": "6abca3efd69f6e7e85b07522d148df57"
     },
     {
@@ -749,6 +842,7 @@
         "url": "https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-CA8189857469_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-CA8189857469",
         "copyright": "Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)",
+        "copyrightKeyword": "Fish River Canyon Namibia",
         "hsh": "1cadaee959ed59d2ebaead939306107b"
     },
     {
@@ -757,6 +851,7 @@
         "url": "https://www.bing.com/th?id=OHR.GuanacoMother_EN-CA8019143520_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GuanacoMother_EN-CA8019143520",
         "copyright": "Guanaco female and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)",
+        "copyrightKeyword": "Mothers Day",
         "hsh": "8a01c2f58efcc5d2e8926598184a1651"
     },
     {
@@ -765,6 +860,7 @@
         "url": "https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-CA7787624714_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-CA7787624714",
         "copyright": "An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)",
+        "copyrightKeyword": "Indigo bunting",
         "hsh": "b4d28761486495f21d67245f98380a5a"
     },
     {
@@ -773,6 +869,7 @@
         "url": "https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019",
         "copyright": "Tulips in front of the Parliament Buildings during the Tulip Festival in Ottawa (© Danielle Donders/Moment/Getty Images)",
+        "copyrightKeyword": "Canadian Tulip Festival Ottawa",
         "hsh": "1ebf542a481f226e2b5ef3fcc31c505c"
     },
     {
@@ -781,6 +878,7 @@
         "url": "https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-CA9137654877_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-CA9137654877",
         "copyright": "Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)",
+        "copyrightKeyword": "Raja Ampat Islands",
         "hsh": "848abcd5e8ae812f78b4d0038b824370"
     },
     {
@@ -789,6 +887,7 @@
         "url": "https://www.bing.com/th?id=OHR.PortMarseille_EN-CA7163664407_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PortMarseille_EN-CA7163664407",
         "copyright": "View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)",
+        "copyrightKeyword": "Olympic flame",
         "hsh": "8638c6180f2f3e08b9ef7c8afdf8310e"
     },
     {
@@ -797,6 +896,7 @@
         "url": "https://www.bing.com/th?id=OHR.LittleDuckling_EN-CA7068019573_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LittleDuckling_EN-CA7068019573",
         "copyright": "A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)",
+        "copyrightKeyword": "Duck bird",
         "hsh": "d8466357c8116cd9c51c10505ec6d540"
     },
     {
@@ -805,6 +905,7 @@
         "url": "https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-CA6826651517",
         "copyright": "The Roaches, Peak District, England (© George W Johnson/Getty Images)",
+        "copyrightKeyword": "The Roaches Ridge",
         "hsh": "57b2ffe0c022b2c47f8a6f8a946657d1"
     },
     {
@@ -813,6 +914,7 @@
         "url": "https://www.bing.com/th?id=OHR.KalalochTree_EN-CA6384901158_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KalalochTree_EN-CA6384901158",
         "copyright": "Kalaloch Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)",
+        "copyrightKeyword": "Olympic National Park",
         "hsh": "0dfe9a79cfedf28f13b10ea294517c23"
     },
     {
@@ -821,6 +923,7 @@
         "url": "https://www.bing.com/th?id=OHR.JediMonastery_EN-CA6236895858_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JediMonastery_EN-CA6236895858",
         "copyright": "The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)",
+        "copyrightKeyword": "Star Wars Day",
         "hsh": "26bbb9c7dd243f314b7d536bb7fea6a2"
     },
     {
@@ -829,6 +932,7 @@
         "url": "https://www.bing.com/th?id=OHR.SonoranSpring_EN-CA6106582512_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SonoranSpring_EN-CA6106582512",
         "copyright": "Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)",
+        "copyrightKeyword": "The Sonoran Desert",
         "hsh": "0e6ec6ead28bd827606e2c2d2ee37057"
     },
     {
@@ -837,6 +941,7 @@
         "url": "https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-CA2219988525_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-CA2219988525",
         "copyright": "Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)",
+        "copyrightKeyword": "Craters of the Moon National Monument and Preserve",
         "hsh": "578fd7e0fdd061597f6452ceba371c0e"
     },
     {
@@ -845,6 +950,7 @@
         "url": "https://www.bing.com/th?id=OHR.HawaiianLei_EN-CA1761631119_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HawaiianLei_EN-CA1761631119",
         "copyright": "Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)",
+        "copyrightKeyword": "Lei Day",
         "hsh": "ea1eb3321858f4dba900858f2bae0738"
     },
     {
@@ -853,6 +959,7 @@
         "url": "https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998",
         "copyright": "Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)",
+        "copyrightKeyword": "Cheetah",
         "hsh": "9afbf954c1d40aa476cbbaa839bcbbee"
     },
     {
@@ -861,6 +968,7 @@
         "url": "https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390",
         "copyright": "Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)",
+        "copyrightKeyword": "Fujian Tulou",
         "hsh": "3be910b908b2861a2459477b61beef0a"
     },
     {
@@ -869,6 +977,7 @@
         "url": "https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190",
         "copyright": "El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)",
+        "copyrightKeyword": "Guadalupe Mountains National Park",
         "hsh": "660dab4cf7f28da5df2469fc9ad3e5a2"
     },
     {
@@ -877,6 +986,7 @@
         "url": "https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-CA9003598564_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-CA9003598564",
         "copyright": "Leucistic Anna's hummingbird in the Australia Garden, UCSC Arboretum, Santa Cruz, California (© yhelfman/Getty Images)",
+        "copyrightKeyword": "Leucistic Annas Hummingbird",
         "hsh": "31d11eec8cbb002c20a54b097afb87c7"
     },
     {
@@ -885,6 +995,7 @@
         "url": "https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931",
         "copyright": "Villnöß with the Dolomites in the background, South Tyrol, Italy (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "Villnöß",
         "hsh": "9926826e1d7fc93d4e02bff739391a99"
     },
     {
@@ -893,6 +1004,7 @@
         "url": "https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339",
         "copyright": "Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)",
+        "copyrightKeyword": "World Penguin Day",
         "hsh": "f728bedbdd831db9d2a7cf641435a3a3"
     },
     {
@@ -901,6 +1013,7 @@
         "url": "https://www.bing.com/th?id=OHR.TrilliumOntario_EN-CA6497010654_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TrilliumOntario_EN-CA6497010654",
         "copyright": "White trillium blooming in Ontario, Canada (© Jun Zhang/Getty Images)",
+        "copyrightKeyword": "White trillium",
         "hsh": "18e8664753f1fd920d6fab3c6158cd5b"
     },
     {
@@ -909,6 +1022,7 @@
         "url": "https://www.bing.com/th?id=OHR.TrinityDublin_EN-CA0477262723_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TrinityDublin_EN-CA0477262723",
         "copyright": "Library of Trinity College Dublin, Ireland (© Vincent Isore/Getty Images)",
+        "copyrightKeyword": "World Book and Copyright Day",
         "hsh": "ff7119cc76afe21224511fccb1e91807"
     },
     {
@@ -917,6 +1031,7 @@
         "url": "https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096",
         "copyright": "Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)",
+        "copyrightKeyword": "Earth Day 2024",
         "hsh": "39cba6f1f8f838d6ed2d553efa3566ee"
     },
     {
@@ -925,6 +1040,7 @@
         "url": "https://www.bing.com/th?id=OHR.CadesCove_EN-CA1410633031_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CadesCove_EN-CA1410633031",
         "copyright": "Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)",
+        "copyrightKeyword": "Great Smoky Mountains National Park",
         "hsh": "cabb76a05d87c81fdc7099aa2ba59471"
     },
     {
@@ -933,6 +1049,7 @@
         "url": "https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-CA9905041975_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-CA9905041975",
         "copyright": "Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)",
+        "copyrightKeyword": "Grand Prismatic Spring",
         "hsh": "80e733e448b50dc27ca189ec91b370af"
     },
     {
@@ -941,6 +1058,7 @@
         "url": "https://www.bing.com/th?id=OHR.OrkneyStones_EN-CA6136487173_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OrkneyStones_EN-CA6136487173",
         "copyright": "The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)",
+        "copyrightKeyword": "Ring of Brodgar",
         "hsh": "b7d83d3e83581eb275a12023b1f8bd8b"
     },
     {
@@ -949,6 +1067,7 @@
         "url": "https://www.bing.com/th?id=OHR.AvilaSpain_EN-CA7098844997_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AvilaSpain_EN-CA7098844997",
         "copyright": "Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)",
+        "copyrightKeyword": "International Day for Monuments and Sites",
         "hsh": "e8a48aa09d75f115a24261e933028dff"
     },
     {
@@ -957,6 +1076,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpringCub_EN-CA6557081564_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpringCub_EN-CA6557081564",
         "copyright": "American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)",
+        "copyrightKeyword": "American black bear",
         "hsh": "1e060fcbceb2493941d75475892688c0"
     },
     {
@@ -965,6 +1085,7 @@
         "url": "https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-CA5985691917_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-CA5985691917",
         "copyright": "Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)",
+        "copyrightKeyword": "Union Square Manhattan",
         "hsh": "396782696c91dadcb66d333e83c54ae7"
     },
     {
@@ -973,6 +1094,7 @@
         "url": "https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869",
         "copyright": "The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)",
+        "copyrightKeyword": "World Art Day",
         "hsh": "b7ac5aee485524a408ea2ebc1e48a0c2"
     },
     {
@@ -981,6 +1103,7 @@
         "url": "https://www.bing.com/th?id=OHR.BowlingBallCali_EN-CA4907440607_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BowlingBallCali_EN-CA4907440607",
         "copyright": "Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)",
+        "copyrightKeyword": "Bowling Ball Beach",
         "hsh": "a583c0afdd59b2ac05f2317e3927a33c"
     },
     {
@@ -989,6 +1112,7 @@
         "url": "https://www.bing.com/th?id=OHR.SakuraDaysJapanFair_EN-CA3687472576_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SakuraDaysJapanFair_EN-CA3687472576",
         "copyright": "Cherry blossoms in Queen Elizabeth Park, Vancouver (© Yun Han Xu/Moment Open/Getty Images)",
+        "copyrightKeyword": "Queen Elizabeth Park Vancouver",
         "hsh": "f39567dae921aa342bf63173daf18630"
     },
     {
@@ -997,6 +1121,7 @@
         "url": "https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130",
         "copyright": "Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)",
+        "copyrightKeyword": "Arches National Park",
         "hsh": "4e6eb27f6caecf2a5219562fcdcb1d93"
     },
     {
@@ -1005,6 +1130,7 @@
         "url": "https://www.bing.com/th?id=OHR.DragonWaterfall_EN-CA2526860272_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DragonWaterfall_EN-CA2526860272",
         "copyright": "Aerial view of Churun-Meru (Dragon) waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightKeyword": "Angel falls Venezuela",
         "hsh": "b433b3d2c7f3465dd7d8d33e092bfec5"
     },
     {
@@ -1013,6 +1139,7 @@
         "url": "https://www.bing.com/th?id=OHR.OwlSiblings_EN-CA1132160372_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.OwlSiblings_EN-CA1132160372",
         "copyright": "Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)",
+        "copyrightKeyword": "Siblings Day",
         "hsh": "72ac58896933f4389f38ffc5521ae356"
     },
     {
@@ -1021,6 +1148,7 @@
         "url": "https://www.bing.com/th?id=OHR.WhistlerWSSF_EN-CA2290953999_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WhistlerWSSF_EN-CA2290953999",
         "copyright": "Whistler Mountain in the creekside of Whistler (© Insight Photography/Design Pics/Getty Images)",
+        "copyrightKeyword": "Whistler Mountain",
         "hsh": "2882e37a81b1bee01df99a04467553ee"
     },
     {
@@ -1029,6 +1157,7 @@
         "url": "https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136",
         "copyright": "Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)",
+        "copyrightKeyword": "Solar Eclipse",
         "hsh": "5a36c0afb85aa3b28bbfdda1d749ee5f"
     },
     {
@@ -1037,6 +1166,7 @@
         "url": "https://www.bing.com/th?id=OHR.BeaverDenali_EN-CA6851108390_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BeaverDenali_EN-CA6851108390",
         "copyright": "North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)",
+        "copyrightKeyword": "International Beaver Day",
         "hsh": "3222c52aff52217b8806b81846d0285a"
     },
     {
@@ -1045,6 +1175,7 @@
         "url": "https://www.bing.com/th?id=OHR.JapanHimeji_EN-CA9913265473_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JapanHimeji_EN-CA9913265473",
         "copyright": "Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)",
+        "copyrightKeyword": "Himeji Castle Japan",
         "hsh": "af801d6c42a13408f2531065134ab325"
     },
     {
@@ -1053,6 +1184,7 @@
         "url": "https://www.bing.com/th?id=OHR.BahamasSpace_EN-CA5271585501_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BahamasSpace_EN-CA5271585501",
         "copyright": "The Bahamas photographed from the International Space Station (© NASA)",
+        "copyrightKeyword": "The Bahamas",
         "hsh": "9d95ec9b342971e3cb51d2ce3b79bebc"
     },
     {
@@ -1061,6 +1193,7 @@
         "url": "https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-CA1764175316_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-CA1764175316",
         "copyright": "Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightKeyword": "Lechwe",
         "hsh": "512e6d693f85f6bdd11cc282cf2b17bd"
     },
     {
@@ -1069,6 +1202,7 @@
         "url": "https://www.bing.com/th?id=OHR.PacificRimNationalPark_EN-CA1275623465_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PacificRimNationalPark_EN-CA1275623465",
         "copyright": "Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia (© Ron Watts/Design Pics/Getty Images)",
+        "copyrightKeyword": "Pacific Rim National Park Reserve",
         "hsh": "168115da069137109ca2880b70a9f3f5"
     },
     {
@@ -1077,6 +1211,7 @@
         "url": "https://www.bing.com/th?id=OHR.JutlandSpring_EN-CA0874464539_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JutlandSpring_EN-CA0874464539",
         "copyright": "Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)",
+        "copyrightKeyword": " Jutland Denmark",
         "hsh": "37e7ac32e3d442367e18b3422cab34d5"
     },
     {
@@ -1085,6 +1220,7 @@
         "url": "https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-CA0548986466_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-CA0548986466",
         "copyright": "'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)",
+        "copyrightKeyword": "April Fools Day",
         "hsh": "a8a7a8561d34c059739f2cba6a45d767"
     },
     {
@@ -1093,6 +1229,7 @@
         "url": "https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588",
         "copyright": "Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)",
+        "copyrightKeyword": "Easter weekend",
         "hsh": "94315f794feb25c9a0ce86d21d258c2a"
     },
     {
@@ -1101,6 +1238,7 @@
         "url": "https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433",
         "copyright": "Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightKeyword": "Brown throated three toed sloth",
         "hsh": "5304a6bdce60ed4032e74dd088bba767"
     },
     {
@@ -1109,6 +1247,7 @@
         "url": "https://www.bing.com/th?id=OHR.SouthStackLight_EN-CA7056549595_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SouthStackLight_EN-CA7056549595",
         "copyright": "South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)",
+        "copyrightKeyword": "South Stack Lighthouse",
         "hsh": "910c15319cdd6e96dc05acd2649cfcb7"
     },
     {
@@ -1117,6 +1256,7 @@
         "url": "https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745",
         "copyright": "Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)",
+        "copyrightKeyword": "Cherry blossom",
         "hsh": "7ee93327372b91e540d442c3cc5fc075"
     },
     {
@@ -1125,6 +1265,7 @@
         "url": "https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861",
         "copyright": "Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)",
+        "copyrightKeyword": "World Theatre Day",
         "hsh": "b6edaa2e1e6c0916942bf151f4afab85"
     },
     {
@@ -1133,6 +1274,7 @@
         "url": "https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-CA5331953765_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-CA5331953765",
         "copyright": "Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)",
+        "copyrightKeyword": "Hang Rai Cave",
         "hsh": "60a612997d1eab1d4b3b8e4a1999be67"
     },
     {
@@ -1141,6 +1283,7 @@
         "url": "https://www.bing.com/th?id=OHR.ColorfulHoli_EN-CA4586969756_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ColorfulHoli_EN-CA4586969756",
         "copyright": "Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)",
+        "copyrightKeyword": "Holi",
         "hsh": "d5bf54dda6a7bff0285ec9465076aa2e"
     },
     {
@@ -1149,6 +1292,7 @@
         "url": "https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130",
         "copyright": "Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)",
+        "copyrightKeyword": "Silvereye birds",
         "hsh": "54c9d82e3afd7285b3d933b2944896cb"
     },
     {
@@ -1157,6 +1301,7 @@
         "url": "https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208",
         "copyright": "Large anvil clouds above the Amazon in Brazil (© NASA)",
+        "copyrightKeyword": "World Meteorological Day",
         "hsh": "6c4687dc3241d7eeeade7e06bfb8ad9d"
     },
     {
@@ -1165,6 +1310,7 @@
         "url": "https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886",
         "copyright": "Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)",
+        "copyrightKeyword": "World Water Day",
         "hsh": "132ec29091fd90457d853cde117854d5"
     },
     {
@@ -1173,6 +1319,7 @@
         "url": "https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-CA3766951907_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-CA3766951907",
         "copyright": "Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)",
+        "copyrightKeyword": "International Day of Forests",
         "hsh": "886be085f2c82644abaa2e29292329d7"
     },
     {
@@ -1181,6 +1328,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpringCaveDale_EN-CA2754665353_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpringCaveDale_EN-CA2754665353",
         "copyright": "Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy)",
+        "copyrightKeyword": "Peveril Castle",
         "hsh": "af1e752611d4e92c9b68f10188cc0c81"
     },
     {
@@ -1189,6 +1337,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpringFrog_EN-CA2338821027_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpringFrog_EN-CA2338821027",
         "copyright": "Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)",
+        "copyrightKeyword": "Spring equinox",
         "hsh": "b972a605648fc896e575730ed23b417a"
     },
     {
@@ -1197,6 +1346,7 @@
         "url": "https://www.bing.com/th?id=OHR.ElephantRock_EN-CA1969254350_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantRock_EN-CA1969254350",
         "copyright": "Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)",
+        "copyrightKeyword": "Al Ula",
         "hsh": "383b1b4a395270629561aa75441d71e2"
     },
     {
@@ -1205,6 +1355,7 @@
         "url": "https://www.bing.com/th?id=OHR.StFiniansBay_EN-CA8128380530_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.StFiniansBay_EN-CA8128380530",
         "copyright": "St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)",
+        "copyrightKeyword": "St Patricks Day",
         "hsh": "2f24ec8ab25585ddc10383e6690e42a5"
     },
     {
@@ -1213,6 +1364,7 @@
         "url": "https://www.bing.com/th?id=OHR.BambooPanda_EN-CA7469688452_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BambooPanda_EN-CA7469688452",
         "copyright": "Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightKeyword": "Giant panda",
         "hsh": "38c7c882794575bcf00ccd9c2b6bd829"
     },
     {
@@ -1221,6 +1373,7 @@
         "url": "https://www.bing.com/th?id=OHR.TulipAbbotsford_EN-CA8463194179_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TulipAbbotsford_EN-CA8463194179",
         "copyright": "Colourful tulip fields in Fraser Valley, Abbotsford, BC, Canada (© LeonU/Getty Images)",
+        "copyrightKeyword": "Abbotsford British Columbia",
         "hsh": "be4d3f77f73f6a697a1e798e2f0a6dd3"
     },
     {
@@ -1229,6 +1382,7 @@
         "url": "https://www.bing.com/th?id=OHR.AyutthayaTree_EN-CA7341157054_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AyutthayaTree_EN-CA7341157054",
         "copyright": "Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)",
+        "copyrightKeyword": "Pi Day",
         "hsh": "7d58c33c66430423cf895d55bc14d5a4"
     },
     {
@@ -1237,6 +1391,7 @@
         "url": "https://www.bing.com/th?id=OHR.MagadiFlamingos_EN-CA6539676228_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MagadiFlamingos_EN-CA6539676228",
         "copyright": "Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightKeyword": "Lesser flamingo",
         "hsh": "2b432bfacd381f3bc5482b1af2a82797"
     },
     {
@@ -1245,6 +1400,7 @@
         "url": "https://www.bing.com/th?id=OHR.BryceSnow_EN-CA5813093812_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BryceSnow_EN-CA5813093812",
         "copyright": "Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightKeyword": "Bryce Canyon National Park",
         "hsh": "5b1d15fdba727e79056960b206596bdc"
     },
     {
@@ -1253,6 +1409,7 @@
         "url": "https://www.bing.com/th?id=OHR.SleepyKoala_EN-CA5375269205_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SleepyKoala_EN-CA5375269205",
         "copyright": "A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)",
+        "copyrightKeyword": "Koala",
         "hsh": "8b9402c11e476a020cff3bec081dc652"
     },
     {
@@ -1261,6 +1418,7 @@
         "url": "https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864",
         "copyright": "San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)",
+        "copyrightKeyword": "Daylight saving",
         "hsh": "17602b85bd575ed800317d1a4a352534"
     },
     {
@@ -1269,6 +1427,7 @@
         "url": "https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BistiBlue_EN-CA4421892310",
         "copyright": "Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightKeyword": "Bisti De-Na-Zin Wilderness New Mexico",
         "hsh": "d347ae5d41d1965d75c839bfa72e5e1e"
     },
     {
@@ -1277,6 +1436,7 @@
         "url": "https://www.bing.com/th?id=OHR.TateLightUp_EN-CA4364910189_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TateLightUp_EN-CA4364910189",
         "copyright": "Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)",
+        "copyrightKeyword": "International Women's Day",
         "hsh": "b26d7bc8ccda2c38eda3bcb4f8947832"
     },
     {
@@ -1285,6 +1445,7 @@
         "url": "https://www.bing.com/th?id=OHR.TarragonaSpain_EN-CA0184990294_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TarragonaSpain_EN-CA0184990294",
         "copyright": "Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)",
+        "copyrightKeyword": "Roques de Benet rocks Spain",
         "hsh": "e5fa8f136146adcce8f49b8f6571ea7b"
     },
     {
@@ -1293,6 +1454,7 @@
         "url": "https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WahclellaFalls_EN-CA9749764776",
         "copyright": "Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)",
+        "copyrightKeyword": "Wahclella Falls Oregon",
         "hsh": "3b6ca11079b93e9c33df733bac19b53f"
     },
     {
@@ -1301,6 +1463,7 @@
         "url": "https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BangkokCircle_EN-CA9121846654",
         "copyright": "Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)",
+        "copyrightKeyword": "Bangkok",
         "hsh": "662f0923da5abe50bff5aa2093b082ba"
     },
     {
@@ -1309,6 +1472,7 @@
         "url": "https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-CA8547140342_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-CA8547140342",
         "copyright": "Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+        "copyrightKeyword": "Arenal Volcano",
         "hsh": "9a673c97a2965066a6c465c6d92f6015"
     },
     {
@@ -1317,6 +1481,7 @@
         "url": "https://www.bing.com/th?id=OHR.KrugerLeopard_EN-CA0192962023_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KrugerLeopard_EN-CA0192962023",
         "copyright": "Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)",
+        "copyrightKeyword": "World Wildlife Day",
         "hsh": "4f877f38e9bfc521744959eff6c5c330"
     },
     {
@@ -1325,6 +1490,7 @@
         "url": "https://www.bing.com/th?id=OHR.ModicaItaly_EN-CA9502115177_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ModicaItaly_EN-CA9502115177",
         "copyright": "Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)",
+        "copyrightKeyword": "Modica Sicily Italy",
         "hsh": "58dea98af3d80ec6aed847a0ab4c3620"
     },
     {
@@ -1333,6 +1499,7 @@
         "url": "https://www.bing.com/th?id=OHR.WheatonRiverYukon_EN-CA9040567643_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WheatonRiverYukon_EN-CA9040567643",
         "copyright": "Sunset colours over the icy Wheaton River, Yukon, Canada (© Robert Postma/All Canada Photos/Alamy Stock Photo)",
+        "copyrightKeyword": "Yukon Territory Canada",
         "hsh": "7627db03fa2b854c35969066768d852e"
     },
     {
@@ -1341,6 +1508,7 @@
         "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692",
         "copyright": "Eurasian red squirrel (© Westend61/Getty Images)",
+        "copyrightKeyword": "Leap Day facts",
         "hsh": "dcaf09b7ab998e6ec7d9d0c8e7d0e17e"
     },
     {
@@ -1349,6 +1517,7 @@
         "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-CA8209720771_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-CA8209720771",
         "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
+        "copyrightKeyword": "Bamburgh Castle Northumberland",
         "hsh": "228e4cd0d33a620802fb5d479eca3971"
     },
     {
@@ -1357,6 +1526,7 @@
         "url": "https://www.bing.com/th?id=OHR.PolarBearCubs_EN-CA5276612628_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PolarBearCubs_EN-CA5276612628",
         "copyright": "Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)",
+        "copyrightKeyword": "Polar bear",
         "hsh": "0c075de595d0a648d0ef7efe41a9742d"
     },
     {
@@ -1365,6 +1535,7 @@
         "url": "https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-CA4125464970_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-CA4125464970",
         "copyright": "Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)",
+        "copyrightKeyword": "Grand Canyon National Park",
         "hsh": "27abd57fff2c61a4a2b636cf416e2df7"
     },
     {
@@ -1373,6 +1544,7 @@
         "url": "https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-CA3290198869_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-CA3290198869",
         "copyright": "Mist in the Cowichan Valley on Vancouver Island, British Columbia, Canada (© Kevin Oke/Alamy)",
+        "copyrightKeyword": "Cowichan Valley",
         "hsh": "ad51ab8cc90b485d7713e2fe2e7c8088"
     },
     {
@@ -1381,6 +1553,7 @@
         "url": "https://www.bing.com/th?id=OHR.AlmondBloom_EN-CA1288392326_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AlmondBloom_EN-CA1288392326",
         "copyright": "Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Almond",
         "hsh": "ee6583d9ccc35d227535572a3142b17e"
     },
     {
@@ -1389,6 +1562,7 @@
         "url": "https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-CA4755376213_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-CA4755376213",
         "copyright": "Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)",
+        "copyrightKeyword": "Haghartsin Monastery",
         "hsh": "094cef4c6b75f02cbfc9fdff5ddcff8e"
     },
     {
@@ -1397,6 +1571,7 @@
         "url": "https://www.bing.com/th?id=OHR.BrightonBoxes_EN-CA0231330528_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BrightonBoxes_EN-CA0231330528",
         "copyright": "Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)",
+        "copyrightKeyword": "Brighton Bathing boxes",
         "hsh": "3833aa930ab8625259a2582f2a7a7559"
     },
     {
@@ -1405,6 +1580,7 @@
         "url": "https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-CA1150407623_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-CA1150407623",
         "copyright": "Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)",
+        "copyrightKeyword": "Horsetail Firefall",
         "hsh": "b5db37a90c17f204699444cf849e19dc"
     },
     {
@@ -1413,6 +1589,7 @@
         "url": "https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-CA0602730401_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-CA0602730401",
         "copyright": "Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images)",
+        "copyrightKeyword": "Kinder Scout",
         "hsh": "c37795235aa9ee020b8d9085e00aaccb"
     },
     {
@@ -1421,6 +1598,7 @@
         "url": "https://www.bing.com/th?id=OHR.TajoRiver_EN-CA7817370984_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TajoRiver_EN-CA7817370984",
         "copyright": "Toledo, Spain (© Carlos Fernandez/Getty Images)",
+        "copyrightKeyword": "Toledo Spain",
         "hsh": "6cda95ce45eeb995dda8b376f033f5d4"
     },
     {
@@ -1429,6 +1607,7 @@
         "url": "https://www.bing.com/th?id=OHR.DominicaWhales_EN-CA6901378196_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DominicaWhales_EN-CA6901378196",
         "copyright": "Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)",
+        "copyrightKeyword": "Sperm Whale",
         "hsh": "e65ac9d4b66cbe34fa5b7ba57aac8363"
     },
     {
@@ -1437,6 +1616,7 @@
         "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-CA5327600383_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-CA5327600383",
         "copyright": "Sassnitz lighthouse on Rügen island, Germany (© Christian Back/eStock)",
+        "copyrightKeyword": "Sassnitz Germany",
         "hsh": "0bc737b49b6720949fff41bf6b91f298"
     },
     {
@@ -1445,6 +1625,7 @@
         "url": "https://www.bing.com/th?id=OHR.BackyardBird_EN-CA9775079263_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BackyardBird_EN-CA9775079263",
         "copyright": "Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)",
+        "copyrightKeyword": "Great Backyard Bird Count",
         "hsh": "ea9cee2f3b83263915b58bf44dfd6ceb"
     },
     {
@@ -1453,6 +1634,7 @@
         "url": "https://www.bing.com/th?id=OHR.HippopotamusDay_EN-CA3448449315_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HippopotamusDay_EN-CA3448449315",
         "copyright": "Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)",
+        "copyrightKeyword": "World Hippopotamus Day",
         "hsh": "cf7bba677c6711265b609c59ac2775a4"
     },
     {
@@ -1461,6 +1643,7 @@
         "url": "https://www.bing.com/th?id=OHR.BowingCrane_EN-CA2979553656_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BowingCrane_EN-CA2979553656",
         "copyright": "Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)",
+        "copyrightKeyword": "Valentines Day history",
         "hsh": "c1eb342b6bde0767db776d9fb59d067f"
     },
     {
@@ -1469,6 +1652,7 @@
         "url": "https://www.bing.com/th?id=OHR.MarignyBeads_EN-CA1889405550_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MarignyBeads_EN-CA1889405550",
         "copyright": "Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)",
+        "copyrightKeyword": "Mardi Gras",
         "hsh": "d10a434488be32cf8cd03758b34740d8"
     },
     {
@@ -1477,6 +1661,7 @@
         "url": "https://www.bing.com/th?id=OHR.GiantTortoise_EN-CA0647448469_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GiantTortoise_EN-CA0647448469",
         "copyright": "Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
+        "copyrightKeyword": "Galapagos Islands Ecuador",
         "hsh": "021ca49757cbeaf0654fbca18cce8533"
     },
     {
@@ -1485,6 +1670,7 @@
         "url": "https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572",
         "copyright": "Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightKeyword": "Folegandros Island Greece",
         "hsh": "e1c7c4b37ff474fbbd9e5beb4a6a073b"
     },
     {
@@ -1493,6 +1679,7 @@
         "url": "https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091",
         "copyright": "Chinese New Year Parade, Vancouver, British Columbia, Canada (© Michael Wheatley/Alamy Stock Photo)",
+        "copyrightKeyword": "Chinese New Year",
         "hsh": "de0881646c1c3a43a4396abb5854d8b2"
     },
     {
@@ -1501,6 +1688,7 @@
         "url": "https://www.bing.com/th?id=OHR.PegadungRocks_EN-CA1944880628_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PegadungRocks_EN-CA1944880628",
         "copyright": "Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)",
+        "copyrightKeyword": "Lampung Sumatra Indonesia",
         "hsh": "101a1fe38f15d3b096148444d9259081"
     },
     {
@@ -1509,6 +1697,7 @@
         "url": "https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MtHoodOregon_EN-CA4458868395",
         "copyright": "Mount Hood, Oregon (© Inigo Cia/Getty Images)",
+        "copyrightKeyword": "Mount Hood",
         "hsh": "c25ca62d6ce90f07fdb0b52dd1750f53"
     },
     {
@@ -1517,6 +1706,7 @@
         "url": "https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.StJamesPool_EN-CA4005235851",
         "copyright": "St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)",
+        "copyrightKeyword": "Cape Town",
         "hsh": "1225ccd92ebeca0f2a586814110a638b"
     },
     {
@@ -1525,6 +1715,7 @@
         "url": "https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-CA0439655696_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-CA0439655696",
         "copyright": "Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lake Tahoe",
         "hsh": "4e5921569a5f05b78fd86376887e2d46"
     },
     {
@@ -1533,6 +1724,7 @@
         "url": "https://www.bing.com/th?id=OHR.WesternMonarchs_EN-CA8984177502_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WesternMonarchs_EN-CA8984177502",
         "copyright": "Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)",
+        "copyrightKeyword": "Monarch butterflies",
         "hsh": "f975de4046e8f21631af42f46d626cec"
     },
     {
@@ -1541,6 +1733,7 @@
         "url": "https://www.bing.com/th?id=OHR.DevetashkaCave_EN-CA8463876587_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DevetashkaCave_EN-CA8463876587",
         "copyright": "Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)",
+        "copyrightKeyword": "Devetashka Cave Devetaki Bulgaria",
         "hsh": "5432c2e218de16651becde561f183804"
     },
     {
@@ -1549,6 +1742,7 @@
         "url": "https://www.bing.com/th?id=OHR.VeniceCarnival_EN-CA6952595952_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceCarnival_EN-CA6952595952",
         "copyright": "Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)",
+        "copyrightKeyword": "Carnival of Venice history",
         "hsh": "9cd01f7b35a1b973092fc94c2b1c373e"
     },
     {
@@ -1557,6 +1751,7 @@
         "url": "https://www.bing.com/th?id=OHR.AlpineMarmot_EN-CA0148441892_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineMarmot_EN-CA0148441892",
         "copyright": "Marmot peeking out of its burrow (© Scacciamosche/Getty Images)",
+        "copyrightKeyword": "Groundhog Day holiday",
         "hsh": "3002368dc3eb8bf08c1de2a4d900de8f"
     },
     {
@@ -1565,6 +1760,7 @@
         "url": "https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860",
         "copyright": "Polar bear resting in rocky landscape, Churchill, Manitoba, Canada (© Warwick Sloss/NPL/Minden Pictures)",
+        "copyrightKeyword": "Polar bear",
         "hsh": "7479182d266c40f0fb827b71a5bcfee7"
     },
     {
@@ -1573,6 +1769,7 @@
         "url": "https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638",
         "copyright": "Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)",
+        "copyrightKeyword": "Burchells zebra",
         "hsh": "84d422279949471a6f68721f4a150c30"
     },
     {
@@ -1581,6 +1778,7 @@
         "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478",
         "copyright": "Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightKeyword": "Aýna Albacete Spain",
         "hsh": "e5bc6f0dbb307bcf05d7c4b16d28c436"
     },
     {
@@ -1589,6 +1787,7 @@
         "url": "https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721",
         "copyright": "Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)",
+        "copyrightKeyword": "Salzburg federal state Austria",
         "hsh": "9d0c69b9f921112b4d500414276e4236"
     },
     {
@@ -1597,6 +1796,7 @@
         "url": "https://www.bing.com/th?id=OHR.ChannelOutback_EN-CA2352335616_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ChannelOutback_EN-CA2352335616",
         "copyright": "Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)",
+        "copyrightKeyword": "Channel Country Australia",
         "hsh": "2f79eab930b482bea2ed3061addd2ae2"
     },
     {
@@ -1605,6 +1805,7 @@
         "url": "https://www.bing.com/th?id=OHR.WinterCarnival_EN-CA1750388118_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WinterCarnival_EN-CA1750388118",
         "copyright": "Ice Palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)",
+        "copyrightKeyword": "St Paul Minnesota",
         "hsh": "6070cd02a8a4d28f2800f8dd9db333c7"
     },
     {
@@ -1613,6 +1814,7 @@
         "url": "https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188",
         "copyright": "Northern hawk-owl (© Remo Savisaar/Alamy)",
+        "copyrightKeyword": "Northern hawk owl",
         "hsh": "220cd497e90b67782d11f2204912c4f8"
     },
     {
@@ -1621,6 +1823,7 @@
         "url": "https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856",
         "copyright": "A snowy owl on the icy field, Quebec City, Canada (© Marco Pozzi Photographer/Moment/Getty Images)",
+        "copyrightKeyword": "Snowy owl",
         "hsh": "efad6eda0ad102eb2efd5c428940e74b"
     },
     {
@@ -1629,6 +1832,7 @@
         "url": "https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104",
         "copyright": "Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyrightKeyword": "Diamond Beach Iceland",
         "hsh": "fefedb7f8d17a090548de0467b6151b6"
     },
     {
@@ -1637,6 +1841,7 @@
         "url": "https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426",
         "copyright": "Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightKeyword": "Maldives",
         "hsh": "8f4dd3fa2896aa109a6e4dee593cd2fd"
     },
     {
@@ -1645,6 +1850,7 @@
         "url": "https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074",
         "copyright": "Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightKeyword": "Santa Cruz Breakwater Lighthouse",
         "hsh": "8e8078149750fc08a121521b63d636d1"
     },
     {
@@ -1653,6 +1859,7 @@
         "url": "https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-CA8803161648_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-CA8803161648",
         "copyright": "Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)",
+        "copyrightKeyword": "Eurasian Red Squirrel",
         "hsh": "4e99729ce85dbfd3b04439c8a726ad7e"
     },
     {
@@ -1661,6 +1868,7 @@
         "url": "https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-CA8464340368_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-CA8464340368",
         "copyright": "Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)",
+        "copyrightKeyword": "Macaroni Penguins",
         "hsh": "80bbf59f34b9435ee77a78ec51b99291"
     },
     {
@@ -1669,6 +1877,7 @@
         "url": "https://www.bing.com/th?id=OHR.PlitviceWinter_EN-CA8126471989_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PlitviceWinter_EN-CA8126471989",
         "copyright": "Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)",
+        "copyrightKeyword": "Plitvice lakes national park",
         "hsh": "c18f7fa944c4169ce19746ad911f2f94"
     },
     {
@@ -1677,6 +1886,7 @@
         "url": "https://www.bing.com/th?id=OHR.ParisBridge_EN-CA5986391133_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ParisBridge_EN-CA5986391133",
         "copyright": "Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)",
+        "copyrightKeyword": "Pont Alexandre III Paris",
         "hsh": "c7cb54b8b3042934d0636fa01e07b289"
     },
     {
@@ -1685,6 +1895,7 @@
         "url": "https://www.bing.com/th?id=OHR.SleepyWolf_EN-CA6144184677_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SleepyWolf_EN-CA6144184677",
         "copyright": "Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)",
+        "copyrightKeyword": "Bavarian Forest National Park",
         "hsh": "30386395251e7ee76aad7ed914a430a3"
     },
     {
@@ -1693,6 +1904,7 @@
         "url": "https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023",
         "copyright": "Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)",
+        "copyrightKeyword": "Lake Louise Banff National Park",
         "hsh": "5967461e719d6915c9aa91142c042e2b"
     },
     {
@@ -1701,6 +1913,7 @@
         "url": "https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959",
         "copyright": "Geomagnetic storm at night, Penticton, British Columbia, Canada (© DEEPOL by plainpicture/Preserved Light Photography)",
+        "copyrightKeyword": "Aurora",
         "hsh": "567458bc000db25449b49cc0b7bd8105"
     },
     {
@@ -1709,6 +1922,7 @@
         "url": "https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-CA6678796195",
         "copyright": "Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)",
+        "copyrightKeyword": "Whooper swans",
         "hsh": "11df025d98d72c6d6ea0a920757705e9"
     },
     {
@@ -1717,6 +1931,7 @@
         "url": "https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HanaHighway_EN-CA7042798392",
         "copyright": "Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)",
+        "copyrightKeyword": "Hana Highway",
         "hsh": "9e8bd63ba8ff6ecde54ca8a22bb433ee"
     },
     {
@@ -1725,6 +1940,7 @@
         "url": "https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-CA7594639923",
         "copyright": "Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)",
+        "copyrightKeyword": "Bukhansan National Park",
         "hsh": "fd88688cdc1df20eed1dc7cf76fb4194"
     },
     {
@@ -1733,6 +1949,7 @@
         "url": "https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228",
         "copyright": "Eurasian lynx in the snow (© Jan Stria/Shutterstock)",
+        "copyrightKeyword": "Eurasian lynx",
         "hsh": "7358a8c831d20d5515ffdc59a087f7a2"
     },
     {
@@ -1741,6 +1958,7 @@
         "url": "https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-CA9415025805_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-CA9415025805",
         "copyright": "Stairs on the shoreline at Mylopotamos, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)",
+        "copyrightKeyword": "Thessaly Greece",
         "hsh": "9c1d333ecbfa6bebb6c9841894fdf098"
     },
     {
@@ -1749,6 +1967,7 @@
         "url": "https://www.bing.com/th?id=OHR.BalloonDay_EN-CA0285762156_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BalloonDay_EN-CA0285762156",
         "copyright": "Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)",
+        "copyrightKeyword": "Hot air balloon",
         "hsh": "1b186b0f8ea948a8b64124b573278c3d"
     },
     {
@@ -1757,6 +1976,7 @@
         "url": "https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158",
         "copyright": "Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)",
+        "copyrightKeyword": "Bernina Pass Switzerland",
         "hsh": "1c2563f18d45da2eff4ef0c181357eac"
     },
     {
@@ -1765,6 +1985,7 @@
         "url": "https://www.bing.com/th?id=OHR.DevilsMarbles_EN-CA8561451534_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DevilsMarbles_EN-CA8561451534",
         "copyright": "Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Devils Marbles Conservation Reserve",
         "hsh": "ae6f05aeac0f8a675c4f87022cbcd9b6"
     },
     {
@@ -1773,6 +1994,7 @@
         "url": "https://www.bing.com/th?id=OHR.VermilionLakesCA_EN-CA5785272161_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.VermilionLakesCA_EN-CA5785272161",
         "copyright": "Vermilion Lakes, Banff, Canada (© Carlos Fernandez/Moment/Getty Images)",
+        "copyrightKeyword": "Vermilion Lakes Banff",
         "hsh": "4fb1e95a41f06592fa5c962d9beae1c7"
     },
     {
@@ -1781,6 +2003,7 @@
         "url": "https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632",
         "copyright": "International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)",
+        "copyrightKeyword": "Harbin International Ice and Snow Sculpture festival ",
         "hsh": "40b1a14648bb1be5b34455dc7990ab55"
     },
     {
@@ -1789,6 +2012,7 @@
         "url": "https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958",
         "copyright": "Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightKeyword": "Golden Gate Bridge",
         "hsh": "184c744d58f4f413d251d8f1f245ff94"
     },
     {
@@ -1797,6 +2021,7 @@
         "url": "https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BodleianCeiling_EN-CA4231401380",
         "copyright": "Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)",
+        "copyrightKeyword": "J.R.R. Tolkien Day",
         "hsh": "b56a1a149fea6c36e85bce880f88e98e"
     },
     {
@@ -1805,6 +2030,7 @@
         "url": "https://www.bing.com/th?id=OHR.BhutanSolstice_EN-CA3332703739_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BhutanSolstice_EN-CA3332703739",
         "copyright": "Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)",
+        "copyrightKeyword": "Phobjikha Valley Bhutan",
         "hsh": "14a57a849446a4e32fad09925971d052"
     },
     {
@@ -1813,6 +2039,7 @@
         "url": "https://www.bing.com/th?id=OHR.SleepingFox_EN-CA4697579541_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SleepingFox_EN-CA4697579541",
         "copyright": "Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)",
+        "copyrightKeyword": "New Years Day",
         "hsh": "6920b6ae3372d9dc407a842a0963ced6"
     },
     {
@@ -1821,6 +2048,7 @@
         "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_EN-CA2541480849_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ThailandNewYears_EN-CA2541480849",
         "copyright": "Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
+        "copyrightKeyword": "New Years Eve",
         "hsh": "3196fb2ccde2aaea5362345ffd04695c"
     }
 ]

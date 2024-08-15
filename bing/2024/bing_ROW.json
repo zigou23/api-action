@@ -1,10 +1,20 @@
 [
     {
+        "fullstartdate": "202408150700",
+        "date": "20240816",
+        "url": "https://www.bing.com/th?id=OHR.HangCave_ROW2044632958_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_ROW2044632958",
+        "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
+        "copyrightKeyword": "Hang Son Doong Vietnam",
+        "hsh": "84f0366dddda0439c576f31755ac261e"
+    },
+    {
         "fullstartdate": "202408140700",
         "date": "20240815",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_ROW1623450590_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_ROW1623450590",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Thorny devil",
         "hsh": "afebf4ce5c45227dc42e009449e70079"
     },
     {
@@ -13,6 +23,7 @@
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_ROW1482296845_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_ROW1482296845",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Telascica Nature Park",
         "hsh": "b1e6b094dff2ff7bc7f289f60bdb1732"
     },
     {
@@ -21,6 +32,7 @@
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "elephant ",
         "hsh": "532cf80c2e6b3626b1591073fbd88b86"
     },
     {
@@ -29,6 +41,7 @@
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
+        "copyrightKeyword": "Kennedy Lake Vancouver Island",
         "hsh": "29f8aac30ad00abd724a6127ac681820"
     },
     {
@@ -37,6 +50,7 @@
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Joshua Tree National Park",
         "hsh": "304a9eced746971d767bc15365e71b0f"
     },
     {
@@ -45,6 +59,7 @@
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054",
         "copyright": "Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)",
+        "copyrightKeyword": "Sacsayhuamán",
         "hsh": "d9455e0db27e99a935536c0e0f44ebd6"
     },
     {
@@ -53,6 +68,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888",
         "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
+        "copyrightKeyword": "Spotted owlet",
         "hsh": "33db0f2a0898e926a980a694fa754960"
     },
     {
@@ -61,6 +77,7 @@
         "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690",
         "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
+        "copyrightKeyword": "St. Joseph North Pier Inner and Outer Lights",
         "hsh": "48b686fc3e19384f0bf6e46e0d5634e5"
     },
     {
@@ -69,6 +86,7 @@
         "url": "https://www.bing.com/th?id=OHR.MolokiniHawaii_ROW6862198585_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_ROW6862198585",
         "copyright": "Molokini, Maui, Hawaii (© Douglas Peebles/eStock Photo)",
+        "copyrightKeyword": "Molokini crater ",
         "hsh": "9a9e6240cd64f66a6c55cc451e7c7875"
     },
     {
@@ -77,6 +95,7 @@
         "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_ROW6696300267_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_ROW6696300267",
         "copyright": "Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)",
+        "copyrightKeyword": "Lavender",
         "hsh": "7c266443b26b2b9f7d6f269d0c6f048a"
     },
     {
@@ -85,6 +104,7 @@
         "url": "https://www.bing.com/th?id=OHR.ImpalaOxpecker_ROW5017616642_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ImpalaOxpecker_ROW5017616642",
         "copyright": "Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)",
+        "copyrightKeyword": "Impala animal",
         "hsh": "0f9b17a35f26d609afa8fe76182d8876"
     },
     {
@@ -93,6 +113,7 @@
         "url": "https://www.bing.com/th?id=OHR.WulongKarst_ROW4842931095_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WulongKarst_ROW4842931095",
         "copyright": "Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)",
+        "copyrightKeyword": "Three Natural Bridges Wulong Karst",
         "hsh": "392ca9423a9df3bf1f1d1f1e003e2387"
     },
     {
@@ -101,6 +122,7 @@
         "url": "https://www.bing.com/th?id=OHR.SaintFrancois_ROW4592386961_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SaintFrancois_ROW4592386961",
         "copyright": "Sunset over Anse Champagne beach in Saint-François, Guadeloupe, Caribbean (© Fyletto/Getty Images)",
+        "copyrightKeyword": "Saint-François Guadeloupe",
         "hsh": "a687db4d9aefc0c60d9a100ebc18731f"
     },
     {
@@ -109,6 +131,7 @@
         "url": "https://www.bing.com/th?id=OHR.KaptaiLake_ROW4385548420_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KaptaiLake_ROW4385548420",
         "copyright": "Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightKeyword": "Kaptai Lake Rangamati Bangladesh",
         "hsh": "56eda0988608ac3f0d35e77bcdf820a8"
     },
     {

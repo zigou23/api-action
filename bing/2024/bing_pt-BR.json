@@ -1,10 +1,20 @@
 [
     {
+        "fullstartdate": "202408150300",
+        "date": "20240816",
+        "url": "https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649",
+        "copyright": "Caverna Hang Sơn Đoòng, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Geng Xu/Getty Images)",
+        "copyrightKeyword": "Sơn Đoòng Vietnã",
+        "hsh": "2166e8054f88f7be5d409bca6d9e955b"
+    },
+    {
         "fullstartdate": "202408140300",
         "date": "20240815",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741",
         "copyright": "Diabo-espinhoso, Parque Nacional de Watarrka, Austrália (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Diabo-espinhoso",
         "hsh": "f7461ad5966e1a340c8da5ef81b8030f"
     },
     {
@@ -13,6 +23,7 @@
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_PT-BR3949170501_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_PT-BR3949170501",
         "copyright": "Penhascos do Parque Natural Telašćica, Ilha Dugi Otok, Croácia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Parque Natural Telašćica",
         "hsh": "81e46fe1ca969e5f5ffafe15d2ccbf72"
     },
     {
@@ -21,6 +32,7 @@
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_PT-BR3607711073_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_PT-BR3607711073",
         "copyright": "Elefantes africanos, Parque Nacional Amboseli, Quênia (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "Dia Mundial do Elefante",
         "hsh": "a96640862c91d07ae429872a7a5506da"
     },
     {
@@ -29,6 +41,7 @@
         "url": "https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907",
         "copyright": "Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)",
+        "copyrightKeyword": "dia dos pais",
         "hsh": "cb6ef1d8d5d119370754f3e99ee1ac25"
     },
     {
@@ -37,6 +50,7 @@
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592",
         "copyright": "Parque Nacional de Joshua Tree, Califórnia, EUA (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Parque Nacional de Joshua Tree",
         "hsh": "3efcbacfe20d35dbe73380e9f643e8e2"
     },
     {
@@ -45,6 +59,7 @@
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_PT-BR4364071618_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_PT-BR4364071618",
         "copyright": "Ruína inca de Sacsayhuamán, perto de Cusco, Peru (© SL_Photography/Getty Images)",
+        "copyrightKeyword": "Dia Internacional dos Povos Indígenas",
         "hsh": "e783021629d47e1bc013447fe120f538"
     },
     {
@@ -53,6 +68,7 @@
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_PT-BR0320206589_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_PT-BR0320206589",
         "copyright": "Coruja-pintada, Bangcoc, Tailândia (© Tfilm/Getty Images)",
+        "copyrightKeyword": "Coruja-pintada",
         "hsh": "9d3ffddf80dcd65860f18d7726adb65d"
     },
     {
@@ -61,6 +77,7 @@
         "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_PT-BR0055198491_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_PT-BR0055198491",
         "copyright": "Faróis de St. Joseph, Michigan, EUA (© Kenneth Keifer/Getty Images)",
+        "copyrightKeyword": "Faróis de St. Joseph",
         "hsh": "57eca9c129fd433a770c74178106e22f"
     },
     {
@@ -69,6 +86,7 @@
         "url": "https://www.bing.com/th?id=OHR.MolokiniHawaii_PT-BR9827408111_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.MolokiniHawaii_PT-BR9827408111",
         "copyright": "Molokini, Maui, Havaí, EUA (© Douglas Peebles/eStock Photo)",
+        "copyrightKeyword": "Cratera Molokini",
         "hsh": "2fc0760127a8e5367f6dd075e7572a40"
     },
     {
@@ -77,6 +95,7 @@
         "url": "https://www.bing.com/th?id=OHR.HertfordshireLavender_PT-BR9531166050_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HertfordshireLavender_PT-BR9531166050",
         "copyright": "Campo de lavanda, Hertfordshire, Inglaterra, Reino Unido (© George W Johnson/Getty Images)",
+        "copyrightKeyword": "Lavanda",
         "hsh": "f421a4bfbf8e44af3aaf4ae6b1fce17f"
     },
     {
@@ -85,6 +104,7 @@
         "url": "https://www.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069",
         "copyright": "Diversos Preguiças-de-três-dedos, Amazônia, Brasil (© Gerald & Marc/Superstock)",
+        "copyrightKeyword": "Bicho-preguiça de três dedos",
         "hsh": "9e0b2d52409335123ab65e638f04a1a6"
     },
     {
@@ -93,6 +113,7 @@
         "url": "https://www.bing.com/th?id=OHR.WulongKarst_PT-BR9259543869_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WulongKarst_PT-BR9259543869",
         "copyright": "As três pontes naturais, Parque Nacional de Geologia Wulong Karst, China (© Pav-Pro Photography Ltd/Shutterstock)",
+        "copyrightKeyword": "Três pontes naturais Wulong Karst",
         "hsh": "38294a69cab21e989bfed905c4eba6df"
     },
     {
@@ -101,6 +122,7 @@
         "url": "https://www.bing.com/th?id=OHR.TrunkBay_PT-BR8573788345_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TrunkBay_PT-BR8573788345",
         "copyright": "Baía do Tronco, Parque Nacional das Ilhas Virgens, Saint John, EUA (© cdwheatley/Getty Images)",
+        "copyrightKeyword": "Parque Nacional das Ilhas Virgens Saint John",
         "hsh": "8b3d78f265beb668bd928abcc48ad888"
     },
     {
@@ -109,6 +131,7 @@
         "url": "https://www.bing.com/th?id=OHR.KaptaiLake_PT-BR8351405372_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KaptaiLake_PT-BR8351405372",
         "copyright": "Mercado flutuante, Lago Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightKeyword": "Lago Kaptai",
         "hsh": "43ce34b8ae1619816500efad248ae0a1"
     },
     {
