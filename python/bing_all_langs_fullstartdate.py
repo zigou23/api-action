@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime
+import urllib.parse
 
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
@@ -64,7 +65,7 @@ for lang in languages:
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': urlbase,
             'copyright': image['copyright'],
-            'copyrightKeyword': copyrightlink,
+            'copyrightKeyword': urllib.parse.unquote(copyrightlink),
             'hsh': image['hsh']
             # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
         }
