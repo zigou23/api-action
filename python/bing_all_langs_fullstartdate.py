@@ -41,7 +41,7 @@ def merge_images(existing_images, new_images, date_field, unique_field=None):
 # 遍历每种语言
 for lang in languages:
     # 定义API URL，使用不同的语言代码
-    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}"
+    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
     # api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}" # old
     # 语言不支持，会使用通用 ROW 数据
     if (lang == "hu-HU"): lang = "ROW"
