@@ -64,7 +64,7 @@ for lang in languages:
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': urlbase,
             'copyright': image['copyright'],
-            'copyrightkey': copyrightlink,
+            'copyrightKeyword': copyrightlink,
             'hsh': image['hsh']
             # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
         }
