@@ -53,14 +53,18 @@ for lang in languages:
     images_info = []
     for image in data['images']:
         urlbase = f"https://www.bing.com{image['urlbase']}"
-        parts = urlbase.split("OHR.")
-        name, id = parts[1].split("_")
+        # parts = urlbase.split("OHR.")
+        # name, id = parts[1].split("_")
+        tempkey = image['copyrightlink'].replace("https://www.bing.com/search?q=", "")
+        tempkey = tempkey.split('&')[0]
+        copyrightlink = tempkey.replace('+', ' ')
         image_info = {
             'fullstartdate': image['fullstartdate'],
             'date': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
             'url': f"https://www.bing.com{image['urlbase']}_1920x1080.jpg",
             'urlbase': urlbase,
             'copyright': image['copyright'],
+            'copyrightkey': copyrightlink,
             'hsh': image['hsh']
             # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
         }
