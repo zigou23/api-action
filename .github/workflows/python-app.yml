@@ -21,7 +21,7 @@ jobs:
       run: pip install requests
 
     - name: run bingjson
-      run: python ./python/bing_all_langs.py
+      run: python ./python/bing_all_langs_fullstartdate.py
 
     - name: Commit and Push
       run: |
