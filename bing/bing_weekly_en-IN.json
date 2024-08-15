@@ -1,5 +1,12 @@
 [
     {
+        "date": "20240815",
+        "url": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718",
+        "copyright": "Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)",
+        "hsh": "ec88a4c8822c0513b07a81b10a7f00e3"
+    },
+    {
         "date": "20240814",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622",
@@ -47,12 +54,5 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-IN6300276493",
         "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
         "hsh": "d2a2d82b049fcbd9475997dda99ff6e6"
-    },
-    {
-        "date": "20240807",
-        "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-IN5667907086_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-IN5667907086",
-        "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
-        "hsh": "afe89e2dfd1db1edc7b8058073c38438"
     }
 ]
