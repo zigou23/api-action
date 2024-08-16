@@ -1,58 +1,74 @@
 [
     {
+        "fullstartdate": "202408150700",
+        "date": "20240816",
+        "url": "https://www.bing.com/th?id=OHR.HangCave_ROW2044632958_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_ROW2044632958",
+        "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
+        "copyrightKeyword": "Hang Son Doong Vietnam",
+        "hsh": "84f0366dddda0439c576f31755ac261e"
+    },
+    {
+        "fullstartdate": "202408140700",
         "date": "20240815",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_ROW1623450590_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_ROW1623450590",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Thorny devil",
         "hsh": "afebf4ce5c45227dc42e009449e70079"
     },
     {
+        "fullstartdate": "202408130700",
         "date": "20240814",
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_ROW1482296845_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_ROW1482296845",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Telascica Nature Park",
         "hsh": "b1e6b094dff2ff7bc7f289f60bdb1732"
     },
     {
+        "fullstartdate": "202408120700",
         "date": "20240813",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "elephant ",
         "hsh": "532cf80c2e6b3626b1591073fbd88b86"
     },
     {
+        "fullstartdate": "202408110700",
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
+        "copyrightKeyword": "Kennedy Lake Vancouver Island",
         "hsh": "29f8aac30ad00abd724a6127ac681820"
     },
     {
+        "fullstartdate": "202408100700",
         "date": "20240811",
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ROW1075085716",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Joshua Tree National Park",
         "hsh": "304a9eced746971d767bc15365e71b0f"
     },
     {
+        "fullstartdate": "202408090700",
         "date": "20240810",
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_ROW0885643054",
         "copyright": "Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)",
+        "copyrightKeyword": "Sacsayhuamán",
         "hsh": "d9455e0db27e99a935536c0e0f44ebd6"
     },
     {
+        "fullstartdate": "202408080700",
         "date": "20240809",
         "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_ROW7217108888",
         "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
+        "copyrightKeyword": "Spotted owlet",
         "hsh": "33db0f2a0898e926a980a694fa754960"
-    },
-    {
-        "date": "20240808",
-        "url": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MichiganLighthouse_ROW7023012690",
-        "copyright": "St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)",
-        "hsh": "48b686fc3e19384f0bf6e46e0d5634e5"
     }
 ]

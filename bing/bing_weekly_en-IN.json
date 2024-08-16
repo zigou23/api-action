@@ -1,58 +1,74 @@
 [
     {
+        "fullstartdate": "202408151830",
+        "date": "20240816",
+        "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-IN8774755618_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-IN8774755618",
+        "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
+        "copyrightKeyword": "Hakugei roller coaster Japan",
+        "hsh": "0f57ef90c89272144c4ec16530c20138"
+    },
+    {
+        "fullstartdate": "202408141830",
         "date": "20240815",
         "url": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718",
         "copyright": "Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)",
+        "copyrightKeyword": "Independence Day",
         "hsh": "ec88a4c8822c0513b07a81b10a7f00e3"
     },
     {
+        "fullstartdate": "202408131830",
         "date": "20240814",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Thorny devil",
         "hsh": "c8f8be65f8e98989718ad997d9724f89"
     },
     {
+        "fullstartdate": "202408121830",
         "date": "20240813",
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-IN7497189787_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-IN7497189787",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Telascica Nature Park",
         "hsh": "3d4f681fc395d40b975e5b58b40f1e89"
     },
     {
+        "fullstartdate": "202408111830",
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "world elephant day",
         "hsh": "fb17ea6a66508032cd73fb1d4e2a9900"
     },
     {
+        "fullstartdate": "202408101830",
         "date": "20240811",
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-IN6327643260_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-IN6327643260",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
+        "copyrightKeyword": "Kennedy Lake Vancouver Island",
         "hsh": "2478dbf1c708ecac7ccb56f57d8db5de"
     },
     {
+        "fullstartdate": "202408091830",
         "date": "20240810",
         "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Joshua Tree National Park",
         "hsh": "f497bcce59ca6e8045ba4764072ef509"
     },
     {
+        "fullstartdate": "202408081830",
         "date": "20240809",
         "url": "https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051",
         "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
+        "copyrightKeyword": "Hang Son Doong Vietnam",
         "hsh": "4b37959792892cddf98852302af67215"
-    },
-    {
-        "date": "20240808",
-        "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-IN6300276493_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-IN6300276493",
-        "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
-        "hsh": "d2a2d82b049fcbd9475997dda99ff6e6"
     }
 ]

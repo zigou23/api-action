@@ -1,58 +1,74 @@
 [
     {
+        "fullstartdate": "202408152200",
+        "date": "20240816",
+        "url": "https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331",
+        "copyright": "Grotta di Hang Sơn Đoòng, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
+        "copyrightKeyword": "Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam",
+        "hsh": "9d4298c7c3dee098f9e5916a49d05752"
+    },
+    {
+        "fullstartdate": "202408142200",
         "date": "20240815",
         "url": "https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057",
         "copyright": "Capo Vaticano, Calabria, Italia (© Nikita Birzhakov/iStock/Getty Images Plus)",
+        "copyrightKeyword": "Ferragosto",
         "hsh": "25b2b2e38504758d28628e96c20db00c"
     },
     {
+        "fullstartdate": "202408132200",
         "date": "20240814",
         "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_IT-IT4767936784_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_IT-IT4767936784",
         "copyright": "Diavolo spinoso, Parco Nazionale di Watarrka, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightKeyword": "Moloch horridus",
         "hsh": "4cc9c7554ed38d3dc823a8ec1b51f3eb"
     },
     {
+        "fullstartdate": "202408122200",
         "date": "20240813",
         "url": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_IT-IT0800672865_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_IT-IT0800672865",
         "copyright": "Scogliere del Parco Naturale di Telašćica, Isola di Dugi Otok, Croazia (© Ilija Ascic/Shutterstock)",
+        "copyrightKeyword": "Isola Lunga, Croazia",
         "hsh": "30f4d376c91b53d85bc191360c472e5d"
     },
     {
+        "fullstartdate": "202408112200",
         "date": "20240812",
         "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870",
         "copyright": "Elefanti africani, Parco Nazionale di Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images)",
+        "copyrightKeyword": "Giornata Mondiale dell'Elefante",
         "hsh": "843da0236ccc0ba1eb90167e6a4ad3d5"
     },
     {
+        "fullstartdate": "202408102200",
         "date": "20240811",
         "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230",
         "copyright": "Sentiero di legno per il lago Kennedy, isola di Vancouver, British Columbia, Canada (© EB Adventure Photography/Shutterstock)",
+        "copyrightKeyword": "Isola di Vancouver",
         "hsh": "1051e75fb05e280bc56c2588825c7453"
     },
     {
+        "fullstartdate": "202408092200",
         "date": "20240810",
         "url": "https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723",
         "copyright": "Monte Argentario, Toscana, Italia (© Giulio Ercolani/Alamy Stock Photo)",
+        "copyrightKeyword": "Santo Lorenzo 10 Agosto ",
         "hsh": "295213c7d81db6d2b2d87ebcc97fdadd"
     },
     {
+        "fullstartdate": "202408082200",
         "date": "20240809",
         "url": "https://www.bing.com/th?id=OHR.IncaRuinPeru_IT-IT3781329004_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_IT-IT3781329004",
         "copyright": "Rovina Inca di Sacsayhuamán, Regione di Cusco, Perù (© SL_Photography/Getty Images)",
+        "copyrightKeyword": "Popoli indigeni",
         "hsh": "dc902abceddd67c99e0c32978a64ba8d"
-    },
-    {
-        "date": "20240808",
-        "url": "https://www.bing.com/th?id=OHR.LagoComoItaly_IT-IT3865741032_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LagoComoItaly_IT-IT3865741032",
-        "copyright": "Lago di Como, Lombardia, Italia (© Givaga/iStock/Getty Images Plus)",
-        "hsh": "236d52ddf48d442b4ebdaf66befd9a19"
     }
 ]
