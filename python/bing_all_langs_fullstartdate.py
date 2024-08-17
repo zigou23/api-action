@@ -43,12 +43,17 @@ def merge_images(existing_images, new_images, date_field, unique_field=None):
 for lang in languages:
     # 定义API URL，使用不同的语言代码
     api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
+    api_description = f"https://www.bing.com/hp/api/model?toWww=1&mkt={lang}"
     # api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}" # old
     # 语言不支持，会使用通用 ROW 数据
     if (lang == "hu-HU"): lang = "ROW"
+
     # 发起请求获取数据
     response = requests.get(api_url)
+    response_description = requests.get(api_description)
+
     data = response.json()
+    data_description = response_description.json()
 
     # 提取所需数据并格式化
     images_info = []
@@ -70,6 +75,16 @@ for lang in languages:
             # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
         }
         images_info.append(image_info)
+    
+    for image2 in data_description['MediaContents']:
+        fullstartdate = image2['Ssd'].replace('_', '')
+        description = image2['ImageContent']['Description']
+        # 找到对应 fullstartdate 的 image_info，并添加 description
+        for image_info in images_info:
+            if image_info['fullstartdate'] == fullstartdate:
+                image_info['description'] = description
+                break  # 找到匹配项后跳出循环
+
 
     # 定义与语言代码相关的文件路径
     file_path_current = f'./bing/bing_{lang}.json'
