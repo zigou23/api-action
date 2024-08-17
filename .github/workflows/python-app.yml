@@ -1,7 +1,7 @@
 name: Download and Push Image
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '1 23 * * *'
   workflow_dispatch:
 
 jobs:

@@ -7,7 +7,7 @@ import urllib.parse
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
 
-thisyear = datetime.now().year
+thisyear = datetime.now().year + (datetime.now().month == 12 and datetime.now().day == 31)
 # thisyear = 2055
 directories = ['./bing', f'./bing/{thisyear}']
 # 确保所有目标文件夹存在
