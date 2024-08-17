@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408172300",
+        "date": "20240818",
+        "url": "https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944",
+        "copyright": "Fresh garlic bulbs for sale at the garlic farm on the Isle of Wight, England (© Steve Hawkins Photography/Alamy Stock Photo)",
+        "copyrightKeyword": "Isle of Wight",
+        "hsh": "8b74eaa56eb3a388f94ad4c0bb6c0579",
+        "description": "Every year, since 1983, garlic lovers and culinary adventurers from around the globe flock to the Isle of Wight for a festival that's as aromatic as it is appetising—The Isle of Wight Garlic Festival. This quirky celebration of all things garlic is taking place near Newchurch village on the Isle of Wight, from August 17-18. From traditional garlic bread to more adventurous offerings like garlic fudge, garlic ice cream and garlic beer, there's something to satisfy every palate. The festival is also a hub of entertainment and activities for all ages, with live music filling the air. Kids can enjoy face painting, garlic-themed games, and even garlic bulb planting workshops. For those who can't get enough garlic in their lives, the event offers ample opportunities to stock up."
+    },
+    {
         "fullstartdate": "202408162300",
         "date": "20240817",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-GB3629180467",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "6b3b9f035147e6751919bbf988d63e7e",
-        "description": "Discover the beauty of Vancouver Island, Canada. The wooden pathway in today's image, surrounded by ancient pine and cedar trees, leads to Kennedy Lake, the largest freshwater body on the island. The lake covers a surface area of 16,000 acres (6,475 hectares). It is part of the ancestral lands of the Tla-o-qui-aht First Nation where the Clayoquot and Kennedy Rivers meet."
-    },
-    {
-        "fullstartdate": "202408092300",
-        "date": "20240810",
-        "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265",
-        "copyright": "Joshua Tree National Park, California, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "3b737a336a20c144a14a15a352406e10"
+        "hsh": "6b3b9f035147e6751919bbf988d63e7e"
     }
 ]

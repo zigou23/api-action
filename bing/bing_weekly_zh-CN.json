@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408171600",
+        "date": "20240818",
+        "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951",
+        "copyright": "日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)",
+        "copyrightKeyword": "亨廷顿海滩码头",
+        "hsh": "49aabb70d2ee9eee3f0f6ada81d1110c",
+        "description": "在今天的照片中，我们看到太阳开始消失在加利福尼亚亨廷顿海滩的码头下方。亨廷顿海滩码头始建于1902年，曾因暴风雨而受损，九年后才得以重建。第二次世界大战期间，码头上安装了一个潜艇瞭望哨，为战争出力。如今，这里已成为一个热门的旅游景点，游客们可以在这里钓鱼，观看冲浪者在太平洋上乘风破浪。"
+    },
+    {
         "fullstartdate": "202408161600",
         "date": "20240817",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172",
         "copyright": "通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "温哥华岛肯尼迪湖",
-        "hsh": "34ff672125739b2e78fe1e675318fbfc",
-        "description": "一起探索加拿大温哥华岛的美景吧。今天的图片中的那被古松和雪松环绕的木板路，可以通向岛上最大的淡水湖——肯尼迪湖。这个湖占地16000英亩。它位于克里阔特河和肯尼迪河的交汇处，是特拉-奥奎-阿赫特第一民族祖传土地的一部分。"
-    },
-    {
-        "fullstartdate": "202408091600",
-        "date": "20240810",
-        "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674",
-        "copyright": "约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
-        "copyrightKeyword": "约书亚树国家公园",
-        "hsh": "81d99a6f0f1e170e00cfcc5efee7ac3b"
+        "hsh": "34ff672125739b2e78fe1e675318fbfc"
     }
 ]

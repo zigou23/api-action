@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408172200",
+        "date": "20240818",
+        "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_IT-IT5196436677_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_IT-IT5196436677",
+        "copyright": "Molo di Huntington Beach al tramonto, California, USA (© Stan Moniz Photography/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Huntington Beach, città costiera California, USA",
+        "hsh": "0b77f84f11e8fda44f96d715bea99d21",
+        "description": "Qui, a Huntington Beach in California, USA, sta calando il sole, mentre lì, all’orizzonte, a quasi 9.000 chilometri di distanza in Giappone, questo sorge in un abbraccio luminoso. Il molo fu costruito nel 1902, e fu usato durante la Seconda Guerra Mondiale, come in una postazione di vedetta antisommergibile. Oggi, questo molo riveste il ruolo di punto di ritrovo. Soprannominata “Surf City”, è una destinazione iconica della California, per i surfisti a caccia delle più grandi onde da cavalcare nell’immenso Oceano Pacifico, mentre i turisti vengono a godersi il panorama incredibile che questo molo offre, soprattutto al tramonto."
+    },
+    {
         "fullstartdate": "202408162200",
         "date": "20240817",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230",
         "copyright": "Sentiero di legno per il lago Kennedy, isola di Vancouver, British Columbia, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Isola di Vancouver",
-        "hsh": "1051e75fb05e280bc56c2588825c7453",
-        "description": "Venite con noi, e addentratevi per questo bosco secolare. Scoprite lo splendore nascosto dell'isola di Vancouver, nella Columbia Britannica in Canada. Il sentiero di legno osservabile nella foto di oggi, si addentra tra antichi pini e cedri, conducendo verso il Kennedy Lake, un gigante d'acqua dolce dell'isola, che si estende per oltre 160 km². Situato nelle terre ancestrali della popolazione indiana dei Tla-o-qui-aht, questo luogo incantevole è avvolto dal folklore degli indigeni. Qui, tra le foreste antiche e le onde sussurranti, la natura e lo spirito umano danzano in un eterno abbraccio."
-    },
-    {
-        "fullstartdate": "202408092200",
-        "date": "20240810",
-        "url": "https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723",
-        "copyright": "Monte Argentario, Toscana, Italia (© Giulio Ercolani/Alamy Stock Photo)",
-        "copyrightKeyword": "Santo Lorenzo 10 Agosto ",
-        "hsh": "295213c7d81db6d2b2d87ebcc97fdadd"
+        "hsh": "1051e75fb05e280bc56c2588825c7453"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408171830",
+        "date": "20240818",
+        "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048",
+        "copyright": "Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Huntington Beach Pier",
+        "hsh": "2c2bc5c4776fb833c58b1618dd0eefb7",
+        "description": "In today's image, we see the sun beginning to disappear below the pier at Huntington Beach, California. First built in 1902, Huntington Beach Pier was damaged by a storm, leading it to be rebuilt just nine years later. During the Second World War, a submarine lookout post was installed on the pier to help with the war effort. These days, it's a popular tourist spot, with visitors heading there to fish and to watch surfers ride the waves out in the Pacific Ocean."
+    },
+    {
         "fullstartdate": "202408161830",
         "date": "20240817",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-IN6327643260",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "2478dbf1c708ecac7ccb56f57d8db5de",
-        "description": "Discover the beauty of Vancouver Island, Canada. The wooden pathway in today's image, surrounded by ancient pine and cedar trees, leads to Kennedy Lake, the largest freshwater body on the island. The lake covers a surface area of over 64 square kilometres. It is part of the ancestral lands of the Tla-o-qui-aht First Nation where the Clayoquot and Kennedy Rivers meet. Tofino, over 19 kilometres away, has a real surf vibe. This small coastal town is a sanctuary for hikers, bird watchers, artists and dreamers. Famous for its mild winters and pleasant summers, it has been a filming location for movies like 'The Twilight Saga: New Moon,' and 'One Week.'"
-    },
-    {
-        "fullstartdate": "202408091830",
-        "date": "20240810",
-        "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-IN4447271729",
-        "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
-        "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "f497bcce59ca6e8045ba4764072ef509"
+        "hsh": "2478dbf1c708ecac7ccb56f57d8db5de"
     }
 ]

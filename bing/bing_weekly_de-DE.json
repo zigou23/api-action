@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408172200",
+        "date": "20240818",
+        "url": "https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619",
+        "copyright": "Externsteine im Teutoburger Wald, Nordrhein-Westfalen (© MoJoLo/Panther Media GmbH/Alamy Stock Photo)",
+        "copyrightKeyword": "Externsteine Teutoburg",
+        "hsh": "c87c2c75aa0bfa27b5d6fdb5d28857bc",
+        "description": "Auf unserem heutigen Bild sehen Sie die imposanten Externsteine, ein bemerkenswertes Natur- und Kulturdenkmal im Teutoburger Wald in Nordrhein-Westfalen. Die markanten Sandsteinfelsen, die seit Jahrhunderten Besucher faszinieren, entstanden vor rund 70 Millionen Jahren durch geologische Prozesse und wurden durch Erosion geformt. Die höchsten Felsen ragen bis zu 35 Meter in die Höhe."
+    },
+    {
         "fullstartdate": "202408162200",
         "date": "20240817",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_DE-DE1525391215_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_DE-DE0365481347",
         "copyright": "Holzpfad zum Kennedy Lake, Vancouver Island, Kanada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "fb6df122e42e149ce458760fd97d7ef7",
-        "description": "Willkommen im verborgenen Paradies auf Vancouver Island, Kanada. Der hölzerne Pfad auf unserem heutigen Bild, der sich durch einen Wald aus uralten Kiefern und Zedern schlängelt, führt Sie zu einem echten Naturjuwel: dem Kennedy Lake. Dieses Naturwunder erstreckt sich über beeindruckende 64 Quadratkilometer. Er ist der größte Süßwassersee auf der Insel und ein Teil der angestammten Gebiete der Tla-o-qui-aht First Nation, direkt am Zusammenfluss der Flüsse Clayoquot und Kennedy. Knapp 40 Kilometer entfernt liegt das bezaubernde Küstenstädtchen Tofino, berühmt für seine milden Winter und angenehmen Sommer. Tofino ist ein beliebter Ort für Naturliebhaber und Künstler. Selbst Hollywood konnte seinem Charme nicht widerstehen: Hier wurden die Filme „Twilight – New Moon” und „One Week” gedreht."
-    },
-    {
-        "fullstartdate": "202408092200",
-        "date": "20240810",
-        "url": "https://www.bing.com/th?id=OHR.Elbphilharmonie_DE-DE2773966721_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Elbphilharmonie_DE-DE2773966721",
-        "copyright": "Luftaufnahme der Elbphilharmonie in Hamburg (© Michael Abid/Alamy)",
-        "copyrightKeyword": "Elbphilharmonie",
-        "hsh": "8649167ae07424dacc8dc343b7cc0803"
+        "hsh": "fb6df122e42e149ce458760fd97d7ef7"
     }
 ]
