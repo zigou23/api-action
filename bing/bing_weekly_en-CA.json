@@ -1,5 +1,14 @@
 [
     {
+        "fullstartdate": "202408160400",
+        "date": "20240817",
+        "url": "https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301",
+        "copyright": "Canadian International Air Show at the Canadian National Exhibition, in Toronto, Ontario (© Tony Florio/Alamy Stock Photo)",
+        "copyrightKeyword": "The Ex Toronto",
+        "hsh": "a1aaa177713baa2bcc65f9400430617e"
+    },
+    {
         "fullstartdate": "202408150400",
         "date": "20240816",
         "url": "https://www.bing.com/th?id=OHR.HangCave_EN-CA7947699816_1920x1080.jpg",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-CA5475468429",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "68bdfcf53e9100279b497caa39fa2170"
+        "hsh": "01e2f5f9fcfba0397080b58e374ea50e"
     },
     {
         "fullstartdate": "202408100400",
@@ -51,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387",
         "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
         "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "1b90544eb8cb6d0114fa51913ebb9f7e"
+        "hsh": "119fd1b22dfa2f73372b042c24623d9b"
     },
     {
         "fullstartdate": "202408090400",
@@ -60,15 +69,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-CA5058760637",
         "copyright": "Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)",
         "copyrightKeyword": "International Day of the Worlds Indigenous Peoples",
-        "hsh": "d95e541c99016cec76cb5dbe3028d750"
-    },
-    {
-        "fullstartdate": "202408080400",
-        "date": "20240809",
-        "url": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-CA8167068450_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SpottedOwlet_EN-CA8167068450",
-        "copyright": "Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)",
-        "copyrightKeyword": "Spotted owlet",
-        "hsh": "186afbdf096be31a05b8f8888d9c7a9d"
+        "hsh": "9e8c42b0d45f8ef2209c62f00a9cdbb5"
     }
 ]

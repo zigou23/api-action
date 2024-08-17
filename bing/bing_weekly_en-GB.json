@@ -1,12 +1,21 @@
 [
     {
+        "fullstartdate": "202408162300",
+        "date": "20240817",
+        "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942",
+        "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
+        "copyrightKeyword": "International lighthouse and lightship weekend",
+        "hsh": "2e8b7fc5e148f7663c35fcf6b41bc35b"
+    },
+    {
         "fullstartdate": "202408152300",
         "date": "20240816",
         "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-GB6456877241_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-GB6456877241",
         "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
         "copyrightKeyword": "Hakugei roller coaster Japan",
-        "hsh": "174dbc5dec051215095950df5925d933"
+        "hsh": "f06d1125b2ffa989cd04f80cdf4ba321"
     },
     {
         "fullstartdate": "202408142300",
@@ -15,7 +24,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HangCave_EN-GB5986425507",
         "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
         "copyrightKeyword": "Hang Son Doong Vietnam",
-        "hsh": "b00f643f10ddf3111ddb70954744b95a"
+        "hsh": "b1199c8e2917fa92c8c201831fc71dc7"
     },
     {
         "fullstartdate": "202408132300",
@@ -24,7 +33,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-GB7369918232",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "copyrightKeyword": "Thorny devil",
-        "hsh": "e82b946d317b6aaaafdced8595cad57c"
+        "hsh": "78b9bb8cf0dd6d0e8df183aadf98ed0c"
     },
     {
         "fullstartdate": "202408122300",
@@ -33,7 +42,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-GB9621673389",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
         "copyrightKeyword": "Telascica Nature Park",
-        "hsh": "0ab3ebf0175b9d8f21bb6ba6f5994277"
+        "hsh": "b98f5e1934d8db3d76c9859908de1025"
     },
     {
         "fullstartdate": "202408112300",
@@ -42,7 +51,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-GB4173490150",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "world elephant day",
-        "hsh": "8b2c099ee1cec5803632faeccc1ccb67"
+        "hsh": "f9a9ee6930009be6510c3aecd0e81c08"
     },
     {
         "fullstartdate": "202408102300",
@@ -51,7 +60,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-GB3629180467",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "52ee24d42820e8bfbd6238b74489ec30"
+        "hsh": "6b3b9f035147e6751919bbf988d63e7e"
     },
     {
         "fullstartdate": "202408092300",
@@ -60,15 +69,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265",
         "copyright": "Joshua Tree National Park, California, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
         "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "7fe28326729f520be94e715ae60ca10d"
-    },
-    {
-        "fullstartdate": "202408082300",
-        "date": "20240809",
-        "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173",
-        "copyright": "Clifton Suspension Bridge during the Bristol Balloon Fiesta, Bristol (© robertharding/Adobe Stock)",
-        "copyrightKeyword": "Bristol International Balloon Fiesta",
-        "hsh": "925ae9971f72e9955da1ec62164b10e1"
+        "hsh": "3b737a336a20c144a14a15a352406e10"
     }
 ]
