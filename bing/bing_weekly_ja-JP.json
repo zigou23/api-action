@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408181500",
+        "date": "20240819",
+        "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123",
+        "copyright": "ナガシマスパーランド, 三重県 桑名市 (© Japanese amateur photographer/Getty Images)",
+        "copyrightKeyword": "ホワイトサイクロン",
+        "hsh": "5976604b28e2c2839fc4278524bfd588",
+        "description": "風を切るようなスピードで駆け抜けるハイブリッドコースターのスリルは、一度味わったら忘れられませんね。画像はナガシマスパーランドにかつて存在していた木製ローラーコースター、「ホワイトサイクロン」です 。全長 1715m、最高部高度 45.5m という規模を誇り、遊園地のシンボル的存在でした…"
+    },
+    {
         "fullstartdate": "202408171500",
         "date": "20240818",
         "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_JA-JP5169837017_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040",
         "copyright": "アンボセリ国立公園, ケニア (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "アンボセリ国立公園",
-        "hsh": "976f9a57c8320c5324fbaa37af9854fa",
-        "description": "今日 8 月 12 日は世界ゾウの日。現生のゾウにはアフリカゾウ、マルミミゾウ、アジアゾウの計 3 種がいますが、象牙の取引や生息地の喪失などにより、いずれも絶滅の危機に瀕しています…"
-    },
-    {
-        "fullstartdate": "202408101500",
-        "date": "20240811",
-        "url": "https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329",
-        "copyright": "草津白根山, 群馬県 吾妻郡 (© Twenty47studio/Getty Images)",
-        "copyrightKeyword": "草津白根山",
-        "hsh": "df9a5b3c2772a806e070e6654095d622"
+        "hsh": "976f9a57c8320c5324fbaa37af9854fa"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408180300",
+        "date": "20240819",
+        "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_PT-BR8909327744_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_PT-BR8909327744",
+        "copyright": "Píer de Huntington Beach ao pôr do sol, Califórnia, EUA (© Stan Moniz Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Píer de Huntington Beach",
+        "hsh": "57a93bbae55612758f3b700708aefa83",
+        "description": "Durante a Segunda Guerra Mundial, este píer que observamos na imagem de hoje foi usado como ponto de observação de submarinos para ajudar no esforço do conflito bélico. Com uma história que começa aproximadamente 40 anos antes da guerra, o píer de Huntington Beach nos Estados Unidos é conhecido hoje por uma razão totalmente diferente. Ele é um destino muito procurado por surfistas por suas ondas naturalmente desafiadoras e bom clima durante todo o ano. Por conta disso, essa cidade californiana de Huntington Beach foi apelidada de cidade do surf, recebendo em suas areias e paisagem natural competidores profissionais como Gabriel Medina, Filipe Toledo e Silvana Lima."
+    },
+    {
         "fullstartdate": "202408170300",
         "date": "20240818",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_PT-BR6712020565_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907",
         "copyright": "Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)",
         "copyrightKeyword": "dia dos pais",
-        "hsh": "cb6ef1d8d5d119370754f3e99ee1ac25",
-        "description": "Observe a concentração dessa garça-tigre-ruiva com o seu filhote, aninhados no coração do pantanal mato-grossense. Essa espécie é conhecida por sua postura ereta e pela capacidade de ficar imóvel por longos períodos, esperando pacientemente para capturar presas. Tanto o macho quanto a fêmea participam da incubação dos ovos, que geralmente são de 2 a 4 por ninhada; o casal se reveza para manter os ovos aquecidos e protegidos. No entanto, após o nascimento dos filhotes, é o pai o responsável por alimentar os filhotes, assim como garantir a proteção do ninho e seus filhotes."
-    },
-    {
-        "fullstartdate": "202408100300",
-        "date": "20240811",
-        "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_PT-BR8498081592",
-        "copyright": "Parque Nacional de Joshua Tree, Califórnia, EUA (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
-        "copyrightKeyword": "Parque Nacional de Joshua Tree",
-        "hsh": "3efcbacfe20d35dbe73380e9f643e8e2"
+        "hsh": "cb6ef1d8d5d119370754f3e99ee1ac25"
     }
 ]

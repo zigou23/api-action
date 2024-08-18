@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408182200",
+        "date": "20240819",
+        "url": "https://www.bing.com/th?id=OHR.RegataSanGines_IT-IT5321961611_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_IT-IT5321961611",
+        "copyright": "Bufadero de la Garita, Gran Canaria, Spagna (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Gran Canaria, Spagna",
+        "hsh": "f1b6bd5483ff65a0a0d1fb1f09b384a5",
+        "description": "Conoscete questo gioiello nascosto nelle isole Canarie? Il Bufadero de la Garita è una formazione geologica con un fascino incredibile. Ci troviamo nell’Oceano Atlantico, sul lato dell’Africa occidentale a Gran Canaria, dove si cela un fenomeno naturale da brivido. Il Bufadero, sulla costa orientale dell'isola, è una voragine marina da cui l'acqua del mare si inietta e fuoriesce con potenza, creando uno spettacolo da mozzare il fiato, come potete ammirare nell'immagine di oggi."
+    },
+    {
         "fullstartdate": "202408172200",
         "date": "20240818",
         "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_IT-IT5196436677_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_IT-IT6102111870",
         "copyright": "Elefanti africani, Parco Nazionale di Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "Giornata Mondiale dell'Elefante",
-        "hsh": "843da0236ccc0ba1eb90167e6a4ad3d5",
-        "description": "Celebriamo questi gentili giganti, gli elefanti! Oggi, 12 agosto, in occasione della “Giornata Mondiale dell'Elefante”, dobbiamo riflettere più che mai sui pericoli che questi nobili animali affrontano: A causa dell’intervento dell’essere umano nel loro habitat naturale, come il disboscamento e il commercio di avorio, la loro sopravvivenza è in grande pericolo. Sapevate che in Italia i pachidermi occupano un posto speciale nel patrimonio culturale? In Piazza della Minerva a Roma, un elefante sorregge un antico obelisco egizio scolpito da Gian Lorenzo Bernini. Un simbolo di fusione tra culture diverse che può essere interpretato come l’armonia tra l’uomo e la natura."
-    },
-    {
-        "fullstartdate": "202408102200",
-        "date": "20240811",
-        "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_IT-IT8944442230",
-        "copyright": "Sentiero di legno per il lago Kennedy, isola di Vancouver, British Columbia, Canada (© EB Adventure Photography/Shutterstock)",
-        "copyrightKeyword": "Isola di Vancouver",
-        "hsh": "1051e75fb05e280bc56c2588825c7453"
+        "hsh": "843da0236ccc0ba1eb90167e6a4ad3d5"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408180400",
+        "date": "20240819",
+        "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-CA6417912965_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-CA6417912965",
+        "copyright": "Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)",
+        "copyrightKeyword": "Huntington Beach Pier",
+        "hsh": "47899860ba3f0d97b96f6f74f3bc15aa",
+        "description": "In today's image, we see the sun beginning to disappear below the pier at Huntington Beach, California, US. First built in 1902, Huntington Beach Pier was damaged by a storm, leading it to be rebuilt just nine years later. During the Second World War, a submarine lookout post was installed on the pier to help with the war effort. These days, it's a popular tourist spot, with visitors heading there to fish and watch surfers ride the waves out in the Pacific Ocean."
+    },
+    {
         "fullstartdate": "202408170400",
         "date": "20240818",
         "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_EN-CA5475468429",
         "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
         "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "01e2f5f9fcfba0397080b58e374ea50e",
-        "description": "Discover the beauty of Vancouver Island. The wooden pathway in today's image, surrounded by ancient pine and cedar trees, leads to Kennedy Lake, the largest freshwater body on the island. The lake covers a surface area of 65 square kilometres. It is part of the ancestral lands of the Tla-o-qui-aht First Nation where the Clayoquot and Kennedy Rivers meet."
-    },
-    {
-        "fullstartdate": "202408100400",
-        "date": "20240811",
-        "url": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-CA1889567387",
-        "copyright": "Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)",
-        "copyrightKeyword": "Joshua Tree National Park",
-        "hsh": "119fd1b22dfa2f73372b042c24623d9b"
+        "hsh": "01e2f5f9fcfba0397080b58e374ea50e"
     }
 ]

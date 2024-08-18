@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408182200",
+        "date": "20240819",
+        "url": "https://www.bing.com/th?id=OHR.RegataSanGines_DE-DE4289172038_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_DE-DE4289172038",
+        "copyright": "Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Bufadero de la Garita",
+        "hsh": "8a2c0957bab44ee2edb6b928025a7c9e",
+        "description": "Heute stellen wir Ihnen ein wahres Wunderwerk der Natur vor: den Bufadero de la Garita auf Gran Canaria in Spanien. Der an der malerischen Ostküste der Insel gelegene \"Bufadero\" ist ein faszinierendes Blasloch in den Felsen, aus dem das Meerwasser mit Wucht ein- und austritt und so ein beeindruckendes Naturschauspiel erzeugt, wie wir auf dem heutigen Bild sehen können. Die Wellen schlagen mit einer solchen Intensität auf, dass das Wasser mehrere Meter hoch in die Luft steigt und eine Art majestätischer Meeresgeysir bildet."
+    },
+    {
         "fullstartdate": "202408172200",
         "date": "20240818",
         "url": "https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249",
         "copyright": "Afrikanische Elefanten, Amboseli-Nationalpark, Kenia (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "Weltelefantentag",
-        "hsh": "15391d97b8dbda8a1ecd870b73d6381c",
-        "description": "Heute feiern wir die größten lebenden Landtiere unseres Planeten, denn es ist Weltelefantentag! Auf unserem heutigen Bild wandert eine Herde Afrikanischer Elefanten in den Weiten des Amboseli-Nationalparks in Kenia frei herum, doch ihre Zukunft ist ungewiss. Die drei noch existierenden Arten – der Afrikanische Savannenelefant, der Afrikanische Waldelefant und der Asiatische Elefant – sind von unserem Handeln abhängig. Der Weltelefantentag ist ein Aufruf an uns alle, die sanften Riesen zu schützen. Denn ihr Überleben hängt vom Erhalt ihres Lebensraumes und dem strikten Verbot des Elfenbeinhandels ab. Außerdem führt ein Lebensraumverlust zu einem engeren Kontakt mit dem Menschen, was sowohl für Elefanten als auch für Menschen problematisch ist."
-    },
-    {
-        "fullstartdate": "202408102200",
-        "date": "20240811",
-        "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_DE-DE0365481347_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_DE-DE0365481347",
-        "copyright": "Holzpfad zum Kennedy Lake, Vancouver Island, Kanada (© EB Adventure Photography/Shutterstock)",
-        "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "fb6df122e42e149ce458760fd97d7ef7"
+        "hsh": "15391d97b8dbda8a1ecd870b73d6381c"
     }
 ]
