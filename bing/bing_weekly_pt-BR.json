@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408190300",
+        "date": "20240820",
+        "url": "https://www.bing.com/th?id=OHR.RegataSanGines_PT-BR4759271274_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_PT-BR4759271274",
+        "copyright": "Bufadero de la Garita, Gran Canaria, Espanha (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Gran Canaria",
+        "hsh": "4814cadcc747a92ec56eaa12b87c72e4",
+        "description": "Você conseguiria nomear a formação geoglógica que vemos na imagem de hoje? Desde a ilha de Gran Canária, na Espanha, esse espetáculo natural é chamado de bufador. Devido a erosão natural causada pelo vento costeiro e o mar, essas grandes paredes rochosas podem sofrer fissuras ao longo do tempo, formando lacunas que quando preenchidas com as fortes ondas do mar, produzem um impressionante fenômeno de jatos de água. Bufador vem do verbo “bufar”, que também é sinônimo de soprar: como as águas que são sopradas para fora das rochas!"
+    },
+    {
         "fullstartdate": "202408180300",
         "date": "20240819",
         "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_PT-BR8909327744_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_PT-BR3607711073",
         "copyright": "Elefantes africanos, Parque Nacional Amboseli, Quênia (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "Dia Mundial do Elefante",
-        "hsh": "a96640862c91d07ae429872a7a5506da",
-        "description": "Mesmo parecendo pequenos ao lado de suas mães, esses pequenos elefantes podem nascer com até 120kg, ou seja, um grande começo! Hoje celebramos o Dia Mundial do Elefante, um dos maiores animais terrestres vivos que encontramos no nosso planeta. Na imagem de hoje vemos uma manada no Parque Nacional Amboseli, no Quênia. Liderada pela matriarca, isto é, o elefante mais experiente do grupo, vemos o grupo dessas grandes mães junto aos seus filhotes. Os elefantes machos normalmente vivem solitários ou em manadas com outros elefantes machos, apenas unindo-se as fêmeas durante a temporada de acasalamento."
-    },
-    {
-        "fullstartdate": "202408110300",
-        "date": "20240812",
-        "url": "https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907",
-        "copyright": "Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)",
-        "copyrightKeyword": "dia dos pais",
-        "hsh": "cb6ef1d8d5d119370754f3e99ee1ac25"
+        "hsh": "a96640862c91d07ae429872a7a5506da"
     }
 ]
