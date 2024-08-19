@@ -121,6 +121,7 @@ for lang in languages:
     with open(weekly_file_path, 'w', encoding='utf-8') as file:
         json.dump(images_info, file, ensure_ascii=False, indent=4)
 
-    print(f"Bing每日一图数据已保存到 '{weekly_file_path}'")
+    print(f"Bing Daily Image data has been saved to '{weekly_file_path}'")
 
-print("所有语言的Bing每日一图数据已保存。")
+print("Bing Image of the Day data is saved for all languages.")
+print("Current UTC time:", datetime.utcnow())
