@@ -1,10 +1,10 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 import urllib.parse
 
-print("Starts time: ", datetime.now())
+print("Starts time: ", datetime.now(timezone.utc))
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
 
@@ -125,4 +125,4 @@ for lang in languages:
     print(f"Bing Daily Image data has been saved to '{weekly_file_path}'")
 
 print("Bing Image of the Day data is saved for all languages.")
-print("Ends time: ", datetime.now())
+print("Ends time: ", datetime.now(timezone.utc))
