@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408192200",
+        "date": "20240820",
+        "url": "https://www.bing.com/th?id=OHR.TetonSunrise_DE-DE4508190035_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonSunrise_DE-DE4508190035",
+        "copyright": "Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)",
+        "copyrightKeyword": "Grand-Teton-Nationalpark",
+        "hsh": "75c5e36c5331c487364a8277d7e301b8",
+        "description": "Die unberührte Schönheit des Grand-Teton-Nationalparks in Wyoming, USA, zieht jedes Jahr Millionen von Besuchern in ihren Bann. Die „drei Brüste“ – so von französischen Entdeckern einst benannt („téton“ bedeutet Brustwarze) – sind das Juwel des Nationalparks, der 1929 von Naturschützern wie John D. Rockefeller Jr. errichtet wurde. Die Heimat einer nahezu unberührten Flora und Fauna bietet Lebensraum für Grizzlybären, Wölfe, Bisons, Elche und Weißkopfseeadler. Nur 16 Kilometer südlich des Yellowstone-Nationalparks erheben sich die scharfkantigen Gipfel des 64 Kilometer langen Teton-Gebirges, das auf unserem heutigen Bild zu sehen ist. Mit weniger als 10 Millionen Jahren auf dem geologischen Buckel zählt es zu den jüngsten Bergketten Nordamerikas. Viele der Seen im Park, wie zum Beispiel der 24 Kilometer lange Jackson Lake, sind das Werk eiszeitlicher Gletscher."
+    },
+    {
         "fullstartdate": "202408182200",
         "date": "20240819",
         "url": "https://www.bing.com/th?id=OHR.RegataSanGines_DE-DE4289172038_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_DE-DE7505074249",
         "copyright": "Klippen des Naturparks Telašćica, Insel Dugi Otok, Kroatien (© Ilija Ascic/Shutterstock)",
         "copyrightKeyword": "Telascica Naturpark",
-        "hsh": "a32d7433020dec7d826128ccc3a9e702",
-        "description": "Tauchen Sie ein in die magische Schönheit des Telašćica Naturparks und lassen Sie sich verzaubern. Im Südosten der kroatischen Insel Dugi Otok erwartet Sie eine unberührte Oase. Die Telašćica-Bucht an der atemberaubenden Adriaküste befindet sich inmitten von 13 größeren und 6 kleineren Inseln. Auf unserem heutigen Bild sind die majestätischen Klippen der Bucht zu sehen. Die sogenannten „Stene” – wie sie in Kroatien genannt werden – ragen beeindruckend bis zu 160 Meter über dem Meeresspiegel auf. Entdecken Sie den sichersten und größten Naturhafen der Adria mit 25 idyllischen Strandabschnitten. Auch der heilsame Mir-Salzsee, bekannt für seine wohltuenden Eigenschaften, wartet auf Sie."
-    },
-    {
-        "fullstartdate": "202408112200",
-        "date": "20240812",
-        "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_DE-DE5375674249",
-        "copyright": "Afrikanische Elefanten, Amboseli-Nationalpark, Kenia (© Ruzdi Ekenheim/Getty Images)",
-        "copyrightKeyword": "Weltelefantentag",
-        "hsh": "15391d97b8dbda8a1ecd870b73d6381c"
+        "hsh": "a32d7433020dec7d826128ccc3a9e702"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408191830",
+        "date": "20240820",
+        "url": "https://www.bing.com/th?id=OHR.TetonSunrise_EN-IN0048035143_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonSunrise_EN-IN0048035143",
+        "copyright": "Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)",
+        "copyrightKeyword": "Grand Teton National Park",
+        "hsh": "2368803e0e2b52a370c055b03110c68f",
+        "description": "Hey, wanderlust warriors, saddle up for an American adventure at Wyoming's very own outdoor marvel – the Grand Teton National Park! The Teton Range, named 'les trois tétons' by French explorers, towers over the landscape with its jagged peaks that defy time itself. At about 16 kilometres from Yellowstone National Park, these peaks, part of a mountain range less than 10 million years old, continue to captivate with their youthful defiance against erosion. Encompassing thriving ecosystems, the park is a sanctuary for grizzly bears, wolves and the flight of bald eagles. Like its peaks, many of the park's lakes, including the 24-kilometre-long Jackson Lake, were carved out by glaciers hundreds of thousands of years ago. Towering over the Jackson Hole valley and reflected in one of its many lakes, the Tetons and the park are a breathtaking sight to behold."
+    },
+    {
         "fullstartdate": "202408181830",
         "date": "20240819",
         "url": "https://www.bing.com/th?id=OHR.FestivalRakhi_EN-IN9632575091_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-IN7497189787",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
         "copyrightKeyword": "Telascica Nature Park",
-        "hsh": "3d4f681fc395d40b975e5b58b40f1e89",
-        "description": "Welcome to the slice of paradise that is Telašćica Nature Park on the southeastern shores of Dugi Otok Island in Croatia. Telašćica Bay, on the country's Adriatic coast, is encircled by 13 islands and six islets. Featured in today's image are the bay's cliffs. They form a stunning inlet that stretches over 9 kilometres with dramatic cliffs, islets and serene bays. Locally known as the 'stene,' these cliffs reach a height of 160 metres above sea level. Other features include the Adriatic's safest and most expansive natural harbour, which has 25 secluded beaches, as well as the therapeutic Mir salt lake known for its healing properties. So, the next time you're in the mood for island-hopping, come to Telašćica, where the land and sea play an endless game of tag."
-    },
-    {
-        "fullstartdate": "202408111830",
-        "date": "20240812",
-        "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510",
-        "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
-        "copyrightKeyword": "world elephant day",
-        "hsh": "fb17ea6a66508032cd73fb1d4e2a9900"
+        "hsh": "3d4f681fc395d40b975e5b58b40f1e89"
     }
 ]

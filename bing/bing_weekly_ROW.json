@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408190700",
+        "date": "20240820",
+        "url": "https://www.bing.com/th?id=OHR.RegataSanGines_ROW5320119773_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_ROW5320119773",
+        "copyright": "Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)",
+        "copyrightKeyword": "Bufadero de la Garita",
+        "hsh": "dabc48c82809430a3034c7e441ed0661",
+        "description": "Have you ever heard of the Bufadero de la Garita? It's on the Spanish island of Gran Canaria, off the Atlantic coast of Northwest Africa. This natural phenomenon is a wonder you can't miss. Found on the picturesque eastern coast of the island, the 'Bufadero' is a fascinating sea-based blowhole in the rocks where seawater enters and exits with force, creating an impressive spectacle, as we can see in today’s image."
+    },
+    {
         "fullstartdate": "202408180700",
         "date": "20240819",
         "url": "https://www.bing.com/th?id=OHR.HuntingtonBeach_ROW5148300057_1920x1080.jpg",
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HangCave_ROW2044632958",
         "copyright": "Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)",
         "copyrightKeyword": "Hang Son Doong Vietnam",
-        "hsh": "84f0366dddda0439c576f31755ac261e",
+        "hsh": "ab01defe9af4d2aa80da407c74935c92",
         "description": "In 1991, a Vietnamese logger stumbled upon something big in Vietnam's Phong Nha-Kẻ Bàng National Park. During a jungle expedition, he found the entrance to a cave with a roaring underground river, which was later named Hang Sơn Đoòng or 'cave of the mountain river.' In 2009, the British Cave Research Association led an expedition to explore the site. It was then that they realised something incredible: it was the world's largest cave."
     },
     {
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_ROW1623450590",
         "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "copyrightKeyword": "Thorny devil",
-        "hsh": "afebf4ce5c45227dc42e009449e70079",
+        "hsh": "bc8f96964af9a4a39faa7e3168c94bff",
         "description": "From mythology to modern media, lizards have often been portrayed as scary reptiles. As it turns out, they're not as dangerous as stories might lead you to believe. With more than 7,000 species, these animals have adapted to a wide range of environments—from deserts to rainforests. Now let's focus on the peculiar creature in today's image that's trekking across the arid landscape in Australia's Watarrka National Park. Its pace is deliberate, its skin a maze of spiky armour. Meet the thorny devil, also known as the thorny dragon or Moloch. With clever hydrophilic skin that channels moisture to its mouth, this reptile can hydrate just from the dew on its body. It can thrive in extreme desert conditions that would be inhospitable to many. So, the next time you spot a lizard, take a moment to appreciate these cool, scaly wonders of the animal kingdom."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_ROW1361038642",
         "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
         "copyrightKeyword": "elephant ",
-        "hsh": "532cf80c2e6b3626b1591073fbd88b86",
-        "description": "Elephants are the largest living land animals, with three species alive today: African bush, African forest and Asian. Today's image features a herd of African elephants roaming the vast expanses of Amboseli National Park, Kenya. This park spans over 96,880 acres on the Kenya-Tanzania border. It is home to African bush elephants, Cape buffaloes, impalas, lions, cheetahs, spotted hyenas, Masai giraffes, Grant's zebras and blue wildebeests."
-    },
-    {
-        "fullstartdate": "202408110700",
-        "date": "20240812",
-        "url": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TofinoVancouver_ROW1209784731",
-        "copyright": "Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)",
-        "copyrightKeyword": "Kennedy Lake Vancouver Island",
-        "hsh": "29f8aac30ad00abd724a6127ac681820"
+        "hsh": "532cf80c2e6b3626b1591073fbd88b86"
     }
 ]
