@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408200700",
+        "date": "20240821",
+        "url": "https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457",
+        "copyright": "Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)",
+        "copyrightKeyword": "Grand Teton National Park",
+        "hsh": "1ac908255aa02974e0cc465701c530e6",
+        "description": "Mind-blowing beauty is one reason people keep coming back to Wyoming and the Grand Teton National Park. Named 'les trois tétons' by early French trappers, the park was created in 1929 by conservationists including John D. Rockefeller Jr. It is home to a virtually untouched ecosystem of plants and animals, such as grizzly bears, wolves, bison, moose, and bald eagles."
+    },
+    {
         "fullstartdate": "202408190700",
         "date": "20240820",
         "url": "https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043",
         "copyright": "Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)",
         "copyrightKeyword": "Telascica Nature Park",
-        "hsh": "e48914d5175e5e848bdba6ba8900214a",
-        "description": "Welcome to the slice of paradise that is Telašćica Nature Park, on the Croatian island of Dugi Otok. Pictured behind cliffs separating it from the Adriatic Sea is the park's Telašćica Bay, which stretches inland over 6 miles and is the largest natural harbor in the Adriatic. Dotted with islets and surrounded by small islands, its dramatic cliffs tower more than 520 feet above sea level and are known locally as the 'stene.' Other features of the park include 25 secluded beaches, as well as the therapeutic Mir salt lake known for its healing properties. So, the next time you're in the mood for island-hopping, come to Telašćica, where the land and sea play an endless game of tag."
-    },
-    {
-        "fullstartdate": "202408120700",
-        "date": "20240813",
-        "url": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949",
-        "copyright": "African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)",
-        "copyrightKeyword": "world elephant day",
-        "hsh": "a1a0483cffd1af01e27e908e6a1b08f0"
+        "hsh": "e48914d5175e5e848bdba6ba8900214a"
     }
 ]
