@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408211830",
+        "date": "20240822",
+        "url": "https://www.bing.com/th?id=OHR.OceanCityMD_EN-IN0871145545_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OceanCityMD_EN-IN0871145545",
+        "copyright": "Aerial view of Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)",
+        "copyrightKeyword": "Ocean City Maryland",
+        "hsh": "4181d5de19c71ba217c997471583d368",
+        "description": "Here is a beautiful coastal getaway offering endless fun and adventure—welcome to Ocean City, Maryland. Ocean City remained a quiet fishing village until 1875, when the Atlantic Hotel opened its doors, marking the town's transformation into a burgeoning resort destination. Today, it is one of the most popular vacation spots in the country, offering a plethora of activities for people of all ages. The town's iconic four-kilometre-long boardwalk is lined with restaurants, shops and amusement parks. Pristine sandy beaches that stretch for 16 kilometres are perfect for sunbathing, beach volleyball or building sandcastles, and the ocean waters beckon for a refreshing swim. With plenty of adventure and a heritage deeply rooted in history, Ocean City is a charming retreat that draws visitors back time and again."
+    },
+    {
         "fullstartdate": "202408201830",
         "date": "20240821",
         "url": "https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718",
         "copyright": "Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)",
         "copyrightKeyword": "Independence Day",
-        "hsh": "ec88a4c8822c0513b07a81b10a7f00e3",
-        "description": "It's Independence Day, the day our nation threw off the yoke of British rule. This day commemorates the transfer of legislative sovereignty from the British crown to the Indian Constituent Assembly. Our first prime minister, Jawaharlal Nehru, hoisted the national flag at the Lahori Gate of the Red Fort in Delhi on August 15, 1947. Since then, it has become a tradition for the sitting prime minister to raise the flag and deliver a national address on Independence Day. Over time, the focus of the celebration has shifted from solely nationalism to a broader appreciation of Indian culture and heritage. The Indian diaspora also celebrates this day worldwide, with parades and events, especially in areas with significant Indian populations. In New York and other US cities, it has come to be recognised as 'India Day.' Independence Day is not just a reminder of our country's journey towards independence but also the ongoing commitment to build a brighter future for all."
-    },
-    {
-        "fullstartdate": "202408131830",
-        "date": "20240814",
-        "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622",
-        "copyright": "Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)",
-        "copyrightKeyword": "Thorny devil",
-        "hsh": "c8f8be65f8e98989718ad997d9724f89"
+        "hsh": "ec88a4c8822c0513b07a81b10a7f00e3"
     }
 ]
