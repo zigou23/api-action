@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408222200",
+        "date": "20240823",
+        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058",
+        "copyright": "Rovine del tempio di Prasat Phanom Rung, provincia di Buriram, Thailandia (© Banjongseal324/Getty Images)",
+        "copyrightKeyword": "Tempio di Prasat Phanom Rung, Thailandia",
+        "hsh": "c2225e6fb19f5a58edd59a7d95ce320d",
+        "description": "Oltre questa porta si nasconde un tesoro antico: il magnifico Parco Storico di Phanom Rung, situato nella provincia di Buriram, in Thailandia. Questo gioiello dell’architettura Khmer rappresenta l’impero che regnò per secoli nel sud-est asiatico, spaziando dalla Thailandia alla Cambogia, al Laos e al Vietnam. Il tempio, un omaggio alla divinità indù Shiva, fu costruito tra il X e il XIII secolo. Si erge sul bordo di un vulcano estinto, offrendoci una vista mozzafiato sulle imponenti montagne Dongrek della vicina Cambogia. Quando i raggi del sole filtrano tra le quindici porte del tempio, potrete ammirare uno spettacolo di luci senza pari."
+    },
+    {
         "fullstartdate": "202408212200",
         "date": "20240822",
         "url": "https://www.bing.com/th?id=OHR.OceanCityMD_IT-IT8362993245_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331",
         "copyright": "Grotta di Hang Sơn Đoòng, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
         "copyrightKeyword": "Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam",
-        "hsh": "9d4298c7c3dee098f9e5916a49d05752",
-        "description": "Benvenuti nel Parco Nazionale di Phong Nha-Kẻ Bàng, precisamente nella grotta di Hang Sơn Đoòng, in Vietnam. Ritenuta una delle grotte più grandi del mondo, fu scoperta nel 1991 da un abitante del luogo, Hồ Khanh, ed è stata esplorata nel 2009 da un gruppo di speleologi britannici. La grotta è lunga circa 5 chilometri e ospita al suo interno un fiume sotterraneo e una giungla, capace di creare, come potete anche ammirare nella odierna immagine, un proprio sistema meteorologico. Questo è dovuto alle differenze tra la temperatura all’interno e all’esterno della grotta."
-    },
-    {
-        "fullstartdate": "202408142200",
-        "date": "20240815",
-        "url": "https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057",
-        "copyright": "Capo Vaticano, Calabria, Italia (© Nikita Birzhakov/iStock/Getty Images Plus)",
-        "copyrightKeyword": "Ferragosto",
-        "hsh": "25b2b2e38504758d28628e96c20db00c"
+        "hsh": "9d4298c7c3dee098f9e5916a49d05752"
     }
 ]

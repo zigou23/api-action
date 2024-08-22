@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408220300",
+        "date": "20240823",
+        "url": "https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617",
+        "copyright": "Artesanato indígena brasileiro exposto para venda em feira ao ar livre (© Ricardo Lima/Getty Images)",
+        "copyrightKeyword": "dia do folclore",
+        "hsh": "d9f32af12840576db64122ebeb70d1c5",
+        "description": "Descubra as tradições que moldam nossa identidade no Dia do Folclore! Nas feiras a céu aberto do Brasil, tesouros artesanais expressam a alma indígena da nossa terra. Em cada peça de artesanato indígena, há uma história, um legado que transborda em cores e formas. Grupos indígenas como os Yanomami, Ashaninka e Yawanawá mostram suas habilidades nessas peças feitas a partir de sementes e miçangas coloridas, unidas por técnicas ancestrais como encaixe, amarração e bordado, que dão vida a colares, pulseiras, brincos, cintos e adornos de cabeça."
+    },
+    {
         "fullstartdate": "202408210300",
         "date": "20240822",
         "url": "https://www.bing.com/th?id=OHR.NazcaBooby_PT-BR5782154593_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649",
         "copyright": "Caverna Hang Sơn Đoòng, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Geng Xu/Getty Images)",
         "copyrightKeyword": "Sơn Đoòng Vietnã",
-        "hsh": "2166e8054f88f7be5d409bca6d9e955b",
-        "description": "O que você achou da maior caverna do mundo? Descoberta em 1991 por acaso, essa caverna com um rio subterrâneo está dentro do Parque Nacional Phong Nha-Kẻ Bàng, no Vietnã. Mas foi só depois de 20 anos que uma grande (enorme, na verdade!) descoberta aconteceu e deixou esse lugar famoso: a Hang Sơn Đoòng ou ‘caverna da montanha’ é a maior caverna do mundo! São 5 quilômetros de extensão que se espalham por 150 metros de largura e 200 metros de altura. Além disso essa caverna ainda tem o seu próprio sistema meteorológico graças às diferenças de temperatura entre o ar dentro da caverna e o ar externo."
-    },
-    {
-        "fullstartdate": "202408140300",
-        "date": "20240815",
-        "url": "https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WatarrkaLizard_PT-BR4397893741",
-        "copyright": "Diabo-espinhoso, Parque Nacional de Watarrka, Austrália (© Yva Momatiuk and John Eastcott/Minden Pictures)",
-        "copyrightKeyword": "Diabo-espinhoso",
-        "hsh": "f7461ad5966e1a340c8da5ef81b8030f"
+        "hsh": "2166e8054f88f7be5d409bca6d9e955b"
     }
 ]

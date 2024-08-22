@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408221830",
+        "date": "20240823",
+        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-IN2102190312",
+        "copyright": "Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)",
+        "copyrightKeyword": "Phanom Rung Historical Park",
+        "hsh": "63faa884c1e54d124d79db89ae879c7e",
+        "description": "Today, let us step into the Phanom Rung Historical Park in Buriram province, Thailand. Here, Khmer architecture and history come to life. Built between the 10th and 13th centuries, this remarkable site served as a Hindu temple dedicated to the god Shiva. It's on the rim of an extinct volcano, offering views of the surrounding paddy fields and the towering Dongrek Mountains of Cambodia in the distance."
+    },
+    {
         "fullstartdate": "202408211830",
         "date": "20240822",
         "url": "https://www.bing.com/th?id=OHR.OceanCityMD_EN-IN0871145545_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-IN8774755618",
         "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
         "copyrightKeyword": "Hakugei roller coaster Japan",
-        "hsh": "0f57ef90c89272144c4ec16530c20138",
-        "description": "From single rails to virtual reality experiences, roller coasters have been thrilling people for centuries. The origins of these rides can be traced back to 17th-century Russia, where wooden slides—'Russian Mountains'—provided seasonal entertainment. Pictured here is a hybrid coaster that combines wood and steel—Hakugei, the White Whale of Japan in Nagashima Spa Land. Once known as the  White Cyclone, this beast underwent a transformation in 2019. The ride's wooden track was replaced with a steel track. Its metamorphosis not only revved up its velocity and propelled it to new heights but also introduced gravity-defying inversions. So, if you find yourself in Japan, brave the Hakugei—buckle up, take the plunge and emerge with a tale as epic as the ride itself."
-    },
-    {
-        "fullstartdate": "202408141830",
-        "date": "20240815",
-        "url": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718",
-        "copyright": "Red Fort Delhi front view with Indian National Flag (© Roop Dey/Alamy Stock Photo)",
-        "copyrightKeyword": "Independence Day",
-        "hsh": "ec88a4c8822c0513b07a81b10a7f00e3"
+        "hsh": "0f57ef90c89272144c4ec16530c20138"
     }
 ]

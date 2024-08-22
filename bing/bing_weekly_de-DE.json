@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408222200",
+        "date": "20240823",
+        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012",
+        "copyright": "Tempelruinen von Phanom Rung, Provinz Buriram, Thailand (© Banjongseal324/Getty Images)",
+        "copyrightKeyword": "Phanom Rung",
+        "hsh": "88be614f440d7bfbc3674da475d65778",
+        "description": "Entdecken Sie mit uns die Tempelanlage Phanom Rung in der Provinz Buriram, Thailand – ein architektonisches Meisterwerk der Khmer, das zwischen dem 10. und 13. Jahrhundert erbaut wurde. Das Baudenkmal, das dem Gott Shiva gewidmet wurde, thront auf dem Rand eines erloschenen Vulkans, der einen atemberaubenden Blick auf die grünen Reisfelder und die majestätischen Dongrek-Berge Kambodschas freigibt. Vor dem Königsweg, eine 150 Meter lange Promenade, die von kunstvollen Steinskulpturen gesäumt ist, befindet sich der Phlab Phla, der auf unserem heutigen Bild zu sehen ist. Man nimmt an, dass es sich dabei um einen Badebereich handelt, den die Könige vor dem Betreten des Tempels nutzten. Der eigentliche Tempel wird durch einen 160 Meter langen, von Sandsteinsäulen gesäumten Fußweg erreicht, der zur ersten von drei Naga-Brücken führt. Die Brücken symbolisieren den Übergang vom Reich der Sterblichen in das Reich der Götter."
+    },
+    {
         "fullstartdate": "202408212200",
         "date": "20240822",
         "url": "https://www.bing.com/th?id=OHR.OceanCityMD_DE-DE3767484074_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_DE-DE2240435851",
         "copyright": "Achterbahn im Nagashima Spa Land, Präfektur Mie, Japan (© Japanese amateur photographer/Getty Images)",
         "copyrightKeyword": "Hakugei Achterbahn Japan",
-        "hsh": "81606322eb7a4062fcce5a7d174b0754",
-        "description": "Sie lieben den Adrenalin-Kick? Dann feiern Sie mit uns den Tag der Achterbahn! Die Wurzeln dieses Nervenkitzels reichen bis ins eisige Russland im 17. Jahrhundert zurück, als man sich auf holzgebauten Rutschen, den „Russischen Bergen“, vergnügte. Der Vorreiter der heutigen Achterbahn entstand jedoch Anfang des 19. Jahrhunderts im Herzen von Paris und nannte sich „Les Montagnes Russes à Belleville”. Die Bahn bestand aus Wägen auf Rädern, die fest mit den Schienen verbunden waren. Im 20. Jahrhundert gab es dann einen regelrechten Innovationsboom mit Achterbahnen, die erstmals einen Looping fuhren. Die Hybrid-Achterbahn Hakugei in Nagashima Spa Land in Japan auf unserem heutigen Bild vereint Holz und Stahl. 2019 wurde aus dem „White Cyclone” ein rasendes Ungeheuer mit stählernen Schienen, das nun mit atemberaubenden Inversionen begeistert und die wagemutigen Fahrer mit Geschwindigkeiten jenseits ihrer Vorstellungskraft katapultiert."
-    },
-    {
-        "fullstartdate": "202408142200",
-        "date": "20240815",
-        "url": "https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476",
-        "copyright": "Hang Sơn Đoòng-Höhle, Nationalpark Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
-        "copyrightKeyword": "Hang Son Doong Vietnam",
-        "hsh": "2275efab8364a8cc91587e03b27240f0"
+        "hsh": "81606322eb7a4062fcce5a7d174b0754"
     }
 ]
