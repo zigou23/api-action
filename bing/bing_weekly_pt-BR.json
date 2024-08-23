@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202408230300",
+        "date": "20240824",
+        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083",
+        "copyright": "Ruínas do templo de Prasat Phanom Rung, província de Buriram, Tailândia (© Banjongseal324/Getty Images)",
+        "copyrightKeyword": "Parque Histórico de Phanom Rung Tailândia",
+        "hsh": "f302f98ba2cbaffd02821089cc4f484b",
+        "description": "Embarque uma aventura inesquecível pelo Parque Histórico Phanom Rung, na Tailândia, onde o passado dialoga com o nosso presente. Construído entre os séculos X e XIII, este antigo templo hinduísta dedicado a Shiva está situado no topo de um vulcão extinto, oferecendo vistas deslumbrantes dos campos de arroz ao redor e das imponentes montanhas Dongrek, no Camboja, ao horizonte."
+    },
+    {
         "fullstartdate": "202408220300",
         "date": "20240823",
         "url": "https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617",
         "copyright": "Artesanato indígena brasileiro exposto para venda em feira ao ar livre (© Ricardo Lima/Getty Images)",
         "copyrightKeyword": "dia do folclore",
-        "hsh": "d9f32af12840576db64122ebeb70d1c5",
+        "hsh": "07f92f2674099f6a10b1d315654294c7",
         "description": "Descubra as tradições que moldam nossa identidade no Dia do Folclore! Nas feiras a céu aberto do Brasil, tesouros artesanais expressam a alma indígena da nossa terra. Em cada peça de artesanato indígena, há uma história, um legado que transborda em cores e formas. Grupos indígenas como os Yanomami, Ashaninka e Yawanawá mostram suas habilidades nessas peças feitas a partir de sementes e miçangas coloridas, unidas por técnicas ancestrais como encaixe, amarração e bordado, que dão vida a colares, pulseiras, brincos, cintos e adornos de cabeça."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NazcaBooby_PT-BR5782154593",
         "copyright": "Atobá-de-pé-vermelho, Ilha Wolf, Ilhas Galápagos, Equador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Atobá-de-pé-vermelho",
-        "hsh": "432af48b5f93be664c099132cf411602",
+        "hsh": "dff86327d757738c58b16dcb510e4e67",
         "description": "Você já conheceu o magnífico Atobá-de-pé-vermelho? Esta fascinante ave habita a remota e inigualável Ilha Wolf, parte do tesouro nacional que são as Ilhas Galápagos do Equador. A cerca de 4.000 quilômetros de nossa vibrante costa brasileira, esses pássaros são verdadeiros espetáculos da natureza, com seus pés de um vermelho intenso que não se confundem no azul infinito do oceano. Imagina que incrível seria avistá-los planando, com suas asas que alcançam até 1 metro de ponta a ponta!"
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_PT-BR6472241100",
         "copyright": "Montanha-russa no Nagashima Spa Land, província de Mie, Japão (© Japanese amateur photographer/Getty Images)",
         "copyrightKeyword": "Montanha-russa Hakugei Japão",
-        "hsh": "cabbabf7717db44d0e2735e20d2f6641",
-        "description": "Mãos para cima, muita adrenalina: feliz Dia Internacional da Montanha-russa! Desde as geladas ladeiras da Rússia do século XVII até a nossa imponente Montezum, no Hopi Hari, São Paulo, as montanhas-russas têm sido uma fonte de adrenalina pura. Em homenagem a esse legado, destacamos a Hakugei, no Japão, um prodígio da tecnologia híbrida de madeira e aço. A sua grande e luminosa estrutura metálica inspirou o seu nome, que em japonês significa ‘baleia branca’."
-    },
-    {
-        "fullstartdate": "202408150300",
-        "date": "20240816",
-        "url": "https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_PT-BR4594901649",
-        "copyright": "Caverna Hang Sơn Đoòng, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Geng Xu/Getty Images)",
-        "copyrightKeyword": "Sơn Đoòng Vietnã",
-        "hsh": "2166e8054f88f7be5d409bca6d9e955b"
+        "hsh": "cabbabf7717db44d0e2735e20d2f6641"
     }
 ]

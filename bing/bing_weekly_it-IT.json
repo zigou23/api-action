@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202408232200",
+        "date": "20240824",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072",
+        "copyright": "Monumento Nazionale Katahdin Woods and Waters, Contea di Penobscot, Maine, USA (© Cavan Images/Alamy Stock Photo)",
+        "copyrightKeyword": "Contea di Penobscot, Maine, USA",
+        "hsh": "40e2be98152095405a2dabc70b272057",
+        "description": "Il variegato ecosistema del Monumento Nazionale Katahdin Woods and Waters, nel Maine, negli USA, che potete ammirare nella foto, è il rifugio di specie animali come l'alce, l'orso nero e la lince canadese. Potrete immergervi in quasi 35.000 ettari di foreste impenetrabili e corsi d'acqua incontaminati. Godetevi la natura tra escursioni, canoa e campeggio. Un luogo come questo, lontano da centri abitati e quindi privo di inquinamento luminoso, vi garantirà delle notti stellate indimenticabili. È grazie alla filantropa Roxanne Quimby che questo luogo, dopo essere stato per anni l’epicentro della produzione del legname, oggi risplende come non mai."
+    },
+    {
         "fullstartdate": "202408222200",
         "date": "20240823",
         "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_IT-IT5114884058",
         "copyright": "Rovine del tempio di Prasat Phanom Rung, provincia di Buriram, Thailandia (© Banjongseal324/Getty Images)",
         "copyrightKeyword": "Tempio di Prasat Phanom Rung, Thailandia",
-        "hsh": "c2225e6fb19f5a58edd59a7d95ce320d",
+        "hsh": "b6fc082efa33ae6e77aa4816af0fa226",
         "description": "Oltre questa porta si nasconde un tesoro antico: il magnifico Parco Storico di Phanom Rung, situato nella provincia di Buriram, in Thailandia. Questo gioiello dell’architettura Khmer rappresenta l’impero che regnò per secoli nel sud-est asiatico, spaziando dalla Thailandia alla Cambogia, al Laos e al Vietnam. Il tempio, un omaggio alla divinità indù Shiva, fu costruito tra il X e il XIII secolo. Si erge sul bordo di un vulcano estinto, offrendoci una vista mozzafiato sulle imponenti montagne Dongrek della vicina Cambogia. Quando i raggi del sole filtrano tra le quindici porte del tempio, potrete ammirare uno spettacolo di luci senza pari."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OceanCityMD_IT-IT8362993245",
         "copyright": "Vista aerea di Ocean City all'alba, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)",
         "copyrightKeyword": "Ocean City, town degli Stati Uniti",
-        "hsh": "9449e0567cc586f73674a2f2811fd02c",
+        "hsh": "73b70d027dc831cefdbdc984ce8cfa92",
         "description": "Venite a scoprire Ocean City, nello stato del Maryland, negli Stati Uniti. Ad alcuni potrebbe far pensare a Rimini, famosa località balneare sulla costa adriatica. Entrambe le città sono celebri per la loro animata vita turistica e la cucina a base di pesce fresco. Ma torniamo sulla East Coast. Qui troverete un tesoro lungo la costa che affonda le radici nella storia americana. Dal 1875, anno di apertura dell'Atlantic Hotel, Ocean City affascina i viaggiatori che vogliono sfuggire al quotidiano."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_IT-IT5068594687",
         "copyright": "Faro di Alfanzina, Algarve, Portogallo (© Andreas Kunz/Getty Images)",
         "copyrightKeyword": "Carvoeiro sud di Lagoa, Portogallo",
-        "hsh": "065163899b561334d8f31cd23c08a523",
-        "description": "Se le scogliere rocciose potessero parlare, racconterebbero storie antiche, di imbarcazioni e di marinai accolti dal faro di Carvoeiro, nel sud del Portogallo. Oggi comincia il “Finesettimana Internazionale del Faro e delle Navi-Faro\". Lasciatevi incantare dalla loro immutabile presenza, simbolo delle tradizioni marittime che intrecciano la storia della navigazione. Un tempo guardiani irremovibili, i fari oggi si ergono silenziosi, testimoni di moderne tecnologie che hanno sostituito il calore umano con l'efficienza elettrica. Sin dagli albori della navigazione, l’essere umano inventò il faro, come il celebre esempio del Faro di Alessandria, costruito nel III secolo a. C. durante il regno tolemaico."
-    },
-    {
-        "fullstartdate": "202408152200",
-        "date": "20240816",
-        "url": "https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HangCave_IT-IT4945788331",
-        "copyright": "Grotta di Hang Sơn Đoòng, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images)",
-        "copyrightKeyword": "Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam",
-        "hsh": "9d4298c7c3dee098f9e5916a49d05752"
+        "hsh": "065163899b561334d8f31cd23c08a523"
     }
 ]
