@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408240400",
+        "date": "20240825",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343",
+        "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "a9adf4b89e85c65cf63776c0103388d0",
+        "description": "Welcome to Katahdin Woods and Waters National Monument in Maine, United States, where dense woodlands and pristine waterways stretch out as far as the eye can see. Covering nearly 350 square kilometres, this monument was established in 2016. The region played a significant role in Maine's logging industry for more than 100 years, but towards the end of the 19th century, this activity began to decline. Efforts to preserve the landscape we see here today were spearheaded by philanthropist Roxanne Quimby. She and her foundation started purchasing land near Baxter State Park in 2001 and donated it to the US federal government in 2016, ensuring its preservation for future generations."
+    },
+    {
         "fullstartdate": "202408230400",
         "date": "20240824",
         "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796",
         "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
         "copyrightKeyword": "International Lighthouse and Lightship Weekend",
-        "hsh": "2522f0b7144e581ab07182d67f742c03",
-        "description": "The lighthouse featured in today's image stands in Carvoeiro in the Algarve on the southern coast of Portugal. Built in 1919, the Alfanzina lighthouse shines out over the ocean to help ships navigate the dangerous waters that surround the area. A popular tourist destination, the lighthouse also has become a symbol of the region's deep links to the sea."
-    },
-    {
-        "fullstartdate": "202408160400",
-        "date": "20240817",
-        "url": "https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301",
-        "copyright": "Canadian International Air Show at the Canadian National Exhibition, in Toronto, Ontario (© Tony Florio/Alamy Stock Photo)",
-        "copyrightKeyword": "The Ex Toronto",
-        "hsh": "a1aaa177713baa2bcc65f9400430617e"
+        "hsh": "2522f0b7144e581ab07182d67f742c03"
     }
 ]

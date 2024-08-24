@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408241830",
+        "date": "20240825",
+        "url": "https://www.bing.com/th?id=OHR.GolcondaFort_EN-IN3908727493_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GolcondaFort_EN-IN3908727493",
+        "copyright": "Arched parapets of the Golconda Fort in Hyderabad, Telangana (© Manab Sen/Alamy Stock Photo)",
+        "copyrightKeyword": "golconda fort",
+        "hsh": "eb0854856594b9e267511354b246c5e2",
+        "description": "Today, let us step into Golconda Fort in the bustling city of Hyderabad. This fort once housed a vault that safeguarded some of the world's most famous gems, including the legendary Koh-i-Noor and Hope diamonds. The origins of the fort date back to the 11th century when it was first established as a modest mud fort by Pratāparudra of the Kakatiya Empire. It's also believed that the Kakatiya ruler Ganapatideva, who reigned from 1199 to 1262, constructed a stone outpost on the hilltop to protect the empire's western frontier."
+    },
+    {
         "fullstartdate": "202408231830",
         "date": "20240824",
         "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-IN9245397268_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048",
         "copyright": "Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)",
         "copyrightKeyword": "Huntington Beach Pier",
-        "hsh": "2c2bc5c4776fb833c58b1618dd0eefb7",
-        "description": "In today's image, we see the sun beginning to disappear below the pier at Huntington Beach, California. First built in 1902, Huntington Beach Pier was damaged by a storm, leading it to be rebuilt just nine years later. During the Second World War, a submarine lookout post was installed on the pier to help with the war effort. These days, it's a popular tourist spot, with visitors heading there to fish and to watch surfers ride the waves out in the Pacific Ocean."
-    },
-    {
-        "fullstartdate": "202408161830",
-        "date": "20240817",
-        "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-IN9099733197",
-        "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
-        "copyrightKeyword": "Alfanzina lighthouse",
-        "hsh": "bb6e576511ef22a0df051529923ecd21"
+        "hsh": "2c2bc5c4776fb833c58b1618dd0eefb7"
     }
 ]

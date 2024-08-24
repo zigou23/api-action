@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408240700",
+        "date": "20240825",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375",
+        "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "d828e71956e04cd7562925dd7e3d680d",
+        "description": "Welcome to Katahdin, where dense woodlands and pristine waterways stretch out as far as the eye can see. Covering nearly 87,500 acres, this new national monument was established eight years ago today. Maine's logging industry was a big part of this region for over a hundred years but declined toward the end of the 19th century. Efforts to preserve its landscape were spearheaded by philanthropist Roxanne Quimby. She started buying land near Baxter State Park in 2001 and donated it to the federal government in 2016, ensuring its preservation for future generations."
+    },
+    {
         "fullstartdate": "202408230700",
         "date": "20240824",
         "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672",
         "copyright": "Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
         "copyrightKeyword": "International lighthouse and lightship weekend",
-        "hsh": "e414a7b99b889bd095e88ea8633ab8af",
-        "description": "The lighthouse featured in today's image stands in southern Portugal's popular Algarve region. Built in 1919, Alfanzina Lighthouse helps ships navigate dangerous waters near the town of Carvoeiro. A popular tourist destination, the lighthouse also has become a symbol of the region's deep links to the sea. If you're lucky enough to live near a lighthouse, this weekend is the perfect time to pay it a visit."
-    },
-    {
-        "fullstartdate": "202408160700",
-        "date": "20240817",
-        "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683",
-        "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
-        "copyrightKeyword": "Hakugei roller coaster Japan",
-        "hsh": "26f12e3996b52a7b9a9ba67404db11d9"
+        "hsh": "e414a7b99b889bd095e88ea8633ab8af"
     }
 ]

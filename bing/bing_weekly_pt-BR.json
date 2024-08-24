@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408240300",
+        "date": "20240825",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732",
+        "copyright": "Monumento Nacional Katahdin Woods and Waters, Condado de Penobscot, Maine, EUA (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Condado de Penobscot, Maine, EUA",
+        "hsh": "c95c28854deac8b9f8ddbb67b3583038",
+        "description": "Celebre o legado da natureza! Na imagem de hoje vemos a beleza natural do Monumento Nacional Katahdin Woods and Waters nos EUA. Essa região deslumbrante de mais de 35 mil hectares, no Condado de Penobscot, Maine, conecta a grandiosidade da natureza com a nossa consciência ambiental. Assim como o Brasil valoriza a Exuberância do Amazonas, o Katahdin preserva as paisagens que nos lembram da importância da conservação."
+    },
+    {
         "fullstartdate": "202408230300",
         "date": "20240824",
         "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_PT-BR0925050083_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_PT-BR6712020565",
         "copyright": "Farol de Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)",
         "copyrightKeyword": "Farol de Alfanzina, Algarve",
-        "hsh": "ffe477fdb88d8cc333430e3aed350dbd",
-        "description": "A história dos faróis começa bem cedo e eles têm sido uma ajuda fundamental para os navegantes que cruzam os mares há centenas de anos. São construções pensadas para suportar situações climáticas intensas, por isso que ainda hoje podemos encontrar construções tão antigas como o Farol da Barra, na Bahia, uma construção do século XVII que ainda continua em funcionamento."
-    },
-    {
-        "fullstartdate": "202408160300",
-        "date": "20240817",
-        "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_PT-BR6472241100_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_PT-BR6472241100",
-        "copyright": "Montanha-russa no Nagashima Spa Land, província de Mie, Japão (© Japanese amateur photographer/Getty Images)",
-        "copyrightKeyword": "Montanha-russa Hakugei Japão",
-        "hsh": "cabbabf7717db44d0e2735e20d2f6641"
+        "hsh": "ffe477fdb88d8cc333430e3aed350dbd"
     }
 ]

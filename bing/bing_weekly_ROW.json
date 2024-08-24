@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408240700",
+        "date": "20240825",
+        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064",
+        "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
+        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
+        "hsh": "de8e87087e4a1f722da545151cc5b67c",
+        "description": "Welcome to Katahdin Woods and Waters National Monument in Maine, United States, where dense woodlands and pristine waterways stretch out as far as the eye can see. Covering nearly 350 square kilometres, this monument was established in 2016. The region played a significant role in Maine's logging industry for more than 100 years, but towards the end of the 19th century, this activity began to decline. Efforts to preserve the landscape we see here today were spearheaded by philanthropist Roxanne Quimby. She and her foundation started purchasing land near Baxter State Park in 2001 and donated it to the federal government in 2016, ensuring its preservation for future generations."
+    },
+    {
         "fullstartdate": "202408230700",
         "date": "20240824",
         "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_ROW3985058133_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ROW4789645958",
         "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
         "copyrightKeyword": "Alfanzina lighthouse",
-        "hsh": "314d4184a2f28c5ea8df2901333c50c1",
-        "description": "The lighthouse featured in today's image stands in Carvoeiro in the Algarve on the southern coast of Portugal. Built in 1919, the Alfanzina lighthouse shines out over the ocean to help ships navigate the dangerous waters that surround the area. This lighthouse is painted white and is topped by a red cylindrical tower. This beacon's role has evolved, with automation in marking the end of the era of lighthouse keepers. A popular tourist destination, it has become a symbol of the region's deep links to the sea. So, whether you're a lover of heritage or a seeker of picturesque landscapes, the Alfanzina lighthouse calls to you."
-    },
-    {
-        "fullstartdate": "202408160700",
-        "date": "20240817",
-        "url": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_ROW4636673372_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.JapanRollerCoaster_ROW4636673372",
-        "copyright": "Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)",
-        "copyrightKeyword": "Hakugei roller coaster Japan",
-        "hsh": "f0731b942f18aaa5e1ff92a108c45e9a"
+        "hsh": "314d4184a2f28c5ea8df2901333c50c1"
     }
 ]
