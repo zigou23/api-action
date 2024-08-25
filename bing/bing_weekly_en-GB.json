@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408252300",
+        "date": "20240826",
+        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-GB5731259364_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-GB5731259364",
+        "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightKeyword": "Palmyra Atoll",
+        "hsh": "a8d7681aa3e9d0c1c9472ca0de0f075e",
+        "description": "Welcome to this eco-travellers' paradise in the middle of the Pacific Ocean. Situated halfway between Hawaii and American Samoa, the Palmyra Atoll National Wildlife Refuge was established in 2001 to conserve, manage and restore the United States' fish, wildlife, plants and habitats."
+    },
+    {
         "fullstartdate": "202408242300",
         "date": "20240825",
         "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-GB9627605146_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-GB8055727268",
         "copyright": "Huntington Beach Pier at sunset, California, USA (© Stan Moniz Photography/TANDEM Stills + Motion)",
         "copyrightKeyword": "Huntington Beach Pier",
-        "hsh": "7296aa20f386595e06230ee75442fdff",
-        "description": "In today's image, we see the sun beginning to disappear below the pier at Huntington Beach, California. First built in 1902, Huntington Beach Pier was damaged by a storm, leading it to be rebuilt just nine years later. During the Second World War, a submarine lookout post was installed on the pier to help with the war effort. These days, it's a popular tourist spot, with visitors heading there to fish and to watch surfers ride the waves out in the Pacific Ocean."
-    },
-    {
-        "fullstartdate": "202408172300",
-        "date": "20240818",
-        "url": "https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944",
-        "copyright": "Fresh garlic bulbs for sale at the garlic farm on the Isle of Wight, England (© Steve Hawkins Photography/Alamy Stock Photo)",
-        "copyrightKeyword": "Isle of Wight",
-        "hsh": "8b74eaa56eb3a388f94ad4c0bb6c0579"
+        "hsh": "7296aa20f386595e06230ee75442fdff"
     }
 ]

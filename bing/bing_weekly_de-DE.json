@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408252200",
+        "date": "20240826",
+        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_DE-DE5676612889_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_DE-DE5676612889",
+        "copyright": "Schutzgebiet Palmyra-Atoll, Pazifischer Ozean, USA (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightKeyword": "Palmyra-Atoll",
+        "hsh": "136cf6a5d91e68bf7e4fc990474b4583",
+        "description": "Unberührt und im Einklang mit der Natur: Auf unserem heutigen Bild sind wir auf der Insel Palmyra-Atoll, 165 Kilometer südwestlich von Hawaii im Pazifischen Ozean gelegen. Die Insel wurde 2001 zum Schutzgebiet erklärt, um die einzigartige Flora und Fauna zu schützen und zu regenerieren. Das Atoll beherbergt ein weitläufiges Riffsystem mit drei flachen Lagunen und zahlreichen sandigen sowie felsigen Inselchen. Hier stehen Kokospalmen, Fächerblumen und die majestätischen Pisonia-Bäume. Doch das ist noch lange nicht alles. Über eine Million Vögel aus 29 verschiedenen Arten, darunter Maskentölpel, Fregattvögel und Rußseeschwalben, sind hier zuhause. Selbst Rotfußtölpel, meist nur auf den Galapagosinseln heimisch, nisten hier. Die Artenvielfalt unter Wasser beeindruckt gleichermaßen: Grüne Meeresschildkröten, Echte Karettschildkröten und auch die Kokosnusskrabbe – das größte landlebende wirbellose Tier unserer Erde."
+    },
+    {
         "fullstartdate": "202408242200",
         "date": "20240825",
         "url": "https://www.bing.com/th?id=OHR.VineyardsinRemstalvalley_DE-DE8704317940_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_DE-DE4289172038",
         "copyright": "Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)",
         "copyrightKeyword": "Bufadero de la Garita",
-        "hsh": "8a2c0957bab44ee2edb6b928025a7c9e",
-        "description": "Heute stellen wir Ihnen ein wahres Wunderwerk der Natur vor: den Bufadero de la Garita auf Gran Canaria in Spanien. Der an der malerischen Ostküste der Insel gelegene \"Bufadero\" ist ein faszinierendes Blasloch in den Felsen, aus dem das Meerwasser mit Wucht ein- und austritt und so ein beeindruckendes Naturschauspiel erzeugt, wie wir auf dem heutigen Bild sehen können. Die Wellen schlagen mit einer solchen Intensität auf, dass das Wasser mehrere Meter hoch in die Luft steigt und eine Art majestätischer Meeresgeysir bildet."
-    },
-    {
-        "fullstartdate": "202408172200",
-        "date": "20240818",
-        "url": "https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619",
-        "copyright": "Externsteine im Teutoburger Wald, Nordrhein-Westfalen (© MoJoLo/Panther Media GmbH/Alamy Stock Photo)",
-        "copyrightKeyword": "Externsteine Teutoburg",
-        "hsh": "c87c2c75aa0bfa27b5d6fdb5d28857bc"
+        "hsh": "8a2c0957bab44ee2edb6b928025a7c9e"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408250400",
+        "date": "20240826",
+        "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836",
+        "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
+        "copyrightKeyword": "Swiftcurrent Lake",
+        "hsh": "2db85f25d9be86ad5062d95f1438a6c9",
+        "description": "Join us as we explore Glacier National Park in Montana, United States, established in 1910. This national park has more than 700 lakes, two mountain ranges and vast forests teeming with life, earning it the moniker 'Crown of the Continent.' With its 25 glaciers, it's a vital study ground for scientists monitoring climate change, who have warned that glaciers might disappear by 2030. Spanning approximately 4,100 square kilometres, this park protects animals such as grizzly bears, moose, elk and mountain goats. Glacier National Park also houses the Going-to-the-Sun Road, more than 1,120 kilometres of trails and the awe-inspiring vistas of Swiftcurrent Lake, seen in today's image. The park's ancient cedar forests and crystalline waterfalls capture the essence of the untamed wilderness, inviting all who seek peace and adventure within its bounds."
+    },
+    {
         "fullstartdate": "202408240400",
         "date": "20240825",
         "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-CA4283542343_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-CA6417912965",
         "copyright": "Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)",
         "copyrightKeyword": "Huntington Beach Pier",
-        "hsh": "47899860ba3f0d97b96f6f74f3bc15aa",
-        "description": "In today's image, we see the sun beginning to disappear below the pier at Huntington Beach, California, US. First built in 1902, Huntington Beach Pier was damaged by a storm, leading it to be rebuilt just nine years later. During the Second World War, a submarine lookout post was installed on the pier to help with the war effort. These days, it's a popular tourist spot, with visitors heading there to fish and watch surfers ride the waves out in the Pacific Ocean."
-    },
-    {
-        "fullstartdate": "202408170400",
-        "date": "20240818",
-        "url": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-CA6912914796",
-        "copyright": "Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)",
-        "copyrightKeyword": "International Lighthouse and Lightship Weekend",
-        "hsh": "2522f0b7144e581ab07182d67f742c03"
+        "hsh": "47899860ba3f0d97b96f6f74f3bc15aa"
     }
 ]
