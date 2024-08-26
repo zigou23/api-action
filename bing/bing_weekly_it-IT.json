@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408262200",
+        "date": "20240827",
+        "url": "https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331",
+        "copyright": "Lago Misurina, Auronzo di Cadore, Belluno, Veneto (© Andrew_Mayovskyy/iStock/Getty Images Plus)",
+        "copyrightKeyword": "Lago di Misurina",
+        "hsh": "82ac92011b7806e9ccbdfe640f8af6c1",
+        "description": "Nel cuore delle Dolomiti bellunesi sorge uno specchio d'acqua che incanta al primo sguardo: il lago di Misurina. Ci troviamo in Veneto, in provincia di Belluno. Un gioiello incastonato nel cuore delle Dolomiti, dove risplende l’acqua cristallina e dal quale si può osservare il famoso gruppo delle Tre Cime di Lavaredo. A 1.754 metri di altitudine, offre un panorama mozzafiato, trasmettendo una sensazione di tranquillità unica. Passeggiare lungo i sentieri, respirare l’aria pulita delle montagne e il solo ascolto del mormorio delle acque, sono una cura per anima e corpo."
+    },
+    {
         "fullstartdate": "202408252200",
         "date": "20240826",
         "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082",
         "copyright": "Parco Nazionale del Grand Teton, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)",
         "copyrightKeyword": "Parco Nazionale del Grand Teton, Wyoming, USA",
-        "hsh": "0ad28be9e9457fe68b227f8e9bda8d62",
-        "description": "Ammirate questo maestoso parco: il Parco Nazionale del Grand Teton nel Wyoming, negli Stati Uniti. Chi ama la natura incontaminata non potrà resistere alla chiamata di questo luogo selvaggio che ospita un ecosistema pressoché intatto, con specie come orsi grizzly, lupi, bisonti, alci e aquile calve. Fondato nel 1929, il parco copre un’area di quasi 1.300 km² e include la catena montuosa dei Teton. Qui potrete godere di una vasta gamma di attività all’aperto, come escursioni, alpinismo, pesca e osservazione della fauna selvatica. I panorami delle vette innevate, dei laghi cristallini e delle vaste praterie sono tutto ciò di cui anima, cuore e occhi hanno bisogno."
-    },
-    {
-        "fullstartdate": "202408182200",
-        "date": "20240819",
-        "url": "https://www.bing.com/th?id=OHR.RegataSanGines_IT-IT5321961611_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RegataSanGines_IT-IT5321961611",
-        "copyright": "Bufadero de la Garita, Gran Canaria, Spagna (© Marco Bottigelli/Getty Images)",
-        "copyrightKeyword": "Gran Canaria, Spagna",
-        "hsh": "f1b6bd5483ff65a0a0d1fb1f09b384a5"
+        "hsh": "0ad28be9e9457fe68b227f8e9bda8d62"
     }
 ]
