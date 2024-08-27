@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408272200",
+        "date": "20240828",
+        "url": "https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254",
+        "copyright": "Montmartre e Sacro Cuore, Parigi, Francia (© Tuul & Bruno Morandi/Getty Images)",
+        "copyrightKeyword": "Giochi paralimpici",
+        "hsh": "45bbcd3534384039c2926be8cfe73d24",
+        "description": "Pensavate che le Olimpiadi fossero finite? Vi sbagliate! Oggi, oltre 4.000 valorosi atleti di tutto il mondo danno vita alle Paralimpiadi estive di Parigi, gareggiando in 22 discipline per un totale di 549 entusiasmanti eventi. Queste videro la loro prima apparizione a Roma nel 1960, segnando un momento storico per lo sport inclusivo. Le Paralimpiadi del 1960 furono le prime ad essere ufficialmente riconosciute dal Comito Olimpico Internazionale, rappresentando un importante passo avanti per l’integrazione e l’uguaglianza nello sport."
+    },
+    {
         "fullstartdate": "202408262200",
         "date": "20240827",
         "url": "https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.NazcaBooby_IT-IT8043395751",
         "copyright": "Sula di Nazca, Isole di Wolf, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
         "copyrightKeyword": "Sula granti uccello",
-        "hsh": "8e254abb2dc222b83bcbf827001d4415",
-        "description": "Avete mai visitato le Isole Galápagos in Ecuador, un vero e proprio paradiso terrestre nell'est del Pacifico? Quest'arcipelago vanta ecosistemi vari, dai territori aridi alle lussureggianti foreste pluviali. L'isolamento delle isole favorisce la presenza di specie uniche al mondo, come la vivace sula di Nazca, immortalata qui sull'isola di Wolf. Ora si capisce per quale motivo il famoso scienziato Charles Darwin abbia eseguito vari studi naturalistici delle specie di flora e fauna in questo angolo remoto del globo."
-    },
-    {
-        "fullstartdate": "202408192200",
-        "date": "20240820",
-        "url": "https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TetonSunrise_IT-IT6014287082",
-        "copyright": "Parco Nazionale del Grand Teton, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)",
-        "copyrightKeyword": "Parco Nazionale del Grand Teton, Wyoming, USA",
-        "hsh": "0ad28be9e9457fe68b227f8e9bda8d62"
+        "hsh": "8e254abb2dc222b83bcbf827001d4415"
     }
 ]
