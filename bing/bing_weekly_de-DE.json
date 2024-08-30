@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408302200",
+        "date": "20240831",
+        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437",
+        "copyright": "Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "Djanet",
+        "hsh": "83d37d05ca91c42b3e088335cef1d975",
+        "description": "Entdecken Sie mit uns die Schätze Algeriens, ein Land, das durch seine atemberaubenden Landschaften verzaubert – vom Mittelmeer bis zur endlosen Sahara. Heute führt unsere Reise zum Plateau der Tassili n' Ajjer, einem Gebiet, das von der UNESCO zum Welterbe erklärt wurde. Die beeindruckenden Felsformationen und Höhlenzeichnungen, die älter als 12.000 Jahre sind und Szenen aus dem Alltag, der Jagd und mystische Wesen darstellen, ziehen jeden in ihren Bann. Nur einen Steinwurf entfernt befindet sich Djanet, die „Perle der Wüste“. In dieser Oasenstadt, in der etwa 15.000 Menschen der Kel Ajjer Tuareg-Gemeinschaft leben, bilden Palmenhaine und Gärten einen eindrucksvollen Kontrast zur goldenen Umgebung. Erleben Sie das wahre Djanet auf seinen lebhaften Märkten, vorbei an bunten Moscheen und traditionellen Lehmbauten."
+    },
+    {
         "fullstartdate": "202408292200",
         "date": "20240830",
         "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372",
         "copyright": "Museumsinsel auf der Spree und Fernsehturm, Berlin (© TomasSereda/Getty Images)",
         "copyrightKeyword": "Lange Nacht der Museen",
-        "hsh": "a91d6f7874c3aecfa92a291c2cdc97f4",
-        "description": "Heute feiern wir die Lange Nacht der Museen in Berlin! Dieses jährliche Ereignis, das Kunst- und Kulturbegeisterte aus der ganzen Welt anzieht, bietet eine einzigartige Gelegenheit, zahlreiche Museen der Stadt in einer besonderen nächtlichen Atmosphäre zu erleben. Mit einem einzigen Ticket erhalten Besucher Zugang zu über 70 Museen, Galerien und historischen Stätten, die bis in die frühen Morgenstunden geöffnet sind."
-    },
-    {
-        "fullstartdate": "202408222200",
-        "date": "20240823",
-        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_DE-DE7459210012",
-        "copyright": "Tempelruinen von Phanom Rung, Provinz Buriram, Thailand (© Banjongseal324/Getty Images)",
-        "copyrightKeyword": "Phanom Rung",
-        "hsh": "88be614f440d7bfbc3674da475d65778"
+        "hsh": "a91d6f7874c3aecfa92a291c2cdc97f4"
     }
 ]
