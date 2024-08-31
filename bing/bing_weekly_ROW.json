@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408310700",
+        "date": "20240901",
+        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ROW6327160471_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ROW6327160471",
+        "copyright": "Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "Djanet",
+        "hsh": "6351ae44ebd1df0101591ea176c74032",
+        "description": "From the Mediterranean coast to the vast Sahara Desert, Algeria in North Africa has a wide variety of landscapes. Today, we're exploring the area around the Tassili n'Ajjer plateau. This UNESCO World Heritage Site is famed for its rock formations and cave art. More than 15,000 ancient engravings, some dating back 12,000 years, depict scenes of daily life, hunting and mystical beings. After checking out this desert landscape, it's time to head to town."
+    },
+    {
         "fullstartdate": "202408300700",
         "date": "20240831",
         "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_ROW6113482072_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064",
         "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
         "copyrightKeyword": "Katahdin Woods and Waters National Monument",
-        "hsh": "8551237d531f83bccd362b337ea14b93",
-        "description": "Welcome to Katahdin Woods and Waters National Monument in Maine, United States, where dense woodlands and pristine waterways stretch out as far as the eye can see. Covering nearly 350 square kilometres, this monument was established in 2016. The region played a significant role in Maine's logging industry for more than 100 years, but towards the end of the 19th century, this activity began to decline. Efforts to preserve the landscape we see here today were spearheaded by philanthropist Roxanne Quimby. She and her foundation started purchasing land near Baxter State Park in 2001 and donated it to the federal government in 2016, ensuring its preservation for future generations."
-    },
-    {
-        "fullstartdate": "202408230700",
-        "date": "20240824",
-        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_ROW3985058133_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_ROW3985058133",
-        "copyright": "Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)",
-        "copyrightKeyword": "Phanom Rung Historical Park",
-        "hsh": "62475380d2e66f92a9f0404eba75efb8"
+        "hsh": "8551237d531f83bccd362b337ea14b93"
     }
 ]

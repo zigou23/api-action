@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408312200",
+        "date": "20240901",
+        "url": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877",
+        "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
+        "copyrightKeyword": "Regata Storica, Serenissima",
+        "hsh": "d4faf66352fee6530cfe0396fe3db728",
+        "description": "Immergetevi nella tradizione e nel colore della Regata Storica di Venezia 2025, uno spettacolo fluviale che incanta e coinvolge ogni anno cittadini e visitatori. La Serenissima veste i suoi migliori ornamenti: gondole splendidamente decorate, gondolieri in abiti storici e una parata che rievoca il fasto della Venezia antica, creando un mosaico vivente di storia e cultura. L’evento si divide in due parti: la sfilata storica e le competizioni. La sfilata, che apre la giornata, vede un corteo di imbarcazioni storiche, con figuranti in costumi d’epoca che rappresentano il Doge e la sua corte, rievocando l’accoglienza riservata alla regina di Cipro nel 1489."
+    },
+    {
         "fullstartdate": "202408302200",
         "date": "20240831",
         "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070",
         "copyright": "Alba sul lago Swiftcurrent, Parco Nazionale dei Ghiacciai, Montana, USA (© Jason Savage/Tandem Stills + Motion)",
         "copyrightKeyword": "Swiftcurrent, Parco Nazionale dei Ghiacciai, Montana, USA",
-        "hsh": "56a090b6008f832a94aea56d63cca454",
-        "description": "Sapevate che oggi negli USA viene celebrato il “Giorno della Fondazione del Servizio Parchi Nazionali”? Rendiamo onore a coloro che hanno avuto la lungimiranza di creare il NPS, l’agenzia statunitense dedita alla tutela della fauna, alla custodia dei paesaggi naturali, e a fornire programmi educativi. Negli Stati Uniti ci sono 429 parchi nazionali, uno più bello dell’altro e tutti da scoprire. Quello che potete ammirare nell’odierna foto è il lago Swiftcurrent nel Parco Nazionale dei Ghiacciai in Montana. L’acqua, limpida e pura, invita, seppur molto fredda, con un sussurro nell’afa di agosto: voi vi tuffereste?"
-    },
-    {
-        "fullstartdate": "202408232200",
-        "date": "20240824",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072",
-        "copyright": "Monumento Nazionale Katahdin Woods and Waters, Contea di Penobscot, Maine, USA (© Cavan Images/Alamy Stock Photo)",
-        "copyrightKeyword": "Contea di Penobscot, Maine, USA",
-        "hsh": "40e2be98152095405a2dabc70b272057"
+        "hsh": "56a090b6008f832a94aea56d63cca454"
     }
 ]

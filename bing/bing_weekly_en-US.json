@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202408310700",
+        "date": "20240901",
+        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323",
+        "copyright": "Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)",
+        "copyrightKeyword": "Tassili n'Ajjer world heritage site",
+        "hsh": "fbc36384ea9987a1700a260a6c2786cb",
+        "description": "From the Mediterranean coast to the vast Sahara, Algeria in North Africa has a wide variety of landscapes. Today, we're exploring the area around the Tassili n'Ajjer plateau. This UNESCO World Heritage Site is famed for its rock formations and cave art. More than 15,000 ancient engravings, some dating back 12,000 years, depict scenes of daily life, hunting, and mystical beings."
+    },
+    {
         "fullstartdate": "202408300700",
         "date": "20240831",
         "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375",
         "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
         "copyrightKeyword": "Katahdin Woods and Waters National Monument",
-        "hsh": "e0b6a62eb1b4cf97a476ad88f66c3da4",
-        "description": "Welcome to Katahdin, where dense woodlands and pristine waterways stretch out as far as the eye can see. Covering nearly 87,500 acres, this new national monument was established eight years ago today. Maine's logging industry was a big part of this region for over a hundred years but declined toward the end of the 19th century. Efforts to preserve its landscape were spearheaded by philanthropist Roxanne Quimby. She started buying land near Baxter State Park in 2001 and donated it to the federal government in 2016, ensuring its preservation for future generations."
-    },
-    {
-        "fullstartdate": "202408230700",
-        "date": "20240824",
-        "url": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175",
-        "copyright": "Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)",
-        "copyrightKeyword": "Phanom Rung Historical Park",
-        "hsh": "28044283e54543cbe239bc0aa0117ce9"
+        "hsh": "e0b6a62eb1b4cf97a476ad88f66c3da4"
     }
 ]
