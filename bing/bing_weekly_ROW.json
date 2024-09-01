@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409010700",
+        "date": "20240902",
+        "url": "https://www.bing.com/th?id=OHR.ThamesLondon_ROW6580939487_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_ROW6580939487",
+        "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
+        "copyrightKeyword": "River Thames",
+        "hsh": "1bf39e1f0a55e32838238d29f422e2d3",
+        "description": "The River Thames, the longest river entirely in England, has more than 80 islands along its course. Starting in Gloucestershire and winding through cities like Oxford, Windsor, and in today's image, London, it flows for more than 340 kilometres before merging with the North Sea. With a range of freshwater and near seawater habitats, the river is a haven for an array of wildlife like mute swans and bottlenose dolphins. The lower stretches of the river, known as the Tideway, extend up to Teddington Lock, reflecting its extensive tidal reach. From Oxford to its estuary, the river descends 55 metres. Although the Thames flows through some of the drier regions of mainland Britain and is heavily tapped for drinking water, its discharge is relatively low compared to its size."
+    },
+    {
         "fullstartdate": "202408310700",
         "date": "20240901",
         "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ROW6327160471_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_ROW4729110075",
         "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
         "copyrightKeyword": "Swiftcurrent Lake",
-        "hsh": "7d7abdb49c2377b6d49a2f00809ba4b8",
-        "description": "Join us as we explore Glacier National Park in Montana, United States, established in 1910. This national park has more than 700 lakes, two mountain ranges and vast forests teeming with life, earning it the moniker 'Crown of the Continent.' With its 25 glaciers, it’s a vital study ground for scientists monitoring climate change, who have warned that glaciers might disappear by 2030. Spanning approximately 4,100 square kilometres, this park protects animals such as grizzly bears, moose, elks and mountain goats. Glacier National Park also houses the Going-to-the-Sun Road, more than 1,120 kilometres of trails and the awe-inspiring vistas of Swiftcurrent Lake, seen in today's image. The park's ancient cedar forests and crystalline waterfalls capture the essence of the untamed wilderness, inviting all who seek peace and adventure within its bounds."
-    },
-    {
-        "fullstartdate": "202408240700",
-        "date": "20240825",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064",
-        "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Katahdin Woods and Waters National Monument",
-        "hsh": "8551237d531f83bccd362b337ea14b93"
+        "hsh": "7d7abdb49c2377b6d49a2f00809ba4b8"
     }
 ]

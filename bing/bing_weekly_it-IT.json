@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409012200",
+        "date": "20240902",
+        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227",
+        "copyright": "Ara, Mato Grosso do Sul, Brasile (© Ellen Goff/Danita Delimont)",
+        "copyrightKeyword": "Ara uccello",
+        "hsh": "9ffe5e560ca5be3a06b4a10e6909b5fc",
+        "description": "Benvenuti al magico ballo delle Arare, dei pappagalli, anche conosciuti come Ara, nell’oasi di Buraco das Araras, in Brasile! In questa imponente dolina, lo spettacolo della flora e della fauna è garantito. Gli Ara, tipici della zona, si distinguono per il loro piumaggio blu, giallo, rosso e verde, creando un contrasto cromatico incantevole su uno sfondo di cielo azzurro e pareti di arenaria rossa. La voragine, con quasi 130 metri di profondità, è un santuario per questi splendidi uccelli, creando una cartolina idilliaca. La loro presenza non è solo segno della ricca biodiversità locale, ma rappresenta anche un’attrazione per ecoturisti e amanti della natura."
+    },
+    {
         "fullstartdate": "202408312200",
         "date": "20240901",
         "url": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573",
         "copyright": "Rifugio nazionale dell'atollo di Palmyra, Oceano Pacifico (© Ian Shive/Tandem Stills + Motion)",
         "copyrightKeyword": "Atollo Palmyra",
-        "hsh": "a5c293aca56a476a8c6fcd80ceb46f2b",
-        "description": "Benvenuti al santuario dell’Oceano Pacifico: l'Atollo di Palmyra. Questo angolo di paradiso, ricco di biodiversità, vi aspetta con incantevoli lagune basse e isole costellate di fauna selvatica e flora esotica. Questo luogo straordinario deve la sua preservazione al Palmyra Atoll National Wildlife Refuge, istituito nel 2001 per conservare, gestire e ripristinare pesci, fauna selvatica e piante e in questa area unica. Con un binocolo alla mano, potrete ammirare una incredibile varietà di uccelli, mentre sott’acqua vi aspetta uno spettacolo altrettanto imperdibile, con tartarughe marine e maestosi granchi di cocco. Palmyra è una testimonianza vivente dell'importanza della conservazione marina e terrestre."
-    },
-    {
-        "fullstartdate": "202408242200",
-        "date": "20240825",
-        "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070",
-        "copyright": "Alba sul lago Swiftcurrent, Parco Nazionale dei Ghiacciai, Montana, USA (© Jason Savage/Tandem Stills + Motion)",
-        "copyrightKeyword": "Swiftcurrent, Parco Nazionale dei Ghiacciai, Montana, USA",
-        "hsh": "56a090b6008f832a94aea56d63cca454"
+        "hsh": "a5c293aca56a476a8c6fcd80ceb46f2b"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409010300",
+        "date": "20240902",
+        "url": "https://www.bing.com/th?id=OHR.ThamesLondon_PT-BR5304149458_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_PT-BR5304149458",
+        "copyright": "Rio Tâmisa, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)",
+        "copyrightKeyword": "Rio Tâmisa, Londres, Inglaterra",
+        "hsh": "088b9b48c5b013d3fa2f13f10fae9b03",
+        "description": "Descubra as maravilhas do Tâmisa, a artéria de Londres! Você sabia que o icônico Rio Tâmisa, joia da coroa de Londres, percorre impressionantes 346 quilômetros antes de se encontrar com o vasto Mar do Norte? Essa maravilha natural, testemunha de incontáveis histórias, atravessa a Inglaterra serpenteando a paisagem e conduzindo à majestosa foz no oceano Atlântico. É como se o próprio rio contasse a rica história britânica, inspirando visitantes e locais com sua corrente incessante."
+    },
+    {
         "fullstartdate": "202408310300",
         "date": "20240901",
         "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_PT-BR4680900903_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_PT-BR2467952516",
         "copyright": "Amanhecer sobre o Lago Swiftcurrent, Parque Nacional Glacier, Montana, EUA (© Jason Savage/Tandem Stills + Motion)",
         "copyrightKeyword": "Dia dos Fundadores do Serviço Nacional de Parques, EUA",
-        "hsh": "55c94e1ed042766269834b328bdfc1b5",
-        "description": "Descubra o coração selvagem da América do Norte! Já imaginou contemplar a grandeza do amanhecer sobre o lago Swiftcurrent? Este cenário, digno de cartão-postal, revela o mais puro esplendor das primeiras luzes do dia refletindo em águas que se estendem por quase 1 quilômetro, cercado por montanhas do Parque Nacional Glacier, nos Estados Unidos. Este santuário de natureza foi fundado em 1910 e se estende por mais de 4.000 quilômetros quadrados. O Glacier se destaca como uma joia ecológica e é considerado a \"Coroa do Continente\", um ponto de encontro para pesquisadores que estudam as mudanças climáticas."
-    },
-    {
-        "fullstartdate": "202408240300",
-        "date": "20240825",
-        "url": "https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KatahdinWoods_PT-BR1618400732",
-        "copyright": "Monumento Nacional Katahdin Woods and Waters, Condado de Penobscot, Maine, EUA (© Cavan Images/Alamy)",
-        "copyrightKeyword": "Condado de Penobscot, Maine, EUA",
-        "hsh": "c95c28854deac8b9f8ddbb67b3583038"
+        "hsh": "55c94e1ed042766269834b328bdfc1b5"
     }
 ]
