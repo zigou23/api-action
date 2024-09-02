@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409020700",
+        "date": "20240903",
+        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_ROW6781407231_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_ROW6781407231",
+        "copyright": "Red-and-green macaws, Mato Grosso do Sul, Brazil (© Ellen Goff/Danita Delimont)",
+        "copyrightKeyword": "macaw",
+        "hsh": "1b0e6971253105b0cd43e5e60e65f360",
+        "description": "Today's image features red-and-green macaws at Buraco das Araras, in the state of Mato Grosso do Sul in Brazil. In this sanctuary, their vibrant red and green plumage with wings can reach over 90 centimetres. Their wings shine brightly against the expansive blue Brazilian sky and its impressive backdrop of towering red sandstone walls. Being one of the largest macaw species, they play a crucial role in dispersing seeds in their habitat, helping the regeneration of vegetation. Embark on a journey to Buraco das Araras and witness the graceful flight of these birds, a testament to the mesmerising beauty that our world so generously bestows. Spread your imaginary wings, and let us peek at these feathered creatures, shall we?"
+    },
+    {
         "fullstartdate": "202409010700",
         "date": "20240902",
         "url": "https://www.bing.com/th?id=OHR.ThamesLondon_ROW6580939487_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_ROW4852915271",
         "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
         "copyrightKeyword": "Palmyra Atoll",
-        "hsh": "df02d6a5fb12a5c5e4be32806213d799",
-        "description": "Welcome to this eco-traveller's paradise in the middle of the Pacific. Situated halfway between Hawaii and American Samoa, the Palmyra Atoll National Wildlife Refuge was established in 2001 to conserve, manage and restore the United States' fish, wildlife, plants and habitats."
-    },
-    {
-        "fullstartdate": "202408250700",
-        "date": "20240826",
-        "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_ROW4729110075_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_ROW4729110075",
-        "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
-        "copyrightKeyword": "Swiftcurrent Lake",
-        "hsh": "7d7abdb49c2377b6d49a2f00809ba4b8"
+        "hsh": "df02d6a5fb12a5c5e4be32806213d799"
     }
 ]

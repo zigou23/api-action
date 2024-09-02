@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409022200",
+        "date": "20240903",
+        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_IT-IT6756138209_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_IT-IT6756138209",
+        "copyright": "Lago Crystal, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)",
+        "copyrightKeyword": "Wilderness Act",
+        "hsh": "0bca1c476094960396b973f112de80bc",
+        "description": "Con l’aria di un lago di montagna incastonato tra le vette, il lago Crystal, nello Stato di Washington negli USA, si svela con la sua magia. E in questa calda estate, non sarebbe meraviglioso trovarsi in un luogo così fresco e incantevole? Ciò che rende la riserva \"Alpine Lakes Wilderness\" ancor più desiderabile è che l’entrata è garantita a pochi fortunati. Con soli 2.558 permessi di soggiorno notturno concessi su 40.000 richieste, l’ingresso al paradiso non è garantito a tutti. Tuttavia, tentate la sorte, perché un’esperienza del genere, lascerà nei vostri ricordi, un segno indelebile."
+    },
+    {
         "fullstartdate": "202409012200",
         "date": "20240902",
         "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331",
         "copyright": "Lago Misurina, Auronzo di Cadore, Belluno, Veneto (© Andrew_Mayovskyy/iStock/Getty Images Plus)",
         "copyrightKeyword": "Lago di Misurina",
-        "hsh": "58f6156f6e475ad04fe2a76fa628c69d",
-        "description": "Nel cuore delle Dolomiti bellunesi sorge uno specchio d'acqua che incanta al primo sguardo: il lago di Misurina. Ci troviamo in Veneto, in provincia di Belluno. Un gioiello incastonato nel cuore delle Dolomiti, dove risplende l’acqua cristallina e dal quale si può osservare il famoso gruppo delle Tre Cime di Lavaredo. A 1.754 metri di altitudine, offre un panorama mozzafiato, trasmettendo una sensazione di tranquillità unica. Passeggiare lungo i sentieri, respirare l’aria pulita delle montagne e il solo ascolto del mormorio delle acque, sono una cura per anima e corpo."
-    },
-    {
-        "fullstartdate": "202408252200",
-        "date": "20240826",
-        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573",
-        "copyright": "Rifugio nazionale dell'atollo di Palmyra, Oceano Pacifico (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Atollo Palmyra",
-        "hsh": "a5c293aca56a476a8c6fcd80ceb46f2b"
+        "hsh": "58f6156f6e475ad04fe2a76fa628c69d"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409020700",
+        "date": "20240903",
+        "url": "https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321",
+        "copyright": "'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)",
+        "copyrightKeyword": "Labor Day",
+        "hsh": "036ea9a6a87f108e7bfb951e214882d0",
+        "description": "Take a load off this Labor Day weekend. One of 11 federal holidays, Labor Day honors America's workers and is celebrated on the first Monday of September. Its origins are rooted in late 1800s efforts to recognize the contributions the country's workers, and labor activists ultimately helped establish the 40-hour work week and weekends. President Grover Cleveland made the US holiday official in 1894. Today, many Americans celebrate the long weekend, which is often considered the unofficial end of summer, by grilling, hanging out with friends and family, and going to parades."
+    },
+    {
         "fullstartdate": "202409010700",
         "date": "20240902",
         "url": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979",
         "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
         "copyrightKeyword": "Palmyra Atoll",
-        "hsh": "87766887993a31cff01121efca858c21",
-        "description": "Welcome to this eco-travelers' paradise in the middle of the Pacific. Situated halfway between Hawaii and American Samoa, the Palmyra Atoll National Wildlife Refuge was established in 2001 to conserve, manage, and restore the nation's fish, wildlife, plants, and habitats."
-    },
-    {
-        "fullstartdate": "202408250700",
-        "date": "20240826",
-        "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593",
-        "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
-        "copyrightKeyword": "nps founders day",
-        "hsh": "a5b16101a01db45a6d91ad835854f337"
+        "hsh": "87766887993a31cff01121efca858c21"
     }
 ]

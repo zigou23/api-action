@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409022200",
+        "date": "20240903",
+        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_DE-DE0921479512_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_DE-DE0921479512",
+        "copyright": "Crystal Lake in den Enchantments, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)",
+        "copyrightKeyword": "Alpine Lakes Wilderness",
+        "hsh": "92f6fd4d0e4658d6532169bc678fee34",
+        "description": "Auf unserem heutigen Bild befinden wir uns am Crystal Lake im Herzen der Alpine Lakes Wilderness, Washington, USA – ein Naturjuwel für Outdoor-Liebhaber. In dieser geschützten Region erwartet Sie mit über 700 Seen und Teichen sowie einzigartigen Klettermöglichkeiten ein echtes Highlight der USA. Neben Bergziegen und Moorschneehühnern können Besucher die charakteristischen Pfeifhasen und eine Vielfalt an Alpenblumen bewundern. Interessant ist auch, dass der Zugang zum Schutzgebiet stark begrenzt ist: Im letzten Jahr haben 40.000 Naturfreunde an der Verlosung für die begehrten Übernachtungsgenehmigungen teilgenommen – lediglich 2.558 Glückliche erhielten eine Zusage. Ein wahres Schutzgebiet, das Planung und Geduld erfordert, um seine Wunder zu erleben."
+    },
+    {
         "fullstartdate": "202409012200",
         "date": "20240902",
         "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_DE-DE8804802285_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YoungCaiman_DE-DE7313829626",
         "copyright": "Junger schwarzer Kaiman, Reserva Nacional Tambopata, Peru (© Maxime Aliaga/Minden Pictures)",
         "copyrightKeyword": "Schwarzer Kaiman",
-        "hsh": "b144113ba73629848d452e0c1161d525",
-        "description": "Erleben Sie im Schutzgebiet Reserva Nacional Tambopata in Peru die beeindruckenden Schwarzen Kaimane, die geschickten Riesen der südamerikanischen Flüsse. Diese Kaimane, die größten Mitglieder der Alligatorfamilie, erreichen eine beeindruckende Länge von bis zu 6 Metern und bringen über 450 Kilogramm auf die Waage. Ihre dunkelgrüne Farbe macht sie zu Meistern der Tarnung in trüben Gewässern. Dort machen sie Jagd auf Vögel, Fische, Schildkröten und gelegentlich auch auf große Säugetiere. Doch leider wurden sie in der Vergangenheit oft zum Gejagten. Besonders männliche Kaimane sind wegen ihrer schönen Häute beliebt, die im Gegensatz zu anderen Krokodilen keine kleinen Knochen enthalten. Der Erhalt der Schwarzen Kaimane ist jedoch besonders wichtig, da sie für ein ausgewogenes Ökosystem sorgen, indem sie die Anzahl ihrer Beutetiere regulieren. Ohne diese Kaimane gäbe es mehr Piranhas, die Rinder angreifen, und zahlreichere Wasserschweine, die Ernteschäden verursachen."
-    },
-    {
-        "fullstartdate": "202408252200",
-        "date": "20240826",
-        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_DE-DE5676612889_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_DE-DE5676612889",
-        "copyright": "Schutzgebiet Palmyra-Atoll, Pazifischer Ozean, USA (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Palmyra-Atoll",
-        "hsh": "136cf6a5d91e68bf7e4fc990474b4583"
+        "hsh": "b144113ba73629848d452e0c1161d525"
     }
 ]

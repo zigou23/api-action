@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409020400",
+        "date": "20240903",
+        "url": "https://www.bing.com/th?id=OHR.ElbowRiver_EN-CA6581725556_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbowRiver_EN-CA6581725556",
+        "copyright": "Milky Way over the Elbow River in southern Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)",
+        "copyrightKeyword": "Elbow River",
+        "hsh": "40556ddaa5277be3b7e1c757e9688da7",
+        "description": "Amid the landscapes of southern Alberta, the Elbow River originates from Elbow Lake in the Canadian Rockies. The 120-kilometre-long river intricately carves its way through valleys before converging with the Bow River in Calgary, at an elevation of 1,040 metres. Along the river's course is Elbow Falls—a series of cascading waterfalls—that creates a natural spectacle. In winter, the falls transform into an icy wonderland while summer brings a rush of whitewater, which is ideal for rafting, kayaking, fishing, hiking and other recreational activities."
+    },
+    {
         "fullstartdate": "202409010400",
         "date": "20240902",
         "url": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-CA8180034537",
         "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
         "copyrightKeyword": "Palmyra Atoll",
-        "hsh": "1c9b406309864b8f9da9ce6878104643",
-        "description": "Welcome to this eco-traveller's paradise in the middle of the Pacific Ocean. Situated halfway between Hawaii and American Samoa, the Palmyra Atoll National Wildlife Refuge was established in 2001 to conserve, manage and restore the United States' fish, wildlife, plants and habitats."
-    },
-    {
-        "fullstartdate": "202408250400",
-        "date": "20240826",
-        "url": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-CA7830300836",
-        "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
-        "copyrightKeyword": "Swiftcurrent Lake",
-        "hsh": "2db85f25d9be86ad5062d95f1438a6c9"
+        "hsh": "1c9b406309864b8f9da9ce6878104643"
     }
 ]
