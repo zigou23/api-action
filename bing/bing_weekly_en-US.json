@@ -1,13 +1,23 @@
 [
     {
+        "fullstartdate": "202409030700",
+        "date": "20240904",
+        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320",
+        "copyright": "Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)",
+        "copyrightKeyword": "Wilderness Act",
+        "hsh": "2ed67354ce424a57e231e3e8a35a2fb8",
+        "description": "Sometimes it's nice to get away. Thanks to environmentalist Howard Zahniser, Americans can do that in one of the country's many wildernesses—sheltered from human activities. While the protection of national forests and parks began in the late 1800s, untamed wilderness had dwindled to only 2.5% of US land by the 1960s. To reverse this trend, Zahniser wrote most of what became the Wilderness Act. Signed into law by President Lyndon Johnson on September 3, 1964, today it protects more than 109 million acres—5% of the land in the US."
+    },
+    {
         "fullstartdate": "202409020700",
         "date": "20240903",
         "url": "https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321",
         "copyright": "'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)",
         "copyrightKeyword": "Labor Day",
-        "hsh": "036ea9a6a87f108e7bfb951e214882d0",
-        "description": "Take a load off this Labor Day weekend. One of 11 federal holidays, Labor Day honors America's workers and is celebrated on the first Monday of September. Its origins are rooted in late 1800s efforts to recognize the contributions the country's workers, and labor activists ultimately helped establish the 40-hour work week and weekends. President Grover Cleveland made the US holiday official in 1894. Today, many Americans celebrate the long weekend, which is often considered the unofficial end of summer, by grilling, hanging out with friends and family, and going to parades."
+        "hsh": "7578381804f89682776775d940a13719",
+        "description": "Take a load off this Labor Day weekend. One of 11 federal holidays, Labor Day honors America's workers and is celebrated on the first Monday of September. Its origins are rooted in late 1800s' efforts to recognize workers contributions, which ultimately led to the 40-hour work week. President Grover Cleveland made the US holiday official in 1894. Today, many Americans celebrate the long weekend, which is often considered the unofficial end of summer, by grilling, hanging out with friends and family, and going to parades."
     },
     {
         "fullstartdate": "202409010700",
@@ -16,8 +26,8 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885",
         "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "84631ed6eceef3f044100cc34e7c4185",
-        "description": "Welcome to the Totally Thames Festival in London, England. Each year, it brings together communities, artists, and nature enthusiasts in a month-long tribute to the river. Highlights for 2024 include the annual boat marathon, Great River Race, and the Clean Thames Challenge."
+        "hsh": "7301a33a840a31fe0ad4281f6ca3682f",
+        "description": "Welcome to the Totally Thames Festival in London, England. Each year it brings together communities, artists, and nature enthusiasts in a month-long tribute to the river. Highlights for 2024 include the annual boat marathon, Great River Race, and the Clean Thames Challenge."
     },
     {
         "fullstartdate": "202408310700",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YoungCaiman_EN-US8572688559",
         "copyright": "Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)",
         "copyrightKeyword": "Black caiman",
-        "hsh": "21d532543196266053e012c2910fa9bb",
-        "description": "Today's image features a black caiman, South America's stealthy river giant, in the Tambopata National Reserve of Peru. These caimans are the largest species in the alligator family, growing up to 20 feet and weighing as much as 1,000 pounds. Their dark color helps them blend into the murky depths. These carnivorous creatures thrive in freshwater environments such as slow-moving rivers, lakes, and seasonally flooded savannas. From these waters, they hunt for birds, fish, turtles, and occasionally big mammals. Black caimans play an important role in making sure ecosystems stay balanced by keeping the populations of their prey under control. More caimans mean fewer piranhas, which attack cattle, and fewer capybaras, which can cause crop damage."
-    },
-    {
-        "fullstartdate": "202408260700",
-        "date": "20240827",
-        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979",
-        "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Palmyra Atoll",
-        "hsh": "87766887993a31cff01121efca858c21"
+        "hsh": "21d532543196266053e012c2910fa9bb"
     }
 ]

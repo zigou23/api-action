@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409030400",
+        "date": "20240904",
+        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-CA4889089553_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-CA4889089553",
+        "copyright": "Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)",
+        "copyrightKeyword": "Alpine Lakes Wilderness Washington",
+        "hsh": "b08dc4075e432fbf73d125df410aa184",
+        "description": "Sometimes it's nice to get away. Thanks to environmentalist Howard Zahniser, Americans can do that in one of the country's many wildernesses—areas sheltered from human activities. Pictured in today's image, Crystal Lake is one such protected area. Located in the Alpine Lakes Wilderness in Washington, the Enchantments has more than 700 lakes and ponds and some of the best rock climbing in the Western United States. It's also home to mountain goats, ptarmigan, pikas and numerous types of alpine flowers. If you want to see Alpine Lakes Wilderness yourself, however, be prepared to wait. Few permits are granted for day hikes, and of the 40,000 people who entered last year's lottery for overnight permits, only 2,558 received one."
+    },
+    {
         "fullstartdate": "202409020400",
         "date": "20240903",
         "url": "https://www.bing.com/th?id=OHR.ElbowRiver_EN-CA6581725556_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YoungCaiman_EN-CA7952630381",
         "copyright": "Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)",
         "copyrightKeyword": "Black caiman",
-        "hsh": "ca9342c77dc1460b0126609ce8f14fec",
-        "description": "Today's image features a black caiman, South America's stealthy river giant, in the Tambopata National Reserve, Peru. These caimans are the largest species in the alligator family, growing up to six metres and weighing as much as 40 kilograms. What sets them apart is their dark green colour, which helps them blend into the murky depths. These carnivorous creatures thrive in freshwater environments such as slow-moving rivers, lakes and seasonally flooded savannahs. From these waters, they hunt for birds, fish, turtles and occasionally big mammals. Black caimans play an important role in making sure ecosystems stay balanced by keeping their prey's populations under control. Fewer caimans mean more piranhas, which attack cattle, and more capybaras, which cause crop damage."
-    },
-    {
-        "fullstartdate": "202408260400",
-        "date": "20240827",
-        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-CA8180034537_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-CA8180034537",
-        "copyright": "Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Palmyra Atoll",
-        "hsh": "1c9b406309864b8f9da9ce6878104643"
+        "hsh": "ca9342c77dc1460b0126609ce8f14fec"
     }
 ]

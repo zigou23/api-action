@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409030300",
+        "date": "20240904",
+        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_PT-BR5855305419_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_PT-BR5855305419",
+        "copyright": "Crystal Lake nos Enchantments, Região selvagem dos lagos alpinos, Washington, EUA (© Mitch Pittman/Tandem Stills + Motion)",
+        "copyrightKeyword": "Lagos Encantados em Washington",
+        "hsh": "6dc3f523c68e9cb61612f4b88c22e60c",
+        "description": "Sabe aquele desejo de fugir um pouco do dia a dia e respirar novos ares? Howard Zahniser tornou isso possível nos EUA, criando espaços onde a natureza comanda - verdadeiros refúgios longe da agitação humana. Antigamente, áreas selvagens compunham só 2,5% do território americano, mas essa história mudou. A partir do texto de Zahniser, a Lei da Selva de 1964 salvaguarda hoje acima de 440 milhões de hectares, representando 5% da terra nos Estados Unidos."
+    },
+    {
         "fullstartdate": "202409020300",
         "date": "20240903",
         "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_PT-BR5512338223_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.YoungCaiman_PT-BR3430658396",
         "copyright": "Jacaré-açu, Reserva Nacional de Tambopata, Peru (© Maxime Aliaga/Minden Pictures)",
         "copyrightKeyword": "jacaré-açu",
-        "hsh": "ae90ce7f6947d6bb3471967b3e976b4d",
-        "description": "Olhos atentos, presença discreta, movimentos precisos: apresentamos o jacaré-açu, um predador silencioso encontrado na Reserva Nacional de Tambopata, no Peru. Sabia que este imponente membro da família dos répteis pode atingir um comprimento de até 6 metros e pesar aproximadamente 450 quilos?  Sua camuflagem com tonalidades esverdeadas e pretas (em alguns lugares também é conhecido como jacaré-negro) permite que ele se esconda com facilidade, alimentando-se de aves, peixes, tartarugas e até grandes mamíferos."
-    },
-    {
-        "fullstartdate": "202408260300",
-        "date": "20240827",
-        "url": "https://www.bing.com/th?id=OHR.PalmyraAtoll_PT-BR3061095594_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PalmyraAtoll_PT-BR3061095594",
-        "copyright": "Refúgio Nacional de Vida Selvagem do Atol de Palmyra, Oceano Pacífico (© Ian Shive/Tandem Stills + Motion)",
-        "copyrightKeyword": "Atol de Palmyra",
-        "hsh": "c0fdce8303641f2c686ba20efde2bf90"
+        "hsh": "ae90ce7f6947d6bb3471967b3e976b4d"
     }
 ]
