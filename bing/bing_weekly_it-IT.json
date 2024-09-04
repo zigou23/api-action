@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409042200",
+        "date": "20240905",
+        "url": "https://www.bing.com/th?id=OHR.TIFF2024_IT-IT6965030073_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TIFF2024_IT-IT6965030073",
+        "copyright": "Lo skyline di Toronto visto dal lago Ontario, Canada (© Roberto Machado Noa/Getty Images)",
+        "copyrightKeyword": "Toronto International Film Festival 2024",
+        "hsh": "9288632841cf51403ca5e27ccc51f2bb",
+        "description": "Agosto, settembre e ottobre sono mesi molto amati da noi cinefili. Prima Venezia, poi Toronto e infine Roma, per citarne alcuni. Oggi, però, ci rechiamo sul red carpet di Toronto, in Canada. Inizia la 49ª edizione del Festival Internazionale del Cinema di Toronto (TIFF), che come sempre promette di regalare spettacolo. Questo festival ha lanciato film celebri non solo internazionali, ma anche italiani. Nel corso degli anni sono stati presentati film come “Buongiorno, notte” di Marco Bellocchio e “La stanza del figlio” di Nanni Moretti. Quest’anno, i film del Bel Paese che verranno presentati sono “Diciannove” di Giovanni Tortorici e “Il ritorno” di Uberto Pasolini."
+    },
+    {
         "fullstartdate": "202409032200",
         "date": "20240904",
         "url": "https://www.bing.com/th?id=OHR.DuskyOwls_IT-IT6847895557_1920x1080.jpg",
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877",
         "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
         "copyrightKeyword": "Regata Storica, Serenissima",
-        "hsh": "d4faf66352fee6530cfe0396fe3db728",
+        "hsh": "9d1d941f04074275cfe950a71b08942d",
         "description": "Immergetevi nella tradizione e nel colore della Regata Storica di Venezia 2025, uno spettacolo fluviale che incanta e coinvolge ogni anno cittadini e visitatori. La Serenissima veste i suoi migliori ornamenti: gondole splendidamente decorate, gondolieri in abiti storici e una parata che rievoca il fasto della Venezia antica, creando un mosaico vivente di storia e cultura. L’evento si divide in due parti: la sfilata storica e le competizioni. La sfilata, che apre la giornata, vede un corteo di imbarcazioni storiche, con figuranti in costumi d’epoca che rappresentano il Doge e la sua corte, rievocando l’accoglienza riservata alla regina di Cipro nel 1489."
     },
     {
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644",
         "copyright": "Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Djanet, comune algerino",
-        "hsh": "38c600ee66139ab178e799ae7940d638",
+        "hsh": "d8776ae67f648ca6eae87a81dc38463e",
         "description": "Con l’estate che infuria e le temperature che toccano i 40 gradi all’ombra, probabilmente l’ultima cosa che vorreste vedere sono i deserti. Il cuore del Sahara algerino è però ricco di storia e natura, potendo farvi rivalutare la vostra idea di caldo. La catena montuosa Tassili n’Ajjer, (parola berbera e traducibile con “altopiano”), fa parte del Patrimonio dell’umanità dell’UNESCO e si estende dall’Algeria sino alla Libia. Gli appassionati di archeologia potranno scovare tesori antichi. Troverete più di 15.000 incisioni, alcune vecchie di 12.000 anni, che vi sveleranno vestigia di questo affascinante luogo."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187",
         "copyright": "Castellfollit de la Roca, Catalogna, Spagna (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Castellfollit de la Roca, Comune Spagnolo",
-        "hsh": "3394ad9b9ee41a1c6d6bf41dea7a6f96",
-        "description": "Sapevate che la Spagna è una terra di vulcani? Venite a scoprire Castellfollit de la Roca, un villaggio che sfida la gravità, eretto su una scogliera di basalto alta 50 metri. In questo luogo, ogni pietra racconta l’epopea geologica della Catalogna, mentre la chiesa di Sant Salvador si erge con orgoglio fin dal XIII secolo, testimone silenziosa della storia di questa terra. Camminando tra i sentieri del Parco Naturale della Zona Vulcanica della Garrotxa, vi troverete vicino ai giganti addormentati: quasi 40 vulcani estinti che testimoniano l'attività sismica regionale."
-    },
-    {
-        "fullstartdate": "202408272200",
-        "date": "20240828",
-        "url": "https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254",
-        "copyright": "Montmartre e Sacro Cuore, Parigi, Francia (© Tuul & Bruno Morandi/Getty Images)",
-        "copyrightKeyword": "Giochi paralimpici",
-        "hsh": "5f7bac681f395ca13d68b3ed6313f5fa"
+        "hsh": "3394ad9b9ee41a1c6d6bf41dea7a6f96"
     }
 ]
