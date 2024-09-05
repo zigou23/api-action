@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409052200",
+        "date": "20240906",
+        "url": "https://www.bing.com/th?id=OHR.GlenariffPark_DE-DE2551024301_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_DE-DE2551024301",
+        "copyright": "Alte Buche, Glenariff Forest Park, Grafschaft Antrim, Nordirland (© Dawid K Photography/Shutterstock)",
+        "copyrightKeyword": "Glenariff Forest Park Nordirland",
+        "hsh": "ca72bd3e248051ef20ff4eb76cdbc375",
+        "description": "Willkommen in der Märchenlandschaft des Glenariff Forest Parks in der Grafschaft Antrim, Nordirland. Der Park erstreckt sich über fast 1.200 Hektar Waldland voller Wasserfälle und Wunder und bietet viele Wanderwege, von denen jeder einen einzigartigen Blick auf die Landschaft ermöglicht. Der beliebteste Pfad ist der 5 Kilometer lange Wasserfall-Wanderweg, der durch ein nationales Naturschutzgebiet führt und an den Wasserfällen Ess-na-Crub und Ess-na-Larach vorbeiführt. Glenariff besitzt eine reiche Tierwelt, darunter Rot-Eichhörnchen, Baummarder und Dachse. Vogelbeobachter werden von Weidenlaubsängern, Zilpzalpen und Eisvögeln begeistert sein. Auch die Flora ist beeindruckend mit Bäumen wie der uralten Buche auf unserem heutigen Bild, Eichen, Birken und Eberesche."
+    },
+    {
         "fullstartdate": "202409042200",
         "date": "20240905",
         "url": "https://www.bing.com/th?id=OHR.TIFF2024_DE-DE1559469948_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984",
         "copyright": "Walhai in der Cenderawasih-Bucht, West Papua, Indonesien (© Andy Lerner/Tandem Stills + Motion)",
         "copyrightKeyword": "Walhaie",
-        "hsh": "97cd0a20da375e2361eee8ee74112d41",
-        "description": "Tauchen Sie ein in die wunderbare Welt des Walhais – der sanften Riesen der Meere. Am 30. August jeden Jahres vereinen sich Meeresfreunde weltweit, um auf die majestätischen Walhaie aufmerksam zu machen und ihren Schutz zu fördern. Diese faszinierenden Kreaturen bevölkern unsere Ozeane seit über 240 Millionen Jahren. Das erste Exemplar wurde allerdings erst in den 1820er Jahren an der Küste Südafrikas entdeckt. Mit einer Länge von bis zu 12 Metern (der Rekord liegt bei beeindruckenden 18,8 Metern), sind sie die größten Fische unserer Erde. In den tropischen Gewässern der Welt schwimmen diese Giganten mit weit geöffnetem Maul und sieben damit Plankton und kleine Fische aus dem Wasser."
-    },
-    {
-        "fullstartdate": "202408282200",
-        "date": "20240829",
-        "url": "https://www.bing.com/th?id=OHR.CastellfollitSpain_DE-DE7979269591_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CastellfollitSpain_DE-DE7979269591",
-        "copyright": "Castellfollit de la Roca, Katalonien, Spanien (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Castellfollit de la Roca Spain",
-        "hsh": "7fc680156613c650e32d2392eb2c3f8c"
+        "hsh": "97cd0a20da375e2361eee8ee74112d41"
     }
 ]

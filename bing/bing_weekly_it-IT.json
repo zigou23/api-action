@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409052200",
+        "date": "20240906",
+        "url": "https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545",
+        "copyright": "Antico faggio, Parco Forestale di Glenariff, Contea di Antrim, Irlanda del Nord (© Dawid K Photography/Shutterstock)",
+        "copyrightKeyword": "Contea di Antrim, Irlanda del Nord",
+        "hsh": "b76ec719290add1c8fa7af621df585e5",
+        "description": "Avete mai immaginato di passeggiare all'interno di un libro delle fiabe, magari un racconto di Tolkien? Aveva proprio ragione l’autore della trilogia del “Signore degli Anelli”, quando scrisse che “le radici profonde, non gelano”, proprio come quelle di questo faggio, non trovate? Benvenuti al Parco Forestale di Glenariff nella Contea di Antrim, Irlanda del Nord. In questo giardino dell’Eden potete perdervi per oltre 12 km² di boschi, ammirando cascate e meraviglie naturali di ogni tipo. A coloro cui piace camminare, consigliamo il sentiero del \"Cammino delle Cascate\", lungo circa 5 chilometri, che attraversa la Riserva Naturale Nazionale e si snoda lungo le acque scroscianti delle cascate di Ess-na-Crub ed Ess-na-Larach."
+    },
+    {
         "fullstartdate": "202409042200",
         "date": "20240905",
         "url": "https://www.bing.com/th?id=OHR.TIFF2024_IT-IT6965030073_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181",
         "copyright": "Uno squalo balena nella baia di Cenderawasih, Papua occidentale, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
         "copyrightKeyword": "Squalo balena",
-        "hsh": "867321b3b9fa8cecac50a21f21056298",
-        "description": "Ogni 30 di agosto festeggiamo questi giganti gentili che esistono da oltre 240 milioni di anni. Oggi è “la Giornata Internazionale dello Squalo Balena”. Sapevate che il primo esemplare fu avvistato solamente nella prima metà del XIX secolo al largo della costa sudafricana? Si tratta del più grande pesce del mondo, con una grandezza media di 12 metri, ma con un incredibile record di un esemplare che arrivò a misurare quasi 19 metri. L’habitat naturale di questi affascinanti animali sono i mari tropicali, ma possiamo trovare specie simili anche nei mari lungo la nostra penisola. Un aspetto molto affascinante degli squali balena è che ogni esemplare possiede un manto unico, come nel caso di noi umani e la nostra impronta digitale."
-    },
-    {
-        "fullstartdate": "202408282200",
-        "date": "20240829",
-        "url": "https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187",
-        "copyright": "Castellfollit de la Roca, Catalogna, Spagna (© Eloi_Omella/Getty Images)",
-        "copyrightKeyword": "Castellfollit de la Roca, Comune Spagnolo",
-        "hsh": "3394ad9b9ee41a1c6d6bf41dea7a6f96"
+        "hsh": "867321b3b9fa8cecac50a21f21056298"
     }
 ]

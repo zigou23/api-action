@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409050300",
+        "date": "20240906",
+        "url": "https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047",
+        "copyright": "Confluência do Rio Negro e do Amazonas, Manaus, estado do Amazonas (© robertharding/Shutterstock)",
+        "copyrightKeyword": "Encontro das Águas",
+        "hsh": "c01e0bfea81d809d9eb17af21781af60",
+        "description": "Imagine um espetáculo da natureza onde dois rios dançam lado a lado, sem jamais se misturar. E é nesse Encontro das Águas que celebramos o Dia da Amazônia, onde o Rio Negro, de águas escuras e ácidas, e o Rio Solimões, barrento e alcalino, se abraçam numa extensão de mais de 6 quilômetros. Eles correm lado a lado devido às diferenças de temperatura, densidade e velocidade, embora acabem se juntando depois para formar parte do majestoso Rio Amazonas."
+    },
+    {
         "fullstartdate": "202409040300",
         "date": "20240905",
         "url": "https://www.bing.com/th?id=OHR.DuskyOwls_PT-BR7151379971_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CastellfollitSpain_PT-BR4036017391",
         "copyright": "Castellfollit de la Roca, Catalunha, Espanha (© Eloi_Omella/Getty Images)",
         "copyrightKeyword": "Castellfollit de la Roca, Espanha",
-        "hsh": "3da8e6b7cc96cb6f46a0309f20746336",
-        "description": "Embarque na descoberta de Castellfollit de la Roca, um tesouro situado à beira de um precipício na vibrante Catalunha, no nordeste da Espanha. Construída a impressionantes 50 metros acima da confluência dos rios Toronell e Fluvia, a cidade parece desafiar as leis da gravidade. As construções em basalto revelam a força das origens vulcânicas do local, enquanto a igreja de Sant Salvador, datada do século XIII, observa majestosa o horizonte."
-    },
-    {
-        "fullstartdate": "202408280300",
-        "date": "20240829",
-        "url": "https://www.bing.com/th?id=OHR.ParalympicsParis_PT-BR3706012931_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ParalympicsParis_PT-BR3706012931",
-        "copyright": "Montmartre e a Basílica de Sacré-Cœur, Paris, França (© Tuul & Bruno Morandi/Getty Images)",
-        "copyrightKeyword": "Jogos Paralímpicos de Verão de 2024",
-        "hsh": "2b3ec97ebe809f5530a62bfd5a4769a9"
+        "hsh": "3da8e6b7cc96cb6f46a0309f20746336"
     }
 ]
