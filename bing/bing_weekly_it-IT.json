@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409062200",
+        "date": "20240907",
+        "url": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769",
+        "copyright": "Vista di Firenze dal Duomo, Toscana, Italia (© Martin M303/Adobe Stock)",
+        "copyrightKeyword": "Festa della Rificolona",
+        "hsh": "f2e416d960e8659c0311d776742bf9f4",
+        "description": "Firenze, culla del Rinascimento e gioiello incastonato nel cuore della Toscana, è un museo a cielo aperto che incanta ogni visitatore con la sua bellezza senza tempo. Passeggiare tra i suoi vicoli significa viaggiare indietro nella storia, scoprendo tesori architettonici come il Duomo di Santa Maria del Fiore con la sua imponente cupola di Brunelleschi, o la maestosa Galleria degli Uffizi che custodisce alcuni dei più famosi capolavori dell'arte mondiale. Oggi però, invece che portarvi alla scoperta di basiliche e musei, vi racconteremo di un evento tipico del capoluogo toscano."
+    },
+    {
         "fullstartdate": "202409052200",
         "date": "20240906",
         "url": "https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644",
         "copyright": "Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Djanet, comune algerino",
-        "hsh": "d8776ae67f648ca6eae87a81dc38463e",
-        "description": "Con l’estate che infuria e le temperature che toccano i 40 gradi all’ombra, probabilmente l’ultima cosa che vorreste vedere sono i deserti. Il cuore del Sahara algerino è però ricco di storia e natura, potendo farvi rivalutare la vostra idea di caldo. La catena montuosa Tassili n’Ajjer, (parola berbera e traducibile con “altopiano”), fa parte del Patrimonio dell’umanità dell’UNESCO e si estende dall’Algeria sino alla Libia. Gli appassionati di archeologia potranno scovare tesori antichi. Troverete più di 15.000 incisioni, alcune vecchie di 12.000 anni, che vi sveleranno vestigia di questo affascinante luogo."
-    },
-    {
-        "fullstartdate": "202408292200",
-        "date": "20240830",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT1918299181",
-        "copyright": "Uno squalo balena nella baia di Cenderawasih, Papua occidentale, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "Squalo balena",
-        "hsh": "867321b3b9fa8cecac50a21f21056298"
+        "hsh": "d8776ae67f648ca6eae87a81dc38463e"
     }
 ]

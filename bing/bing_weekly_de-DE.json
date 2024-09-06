@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409062200",
+        "date": "20240907",
+        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109",
+        "copyright": "Annakolibri, Santa Cruz, Kalifornien, USA (© yhelfman/Getty Images)",
+        "copyrightKeyword": "Annakolibri",
+        "hsh": "dfbcdbc7a7f1cc8b0a57d035dee21339",
+        "description": "Der Annakolibri, benannt nach Anna Masséna, Herzogin von Rivoli, erstrahlt mit seinem grün funkelnden Federkleid und seiner leuchtend rosafarbenen Kehle und ist der Star auf unserem heutigen Bild. Er ist eine von schätzungsweise 366 Kolibriarten und die häufigste Art an der Westküste Nordamerikas. Mit einer Flügelgeschwindigkeit von atemberaubenden 80 Schlägen pro Sekunde können sie wie Hubschrauber an einer Stelle schweben und sich sogar rückwärts bewegen. Diese kleinen Energiebündel, die sich von Blüte zu Blüte tummeln, haben ein beeindruckendes Gedächtnis für jede besuchte Blume und ihr Nektarangebot."
+    },
+    {
         "fullstartdate": "202409052200",
         "date": "20240906",
         "url": "https://www.bing.com/th?id=OHR.GlenariffPark_DE-DE2551024301_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437",
         "copyright": "Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Djanet",
-        "hsh": "83d37d05ca91c42b3e088335cef1d975",
-        "description": "Entdecken Sie mit uns die Schätze Algeriens, ein Land, das durch seine atemberaubenden Landschaften verzaubert – vom Mittelmeer bis zur endlosen Sahara. Heute führt unsere Reise zum Plateau der Tassili n' Ajjer, einem Gebiet, das von der UNESCO zum Welterbe erklärt wurde. Die beeindruckenden Felsformationen und Höhlenzeichnungen, die älter als 12.000 Jahre sind und Szenen aus dem Alltag, der Jagd und mystische Wesen darstellen, ziehen jeden in ihren Bann. Nur einen Steinwurf entfernt befindet sich Djanet, die „Perle der Wüste“. In dieser Oasenstadt, in der etwa 15.000 Menschen der Kel Ajjer Tuareg-Gemeinschaft leben, bilden Palmenhaine und Gärten einen eindrucksvollen Kontrast zur goldenen Umgebung. Erleben Sie das wahre Djanet auf seinen lebhaften Märkten, vorbei an bunten Moscheen und traditionellen Lehmbauten."
-    },
-    {
-        "fullstartdate": "202408292200",
-        "date": "20240830",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984",
-        "copyright": "Walhai in der Cenderawasih-Bucht, West Papua, Indonesien (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "Walhaie",
-        "hsh": "97cd0a20da375e2361eee8ee74112d41"
+        "hsh": "83d37d05ca91c42b3e088335cef1d975"
     }
 ]

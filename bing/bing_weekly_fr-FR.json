@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409062200",
+        "date": "20240907",
+        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_FR-FR8767186794_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_FR-FR8767186794",
+        "copyright": "Colibri d'Anna, Santa Cruz, Californie, États-Unis (© yhelfman/Getty Images)",
+        "copyrightKeyword": "colibri d'Anna",
+        "hsh": "d39fd7fa87781923538c223377d27fa4",
+        "description": "Aujourd'hui, nous honorons les colibris, couramment appelés oiseaux-mouches en français. Ces oiseaux minuscules, capables de battre des ailes jusqu'à 4 000 fois par minute, sont des acteurs clés de la pollinisation. Celui que nous vous montrons aujourd’hui est le colibri d'Anna, baptisé par l’ornithologue français René Primevère Lesson en hommage à Anna Masséna, épouse du Duc de Rivoli. Avec un plumage émeraude étincelant et une gorge d'un rose éclatant, le colibri d'Anna est un spectacle naturel fascinant."
+    },
+    {
         "fullstartdate": "202409052200",
         "date": "20240906",
         "url": "https://www.bing.com/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-FR8225562823",
         "copyright": "Formations rocheuses et dunes de sable dans le Sahara, Djanet, Algérie (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Djanet",
-        "hsh": "3445573c68eea71f0d1d3dcddb3660f4",
-        "description": "L’image d’aujourd’hui nous montre le plateau du Tassili n'Ajjer, classé par l'UNESCO, où vous découvrirez des paysages sculptés par le temps et des gravures rupestres vieilles de 12 000 ans. Le voyage ne s'arrête pas là, bienvenue à Djanet, l'oasis qui scintille comme un joyau dans l'immensité dorée du Sahara. Cette ville, forte de ses 15 000 habitants, est un témoignage vibrant de la communauté Kel Ajjer Touareg. Flânez dans ses marchés colorés pour saisir l'essence même de Djanet, où l'histoire et le moderne s'entrelacent."
-    },
-    {
-        "fullstartdate": "202408292200",
-        "date": "20240830",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_FR-FR7922497271_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_FR-FR7922497271",
-        "copyright": "Requin-baleine dans la baie de Cenderawasih, Papouasie occidentale, Indonésie (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "requin-baleine",
-        "hsh": "cdba8f7e61d7881b65bf515780f70e2a"
+        "hsh": "3445573c68eea71f0d1d3dcddb3660f4"
     }
 ]

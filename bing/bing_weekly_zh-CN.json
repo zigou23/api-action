@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409061600",
+        "date": "20240907",
+        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039",
+        "copyright": "朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)",
+        "copyrightKeyword": "朱红蜂鸟",
+        "hsh": "ed777abed45dbc578b97830aa69bba6e",
+        "description": "每年九月的第一个星期六，鸟类爱好者和自然爱好者都会聚在一起庆祝全国蜂鸟日。这一天是专门用来欣赏这些敏捷的小鸟以及关注它们在我们的生态系统中作为传粉者的作用。蜂鸟以其惊人的速度而闻名：它们扇动翅膀的速度可达每秒80次，使得它们能够在原地悬停，甚至向后飞。艾米莉·狄金森恰如其分地描述了它们的快速运动：“一条逐渐消失的路 / 一只瞬息而过的轮”。蜂鸟的新陈代谢旺盛，需要不停地进食。因此，它们整天都在花间飞来飞去，汲取花蜜，捕捉昆虫。有趣的是，这些鸟儿能记住它们造访过的每一朵花，以及每朵花需要多长时间才能重新充满花蜜。"
+    },
+    {
         "fullstartdate": "202409051600",
         "date": "20240906",
         "url": "https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695",
         "copyright": "撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "贾奈特",
-        "hsh": "794a6dd72402eacdc948eb93c414fa0e",
-        "description": "从地中海沿岸到广袤的撒哈拉沙漠，北非阿尔及利亚的地貌千姿百态。今天，我们将探索阿杰尔塔西里高原周围的地区。这一联合国教科文组织世界遗产以其岩层和洞穴艺术而闻名。这里有1.5万多处古代雕刻，有些可以追溯到1.2万年前，描绘了日常生活、狩猎和神秘生物的场景。领略完这片沙漠风光后，就该进城了。"
-    },
-    {
-        "fullstartdate": "202408291600",
-        "date": "20240830",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_ZH-CN3334940631",
-        "copyright": "鸟头湾的鲸鲨，西巴布亚，印度尼西亚 (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "鲸鲨",
-        "hsh": "413bf02be09aa54863d15a5e8d9673d3"
+        "hsh": "794a6dd72402eacdc948eb93c414fa0e"
     }
 ]
