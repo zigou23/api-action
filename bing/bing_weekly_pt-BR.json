@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409070300",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296",
+        "copyright": "Parque da Independência, São Paulo (© Thiago Leitey/Shutterstock)",
+        "copyrightKeyword": "Dia da Independência do Brasil",
+        "hsh": "51035e1660b9c4cc53ee3160192e7b18",
+        "description": "Hoje comemoramos o Dia da Independência do Brasil, um marco que reverbera pelas paredes do imponente Museu do Ipiranga. Imagine-se passeando pelos jardins que parecem pinturas e se maravilhando com relíquias que contam nosso percurso como nação... Localizado em São Paulo, o museu foi construído no lugar onde Dom Pedro I declarou a independência em 7 de setembro de 1822. Marcado pelo estilo neoclássico, sua arquitetura foi inspirada no esplendor de Versalhes e reflete a grandiosidade da cidade de São Paulo no século XIX."
+    },
+    {
         "fullstartdate": "202409060300",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.GlenariffPark_PT-BR3219733810_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_PT-BR4680900903",
         "copyright": "Formações rochosas e dunas de areia no Saara, Djanet, Argélia (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Saara, Djanet, Argélia",
-        "hsh": "9d133b870dda04262cc92164a6f59a3c",
-        "description": "Você já imaginou caminhar por entre as páginas da história da humanidade? Na Argélia, norte da África, o planalto de Tassili n'Ajjer, declarado Patrimônio Mundial pela UNESCO, permite exatamente isso. Conta com mais de 15.000 gravuras antigas, algumas com 12.000 anos, que retratam cenas da vida cotidiana, caça e seres místicos."
-    },
-    {
-        "fullstartdate": "202408300300",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_PT-BR4441364252_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_PT-BR4441364252",
-        "copyright": "Um tubarão-baleia na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "Tubarões-baleia",
-        "hsh": "3b55cb9933c0eeeae0e839abe2552b5a"
+        "hsh": "9d133b870dda04262cc92164a6f59a3c"
     }
 ]

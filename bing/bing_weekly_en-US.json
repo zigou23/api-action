@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409070700",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707",
+        "copyright": "Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)",
+        "copyrightKeyword": "National Hummingbird Day",
+        "hsh": "04a9c4b0605756bac54cd2a3c13a0331",
+        "description": "Every first Saturday in September, bird enthusiasts and nature lovers gather to celebrate National Hummingbird Day. This day is dedicated to appreciating these tiny, agile birds and their role as a pollinator in our ecosystem. Hummingbirds are known for their incredible speed; they can flap their wings up to 80 times per second, allowing them to hover in place and even fly backward. Emily Dickinson aptly describes their swift movement: 'A Route of Evanescence / With a revolving Wheel—.' Their high metabolism requires them to eat constantly, so they spend their days flitting from flower to flower, sipping nectar and catching insects. Fun fact: these birds can remember every flower they've visited and how long it will take a flower to refill with nectar."
+    },
+    {
         "fullstartdate": "202409060700",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323",
         "copyright": "Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)",
         "copyrightKeyword": "Tassili n'Ajjer world heritage site",
-        "hsh": "fbc36384ea9987a1700a260a6c2786cb",
-        "description": "From the Mediterranean coast to the vast Sahara, Algeria in North Africa has a wide variety of landscapes. Today, we're exploring the area around the Tassili n'Ajjer plateau. This UNESCO World Heritage Site is famed for its rock formations and cave art. More than 15,000 ancient engravings, some dating back 12,000 years, depict scenes of daily life, hunting, and mystical beings."
-    },
-    {
-        "fullstartdate": "202408300700",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463",
-        "copyright": "A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
-        "copyrightKeyword": "Whale shark",
-        "hsh": "d232c472d410f556557fecd2f106b089"
+        "hsh": "fbc36384ea9987a1700a260a6c2786cb"
     }
 ]

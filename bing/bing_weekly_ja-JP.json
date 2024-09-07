@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409071500",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617",
+        "copyright": "ストックホルム市立図書館, スウェーデン (© Andrei Hrabun/Alamy)",
+        "copyrightKeyword": "ストックホルム市立図書館",
+        "hsh": "86a6e8d12c901d9b287367fde90d87c8",
+        "description": "今日 9 月 8 日は国際識字デー。世界の識字率を向上させることを目的に、1965 年にユネスコによって宣言されました。日本の識字率はほぼ 100% といわれるほど非常に高いですが、現在、世界では約 7 億 7500 万人が最低限の識字スキルを持っていません…"
+    },
+    {
         "fullstartdate": "202409061500",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_JA-JP6657553394",
         "copyright": "テムズ川 , イギリス ロンドン (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "テムズ川 ",
-        "hsh": "a84254cb714eb72e1ac96e986198e319",
-        "description": "今日 9 月 1 日から、トータリー・テムズ・フェスティバルが開催されます。毎年 9 月に 、1 ヶ月間にわたってイギリス・ロンドンで行われるテムズ川を称えるお祭りです。ボートレース、ライブ、パフォーマンス、ワークショップ、川の清掃など、多彩なイベントが行われます…"
-    },
-    {
-        "fullstartdate": "202408301500",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273",
-        "copyright": "タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "タッシリ・ナジェール",
-        "hsh": "3e2c7bc64f2e6bd345f119ac0c523c9b"
+        "hsh": "a84254cb714eb72e1ac96e986198e319"
     }
 ]

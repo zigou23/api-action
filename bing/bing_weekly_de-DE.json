@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409072200",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273",
+        "copyright": "Innenraum der Stadtbibliothek Stockholm, Schweden (© Andrei Hrabun/Alamy Stock Photo)",
+        "copyrightKeyword": "Stadtbibliothek Stockholm",
+        "hsh": "a21bd1de148eb5f1afba81023d7c1bba",
+        "description": "„Die Alphabetisierung ist die Brücke vom Elend zur Hoffnung.“ Heute feiern wir mit diesem berühmten Zitat von Kofi Annan den Weltalphabetisierungstag. Seit seiner Einführung durch die UNESCO im Jahre 1966 ehrt dieser Tag nicht nur die Lesebegeisterten, sondern mahnt auch an den fortwährenden Kampf gegen Analphabetismus. Denn noch immer können etwa 775 Millionen Menschen weltweit nicht lesen und schreiben. Die Stadtbibliothek Stockholm auf unserem heutigen Bild mit ihren über 2 Millionen Werken in mehr als 100 Sprachen ist ein perfektes Beispiel für die Wichtigkeit von Bildung und Mehrsprachigkeit. Dieses Jahr lautet das Thema: „Mehrsprachige Bildung fördern: Alphabetisierung für gegenseitiges Verständnis und Frieden“."
+    },
+    {
         "fullstartdate": "202409062200",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196",
         "copyright": "Themse, London, England (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "Themse",
-        "hsh": "9ea8a0af830340657f68645fe3831102",
-        "description": "Die Themse, der bedeutendste Fluss Großbritanniens, durchquert das Herz Londons und prägt die Stadt seit Jahrhunderten. Mit einer Länge von etwa 346 Kilometern fließt sie von ihrer Quelle in den Cotswolds bis zur Nordsee. London verdankt der Themse nicht nur seine wirtschaftliche Blüte, sondern auch seine historische Entwicklung. Bereits im Mittelalter war die Themse ein bedeutender Handelsweg, über den hanseatische Kaufleute aus deutschen Städten wie Lübeck und Hamburg Waren nach London brachten. Diese Handelsbeziehungen stärkten nicht nur die wirtschaftlichen Verbindungen zwischen London und dem Hanseraum, sondern trugen auch zur kulturellen und wirtschaftlichen Entwicklung beider Regionen bei."
-    },
-    {
-        "fullstartdate": "202408302200",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437",
-        "copyright": "Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "Djanet",
-        "hsh": "83d37d05ca91c42b3e088335cef1d975"
+        "hsh": "9ea8a0af830340657f68645fe3831102"
     }
 ]

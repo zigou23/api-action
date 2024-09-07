@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409071830",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-IN6522849602_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-IN6522849602",
+        "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
+        "copyrightKeyword": "International Literacy Day",
+        "hsh": "f4567d1b6d78a7ec7f69c3e381c97c02",
+        "description": "'Literacy is a bridge from misery to hope.' These words by former secretary-general of the United Nations Kofi Annan capture the essence of International Literacy Day, celebrated every September 8. Established by UNESCO in 1966, this observance not only celebrates those who can read but also highlights the ongoing battle against illiteracy. With approximately 775 million people worldwide still lacking basic literacy, this day resonates powerfully within the hallowed walls of the Stockholm Public Library in Sweden, or 'Stadsbiblioteket' as it is known to locals, featured in today's image."
+    },
+    {
         "fullstartdate": "202409061830",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554",
         "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "653f80fd685ca8e7e59b4f63c9fbfce7",
-        "description": "The River Thames, the longest river entirely in England, contains more than 80 islands along its course. Starting in Gloucestershire and winding through cities like Oxford, Windsor, and in today's image, London, it flows for more than 340 kilometres before merging with the North Sea. With a range of freshwater and near seawater habitats, the river is a haven for an array of wildlife like mute swans and bottlenose dolphins. The lower stretches of the river, known as the Tideway, extend up to Teddington Lock, reflecting its extensive tidal reach. From Oxford to its estuary, the river descends 55 metres. Although the Thames flows through some of the drier regions of mainland Britain and is heavily tapped for drinking water, its discharge is relatively low compared to its size."
-    },
-    {
-        "fullstartdate": "202408301830",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-IN1880956214_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-IN1880956214",
-        "copyright": "Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "Djanet",
-        "hsh": "5f04bf2dca8928a8638aa744671bea9b"
+        "hsh": "653f80fd685ca8e7e59b4f63c9fbfce7"
     }
 ]

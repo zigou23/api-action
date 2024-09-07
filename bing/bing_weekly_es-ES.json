@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409072200",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_ES-ES6220707521_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_ES-ES6220707521",
+        "copyright": "Interior de la Biblioteca Pública de Estocolmo, Suecia (© Andrei Hrabun/Alamy)",
+        "copyrightKeyword": "Dia Internacional de la Alfabetizacion 1967",
+        "hsh": "dc8b20315fc1abd375babe419a14b66a",
+        "description": "¡Hola, amantes de los libros! El 8 de septiembre celebramos el Día Internacional de la Alfabetización, una ocasión perfecta para recordar la importancia de la lectura. Como dijo el ex secretario general de la ONU, Kofi Annan: \"La alfabetización es el puente que nos lleva del desamparo a la esperanza\". Hoy te llevamos a un verdadero santuario de la sabiduría en Estocolmo, Suecia, donde más de dos millones de libros en cien idiomas diferentes esperan ser explorados. Esta obra maestra, diseñada por Erik Gunnar Asplund, nos invita a combinar la educación plurilingüe con la paz y el entendimiento mutuo."
+    },
+    {
         "fullstartdate": "202409062200",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ES-ES5411382953_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719",
         "copyright": "Río Támesis, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "rio tamesis",
-        "hsh": "a14e76cfc44020133339577d1f1c24cc",
-        "description": "Bienvenidos al encantador Festival Totally Thames de Londres, una celebración singular que realza la comunidad, el arte y el amor por la naturaleza a lo largo del emblemático río Támesis cada año. Este año, únete a la emocionante Great River Race y colabora con el Clean Thames Challenge."
-    },
-    {
-        "fullstartdate": "202408302200",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ES-ES4121297619_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_ES-ES4121297619",
-        "copyright": "Formaciones rocosas y dunas en el Sáhara, Djanet, Argelia (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "djanet argelia ciudad",
-        "hsh": "4a0a211fe187aa2a51b25fa95af40260"
+        "hsh": "a14e76cfc44020133339577d1f1c24cc"
     }
 ]

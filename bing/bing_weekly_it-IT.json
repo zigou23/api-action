@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409072200",
+        "date": "20240908",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_IT-IT4633404015_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_IT-IT4633404015",
+        "copyright": "Interno della Biblioteca Pubblica di Stoccolma, Svezia (© Andrei Hrabun/Alamy Stock Photo)",
+        "copyrightKeyword": "Giornata Internazionale dell'Alfabetizzazione",
+        "hsh": "f723055a7d12168d434c4ba5694dc133",
+        "description": "“Il linguaggio è stato lavorato dagli uomini per intendersi tra loro, non per ingannarsi a vicenda”, disse uno dei pilastri della letteratura italiana, Alessandro Manzoni. Riflettiamo su queste parole oggi, nella “Giornata Internazionale dell’Alfabetizzazione”. In onore di questa Giornata abbiamo deciso di portarvi alla scoperta della Biblioteca Pubblica di Stoccolma, progettata dall’architetto Gunnar Asplund. Questo esempio di classicismo nordico si distingue per una struttura cilindrica centrale avvolta da un cubo, creando un’atmosfera unica e suggestiva sia all’interno che all’esterno."
+    },
+    {
         "fullstartdate": "202409062200",
         "date": "20240907",
         "url": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877",
         "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
         "copyrightKeyword": "Regata Storica, Serenissima",
-        "hsh": "9d1d941f04074275cfe950a71b08942d",
-        "description": "Immergetevi nella tradizione e nel colore della Regata Storica di Venezia 2025, uno spettacolo fluviale che incanta e coinvolge ogni anno cittadini e visitatori. La Serenissima veste i suoi migliori ornamenti: gondole splendidamente decorate, gondolieri in abiti storici e una parata che rievoca il fasto della Venezia antica, creando un mosaico vivente di storia e cultura. L’evento si divide in due parti: la sfilata storica e le competizioni. La sfilata, che apre la giornata, vede un corteo di imbarcazioni storiche, con figuranti in costumi d’epoca che rappresentano il Doge e la sua corte, rievocando l’accoglienza riservata alla regina di Cipro nel 1489."
-    },
-    {
-        "fullstartdate": "202408302200",
-        "date": "20240831",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644",
-        "copyright": "Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "Djanet, comune algerino",
-        "hsh": "d8776ae67f648ca6eae87a81dc38463e"
+        "hsh": "9d1d941f04074275cfe950a71b08942d"
     }
 ]
