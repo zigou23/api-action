@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409080700",
+        "date": "20240909",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886",
+        "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)",
+        "copyrightKeyword": "International Literacy Day",
+        "hsh": "234d4c8868c34cf57141c732d8dce33e",
+        "description": "'Literacy is a bridge from misery to hope.' These words by former secretary-general of the United Nations Kofi Annan capture the essence of International Literacy Day, celebrated every September 8. Established by UNESCO in 1966, this observance not only celebrates those who can read but also highlights the ongoing battle against illiteracy. With approximately 775 million people worldwide still lacking basic literacy, this day resonates powerfully within the hallowed walls of the Stockholm Public Library in Sweden, or 'Stadsbiblioteket' as it is known to locals, featured in today's image."
+    },
+    {
         "fullstartdate": "202409070700",
         "date": "20240908",
         "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885",
         "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
         "copyrightKeyword": "River Thames",
-        "hsh": "7301a33a840a31fe0ad4281f6ca3682f",
-        "description": "Welcome to the Totally Thames Festival in London, England. Each year it brings together communities, artists, and nature enthusiasts in a month-long tribute to the river. Highlights for 2024 include the annual boat marathon, Great River Race, and the Clean Thames Challenge."
-    },
-    {
-        "fullstartdate": "202408310700",
-        "date": "20240901",
-        "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323",
-        "copyright": "Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)",
-        "copyrightKeyword": "Tassili n'Ajjer world heritage site",
-        "hsh": "fbc36384ea9987a1700a260a6c2786cb"
+        "hsh": "7301a33a840a31fe0ad4281f6ca3682f"
     }
 ]

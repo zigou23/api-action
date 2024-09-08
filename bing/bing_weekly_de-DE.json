@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409082200",
+        "date": "20240909",
+        "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628",
+        "copyright": "Iguazú-Wasserfälle an der Grenze zwischen Argentinien und Brasilien (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightKeyword": "Iguazu-Wasserfälle",
+        "hsh": "0e77c118f4c407695425195e48767ede",
+        "description": "Entdecken Sie mit uns die Iguazú-Wasserfälle: Das größte Wasserfallsystem der Welt befindet sich an der Grenze zwischen Argentinien und Brasilien. Der Name „Iguazú” stammt aus den Regionalsprachen Guarani oder Tupi und bedeutet „großes Wasser”. Diese Wasserfallkette entsteht durch den Iguazú Fluss, der die Grenze zwischen der argentinischen Provinz Misiones und dem brasilianischen Bundesstaat Paraná bildet. Ihre beeindruckende Stufenbildung entsteht durch eine zweistufige Kaskade aus drei Schichten Basalt – ein Naturspektakel der besonderen Art. Bereits 1907 erkannte der Unternehmer Domingo Ayarragaray die magische Anziehungskraft dieses Ortes und ließ dort ein Hotel errichten. Die Fälle wurden so beliebt, dass sie in beiden Ländern zu Nationalparks erklärt wurden. Die UNESCO ernannte diese später zu Weltkulturerbe-Stätten."
+    },
+    {
         "fullstartdate": "202409072200",
         "date": "20240908",
         "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_DE-DE8804802285",
         "copyright": "Rot-grüne Aras, Mato Grosso do Sul, Brasilien (© Ellen Goff/Danita Delimont)",
         "copyrightKeyword": "Ara Papagei",
-        "hsh": "fb18a8e58d2fd74f04d1bb921b194735",
-        "description": "Willkommen im tropischen Märchen von Buraco das Araras! Buraco das Araras ist eine riesige Doline, eine geologische Formation, die durch den Einsturz von Felsblöcken entstanden ist. Der über 100 Meter tiefe Krater befindet sich in der atemberaubenden Natur des Bundesstaates Mato Grosso do Sul in Brasilien. Dort sind auch die rot-grünen Aras-Papageien auf unserem heutigen Bild zuhause. Mit ihrer leuchtend bunten Federpracht – deren Flügelspannweite fast einen Meter erreicht – sind die Vögel ein wahres Naturschauspiel. Als eine der größten Arten unter den Aras spielen sie eine entscheidende Rolle für die Verbreitung von Samen und somit für die Erneuerung der Vegetation. Begeben Sie sich auf eine Reise nach Buraco das Araras und werden Sie Zeuge des anmutigen Flugs dieser Vögel."
-    },
-    {
-        "fullstartdate": "202408312200",
-        "date": "20240901",
-        "url": "https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ThamesLondon_DE-DE0223400196",
-        "copyright": "Themse, London, England (© Puthipong Worasaran/Getty Images)",
-        "copyrightKeyword": "Themse",
-        "hsh": "9ea8a0af830340657f68645fe3831102"
+        "hsh": "fb18a8e58d2fd74f04d1bb921b194735"
     }
 ]

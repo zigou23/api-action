@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409082200",
+        "date": "20240909",
+        "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_IT-IT4779268269_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_IT-IT4779268269",
+        "copyright": "Cascate dell’Iguazú al confine tra Argentina e Brasile (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightKeyword": "Cascate dell'Iguazú",
+        "hsh": "7f5ba6934862b9563561f2597637313d",
+        "description": "Sapevate che esistono cascate ancora più maestose di quelle del Niagara? Si trovano nello stesso continente, ma a migliaia di chilometri più a sud, in Sud America: le Cascate dell’Iguazú. Nell’immagine di oggi possiamo ammirare questo spettacolo naturale situato tra Argentina e Brasile. Il nome “Iguazú” (traducibile con “grande acqua”) deriva dalla lingua guaraní, una lingua appartenente a una affascinante popolazione, quella dei Tupí-Guaraní, presente nell’Argentina nord-orientale, nel Brasile sud-amazzonico e in gran parte del Paraguay."
+    },
+    {
         "fullstartdate": "202409072200",
         "date": "20240908",
         "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_IT-IT4633404015_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227",
         "copyright": "Ara, Mato Grosso do Sul, Brasile (© Ellen Goff/Danita Delimont)",
         "copyrightKeyword": "Ara uccello",
-        "hsh": "9ffe5e560ca5be3a06b4a10e6909b5fc",
-        "description": "Benvenuti al magico ballo delle Arare, dei pappagalli, anche conosciuti come Ara, nell’oasi di Buraco das Araras, in Brasile! In questa imponente dolina, lo spettacolo della flora e della fauna è garantito. Gli Ara, tipici della zona, si distinguono per il loro piumaggio blu, giallo, rosso e verde, creando un contrasto cromatico incantevole su uno sfondo di cielo azzurro e pareti di arenaria rossa. La voragine, con quasi 130 metri di profondità, è un santuario per questi splendidi uccelli, creando una cartolina idilliaca. La loro presenza non è solo segno della ricca biodiversità locale, ma rappresenta anche un’attrazione per ecoturisti e amanti della natura."
-    },
-    {
-        "fullstartdate": "202408312200",
-        "date": "20240901",
-        "url": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877",
-        "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
-        "copyrightKeyword": "Regata Storica, Serenissima",
-        "hsh": "9d1d941f04074275cfe950a71b08942d"
+        "hsh": "9ffe5e560ca5be3a06b4a10e6909b5fc"
     }
 ]
