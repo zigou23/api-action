@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409092200",
+        "date": "20240910",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_IT-IT5048654702_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_IT-IT5048654702",
+        "copyright": "Ponte Vasco da Gama, Lisbona, Portogallo (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "Ponte Vasco da Gama, Lisbona, Portogallo",
+        "hsh": "966c6f29ad4c16fca118680b69b28870",
+        "description": "Vi piace l’architettura e l’ingegneria? Ammirate il Ponte Vasco da Gama, costruito a Lisbona, in Portogallo. Unendo le sponde del fiume Tago nel Parque das Nações, questo ponte è il secondo più lungo in Europa e il primo nell’Unione Europea con i suoi imponenti 12,3 chilometri di lunghezza. I lavori iniziarono nel febbraio del 1995, e fu progettato per resistere ai terremoti, permettendo movimenti orizzontali e verticali per adattarsi alle scosse sismiche. Fu inaugurato tre anni dopo, il 29 marzo 1998, in onore dei 500 anni dall’arrivo di Vasco da Gama a Calicut in India."
+    },
+    {
         "fullstartdate": "202409082200",
         "date": "20240909",
         "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_IT-IT4779268269_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_IT-IT6756138209",
         "copyright": "Lago Crystal, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)",
         "copyrightKeyword": "Wilderness Act",
-        "hsh": "0bca1c476094960396b973f112de80bc",
-        "description": "Con l’aria di un lago di montagna incastonato tra le vette, il lago Crystal, nello Stato di Washington negli USA, si svela con la sua magia. E in questa calda estate, non sarebbe meraviglioso trovarsi in un luogo così fresco e incantevole? Ciò che rende la riserva \"Alpine Lakes Wilderness\" ancor più desiderabile è che l’entrata è garantita a pochi fortunati. Con soli 2.558 permessi di soggiorno notturno concessi su 40.000 richieste, l’ingresso al paradiso non è garantito a tutti. Tuttavia, tentate la sorte, perché un’esperienza del genere, lascerà nei vostri ricordi, un segno indelebile."
-    },
-    {
-        "fullstartdate": "202409012200",
-        "date": "20240902",
-        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227",
-        "copyright": "Ara, Mato Grosso do Sul, Brasile (© Ellen Goff/Danita Delimont)",
-        "copyrightKeyword": "Ara uccello",
-        "hsh": "9ffe5e560ca5be3a06b4a10e6909b5fc"
+        "hsh": "0bca1c476094960396b973f112de80bc"
     }
 ]

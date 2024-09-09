@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409092200",
+        "date": "20240910",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_DE-DE9301189449_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_DE-DE9301189449",
+        "copyright": "Ponte Vasco da Gama, Lissabon, Portugal (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "Ponte Vasco da Gama",
+        "hsh": "4b26aeb6b5be1809482f4f49c8b7412f",
+        "description": "Entdecken Sie das architektonische Meisterwerk, das die Landschaft Lissabons prägt: die Vasco-da-Gama-Brücke. Benannt nach dem berühmten portugiesischen Seefahrer und Entdecker des Seewegs nach Indien, Vasco da Gama, erstreckt sich diese Ingenieursleistung über beeindruckende 12,3 Kilometer über den Tejo und ist damit die längste Brücke der Europäischen Union. Sie wurde konzipiert, um Engpässe auf der älteren Brücke des 25. April zu entlasten und den Nord-Süd-Verkehr Portugals zu verbessern. Der Bau der erdbebensicheren Brücke begann im Februar 1995 und wurde rechtzeitig zur Expo 98 fertiggestellt. In Deutschland hingegen ist die Köhlbrandbrücke in Hamburg die längste Brücke des Landes. Sie erstreckt sich über eine Länge von etwa 3.618 Metern und verbindet das Hafengebiet mit dem übrigen Stadtgebiet. Die Köhlbrandbrücke wurde 1974 eröffnet und ist ein zentrales Bauwerk für den Hamburger Hafenverkehr."
+    },
+    {
         "fullstartdate": "202409082200",
         "date": "20240909",
         "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_DE-DE0921479512",
         "copyright": "Crystal Lake in den Enchantments, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)",
         "copyrightKeyword": "Alpine Lakes Wilderness",
-        "hsh": "92f6fd4d0e4658d6532169bc678fee34",
-        "description": "Auf unserem heutigen Bild befinden wir uns am Crystal Lake im Herzen der Alpine Lakes Wilderness, Washington, USA – ein Naturjuwel für Outdoor-Liebhaber. In dieser geschützten Region erwartet Sie mit über 700 Seen und Teichen sowie einzigartigen Klettermöglichkeiten ein echtes Highlight der USA. Neben Bergziegen und Moorschneehühnern können Besucher die charakteristischen Pfeifhasen und eine Vielfalt an Alpenblumen bewundern. Interessant ist auch, dass der Zugang zum Schutzgebiet stark begrenzt ist: Im letzten Jahr haben 40.000 Naturfreunde an der Verlosung für die begehrten Übernachtungsgenehmigungen teilgenommen – lediglich 2.558 Glückliche erhielten eine Zusage. Ein wahres Schutzgebiet, das Planung und Geduld erfordert, um seine Wunder zu erleben."
-    },
-    {
-        "fullstartdate": "202409012200",
-        "date": "20240902",
-        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_DE-DE8804802285_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_DE-DE8804802285",
-        "copyright": "Rot-grüne Aras, Mato Grosso do Sul, Brasilien (© Ellen Goff/Danita Delimont)",
-        "copyrightKeyword": "Ara Papagei",
-        "hsh": "fb18a8e58d2fd74f04d1bb921b194735"
+        "hsh": "92f6fd4d0e4658d6532169bc678fee34"
     }
 ]

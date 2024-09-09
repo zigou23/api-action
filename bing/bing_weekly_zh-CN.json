@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409091600",
+        "date": "20240910",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644",
+        "copyright": "瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "瓦斯科达伽马大桥",
+        "hsh": "85f12ef722e2e1dd7caac21ae10dd1be",
+        "description": "今天的图片展示的是葡萄牙的瓦斯科·达·伽马大桥，宛如一条流畅的线条，穿过里斯本的天际线。从近处看，它是一座带高架桥的斜拉桥，横跨里斯本万国公园的塔霍河。瓦斯科·达伽马大桥是欧洲第二长的桥，也是欧盟最长的桥，于1995年2月开工建设，旨在缓解里斯本四月二十五号大桥出现的交通拥堵情况，使葡萄牙南北之间的交通更加顺畅。该桥具有抗震性，可在地震中吸收晃动。由于桥面没有固定在桥塔上，因此可以纵向和横向移动。大桥于1998年3月29日落成通车，恰逢98世博会举行，这是为纪念瓦斯科·达·伽马发现从欧洲到印度的历史性海路500周年而举办的世界博览会。"
+    },
+    {
         "fullstartdate": "202409081600",
         "date": "20240909",
         "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724",
         "copyright": "迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)",
         "copyrightKeyword": "荒野法",
-        "hsh": "d0e571f36c8859656dc11f1231c14ad5",
-        "description": "有时候，逃离尘嚣也是一个不错的选择。多亏了环保主义者霍华德·扎尼泽，美国人才可以在该国众多的荒野之一中实现这一愿望。尽管创建国家森林公园等保护工作始于19世纪末，但到1960年代，原始的荒野面积已减少到仅占全国土地面积的2.5%。为了扭转这一趋势，扎尼泽起草了许多保护性条款，它们后来成为《荒野法》的大部分内容。该法案于1964年9月3日由林登·约翰逊总统签署成为法律，如今保护着超1.09亿英亩的土地——占美国土地的5%。"
-    },
-    {
-        "fullstartdate": "202409011600",
-        "date": "20240902",
-        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508",
-        "copyright": "红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)",
-        "copyrightKeyword": "红绿金刚鹦鹉",
-        "hsh": "7ae9d0fc91e67af4450f583dea7a8a1b"
+        "hsh": "d0e571f36c8859656dc11f1231c14ad5"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409091830",
+        "date": "20240910",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547",
+        "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "Vasco da Gama Bridge",
+        "hsh": "771c4ba1aeaff15971ff7c83759a6920",
+        "description": "Today's image features the Vasco da Gama Bridge in Portugal, which looks like a sleek line cutting through Lisbon's skyline. Up close, it is a cable-stayed bridge with viaducts, stretching across the Tagus River in Parque das Nações, a civil parish in Lisbon. The second longest bridge in Europe, it also holds the title of being the longest in the European Union. Built to ease the traffic jam on Lisbon's 25 de Abril Bridge and make travel smoother between the north and south of Portugal, the construction of the Vasco da Gama Bridge began in February 1995. It is earthquake-resistant, designed to absorb shifting during a quake. Since its deck is not fixed to the pylons, it can move both lengthwise and sideways. Inaugurated on March 29, 1998, the bridge's opening was perfectly timed for Expo 98, the World's Fair celebrating the 500th anniversary of Vasco da Gama's historic sea route discovery from Europe to India."
+    },
+    {
         "fullstartdate": "202409081830",
         "date": "20240909",
         "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_EN-IN6797774904_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-IN2610017297",
         "copyright": "Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)",
         "copyrightKeyword": "the enchantments",
-        "hsh": "785e8694b93526bf67993f8ce19da34c",
-        "description": "Pictured in today's image, Crystal Lake is in the Alpine Lakes Wilderness in Washington, United States. The Enchantments is more than 24 kilometres southwest of the charming Bavarian-themed town of Leavenworth. It's considered one of the Cascade Range's most stunning areas. The Enchantments is home to more than 700 lakes and ponds and some of the best rock climbing in the Western United States. It's also home to mountain goats, ptarmigan, pikas and numerous types of alpine flowers. If you want to see Alpine Lakes Wilderness yourself, however, be prepared to wait. Few permits are granted for day hikes, and of the 40,000 people who entered last year's lottery for overnight permits, only 2,558 received one."
-    },
-    {
-        "fullstartdate": "202409011830",
-        "date": "20240902",
-        "url": "https://www.bing.com/th?id=OHR.RhinoMother_EN-IN4208210232_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RhinoMother_EN-IN4208210232",
-        "copyright": "Rhino mother and calf, Kaziranga National Park, Assam (© ePhotocorp/Getty Images)",
-        "copyrightKeyword": "Rhinoceros",
-        "hsh": "487a4bbdddddf46598ab3434d7099ccf"
+        "hsh": "785e8694b93526bf67993f8ce19da34c"
     }
 ]
