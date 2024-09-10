@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409100300",
+        "date": "20240911",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262",
+        "copyright": "Ponte Vasco da Gama, Lisboa, Portugal (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "Ponte Vasco da Gama",
+        "hsh": "398dbb6ea50bd510e5a17925c01b995d",
+        "description": "Curioso para saber como a engenharia pode transformar lugares e vidas? A Ponte Vasco da Gama, em Portugal, se estende elegante sobre o Rio Tejo com seus imponentes 12,3 quilômetros de extensão e é um excelente exemplo disso. Para além de sua função prática de melhorar o fluxo entre o norte e o sul de Portugal, ela é um símbolo da engenharia antissísmica: durante um terremoto, a ponte pode se mover lateralmente e em seu comprimento para evitar danos."
+    },
+    {
         "fullstartdate": "202409090300",
         "date": "20240910",
         "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_PT-BR7775661290_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_PT-BR5855305419",
         "copyright": "Crystal Lake nos Enchantments, Região selvagem dos lagos alpinos, Washington, EUA (© Mitch Pittman/Tandem Stills + Motion)",
         "copyrightKeyword": "Lagos Encantados em Washington",
-        "hsh": "6dc3f523c68e9cb61612f4b88c22e60c",
-        "description": "Sabe aquele desejo de fugir um pouco do dia a dia e respirar novos ares? Howard Zahniser tornou isso possível nos EUA, criando espaços onde a natureza comanda - verdadeiros refúgios longe da agitação humana. Antigamente, áreas selvagens compunham só 2,5% do território americano, mas essa história mudou. A partir do texto de Zahniser, a Lei da Selva de 1964 salvaguarda hoje acima de 440 milhões de hectares, representando 5% da terra nos Estados Unidos."
-    },
-    {
-        "fullstartdate": "202409020300",
-        "date": "20240903",
-        "url": "https://www.bing.com/th?id=OHR.BuracodasAraras_PT-BR5512338223_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BuracodasAraras_PT-BR5512338223",
-        "copyright": "Araras-vermelhas, Mato Grosso do Sul, Brasil (© Ellen Goff/Danita Delimont)",
-        "copyrightKeyword": "Arara-vermelha",
-        "hsh": "956e453f9e9b9268dfdc3f57082aee3a"
+        "hsh": "6dc3f523c68e9cb61612f4b88c22e60c"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409101830",
+        "date": "20240911",
+        "url": "https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366",
+        "copyright": "Akshardham Temple at night (© Sean3810/iStock/Getty Images Plus/Getty Images)",
+        "copyrightKeyword": "Swaminarayan Akshardham",
+        "hsh": "1e2fd60ab8f27ded05f8dbf4eda58b9e",
+        "description": "Today's image features Swaminarayan Akshardham in Delhi, a tribute to yogi Swaminarayan (1781-1830), along with the avatars, deities and sages of Hinduism. This remarkable site is celebrated for its enduring essence of devotion, purity and tranquillity. Architecturally, the complex is designed according to ancient and medieval Indian architectural texts, known as the shilpa shastras. It boasts several notable attractions, including an abhishek mandap and the Sahaj Anand water show. It also has a theme garden and three immersive exhibitions: Sahajanand Darshan, which highlights core principles; Neelkanth Darshan, a film depicting Swaminarayan's early years and Sanskruti Darshan, a cultural boat."
+    },
+    {
         "fullstartdate": "202409091830",
         "date": "20240910",
         "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DuskyOwls_EN-IN2854960722",
         "copyright": "Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)",
         "copyrightKeyword": "Dusky eagle owls",
-        "hsh": "cd667a42e8926a3fb0b2b2e19ecbdf0d",
-        "description": "As daylight fades, dusky eagle-owls, the silent hunters seen in today's image, emerge from their nests. Not only are they a marvel with a wingspan of approximately 38–43 centimetres, but their striking yellow eyes and sharp hearing make them efficient hunters. Growing up to 61 centimetres, eagle-owls can be seen hunting by day under overcast skies. They often claim abandoned nests as their own. With breeding season spanning December to January, the eagle-owls nurture their offspring in the secure embrace of lofty trees or cliff faces. Nature lovers and bird watchers are captivated by their solemn gaze and elegant stature."
-    },
-    {
-        "fullstartdate": "202409021830",
-        "date": "20240903",
-        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-IN2610017297_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_EN-IN2610017297",
-        "copyright": "Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)",
-        "copyrightKeyword": "the enchantments",
-        "hsh": "785e8694b93526bf67993f8ce19da34c"
+        "hsh": "cd667a42e8926a3fb0b2b2e19ecbdf0d"
     }
 ]

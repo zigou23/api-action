@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202409101600",
+        "date": "20240911",
+        "url": "https://www.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377",
+        "copyright": "埃尔茨城堡，德国 (© Allard Schager/Alamy)",
+        "copyrightKeyword": "埃尔茨城堡",
+        "hsh": "ff82c0a8a274825a82d7693b39f8d8a1",
+        "description": "埃尔茨城堡位于艾菲尔地区的一个风景如画的山谷中，是德国最重要和保存最完好的城堡之一。自12世纪以来，埃尔茨城堡一直由埃尔茨家族拥有。这座城堡融合了不同的建筑风格，其中哥特式的骑士客厅和巴洛克式的盔甲工匠房尤为引人注目。特别值得一提的是藏宝室，里面收藏着德国最珍贵的中世纪艺术品。在这里，您可以看到价值连城的盔甲、艺术化设计的武器以及各种金银制品。"
+    },
+    {
         "fullstartdate": "202409091600",
         "date": "20240910",
         "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644",
         "copyright": "瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)",
         "copyrightKeyword": "瓦斯科达伽马大桥",
-        "hsh": "85f12ef722e2e1dd7caac21ae10dd1be",
+        "hsh": "cc4a5dc5adac3ac5940b57918d70db4a",
         "description": "今天的图片展示的是葡萄牙的瓦斯科·达·伽马大桥，宛如一条流畅的线条，穿过里斯本的天际线。从近处看，它是一座带高架桥的斜拉桥，横跨里斯本万国公园的塔霍河。瓦斯科·达伽马大桥是欧洲第二长的桥，也是欧盟最长的桥，于1995年2月开工建设，旨在缓解里斯本四月二十五号大桥出现的交通拥堵情况，使葡萄牙南北之间的交通更加顺畅。该桥具有抗震性，可在地震中吸收晃动。由于桥面没有固定在桥塔上，因此可以纵向和横向移动。大桥于1998年3月29日落成通车，恰逢98世博会举行，这是为纪念瓦斯科·达·伽马发现从欧洲到印度的历史性海路500周年而举办的世界博览会。"
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982",
         "copyright": "阿根廷和巴西边境的伊瓜苏瀑布 (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "伊瓜苏瀑布",
-        "hsh": "e7b9678e8256b15b18b4ad67c60eca5d",
+        "hsh": "d377521e44fe52d77907c86aa797b82b",
         "description": "想亲眼目睹让尼亚加拉瀑布都望尘莫及的壮观瀑布吗？让我们走进世界上最大的瀑布群——伊瓜苏瀑布。“伊瓜苏”这个名字来源于瓜拉尼语或图皮语，意思是“大水”。这些瀑布群由伊瓜苏河形成，位于阿根廷米西奥内斯省和巴西巴拉那州的交界处。它们拥有独特的阶梯状结构，是由三层玄武岩形成的两级阶梯式瀑布，非常引人注目。"
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Canigou_ZH-CN6145410455",
         "copyright": "加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)",
         "copyrightKeyword": "圣马丁杜卡尼古修道院",
-        "hsh": "a8d2da09470edb972a26d8fe1272c14d",
+        "hsh": "06bf9dcbb1b92cf1e70c1db3e4d5d193",
         "description": "想要来一次永恒之旅？圣马丁杜卡尼古修道院向你敞开大门！坐落在东比利牛斯省卡尼古山丘的西麓，这座11世纪的罗马式修道院是一座隐藏的宝藏，正等待着你去探索。修道院坐落在海拔1055米处，位于里多尔塔溪峡谷的边缘，且靠近卡斯特尔村，有着令人叹为观止的景色。从村庄攀登到修道院是一段美好的徒步路程，高差约为250米。"
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039",
         "copyright": "朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)",
         "copyrightKeyword": "朱红蜂鸟",
-        "hsh": "ed777abed45dbc578b97830aa69bba6e",
+        "hsh": "540f14592b83d3c32fba826a05db2c43",
         "description": "每年九月的第一个星期六，鸟类爱好者和自然爱好者都会聚在一起庆祝全国蜂鸟日。这一天是专门用来欣赏这些敏捷的小鸟以及关注它们在我们的生态系统中作为传粉者的作用。蜂鸟以其惊人的速度而闻名：它们扇动翅膀的速度可达每秒80次，使得它们能够在原地悬停，甚至向后飞。艾米莉·狄金森恰如其分地描述了它们的快速运动：“一条逐渐消失的路 / 一只瞬息而过的轮”。蜂鸟的新陈代谢旺盛，需要不停地进食。因此，它们整天都在花间飞来飞去，汲取花蜜，捕捉昆虫。有趣的是，这些鸟儿能记住它们造访过的每一朵花，以及每朵花需要多长时间才能重新充满花蜜。"
     },
     {
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707",
         "copyright": "古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)",
         "copyrightKeyword": "格莱纳里夫森林公园 ",
-        "hsh": "923d19bc22e9772dea2458ff3ddd1e71",
+        "hsh": "294668ad46531823129fba1c3b22db01",
         "description": "你可曾想过在故事书中漫步？欢迎来到北爱尔兰安特里姆郡的格莱纳里夫森林公园。该公园占地近3,000英亩，不仅拥有林地、瀑布和各种奇观，还有多条步道，每条步道都有自己独特的景观视角。其中，最受欢迎的是瀑布步道，这条3英里长的步道穿过一个国家自然保护区，沿途有瀑布景观。格莱纳里夫森林公园有丰富多样的野生动物，包括红松鼠、松貂和獾。观鸟者会被欧柳莺、棕柳莺和翠鸟所吸引。这里的植物也同样令人印象深刻，古老的山毛榉（如图所示）、橡树、桦树和花楸树等树木形成了郁郁葱葱的树冠。因此，无论您选择何时来访，格莱纳里夫一定会让您感觉 “重获新生”，焕发活力。"
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831",
         "copyright": "乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)",
         "copyrightKeyword": "乌雕鸮",
-        "hsh": "3a43e340c5f3b8ac3e671737b18fa358",
-        "description": "随着日光逐渐暗淡，乌雕鸮——今天画面中的沉默猎手，从巢穴中钻了出来。这些主要在夜间活动的猛禽是在巴基斯坦被拍摄到的，在南亚和东南亚的森林以及灌木丛中也能找到它们的身影。一对令人印象深刻的15–17英寸的翼展、锐利的黄色眼睛和出色的听力，能帮助它们在昏暗的光线中精确地捕捉小型哺乳动物和鸟类。这些长了羽毛的食肉动物身高可达两英尺，在白天阴天的时候，也能看到它们捕猎的身影。它们通常栖息在被其它鸟类遗弃的巢穴里或自然裂缝中。乌雕鸮在十二月和一月繁殖，通常在高大的树木或崖壁的安全地带抚养幼鸟。无数自然爱好者和观鸟者被它们冷峻的眼神和优雅的身姿所吸引。"
-    },
-    {
-        "fullstartdate": "202409021600",
-        "date": "20240903",
-        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724",
-        "copyright": "迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)",
-        "copyrightKeyword": "荒野法",
-        "hsh": "d0e571f36c8859656dc11f1231c14ad5"
+        "hsh": "3a43e340c5f3b8ac3e671737b18fa358"
     }
 ]

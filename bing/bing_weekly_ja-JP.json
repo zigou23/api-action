@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202409101500",
+        "date": "20240911",
+        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_JA-JP2510109081",
+        "copyright": "ヴァスコ・ダ・ガマ橋, ポルトガル (© Achim Thomae/Getty Images)",
+        "copyrightKeyword": "ヴァスコ・ダ・ガマ橋",
+        "hsh": "d4a2623d62b17c3c4799359d5f24beac",
+        "description": "今日の画像はヴァスコ・ダ・ガマ橋。ポルトガルのテージョ川河口部に架けられた斜張橋であり、リスボン近郊のサカヴェンとモンチジョを結んでいます。全長は 17.2km とヨーロッパで 2 番目に長い橋で、耐震構造になっており、地震の際は揺れを吸収するように設計されています…"
+    },
+    {
         "fullstartdate": "202409091500",
         "date": "20240910",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419",
         "copyright": "ラパ・ヌイ国立公園, チリ (© Piriya Photography/Getty Images)",
         "copyrightKeyword": "ラパ・ヌイ国立公園",
-        "hsh": "7f863b5685fc9a00ed1c6cc74c3b3fd9",
+        "hsh": "013ecd315b2ed33e083fa57cc8fc6c27",
         "description": "ここはチリのイースター島に位置するラパ・ヌイ国立公園。ポリネシア系の先住民ラパ・ヌイ族によって作られたモアイ像で有名です。また、ラノ・ララク火山や緑豊かな草原などの自然景観も豊富で、1995 年、ユネスコの世界遺産に登録されました…"
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_JA-JP1767821337",
         "copyright": "イグアスの滝, ブラジルとアルゼンチン (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "イグアスの滝",
-        "hsh": "f54a85191c2de2c3b2dcf71e6a0a2423",
+        "hsh": "ac423a9fb7fcc1b26e3f52a601c06441",
         "description": "今日の画像はイグアスの滝。ブラジルとアルゼンチンの二ヶ国にまたがる滝で、ヴィクトリアの滝、ナイアガラの滝と並んで、世界三大瀑布といわれている世界で最も壮観な滝の一つです。この滝を含むブラジルのイグアス国立公園とアルゼンチンのイグアス国立公園は、ユネスコの世界遺産にも登録されています…"
     },
     {
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617",
         "copyright": "ストックホルム市立図書館, スウェーデン (© Andrei Hrabun/Alamy)",
         "copyrightKeyword": "ストックホルム市立図書館",
-        "hsh": "86a6e8d12c901d9b287367fde90d87c8",
+        "hsh": "c47c12644c6075989587140056becc45",
         "description": "今日 9 月 8 日は国際識字デー。世界の識字率を向上させることを目的に、1965 年にユネスコによって宣言されました。日本の識字率はほぼ 100% といわれるほど非常に高いですが、現在、世界では約 7 億 7500 万人が最低限の識字スキルを持っていません…"
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185",
         "copyright": "アンナハチドリ, 米国 カリフォルニア州 (© yhelfman/Getty Images)",
         "copyrightKeyword": "アンナハチドリ",
-        "hsh": "a30cbb4d76a15e0ab6c481e2042c68bb",
+        "hsh": "dd1ad38104a3fb28af0a8871c6779563",
         "description": "9 月の第一土曜日は米国のハチドリの日。南北アメリカ大陸に生息しているハチドリは、小さな体と美しい羽で多くの人々に愛されています。また、その美しい羽を高速で動かす姿で知られており、最大で 1 秒間に約 80 回も羽ばたきながら、空中で静止するホバリング飛行を行います…"
     },
     {
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405",
         "copyright": "郡上八幡城, 岐阜県 郡上市 (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "郡上八幡城",
-        "hsh": "4687d94ec12cdd9e19cd8f347d82016e",
+        "hsh": "b4d9102d7160d1c71d8d6e550c6592a4",
         "description": "画像は岐阜県郡上市に位置する郡上八幡城。1559 年に遠藤盛数によって築かれた砦を起源としたこの城は、明治維新の廃藩置県とともに廃城となり、1870 年に石垣以外の城郭施設はすべて取り壊されました。現在の天守は 1933 年に再建されたもので、日本最古の木造再建城として知られています…"
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307",
         "copyright": "ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)",
         "copyrightKeyword": "ウスグロワシミミズク",
-        "hsh": "aa7845430165b2c7685f1e9d472e08b2",
-        "description": "今日の画像はパキスタンで撮影されたウスグロワシミミズク。南アジアおよび東南アジア全域の森林や低木地帯に広く生息しているフクロウ種です。翼開長は 120cm 。鮮やかな黄色の目と卓越した聴覚により、薄暗い中でも小型の哺乳類や鳥類を捕らえることができます…"
-    },
-    {
-        "fullstartdate": "202409021500",
-        "date": "20240903",
-        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140",
-        "copyright": "エンチャントメンツ地域にある高山湖,米国 ワシントン州 (© Mitch Pittman/Tandem Stills + Motion)",
-        "copyrightKeyword": "エンチャントメンツ地域",
-        "hsh": "4247897da9daa27eb5f6e185adf63185"
+        "hsh": "aa7845430165b2c7685f1e9d472e08b2"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409102200",
+        "date": "20240911",
+        "url": "https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474",
+        "copyright": "Balcón del Palau de la Música, Barcelona, Cataluña (© Jacek Sopotnicki/Alamy Stock Photo)",
+        "copyrightKeyword": "Dia de Cataluna",
+        "hsh": "085b85ffde71d027dcb7a6b78365a78f",
+        "description": "Hoy se celebra la Diada de Cataluña, un día que conmemora la caída de Barcelona en 1714, durante la Guerra de Sucesión Española, un hecho trascendental que marcó un antes y un después en la historia. En esta fecha, se rinde homenaje a los héroes que lucharon y sacrificaron sus vidas por esta comunidad, reafirmando el legado de resistencia y determinación que ha perdurado a lo largo de los siglos."
+    },
+    {
         "fullstartdate": "202409092200",
         "date": "20240910",
         "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_ES-ES6670987033_1920x1080.jpg",
@@ -56,26 +66,16 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DuskyOwls_ES-ES4835891419",
         "copyright": "Búho de Coromandel, Pakistán (© zahoor salmi/Getty Images)",
         "copyrightKeyword": " buho de Coromandel",
-        "hsh": "9fe0306f17623ece902b8304eb828258",
+        "hsh": "5196e2bdc4f9c8161508dd08d7591f85",
         "description": "Al caer la noche, los majestuosos búhos de Coromandel emergen silenciosos de sus nidos, protagonistas de nuestra imagen del día. Captados en Pakistán, estos cazadores nocturnos también surcan los cielos de bosques y matorrales del sur y sudeste de Asia. Poseen una envergadura impresionante de 38 a 43 centímetros, ojos amarillos penetrantes y un oído excepcional que les permite atrapar pequeños mamíferos y aves con precisión incluso en penumbra. Alcanzando casi los 60 centímetros de altura, es posible observar a estos depredadores alados cazando incluso de día si el cielo está nublado."
     },
     {
         "fullstartdate": "202409032200",
         "date": "20240904",
-        "url": "https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478",
-        "copyright": "La Vuelta en Peñas Blancas, Estepona, Málaga (© Tim de Waele/Staff/Getty Images)",
+        "url": "https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES8259747842_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES8259747842",
+        "copyright": "68ª Vuelta a España 2013 - Etapa 8, Andalucía, España (© Tim de Waele/Staff/Getty Images)",
         "copyrightKeyword": "Vuelta a Espana",
-        "hsh": "8bb7b15d6dcbc47c6b6c213a95d06ad6",
-        "description": "¿Estás preparado para una ruta inolvidable por la Península Ibérica? La Vuelta 2024 ya ha comenzado y culminará el 8 de septiembre en Madrid. Esta edición cuenta con 21 etapas y abarcará un total de 3.265 kilómetros, en los que los ciclistas atravesarán 9 comunidades autónomas y dos países, España y Portugal, ofreciendo un espectáculo único."
-    },
-    {
-        "fullstartdate": "202409022200",
-        "date": "20240903",
-        "url": "https://www.bing.com/th?id=OHR.AlpineLakes_ES-ES4680324060_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AlpineLakes_ES-ES4680324060",
-        "copyright": "Lago Crystal en los Encantamientos, Área Silvestre de los Lagos Alpinos, Washington, EE. UU. (© Mitch Pittman/Tandem Stills + Motion)",
-        "copyrightKeyword": "Ley de Areas Salvajes",
-        "hsh": "c35cb357c6f7d4af4a7b15e43b813f94"
+        "hsh": "d06d46db9b9ab581926a242d257e597e"
     }
 ]
