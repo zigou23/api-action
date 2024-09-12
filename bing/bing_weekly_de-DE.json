@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409122200",
+        "date": "20240913",
+        "url": "https://www.bing.com/th?id=OHR.SanssouciPalace_DE-DE1364639804_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SanssouciPalace_DE-DE1364639804",
+        "copyright": "Schloss Sanssouci, Schlosspark, Potsdam, Brandenburg (© Günter Gräfenhain/Alamy)",
+        "copyrightKeyword": "Schloss Sanssouci Schlossgarten",
+        "hsh": "e076caae3230e51f7ec8af3ddd44165a",
+        "description": "Schloss Sanssouci und sein Park in Potsdam auf unserem heutigen Bild sind nicht nur ein Juwel preußischer Architektur, sondern auch ein beeindruckendes Beispiel höchster Gartenkunst. 1990 nahm die UNESCO den Park 1990 in die Liste des Weltkulturerbes auf. Der Bau des Schlosses begann 1743 auf Wunsch von Friedrich des Großen. Das Schloss bietet mit seiner einzigartigen Terrassenanlage, die dem Weinbau gewidmet ist, einen spektakulären Ausblick über Potsdam. Friedrich der Große plante das Schloss als Sommerresidenz und ließ sich dort auch seine letzte Ruhestätte anlegen. Im 19. Jahrhundert erweiterte König Friedrich Wilhelm IV. den Garten erheblich. Er integrierte einen malerischen Landschaftspark und fügte faszinierende Naturinszenierungen sowie prachtvolle Bauten des Klassizismus und der Romantik hinzu."
+    },
+    {
         "fullstartdate": "202409112200",
         "date": "20240912",
         "url": "https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_DE-DE0727341887",
         "copyright": "Alte Buche, Glenariff Forest Park, Grafschaft Antrim, Nordirland (© Dawid K Photography/Shutterstock)",
         "copyrightKeyword": "Glenariff Forest Park Nordirland",
-        "hsh": "a5355ef617a7cec12c2401bf5bd12415",
-        "description": "Willkommen in der Märchenlandschaft des Glenariff Forest Parks in der Grafschaft Antrim, Nordirland. Der Park erstreckt sich über fast 1.200 Hektar Waldland voller Wasserfälle und Wunder und bietet viele Wanderwege, von denen jeder einen einzigartigen Blick auf die Landschaft ermöglicht. Der beliebteste Pfad ist der 5 Kilometer lange Wasserfall-Wanderweg, der durch ein nationales Naturschutzgebiet führt und an den Wasserfällen Ess-na-Crub und Ess-na-Larach vorbeiführt. Glenariff besitzt eine reiche Tierwelt, darunter Rot-Eichhörnchen, Baummarder und Dachse. Vogelbeobachter werden von Weidenlaubsängern, Zilpzalpen und Eisvögeln begeistert sein. Auch die Flora ist beeindruckend mit Bäumen wie der uralten Buche auf unserem heutigen Bild, Eichen, Birken und Ebereschen."
-    },
-    {
-        "fullstartdate": "202409042200",
-        "date": "20240905",
-        "url": "https://www.bing.com/th?id=OHR.TIFF2024_DE-DE1559469948_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TIFF2024_DE-DE1559469948",
-        "copyright": "Skyline der Stadt Toronto am Ontariosee, Kanada (© Roberto Machado Noa/Getty Images)",
-        "copyrightKeyword": "Toronto International Film Festival 2024",
-        "hsh": "58ad31d24a4f3294eae8bdda368e0f6d"
+        "hsh": "a5355ef617a7cec12c2401bf5bd12415"
     }
 ]
