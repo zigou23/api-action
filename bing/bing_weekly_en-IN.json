@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202409131830",
+        "date": "20240914",
+        "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010",
+        "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
+        "copyrightKeyword": "Ahu Tongariki",
+        "hsh": "906045e393804afa9ca3895bf42bd364",
+        "description": "Welcome to Rapa Nui, also known as Easter Island, Chile—one of the world's most remote and enchanting paradises. Famous for its iconic moai statues, this stunning island is a treasure trove of breathtaking landscapes and rich cultural heritage. Experts are divided on the timeline of the Polynesians' arrival, though many researchers suggest that it occurred around the 8th century. Take in the mesmerising sunrise featured in today's image and explore the striking volcanic craters and lush, grassy plains where the imposing statues stand. The World Heritage property of Easter Island spans more than 68 square kilometres, including four nearby islets."
+    },
+    {
         "fullstartdate": "202409121830",
         "date": "20240913",
         "url": "https://www.bing.com/th?id=OHR.PointReyes_EN-IN7769414761_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_EN-IN7769414761",
         "copyright": "Point Reyes National Seashore Lighthouse, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore",
-        "hsh": "c2443489af7f3f201674513abe6dc64c",
+        "hsh": "99473f2c84da19f9c482eaeb81194b40",
         "description": "Welcome to Point Reyes National Seashore, where the sky meets the earth. This stunning 287 square kilometres coastal haven on the Point Reyes Peninsula in Marin County, United States, pictured in today's images, is a gem of the Californian coastline, boasting breathtaking views and diverse wildlife. Filled with scenic trails that wind through lush forests and along rugged cliffs, Point Reyes has much to offer its visitors."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303",
         "copyright": "Idols of Lord Ganesha for sale in Gulbai tekra, Ahmedabad (© Priti Bhatt/Getty Images)",
         "copyrightKeyword": "Ganesh chaturthi",
-        "hsh": "06163e3420b6cde44484e730374815a8",
-        "description": "Get ready to dance and paint the town red; it's Ganesh Chaturthi. The festival honours Ganesha, revered as the Hindu deity of fresh starts and the dispeller of challenges, along with being the embodiment of wisdom and intellect. Celebrated across the Indian subcontinent, it brings together people in a joyous observance. The exact origins of the festival are not clear, but it has been a prominent public celebration in Pune since the time of King Shivaji, who ruled from 1630 to 1680. Later freedom fighter Bal Gangadhar popularised it in Maharashtra in 1893. This move aimed to foster a 'Hindu nationalist identity' and resist British colonial rule."
-    },
-    {
-        "fullstartdate": "202409051830",
-        "date": "20240906",
-        "url": "https://www.bing.com/th?id=OHR.GlenariffPark_EN-IN6316433789_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_EN-IN6316433789",
-        "copyright": "Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)",
-        "copyrightKeyword": "Glenariff Forest Park County Antrim Northern Ireland",
-        "hsh": "3c989d2fc81dd0edf80064c2e4b51cd5"
+        "hsh": "06163e3420b6cde44484e730374815a8"
     }
 ]

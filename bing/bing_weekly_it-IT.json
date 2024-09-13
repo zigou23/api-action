@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409132200",
+        "date": "20240914",
+        "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035",
+        "copyright": "Alba ad Ahu Tongariki, Parco Nazionale Rapa Nui, Isola di Pasqua, Cile (© Piriya Photography/Getty Images)",
+        "copyrightKeyword": "Rapa Nui, Isola di Pasqua",
+        "hsh": "3e24a9b95b981f77fd13ba5719f1065c",
+        "description": "Allievi e amanti della storia, unitevi a noi in un’avventura in terra cilena a Rapa Nui, altrimenti nota come Isola di Pasqua. Ci troviamo nel bel mezzo dell’Oceano Pacifico e quest’isola vanta un paesaggio che vi lascerà a bocca aperta. Ma non solo la natura di questo luogo remoto, ma anche la cultura è qualcosa di affascinante, tanto che i ricercatori ancora dibattono sull’epoca dell’insediamento polinesiano, stimato all’incirca nel VII secolo. Qui potrete godervi un’alba straordinaria, immergervi nei crinali vulcanici e percorrere le verdi pianure dove dominano le statue."
+    },
+    {
         "fullstartdate": "202409122200",
         "date": "20240913",
         "url": "https://www.bing.com/th?id=OHR.PointReyes_IT-IT5474541020_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769",
         "copyright": "Vista di Firenze dal Duomo, Toscana, Italia (© Martin M303/Adobe Stock)",
         "copyrightKeyword": "Festa della Rificolona",
-        "hsh": "f2e416d960e8659c0311d776742bf9f4",
-        "description": "Firenze, culla del Rinascimento e gioiello incastonato nel cuore della Toscana, è un museo a cielo aperto che incanta ogni visitatore con la sua bellezza senza tempo. Passeggiare tra i suoi vicoli significa viaggiare indietro nella storia, scoprendo tesori architettonici come il Duomo di Santa Maria del Fiore con la sua imponente cupola di Brunelleschi, o la maestosa Galleria degli Uffizi che custodisce alcuni dei più famosi capolavori dell'arte mondiale. Oggi però, invece che portarvi alla scoperta di basiliche e musei, vi racconteremo di un evento tipico del capoluogo toscano."
-    },
-    {
-        "fullstartdate": "202409052200",
-        "date": "20240906",
-        "url": "https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_IT-IT4424875545",
-        "copyright": "Antico faggio, Parco Forestale di Glenariff, Contea di Antrim, Irlanda del Nord (© Dawid K Photography/Shutterstock)",
-        "copyrightKeyword": "Contea di Antrim, Irlanda del Nord",
-        "hsh": "b76ec719290add1c8fa7af621df585e5"
+        "hsh": "f2e416d960e8659c0311d776742bf9f4"
     }
 ]

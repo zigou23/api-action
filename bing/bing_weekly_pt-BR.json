@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409130300",
+        "date": "20240914",
+        "url": "https://www.bing.com/th?id=OHR.PointReyes_PT-BR8277913386_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_PT-BR8277913386",
+        "copyright": "Point Reyes National Seashore Lighthouse, California (© RMB Images/Photography by Robert Bowman/Getty Images)",
+        "copyrightKeyword": "Point Reyes National Seashore, Parque na Califórnia",
+        "hsh": "b8a494ef470caf468dcbfffbed606cd1",
+        "description": "Descubra a Costa Nacional de Point Reyes, uma joia escondida na costa californiana, EUA, onde o céu se encontra com a terra em perfeita harmonia. Repleto de trilhas deslumbrantes que serpenteiam por florestas exuberantes ao longo de penhascos dramáticos, este refúgio natural oferece uma imersão completa em paisagens de tirar o fôlego e uma vida selvagem rica e diversificada."
+    },
+    {
         "fullstartdate": "202409120300",
         "date": "20240913",
         "url": "https://www.bing.com/th?id=OHR.DolphinReunion_PT-BR8025622682_1920x1080.jpg",
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_PT-BR3203792144",
         "copyright": "Interior da Biblioteca Pública de Estocolmo, Suécia (© Andrei Hrabun/Alamy)",
         "copyrightKeyword": "Dia Mundial da Alfabetização",
-        "hsh": "108f4412ec79ab8c5b7250b6bfdf4bab",
+        "hsh": "84d85066466239d92d194928f79862c4",
         "description": "Dê as boas-vindas ao conhecimento com um bom livro! No Dia Mundial da Alfabetização, lembramos as palavras inspiradoras de Kofi Annan: “a alfabetização é uma ponte da miséria para a esperança”. Celebramos o poder transformador da alfabetização na imagem de hoje com a grandiosa Biblioteca Pública de Estocolmo, na Suécia, onde mais de dois milhões de títulos em mais de 100 idiomas aguardam por antigos e novos leitores."
     },
     {
@@ -56,7 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296",
         "copyright": "Parque da Independência, São Paulo (© Thiago Leitey/Shutterstock)",
         "copyrightKeyword": "Dia da Independência do Brasil",
-        "hsh": "51035e1660b9c4cc53ee3160192e7b18",
+        "hsh": "fdbaac4447ccaa76c73d14008688be35",
         "description": "Hoje comemoramos o Dia da Independência do Brasil, um marco que reverbera pelas paredes do imponente Museu do Ipiranga. Imagine-se passeando pelos jardins que parecem pinturas e se maravilhando com relíquias que contam nosso percurso como nação... Localizado em São Paulo, o museu foi construído no lugar onde Dom Pedro I declarou a independência em 7 de setembro de 1822. Marcado pelo estilo neoclássico, sua arquitetura foi inspirada no esplendor de Versalhes e reflete a grandiosidade da cidade de São Paulo no século XIX."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_PT-BR3219733810",
         "copyright": "Faia antiga, Parque Florestal de Glenariff, Condado de Antrim, Irlanda do Norte (© Dawid K Photography/Shutterstock)",
         "copyrightKeyword": "Glenariff Forest Park, Condado de Antrim, Irlanda do Norte",
-        "hsh": "83ec17e4a6c99d027fddc0aeaf066d70",
-        "description": "Já imaginou em como seria caminhar dentro de um conto de fadas? No Parque Florestal de Glenariff, na Irlanda do Norte, essa experiência ganha vida. Em um vasto território de mais de 1.200 hectares, o parque é um verdadeiro paraíso de trilhas, cachoeiras e belezas naturais, onde cada passo revela uma nova surpresa. A famosa Trilha das Cachoeiras, com quase 5 km de extensão, é uma joia à parte, cercada por reservas naturais e quedas d'água deslumbrantes."
-    },
-    {
-        "fullstartdate": "202409050300",
-        "date": "20240906",
-        "url": "https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047",
-        "copyright": "Confluência do Rio Negro e do Amazonas, Manaus, estado do Amazonas (© robertharding/Shutterstock)",
-        "copyrightKeyword": "Encontro das Águas",
-        "hsh": "c01e0bfea81d809d9eb17af21781af60"
+        "hsh": "83ec17e4a6c99d027fddc0aeaf066d70"
     }
 ]
