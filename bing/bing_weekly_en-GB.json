@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409142300",
+        "date": "20240915",
+        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058",
+        "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
+        "copyrightKeyword": "Stockholm Public Library Sweden",
+        "hsh": "055708b971aa5f698b6d24854e971b59",
+        "description": "If you're ever in Sweden and looking for a quiet place to get 'shelved,' the Stockholm Public Library, or 'Stadsbiblioteket' as it is known to locals, is your spot. Opened in 1928, this library is not just a place to borrow books; it's a cultural icon and an architectural marvel. Here, more than 2 million volumes wait to unfold stories in over 100 languages. Designed by architect Erik Gunnar Asplund in the 1920s, this Nordic Classicist composition features the geometry of a cylinder intersecting a cubic base. Its accessible façade belies a treasure trove within a 360-degree rotunda, inviting even the casual reader into a literal circle of knowledge."
+    },
+    {
         "fullstartdate": "202409132300",
         "date": "20240914",
         "url": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GreatNorthRun2024_EN-GB4101357995",
         "copyright": "Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)",
         "copyrightKeyword": "Great North Run",
-        "hsh": "0a89d939dcd01a0257b1e9775e515b99",
-        "description": "Today, the streets of Newcastle will transform into a sea of runners, joggers and walkers all headed in one direction—south. The Great North Run, the world's largest half marathon, is back. Founded in 1981 by former Olympic 10,000-metre bronze medallist Brendan Foster, this annual event started with humble beginnings. Just over 12,000 runners took part in the inaugural race, but it quickly grew into a phenomenon. Today, the race attracts around 60,000 participants each year, from elite athletes to charity fundraisers dressed as giant bananas."
-    },
-    {
-        "fullstartdate": "202409062300",
-        "date": "20240907",
-        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-GB3567004947_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-GB3567004947",
-        "copyright": "Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)",
-        "copyrightKeyword": "Annas hummingbird",
-        "hsh": "a34864363b26aaced0f387bbe9a6ea3c"
+        "hsh": "0a89d939dcd01a0257b1e9775e515b99"
     }
 ]

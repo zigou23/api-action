@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409142200",
+        "date": "20240915",
+        "url": "https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731",
+        "copyright": "Castello di Eltz, Renania-Palatinato, Germania (© Allard Schager/Alamy)",
+        "copyrightKeyword": "Castello di Eltz",
+        "hsh": "bf0d7eaa45fc332906c581cd247363d8",
+        "description": "Il Castello di Eltz, immerso tra le colline della Renania-Palatinato, a ovest di Francoforte sul Meno, è uno dei castelli più iconici della Germania. Costruito nel XII secolo e donato da Federico I Barbarossa a Rudolf von Eltz, rappresenta una lunga storia familiare che continua sino ai giorni nostri. Miracolosamente rimasto intatto attraverso secoli di guerre e conflitti, la sua imponente struttura evoca la storia di cavalieri e nobili famiglie medievali, rendendolo degno delle più belle fiabe teutoniche. I suoi interni, ricchi di arredi d’epoca e tesori artistici, fanno di Eltz un gioiello del patrimonio tedesco."
+    },
+    {
         "fullstartdate": "202409132200",
         "date": "20240914",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_IT-IT4633404015",
         "copyright": "Interno della Biblioteca Pubblica di Stoccolma, Svezia (© Andrei Hrabun/Alamy Stock Photo)",
         "copyrightKeyword": "Giornata Internazionale dell'Alfabetizzazione",
-        "hsh": "f723055a7d12168d434c4ba5694dc133",
-        "description": "“Il linguaggio è stato lavorato dagli uomini per intendersi tra loro, non per ingannarsi a vicenda”, disse uno dei pilastri della letteratura italiana, Alessandro Manzoni. Riflettiamo su queste parole oggi, nella “Giornata Internazionale dell’Alfabetizzazione”. In onore di questa Giornata abbiamo deciso di portarvi alla scoperta della Biblioteca Pubblica di Stoccolma, progettata dall’architetto Gunnar Asplund. Questo esempio di classicismo nordico si distingue per una struttura cilindrica centrale avvolta da un cubo, creando un’atmosfera unica e suggestiva sia all’interno che all’esterno."
-    },
-    {
-        "fullstartdate": "202409062200",
-        "date": "20240907",
-        "url": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769",
-        "copyright": "Vista di Firenze dal Duomo, Toscana, Italia (© Martin M303/Adobe Stock)",
-        "copyrightKeyword": "Festa della Rificolona",
-        "hsh": "f2e416d960e8659c0311d776742bf9f4"
+        "hsh": "f723055a7d12168d434c4ba5694dc133"
     }
 ]

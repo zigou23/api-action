@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409141830",
+        "date": "20240915",
+        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444",
+        "copyright": "Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)",
+        "copyrightKeyword": "Annas hummingbird",
+        "hsh": "7c604ff8cb556e805aabe57a3d7e0e30",
+        "description": "Let's meet Anna's hummingbird, seen in today's image. Named after Anna Masséna, Duchess of Rivoli, it's one of an estimated 366 hummingbird species, and is the most common species on North America's western coast. With its shimmering emerald feathers and sparkling rose-pink throat, this little bird is a sight to behold. Hummingbirds are known for their incredible speed; they can flap their wings up to 80 times per second, allowing them to hover in place and even fly backward. Emily Dickinson aptly describes their swift movement: 'A Route of Evanescence / With a revolving Wheel—.' Their high metabolism requires them to eat constantly, so they spend their days flitting from flower to flower, sipping nectar and catching insects."
+    },
+    {
         "fullstartdate": "202409131830",
         "date": "20240914",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-IN6522849602",
         "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
         "copyrightKeyword": "International Literacy Day",
-        "hsh": "f4567d1b6d78a7ec7f69c3e381c97c02",
-        "description": "'Literacy is a bridge from misery to hope.' These words by former secretary-general of the United Nations Kofi Annan capture the essence of International Literacy Day, celebrated every September 8. Established by UNESCO in 1966, this observance not only celebrates those who can read but also highlights the ongoing battle against illiteracy. With approximately 775 million people worldwide still lacking basic literacy, this day resonates powerfully within the hallowed walls of the Stockholm Public Library in Sweden, or 'Stadsbiblioteket' as it is known to locals, featured in today's image."
-    },
-    {
-        "fullstartdate": "202409061830",
-        "date": "20240907",
-        "url": "https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303",
-        "copyright": "Idols of Lord Ganesha for sale in Gulbai tekra, Ahmedabad (© Priti Bhatt/Getty Images)",
-        "copyrightKeyword": "Ganesh chaturthi",
-        "hsh": "06163e3420b6cde44484e730374815a8"
+        "hsh": "f4567d1b6d78a7ec7f69c3e381c97c02"
     }
 ]

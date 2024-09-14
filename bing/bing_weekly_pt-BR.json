@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409140300",
+        "date": "20240915",
+        "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_PT-BR6063530742_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_PT-BR6063530742",
+        "copyright": "Amanhecer em Ahu Tongariki, Parque Nacional Rapa Nui, Ilha de Páscoa, Chile (© Piriya Photography/Getty Images)",
+        "copyrightKeyword": "Ahu Tongariki, Ilha da Páscoa",
+        "hsh": "a602047500db587dcdb1759be5819168",
+        "description": "Viaje conosco até Rapa Nui, a lendária Ilha de Páscoa no Chile. Lar das icônicas estátuas moai, este museu a céu aberto é um tesouro de paisagens inesquecíveis e herança cultural de origem polinésia. Estima-se que existam mais de 800 moais espalhados pela ilha, dos mais variados tamanhos e podem chegar a pesar até 80 toneladas!"
+    },
+    {
         "fullstartdate": "202409130300",
         "date": "20240914",
         "url": "https://www.bing.com/th?id=OHR.PointReyes_PT-BR8277913386_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296",
         "copyright": "Parque da Independência, São Paulo (© Thiago Leitey/Shutterstock)",
         "copyrightKeyword": "Dia da Independência do Brasil",
-        "hsh": "fdbaac4447ccaa76c73d14008688be35",
-        "description": "Hoje comemoramos o Dia da Independência do Brasil, um marco que reverbera pelas paredes do imponente Museu do Ipiranga. Imagine-se passeando pelos jardins que parecem pinturas e se maravilhando com relíquias que contam nosso percurso como nação... Localizado em São Paulo, o museu foi construído no lugar onde Dom Pedro I declarou a independência em 7 de setembro de 1822. Marcado pelo estilo neoclássico, sua arquitetura foi inspirada no esplendor de Versalhes e reflete a grandiosidade da cidade de São Paulo no século XIX."
-    },
-    {
-        "fullstartdate": "202409060300",
-        "date": "20240907",
-        "url": "https://www.bing.com/th?id=OHR.GlenariffPark_PT-BR3219733810_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GlenariffPark_PT-BR3219733810",
-        "copyright": "Faia antiga, Parque Florestal de Glenariff, Condado de Antrim, Irlanda do Norte (© Dawid K Photography/Shutterstock)",
-        "copyrightKeyword": "Glenariff Forest Park, Condado de Antrim, Irlanda do Norte",
-        "hsh": "83ec17e4a6c99d027fddc0aeaf066d70"
+        "hsh": "fdbaac4447ccaa76c73d14008688be35"
     }
 ]

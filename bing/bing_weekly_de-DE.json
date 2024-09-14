@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409142200",
+        "date": "20240915",
+        "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101",
+        "copyright": "Strand von Arco Magno, Kalabrien, Italien (© Alessio de Cicco/Getty Images)",
+        "copyrightKeyword": "Kalabrien",
+        "hsh": "b8ef8a449af542c9e78e280e42cd2f6f",
+        "description": "Lust auf ein würziges Abenteuer? Im kalabrischen Küstenort Diamante beginnt heute das traditionelle Peperoncino-Festival. Entdecken Sie die Welt des Chilis, einem unverzichtbaren Würzmittel der mediterranen Küche. Von der milden Nduja aus Spilinga (einer pikanten Schweinswurst) bis hin zu feurigen Likören – hier kann Ihr Gaumen die ganze Geschmacksvielfalt ausprobieren. Zudem erwarten Sie kulinarische Shows, Gesundheitsforen zum Thema Chili und sogar Wettbewerbe, die den besten Chilibeitrag küren. Ein Fest des Wissens für alle, die mehr über diese vielseitige Zutat erfahren möchten."
+    },
+    {
         "fullstartdate": "202409132200",
         "date": "20240914",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_DE-DE1697921573_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273",
         "copyright": "Innenraum der Stadtbibliothek Stockholm, Schweden (© Andrei Hrabun/Alamy Stock Photo)",
         "copyrightKeyword": "Stadtbibliothek Stockholm",
-        "hsh": "e12efaafe32c11b4280fb4719d4d007d",
-        "description": "„Die Alphabetisierung ist die Brücke vom Elend zur Hoffnung.“ Heute feiern wir mit diesem berühmten Zitat von Kofi Annan den Weltalphabetisierungstag. Seit seiner Einführung durch die UNESCO im Jahre 1966 ehrt dieser Tag nicht nur die Lesebegeisterten, sondern mahnt auch an den fortwährenden Kampf gegen Analphabetismus. Denn noch immer können etwa 775 Millionen Menschen weltweit nicht lesen und schreiben. Die Stadtbibliothek Stockholm auf unserem heutigen Bild mit ihren über 2 Millionen Werken in mehr als 100 Sprachen ist ein perfektes Beispiel für die Wichtigkeit von Bildung und Mehrsprachigkeit. Dieses Jahr lautet das Thema: „Mehrsprachige Bildung fördern: Alphabetisierung für gegenseitiges Verständnis und Frieden“."
-    },
-    {
-        "fullstartdate": "202409062200",
-        "date": "20240907",
-        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_DE-DE2867503109",
-        "copyright": "Annakolibri, Santa Cruz, Kalifornien, USA (© yhelfman/Getty Images)",
-        "copyrightKeyword": "Annakolibri",
-        "hsh": "d438aa9ed75fcd83e7138f715598d153"
+        "hsh": "e12efaafe32c11b4280fb4719d4d007d"
     }
 ]
