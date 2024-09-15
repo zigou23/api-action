@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409150700",
+        "date": "20240916",
+        "url": "https://www.bing.com/th?id=OHR.LagoComoItaly_ROW4645357239_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LagoComoItaly_ROW4645357239",
+        "copyright": "Varenna on Lake Como, Italy (© Givaga/Getty Images)",
+        "copyrightKeyword": "Varenna Lake Como",
+        "hsh": "cdf58bde4c6fa1d375f7ac0d3225566a",
+        "description": "With its colourful houses, narrow alleys and stunning views, Varenna, a village on Lake Como, offers a slice of Italian charm. Varenna's waterfront is the heart of the action. Here, you can stroll along the Passeggiata degli Innamorati, or 'Lovers' Walk,' a path that lives up to its name with its romantic views of the lake. One of its highlights is the Villa Monastero, a former monastery turned museum and botanical garden. Then there's the Castello di Vezio, a castle perched high above the village housing an exhibition dedicated to Lariosaurus, an extinct sea reptile from the Middle Triassic period. This ancient fortress offers some of the best views of Lake Como. Plus, the resident falcons and owls add a touch of medieval flair to the experience. Varenna may be small, but it packs a punch when it comes to charm and history."
+    },
+    {
         "fullstartdate": "202409140700",
         "date": "20240915",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_ROW4550232557_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Canigou_ROW3533660009",
         "copyright": "Abbey of Saint-Martin-du-Canigou, Northern Catalonia, France (© Cyril Gosselin/Getty Images)",
         "copyrightKeyword": "Abbey of Saint-Martin-du-Canigou",
-        "hsh": "280ea09306ba0b6ef36573b989e0349b",
-        "description": "Looking for a timeless getaway? The Abbey of Saint-Martin du Canigou opens its doors to you! Nestled in the western foothills of the Canigou massif in the Pyrénées-Orientales, this is an eleventh-century Romanesque marvel. The abbey has two churches built in the first Romanesque style: the lower church, dedicated to St. Mary, and the upper church, dedicated to St. Martin. This historic structure is catalogued in the Base Mérimée, an architectural heritage database managed by the French Ministry of Culture. The original appearance of the cloister is now hard to envision due to extensive restorations carried out between 1900 and 1920. Originally, the cloister had two levels: the lower level, constructed in the early 11th century, featured vaulted galleries with semicircular arches and was free of ornamentation. Today, only three heavily restored galleries remain, missing much of their original character."
-    },
-    {
-        "fullstartdate": "202409070700",
-        "date": "20240908",
-        "url": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ROW3345595068_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SantaCruzHummer_ROW3345595068",
-        "copyright": "Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)",
-        "copyrightKeyword": "Annas hummingbird",
-        "hsh": "61b7f2dc47b461885b39c345f5ab59df"
+        "hsh": "280ea09306ba0b6ef36573b989e0349b"
     }
 ]

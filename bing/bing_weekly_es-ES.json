@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409152200",
+        "date": "20240916",
+        "url": "https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554",
+        "copyright": "Atardecer en la Costa de la Muerte, Galicia (© Brian Maudsley/Alamy Stock Photo)",
+        "copyrightKeyword": "Windsuf",
+        "hsh": "2d73448c7ebe613029336f0b9dec8b74",
+        "description": "¡El Campeonato Mundial de Windsurfer 2024 te invita a vivir una experiencia inolvidable en la deslumbrante Costa Brava, en Cataluña! Del 16 al 22 de septiembre, el Camping Bungalow Resort & Spa La Ballena Alegre será el escenario de este prestigioso evento, que reunirá a windsurfistas de todos los niveles. Durante una semana llena de adrenalina y emoción, tendrás la oportunidad de competir contra los mejores atletas, perfeccionar tus habilidades o simplemente disfrutar de las tranquilas y cristalinas aguas de la región."
+    },
+    {
         "fullstartdate": "202409142200",
         "date": "20240915",
         "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_ES-ES7527352353_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_ES-ES6461582669",
         "copyright": "Las cataratas de Iguazú, en la frontera entre Argentina y Brasil (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Cataratas del Iguazu",
-        "hsh": "abf8a72912ef36c05b0b924ec5a6eab5",
-        "description": "¿Te atreves a descubrir unas cascadas tan majestuosas que hacen que las del Niágara parezcan pequeñas en comparación? Hoy te llevamos a las impresionantes Cataratas del Iguazú, el mayor conjunto de caídas de agua del mundo. Su nombre, que en las lenguas guaraní y tupí significa \"aguas grandes\", describe a la perfección la magnitud de este asombroso espectáculo natural.  Descubiertas por el explorador Álvar Núñez Cabeza de Vaca, estas cataratas, ubicadas en la frontera entre Argentina y Brasil, han fascinado a todos quienes las visitan. Gracias a visionarios como Domingo Ayarragaray, hoy podemos disfrutar de accesos y comodidades que nos permiten admirar su esplendor de cerca."
-    },
-    {
-        "fullstartdate": "202409072200",
-        "date": "20240908",
-        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_ES-ES6220707521_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_ES-ES6220707521",
-        "copyright": "Interior de la Biblioteca Pública de Estocolmo, Suecia (© Andrei Hrabun/Alamy)",
-        "copyrightKeyword": "Dia Internacional de la Alfabetizacion 1967",
-        "hsh": "dc8b20315fc1abd375babe419a14b66a"
+        "hsh": "abf8a72912ef36c05b0b924ec5a6eab5"
     }
 ]

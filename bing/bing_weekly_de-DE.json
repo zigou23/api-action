@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409152200",
+        "date": "20240916",
+        "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966",
+        "copyright": "Wallabys bei Sonnenaufgang, Adelaide River, Nordterritorium, Australien (© Jeremy Woodhouse/Getty Images)",
+        "copyrightKeyword": "Wallaby",
+        "hsh": "78de1115b1a8a948155cd0e2875c6ed6",
+        "description": "Erleben Sie mit uns einen malerischen Morgen in Australien, wo in der Morgendämmerung zwei aufmerksame Wallabys im Gebiet des Adelaide River zu sehen sind. Diese flinken Beuteltiere, enge Verwandte des Kängurus, sind in Australien und Neuguinea heimisch. Wallabys, von denen es über 30 Arten gibt, wie beispielsweise die Pinselschwanz-, Felsen-, Hasen-, Nagelschwanz- und Sumpfwallabys, ernähren sich vegetarisch – sie knabbern an Gräsern, Blättern und Früchten. Sie erreichen eine Größe von etwa 30 bis 105 Zentimetern und können mit ihren kräftigen Hinterbeinen beeindruckende Sprünge machen, um sich vor Feinden zu schützen. In der Paarungszeit beeindrucken männliche Wallabys mit Boxkämpfen, um ihre Dominanz zu demonstrieren und die Aufmerksamkeit der Weibchen auf sich zu ziehen. Wallabys sind gesellige Tiere und bilden kleine Gruppen, so genannte „Mobs”, die ihnen Sicherheit und gegenseitige Fürsorge bieten."
+    },
+    {
         "fullstartdate": "202409142200",
         "date": "20240915",
         "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628",
         "copyright": "Iguazú-Wasserfälle an der Grenze zwischen Argentinien und Brasilien (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Iguazu-Wasserfälle",
-        "hsh": "0e77c118f4c407695425195e48767ede",
-        "description": "Entdecken Sie mit uns die Iguazú-Wasserfälle: Das größte Wasserfallsystem der Welt befindet sich an der Grenze zwischen Argentinien und Brasilien. Der Name „Iguazú” stammt aus den Regionalsprachen Guarani oder Tupi und bedeutet „großes Wasser”. Diese Wasserfallkette entsteht durch den Iguazú Fluss, der die Grenze zwischen der argentinischen Provinz Misiones und dem brasilianischen Bundesstaat Paraná bildet. Ihre beeindruckende Stufenbildung entsteht durch eine zweistufige Kaskade aus drei Schichten Basalt – ein Naturspektakel der besonderen Art. Bereits 1907 erkannte der Unternehmer Domingo Ayarragaray die magische Anziehungskraft dieses Ortes und ließ dort ein Hotel errichten. Die Fälle wurden so beliebt, dass sie in beiden Ländern zu Nationalparks erklärt wurden. Die UNESCO ernannte diese später zu Weltkulturerbe-Stätten."
-    },
-    {
-        "fullstartdate": "202409072200",
-        "date": "20240908",
-        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_DE-DE3864288273",
-        "copyright": "Innenraum der Stadtbibliothek Stockholm, Schweden (© Andrei Hrabun/Alamy Stock Photo)",
-        "copyrightKeyword": "Stadtbibliothek Stockholm",
-        "hsh": "e12efaafe32c11b4280fb4719d4d007d"
+        "hsh": "0e77c118f4c407695425195e48767ede"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409150300",
+        "date": "20240916",
+        "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_PT-BR8530214805_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_PT-BR8530214805",
+        "copyright": "Praia de Arco Magno, Calábria, Itália (© Alessio de Cicco/Getty Images)",
+        "copyrightKeyword": "Calabria",
+        "hsh": "5e20e07f88dd8bc7fd3c4a231b553ee9",
+        "description": "Essa semana se celebra o Festival da Pimenta Chili em Diamante, na Itália. O evento exalta a paixão local pela pimenta, presente em pratos de lamber os dedos como o 'nduja de Spilinga (linguiça de porco apimentada) e a rosamarina de Amantea (molho à base de sardinha e pimenta). As pimentas chili são aquelas que possuem um componente chamado capsaicina que influenciam na cor e picância das pimentas. Aqui no Brasil algumas pimentas desse tipo são, por exemplo, a pimenta dedo-de-moça, pimenta de cheiro, malagueta, entre outras."
+    },
+    {
         "fullstartdate": "202409140300",
         "date": "20240915",
         "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_PT-BR6063530742_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_PT-BR3203792144",
         "copyright": "Interior da Biblioteca Pública de Estocolmo, Suécia (© Andrei Hrabun/Alamy)",
         "copyrightKeyword": "Dia Mundial da Alfabetização",
-        "hsh": "84d85066466239d92d194928f79862c4",
-        "description": "Dê as boas-vindas ao conhecimento com um bom livro! No Dia Mundial da Alfabetização, lembramos as palavras inspiradoras de Kofi Annan: “a alfabetização é uma ponte da miséria para a esperança”. Celebramos o poder transformador da alfabetização na imagem de hoje com a grandiosa Biblioteca Pública de Estocolmo, na Suécia, onde mais de dois milhões de títulos em mais de 100 idiomas aguardam por antigos e novos leitores."
-    },
-    {
-        "fullstartdate": "202409070300",
-        "date": "20240908",
-        "url": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296",
-        "copyright": "Parque da Independência, São Paulo (© Thiago Leitey/Shutterstock)",
-        "copyrightKeyword": "Dia da Independência do Brasil",
-        "hsh": "fdbaac4447ccaa76c73d14008688be35"
+        "hsh": "84d85066466239d92d194928f79862c4"
     }
 ]
