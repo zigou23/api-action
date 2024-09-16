@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409162200",
+        "date": "20240917",
+        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874",
+        "copyright": "Mondfest in den Gardens by the Bay, Singapur (© Victor Y. Zhuo/Alamy Stock Photo)",
+        "copyrightKeyword": "Mondfest",
+        "hsh": "0f71122cfece3a7c6af4979ccfb83217",
+        "description": "Tauchen Sie ein in die faszinierende Welt des Mondfestes – ein Höhepunkt der asiatischen Kultur, das in der Vollmondnacht des achten Monats nach dem traditionellen chinesischen Mondkalender gefeiert wird. Auf unserem heutigen Bild befinden wir uns in den Gardens by the Bay in Singapur und die Super Trees (mit Pflanzen bewachsene Stahlgerüste) erstrahlen zum Mondfest in einem Meer aus Laternen. Ein Fest, dessen Wurzeln über 3000 Jahre in die chinesische Geschichte zurückreichen, lädt dazu ein, den Vollmond zu bewundern und das Ende der Erntesaison zu feiern. Bei diesem festlichen Beisammensein essen Familien und Freunde köstliche Mondkuchen mit süßer Bohnenpaste, salzigem Eigelb oder Lotossamen. Farbenfrohe Laternen erhellen den Abendhimmel und stehen sinnbildlich für Glück und Wohlergehen."
+    },
+    {
         "fullstartdate": "202409152200",
         "date": "20240916",
         "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_DE-DE9301189449",
         "copyright": "Ponte Vasco da Gama, Lissabon, Portugal (© Achim Thomae/Getty Images)",
         "copyrightKeyword": "Ponte Vasco da Gama",
-        "hsh": "4b26aeb6b5be1809482f4f49c8b7412f",
-        "description": "Entdecken Sie das architektonische Meisterwerk, das die Landschaft Lissabons prägt: die Vasco-da-Gama-Brücke. Benannt nach dem berühmten portugiesischen Seefahrer und Entdecker des Seewegs nach Indien, Vasco da Gama, erstreckt sich diese Ingenieursleistung über beeindruckende 12,3 Kilometer über den Tejo und ist damit die längste Brücke der Europäischen Union. Sie wurde konzipiert, um Engpässe auf der älteren Brücke des 25. April zu entlasten und den Nord-Süd-Verkehr Portugals zu verbessern. Der Bau der erdbebensicheren Brücke begann im Februar 1995 und wurde rechtzeitig zur Expo 98 fertiggestellt. In Deutschland hingegen ist die Köhlbrandbrücke in Hamburg die längste Brücke des Landes. Sie erstreckt sich über eine Länge von etwa 3.618 Metern und verbindet das Hafengebiet mit dem übrigen Stadtgebiet. Die Köhlbrandbrücke wurde 1974 eröffnet und ist ein zentrales Bauwerk für den Hamburger Hafenverkehr."
-    },
-    {
-        "fullstartdate": "202409082200",
-        "date": "20240909",
-        "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_DE-DE8361660628",
-        "copyright": "Iguazú-Wasserfälle an der Grenze zwischen Argentinien und Brasilien (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "Iguazu-Wasserfälle",
-        "hsh": "0e77c118f4c407695425195e48767ede"
+        "hsh": "4b26aeb6b5be1809482f4f49c8b7412f"
     }
 ]

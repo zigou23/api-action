@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409162200",
+        "date": "20240917",
+        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002",
+        "copyright": "Festa di metà autunno a Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)",
+        "copyrightKeyword": "Festa di metà autunno, Cina",
+        "hsh": "5c44fc0a33dc2f61367d82b6fd02c919",
+        "description": "Ammirate questo spettacolo di luci e colori. Ci troviamo a Gardens by the Bay, a Singapore, per celebrare la \"Festa di metà autunno\". Si tratta di una ricorrenza millenaria celebrata il 15° giorno dell'ottavo mese del calendario lunare cinese. Nata durante la dinastia Shang cinese, questa festa onora la contemplazione lunare e il termine del tempo di mietitura. Uno dei perni di questo antico rituale è quello della condivisione dei mooncakes – tipici dolci tondeggianti farciti con pasta di fagioli dolci, tuorlo d'uovo salato, o semi di loto."
+    },
+    {
         "fullstartdate": "202409152200",
         "date": "20240916",
         "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_IT-IT9509274340_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_IT-IT5048654702",
         "copyright": "Ponte Vasco da Gama, Lisbona, Portogallo (© Achim Thomae/Getty Images)",
         "copyrightKeyword": "Ponte Vasco da Gama, Lisbona, Portogallo",
-        "hsh": "966c6f29ad4c16fca118680b69b28870",
-        "description": "Vi piace l’architettura e l’ingegneria? Ammirate il Ponte Vasco da Gama, costruito a Lisbona, in Portogallo. Unendo le sponde del fiume Tago nel Parque das Nações, questo ponte è il secondo più lungo in Europa e il primo nell’Unione Europea con i suoi imponenti 12,3 chilometri di lunghezza. I lavori iniziarono nel febbraio del 1995, e fu progettato per resistere ai terremoti, permettendo movimenti orizzontali e verticali per adattarsi alle scosse sismiche. Fu inaugurato tre anni dopo, il 29 marzo 1998, in onore dei 500 anni dall’arrivo di Vasco da Gama a Calicut in India."
-    },
-    {
-        "fullstartdate": "202409082200",
-        "date": "20240909",
-        "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_IT-IT4779268269_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_IT-IT4779268269",
-        "copyright": "Cascate dell’Iguazú al confine tra Argentina e Brasile (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "Cascate dell'Iguazú",
-        "hsh": "7f5ba6934862b9563561f2597637313d"
+        "hsh": "966c6f29ad4c16fca118680b69b28870"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409160400",
+        "date": "20240917",
+        "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_EN-CA0408938056_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SunriseWallabies_EN-CA0408938056",
+        "copyright": "Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)",
+        "copyrightKeyword": "Wallaby",
+        "hsh": "765a701c9d9c293e9a2bff26a1c3dd88",
+        "description": "Amid the hues of dawn, captured in today's image, two wallabies stand alert in a field near the Adelaide River in Australia. These marsupials, smaller cousins of the kangaroo, are native to Australia and New Guinea. Wallabies have around 30 different species, including brush wallabies, rock-wallabies, hare-wallabies, nail-tail wallabies and swamp wallabies. These agile and sprightly mammals are herbivores, nibbling on grasses, leaves and fruits. With a height of 30 to 105 centimetres, wallabies have strong hind legs that help them take impressive leaps and serve as a defence against predators. During mating season, male wallabies engage in boxing bouts to show dominance in an attempt to grab females' attention. Social creatures, wallabies form small groups called 'mobs,' which provide safety and mutual grooming. Their playgrounds are forests that echo with the thudding of their hops as they navigate their home range with ease."
+    },
+    {
         "fullstartdate": "202409150400",
         "date": "20240916",
         "url": "https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_EN-CA9747611398",
         "copyright": "Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)",
         "copyrightKeyword": "Iguazu falls",
-        "hsh": "1dc95f789d5c69889f95b4fdef24e15c",
-        "description": "Want to witness falls so grand that they make Niagara look modest? Let's explore Iguazu Falls, the largest waterfall system in the world. The name 'Iguazu' comes from words in the regional languages Guarani or Tupi, which mean 'big water.' These series of waterfalls are formed by the Iguazu River, on the border between Argentina's Misiones province and Brazil's Paraná state. They feature a striking staircase formation, with a two-step cascade created by three layers of basalt."
-    },
-    {
-        "fullstartdate": "202409080400",
-        "date": "20240909",
-        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-CA2154287662_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-CA2154287662",
-        "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
-        "copyrightKeyword": "International Literacy Day",
-        "hsh": "299296768444caef6dbd3816caaa140c"
+        "hsh": "1dc95f789d5c69889f95b4fdef24e15c"
     }
 ]
