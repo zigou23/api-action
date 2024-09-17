@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409172200",
+        "date": "20240918",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_FR-FR1605630102_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_FR-FR1605630102",
+        "copyright": "Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "chateau de gujo hachiman",
+        "hsh": "678a5f34488855e357aee8a7a0e6be1d",
+        "description": "Découvrez un pan de l'histoire du Japon à travers le château de Gujō Hachiman, trônant fièrement sur le mont Hachiman dans la préfecture de Gifu. Érigé en 1559, il fut le témoin privilégié des soubresauts historiques nippons, à l'image de notre château de Versailles et ses récits royaux. Démantelé durant la révolution de Meiji puis reconstruit en 1933, ce joyau architectural est tout en bois, une perle rare au pays des châteaux souvent reconstruits en béton. Offrant une vue imprenable sur la vallée, ce bâtiment de cinq étages renferme un musée captivant. Le Gujō Odori, festival de danse bicentenaire, rappelle l’effervescence de notre festival d'Avignon, qui attire chaque année des foules en quête de culture, de monuments et de spectacle vivant. Laissez-vous envoûter par cet héritage somptueux et à la fois tellement vivant."
+    },
+    {
         "fullstartdate": "202409162200",
         "date": "20240917",
         "url": "https://www.bing.com/th?id=OHR.NordicWalkingDay_FR-FR1412128674_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EltzCastle_FR-FR9929668826",
         "copyright": "Château d'Eltz, Allemagne (© Allard Schager/Alamy)",
         "copyrightKeyword": "chateau d'eltz",
-        "hsh": "9f8496a126b04d5ae212c1f2e5778b94",
-        "description": "Envie d'une évasion historique ? Prenez la route de la sublime vallée de l'Eifel, en Allemagne, et laissez le château d'Eltz vous conter mille ans d'histoire. Flânez dans les salles où se mêlent gothique et baroque et saisissez l'occasion de voir des armures et des armes médiévales."
-    },
-    {
-        "fullstartdate": "202409092200",
-        "date": "20240910",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_FR-FR9704936027_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_FR-FR9704936027",
-        "copyright": "Pont Vasco de Gama, Lisbonne, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "pont vasco de gama",
-        "hsh": "89318e334cb7fc3a77feaac6765a8940"
+        "hsh": "9f8496a126b04d5ae212c1f2e5778b94"
     }
 ]

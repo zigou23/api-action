@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409170700",
+        "date": "20240918",
+        "url": "https://www.bing.com/th?id=OHR.KeralaSummer_ROW5096349608_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.KeralaSummer_ROW5096349608",
+        "copyright": "Kerala, India (© Pranavan Shoots/Shutterstock)",
+        "copyrightKeyword": "Kerala India",
+        "hsh": "7854527d94ff232edddbee447e560730",
+        "description": "Kerala, seen in today's image, is a geographic wonderland in India. Here, the coastal plains and pleasant climate create a paradise for nature lovers. Located in the tropics, the state predominantly experiences a humid tropical wet climate, typical of many of Earth's rainforests. The climate in this area is largely shaped by the seasonal deluge brought by the monsoon rains. During summer, Kerala often faces gale-force winds, storm surges and heavy downpours from dangerous cyclones originating in the Indian Ocean."
+    },
+    {
         "fullstartdate": "202409160700",
         "date": "20240917",
         "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_ROW4908014597_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_ROW2312230320",
         "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
         "copyrightKeyword": "Vasco da Gama Bridge",
-        "hsh": "8ade4d690dbd8764f60e66da38292346",
-        "description": "Today's image features the Vasco da Gama Bridge in Portugal, which looks like a sleek line cutting through Lisbon's skyline. Up close, it is a cable-stayed bridge with viaducts, stretching across the Tagus River in Parque das Nações, a civil parish in Lisbon. The second longest bridge in Europe, it also holds the title of being the longest in the European Union. Built to ease the traffic jam on Lisbon's 25 de Abril Bridge and make travel smoother between the north and south of Portugal, the construction of the Vasco da Gama Bridge began in February 1995. It is earthquake-resistant, designed to absorb shifting during a quake. Since its deck is not fixed to the pylons, it can move both lengthwise and sideways. Inaugurated on March 29, 1998, the bridge's opening was perfectly timed for Expo 98, the World's Fair celebrating the 500th anniversary of Vasco da Gama's historic sea route discovery from Europe to India."
-    },
-    {
-        "fullstartdate": "202409090700",
-        "date": "20240910",
-        "url": "https://www.bing.com/th?id=OHR.IguazuRainbow_ROW3139457985_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IguazuRainbow_ROW3139457985",
-        "copyright": "Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)",
-        "copyrightKeyword": "Iguazu falls",
-        "hsh": "4d042b3b286cc1dbf755435d911fa792"
+        "hsh": "8ade4d690dbd8764f60e66da38292346"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409171830",
+        "date": "20240918",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040",
+        "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "Gujo Hachiman Castle",
+        "hsh": "7d8289b50a2f5edc40341b722d66d496",
+        "description": "In Japan's Gifu Prefecture, Gujō Hachiman Castle stands majestically on Hachiman Mountain. Originally constructed in 1559, this castle has witnessed centuries of Japanese history, including the rise and fall of powerful clans. It was torn down during the tumultuous Meiji Restoration—the period that marked the return of imperial power in the country— but was rebuilt in 1933. The castle seen in today's image is a unique wooden reconstruction, a rarity among Japan's often concrete-rebuilt castles. This five-story structure, which includes a museum, offers a glimpse into feudal Japan while providing stunning views of the valley below. In addition to the castle, the city of Gujō is also famous for hosting the Gujō Odori, one of Japan's oldest dance festivals. Held annually from mid-July to early September, the festival sees locals and tourists alike dancing through the night in the castle town, preserving a tradition that dates back more than 400 years."
+    },
+    {
         "fullstartdate": "202409161830",
         "date": "20240917",
         "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-IN2546411546_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366",
         "copyright": "Akshardham Temple at night (© Sean3810/iStock/Getty Images Plus/Getty Images)",
         "copyrightKeyword": "Swaminarayan Akshardham",
-        "hsh": "1e2fd60ab8f27ded05f8dbf4eda58b9e",
-        "description": "Today's image features Swaminarayan Akshardham in Delhi, a tribute to yogi Swaminarayan (1781-1830), along with the avatars, deities and sages of Hinduism. This remarkable site is celebrated for its enduring essence of devotion, purity and tranquillity. Architecturally, the complex is designed according to ancient and medieval Indian architectural texts, known as the shilpa shastras. It boasts several notable attractions, including an abhishek mandap and the Sahaj Anand water show. It also has a theme garden and three immersive exhibitions: Sahajanand Darshan, which highlights core principles; Neelkanth Darshan, a film depicting Swaminarayan's early years and Sanskruti Darshan, a cultural boat."
-    },
-    {
-        "fullstartdate": "202409091830",
-        "date": "20240910",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-IN7053832547",
-        "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "Vasco da Gama Bridge",
-        "hsh": "771c4ba1aeaff15971ff7c83759a6920"
+        "hsh": "1e2fd60ab8f27ded05f8dbf4eda58b9e"
     }
 ]
