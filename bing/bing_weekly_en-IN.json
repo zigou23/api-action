@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409181830",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_EN-IN4927123173_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_EN-IN4927123173",
+        "copyright": "Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)",
+        "copyrightKeyword": "Obereversand Lighthouse",
+        "hsh": "21a6f017eb579d6a1202c28b52aec1c5",
+        "description": "Today's image features playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany. This lighthouse is a black, four-sided lattice tower featuring two galleries and a round lantern. Constructed between 1886 and 1887 by AG Weser for the Bremen Buoy and Beacon Office, it was part of an intergovernmental project involving the states of Bremen, Oldenburg and Prussia. Originally equipped with a Fresnel belt lamp and a 500 millimetres catadioptric reflector, it used a three-wick kerosene lamp to cast light over 19 nautical kilometres. By 1905, the lighthouse was upgraded with a more powerful kerosene lamp."
+    },
+    {
         "fullstartdate": "202409171830",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-IN9529217040_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_EN-IN7368159128",
         "copyright": "Dolphin pod near Réunion island, Indian Ocean, overseas department of France (©  Joost van Uffelen/Shutterstock)",
         "copyrightKeyword": "World Dolphin Day",
-        "hsh": "0389e2284d5e7a15aa8100b35ccb3efd",
-        "description": "Grab your flippers—it's World Dolphin Day. Today, people across the world celebrate, raise awareness and promote the conservation of these aquatic mammals. Dolphins are highly intelligent and can be found all over the world in oceans, rivers and estuaries. Despite being able to exist in an array of environments and water temperatures, dolphins are threatened by a variety of human activities, such as hunting, pollution and fishing. Hunting led to the creation of World Dolphin Day in 2022 by Sea Shepherd Global, an international marine conservation group."
-    },
-    {
-        "fullstartdate": "202409101830",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366",
-        "copyright": "Akshardham Temple at night (© Sean3810/iStock/Getty Images Plus/Getty Images)",
-        "copyrightKeyword": "Swaminarayan Akshardham",
-        "hsh": "1e2fd60ab8f27ded05f8dbf4eda58b9e"
+        "hsh": "0389e2284d5e7a15aa8100b35ccb3efd"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409180400",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106",
+        "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "Gujo Hachiman Castle",
+        "hsh": "904f60a1501aaf7542b9827eaa8bd8fb",
+        "description": "In Japan's Gifu Prefecture, Gujō Hachiman Castle stands majestically on Hachiman Mountain. Originally constructed in 1559, this castle has witnessed centuries of Japanese history, including the rise and fall of powerful clans. It was torn down during the tumultuous Meiji Restoration—the period that marked the return of imperial power in the country— but was rebuilt in 1933. The castle seen in today's image is a unique wooden reconstruction, a rarity among Japan's often concrete-rebuilt castles. This five-story structure, which includes a museum, offers a glimpse into feudal Japan while providing stunning views of the valley below. In addition to the castle, the city of Gujō is also famous for hosting the Gujō Odori, one of Japan's oldest dance festivals. Held annually from mid-July to early September, the festival sees locals and tourists alike dancing through the night in the castle town, preserving a tradition that dates back more than 400 years."
+    },
+    {
         "fullstartdate": "202409170400",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-CA0460554285_1920x1080.jpg",
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199",
         "copyright": "Ouimet Canyon near Thunder Bay (© plainpicture/Design Pics/Susan Dykstra)",
         "copyrightKeyword": "Ouimet Canyon Dorion",
-        "hsh": "f7216e0f8cae3b07190522a167028ca8",
+        "hsh": "238452b9bbf07d140e47099822d36a46",
         "description": "Explore the Ouimet Canyon, seen in today's image, a remarkable geological formation in the Ouimet Canyon Provincial Park near Thunder Bay, Ontario. Formed over a billion years, this natural wonder features sheer cliffs rising 100 metres above the canyon floor, stretching for over two kilometres. Designated as a provincial park in 1972, this landscape preserves a unique microenvironment, hosting arctic plant species typically found 1,000 kilometres to the north. In 2022 the park celebrated 50 years of conserving this unique slice of Canadian natural heritage. The two viewing platforms on the west side provide spectacular vistas of the canyon's depth and the verdant forest below. The park's incredible geology owes its existence to the last Ice Age, which left behind this awe-inspiring feature that continues to attract nature enthusiasts and photographers alike."
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-CA0278736669",
         "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
         "copyrightKeyword": "Ahu Tongariki",
-        "hsh": "e074b3b48789c127fc6e210343946146",
+        "hsh": "f75ec64d581d5e8bddd5ba996136453b",
         "description": "Welcome to Rapa Nui, also known as Easter Island, Chile—one of the world's most remote and enchanting paradises. Famous for its iconic moai statues, this stunning island is a treasure trove of breathtaking landscapes and rich cultural heritage. Experts are divided on the timeline of the Polynesians' arrival, though many researchers suggest that it occurred around the 8th century. Take in the mesmerising sunrise featured in today's image and explore the striking volcanic craters and lush, grassy plains where the imposing statues stand. The World Heritage property of Easter Island spans more than 68 square kilometres, including four nearby islets."
     },
     {
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_EN-CA0207843307",
         "copyright": "Point Reyes National Seashore Lighthouse, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore",
-        "hsh": "6e9ab5a817a03fc79f6051ebc2dfea0f",
+        "hsh": "90b53923f6e4b8a773718a9e89d81a12",
         "description": "Welcome to Point Reyes National Seashore, where the sky meets the earth. This stunning 287 square kilometres coastal haven on the Point Reyes Peninsula in Marin County, United States, pictured in today's images, is a gem of the Californian coastline, boasting breathtaking views and diverse wildlife. Filled with scenic trails that wind through lush forests and along rugged cliffs, Point Reyes has much to offer its visitors."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954",
         "copyright": "Red fox mother kissing her baby in Canada (© pchoui/Getty Images)",
         "copyrightKeyword": "Red fox",
-        "hsh": "3a2c7450b22616f78ebb2734cef995d7",
-        "description": "Amidst the whispering woods and rustling leaves, you might catch a glimpse of the red fox—a creature as clever as it is charming. What truly captivates are moments like the one in today's image, which shows a tender nuzzle between a red fox mother and her kit somewhere in the Canadian countryside. With its vivid auburn coat and a bushy tail often tipped in white, this animal is a familiar sight across much of the Northern Hemisphere. Agile, adaptable and mostly nocturnal, it roams from dense forests to urban playgrounds."
-    },
-    {
-        "fullstartdate": "202409100400",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154",
-        "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "Vasco da Gama Bridge",
-        "hsh": "40f205fbafffe6d52fe50feff752c9af"
+        "hsh": "3a2c7450b22616f78ebb2734cef995d7"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409180300",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809",
+        "copyright": "Castelo Gujō Hachiman, Prefeitura de Gifu, Japão (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "Castelo Gujo Hachiman Japão",
+        "hsh": "5a2a8cc1e6e9f8c23aade0cc4170fc42",
+        "description": "Escondido entre as brumas místicas das montanhas de Gifu, no Japão, o majestoso Castelo de Gujō Hachiman surge como um guardião atemporal, testemunha silenciosa dos segredos e batalhas que moldaram os destinos de poderosos clãs. Erguido em 1559, esse castelo foi palco de intrigas e glórias, viu a ascensão e queda de dinastias e quase desapareceu na voragem da Restauração Meiji, apenas para renascer das cinzas em 1933. Hoje, imponente e enigmático, o castelo se destaca como uma rara reconstrução em madeira em um país onde as réplicas de concreto predominam."
+    },
+    {
         "fullstartdate": "202409170300",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_PT-BR5635809883_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.EltzCastle_PT-BR6770414719",
         "copyright": "Castelo de Eltz, Alemanha (© Allard Schager/Alamy)",
         "copyrightKeyword": "Castelo de Eltz, Alemanha",
-        "hsh": "33ef7da9bf9215171d7161e475a3fe18",
-        "description": "Descubra um verdadeiro tesouro escondido na Alemanha e venha vivenciar esta fusão perfeita entre história e natureza! O Castelo de Eltz, mantido pela mesma família há gerações, é um dos castelos mais impressionantes e preservados do país. Sabia que sua câmara do tesouro abriga uma das mais preciosas coleções de arte medieval da Alemanha? Explore uma fascinante mistura de estilos arquitetônicos, do gótico ao barroco, e maravilhe-se com armaduras valiosas, armas incrivelmente detalhadas e joias deslumbrantes. Um verdadeiro baú de riquezas que você precisa ver com seus próprios olhos!"
-    },
-    {
-        "fullstartdate": "202409100300",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_PT-BR7212632262",
-        "copyright": "Ponte Vasco da Gama, Lisboa, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "Ponte Vasco da Gama",
-        "hsh": "398dbb6ea50bd510e5a17925c01b995d"
+        "hsh": "33ef7da9bf9215171d7161e475a3fe18"
     }
 ]

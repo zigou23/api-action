@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409180400",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597",
+        "copyright": "Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "chateau de gujo hachiman",
+        "hsh": "f276accae1b230514df42cda77d8e8e3",
+        "description": "Découvrez un pan de l'histoire du Japon à travers le château de Gujō Hachiman, trônant fièrement sur le mont Hachiman dans la préfecture de Gifu. Érigé en 1559, il fut le témoin privilégié des soubresauts historiques nippons, à l'image de notre château Frontenac à Québec, qui lui aussi incarne un riche passé historique. Démantelé durant la révolution de Meiji puis reconstruit en 1933, ce joyau architectural est tout en bois, une perle rare au pays des châteaux souvent reconstruits en béton. Offrant une vue imprenable sur la vallée, ce bâtiment de cinq étages renferme un musée captivant. Le Gujō Odori, festival de danse bicentenaire, évoque l'ambiance festive des grands événements culturels comme le Festival d’été de Québec, où se mêlent tradition et modernité. Laissez-vous envoûter par cet héritage somptueux et à la fois si vivant."
+    },
+    {
         "fullstartdate": "202409170400",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_FR-CA9250185650_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RedFoxMother_FR-CA7012903357",
         "copyright": "Mère renard roux câlinant son renardeau, Canada (© pchoui/Getty Images)",
         "copyrightKeyword": "renard roux",
-        "hsh": "6ba1744365a26e003f3ace204a4cc919",
-        "description": "Au milieu des bois murmurants et des feuilles bruissantes, il est possible d'apercevoir le renard roux, un animal aussi astucieux que charmant. Ce qui captive vraiment, ce sont des moments comme celui illustré dans l'image du jour, montrant une tendre étreinte entre une renarde et son petit quelque part dans la campagne canadienne. Avec son pelage auburn vif et sa queue touffue souvent marquée d'un bout blanc, cet animal est une figure familière dans une grande partie de l'hémisphère Nord. Agile, adaptable et principalement nocturne, il parcourt des terrains variés, des forêts denses aux espaces urbains."
-    },
-    {
-        "fullstartdate": "202409100400",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_FR-CA6897114231_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_FR-CA6897114231",
-        "copyright": "Pont Vasco de Gama, Lisbonne, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "pont vasco da gama",
-        "hsh": "0cebeb03f5d380767e2810d9e6255c16"
+        "hsh": "6ba1744365a26e003f3ace204a4cc919"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409180700",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623",
+        "copyright": "Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)",
+        "copyrightKeyword": "Gujo Hachiman Castle",
+        "hsh": "aa1c50e756eb7f5a6885473304edd651",
+        "description": "In Japan's Gifu prefecture, Gujō Hachiman Castle stands majestically on Hachiman Mountain. Originally constructed in 1559, this castle has witnessed centuries of Japanese history, including the rise and fall of powerful clans. It was torn down during the tumultuous Meiji Restoration—the period that marked the return of imperial power in the country—but was rebuilt in 1933. The castle seen in today's image is a unique wooden reconstruction, a rarity among Japan's often concrete rebuilt castles. This five-story structure, which includes a museum, offers a glimpse into feudal Japan while providing stunning views of the valley below. In addition to the castle, the city of Gujō is also famous for hosting the Gujō Odori, one of Japan's oldest dance festivals. Held annually from mid-July to early September, the festival sees locals and tourists alike dancing through the night in the castle town, preserving a tradition that dates back more than 400 years."
+    },
+    {
         "fullstartdate": "202409170700",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468",
         "copyright": "National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)",
         "copyrightKeyword": "Patriot Day September 11",
-        "hsh": "675603f99884d87b442d5811c036b986",
-        "description": "On Patriot Day, we are at the National September 11 Memorial & Museum in New York City, where the Twin Towers of the World Trade Center once stood. The museum is 70 feet underground, beneath the memorial's waterfall pools in the footprints of the fallen towers. The names of those who died in the 2001 terrorist attacks and in the 1993 World Trade Center bombing are listed on bronze parapets surrounding these huge reflecting pools. Seven stories below the memorial, the museum tells the story of 9/11 through exhibits, artifacts, historical records, and personal accounts, remembering the victims and those who risked their lives to save others."
-    },
-    {
-        "fullstartdate": "202409100700",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664",
-        "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
-        "copyrightKeyword": "Vasco da Gama Bridge",
-        "hsh": "fa6eab38aac985df4c96e307cadbe2e3"
+        "hsh": "675603f99884d87b442d5811c036b986"
     }
 ]

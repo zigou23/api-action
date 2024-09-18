@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409182200",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895",
+        "copyright": "Parco giochi presso il faro di Obereversand a Dorum-Neufeld, Germania (© INGO WAGNER/DPA/AFP via Getty Images)",
+        "copyrightKeyword": "Dorum-Neufeld, Germania",
+        "hsh": "4f876b070b913fe9f3d27e7ef011538e",
+        "description": "Il faro di Obereversand, situato a Dorum in Germania, è una meraviglia ingegneristica del XIX secolo. Fu costruito tra il 1896 e il 1897, e con un’altezza di quasi 40 metri, svolge un ruolo cruciale nella navigazione del Mare del Nord. Il suo segnale luminoso guida i marinai attraverso le acque insidiose, evitando scogli e pericoli, e la sua presenza continua a garantire sicurezza e orientamento per le imbarcazioni in transito."
+    },
+    {
         "fullstartdate": "202409172200",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_IT-IT1645140668",
         "copyright": "Baccello di delfini vicino alle coste dell’isola della Riunione, Oceano Indiano (© Joost van Uffelen/Shutterstock)",
         "copyrightKeyword": "Delfino",
-        "hsh": "6cf99f3294977164697a1ac41f9a19a7",
-        "description": "Questo gruppo di delfini avvistato vicino all’isola della Riunione, un'isola dell'Oceano Indiano, è solo un esempio delle varie specie di animali marini minacciati. Al largo delle coste dell'isola, possiamo trovare un paradiso della biodiversità marina. Qui è facile imbattersi in esemplari che nuotano spensierati nelle acque cristalline temperate dal clima tropicale. Sapevate che i delfini sono tra i pochi animali che possono riconoscersi allo specchio? Inoltre, quando dormono, spengono solo metà del loro cervello alla volta, mantenendo l’altra metà attiva per respirare e stare all’erta contro i predatori."
-    },
-    {
-        "fullstartdate": "202409102200",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155",
-        "copyright": "Arco Magno, San Nicola Arcella, Calabria, Italia (© Alessio de Cicco/Moment/Getty Images)",
-        "copyrightKeyword": "Calabria",
-        "hsh": "e9748068ad1cb22f4c2d4b6a5f149439"
+        "hsh": "6cf99f3294977164697a1ac41f9a19a7"
     }
 ]

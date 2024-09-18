@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409182200",
+        "date": "20240919",
+        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_DE-DE1271475836_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_DE-DE1271475836",
+        "copyright": "Spielplatz am Leuchtturm Obereversand in Dorum-Neufeld, Deutschland (© INGO WAGNER/DPA/AFP via Getty Images)",
+        "copyrightKeyword": "Sprich-wie-ein-Pirat-Tag",
+        "hsh": "7190d910b61c2bcb50504939abe40e64",
+        "description": "Ahoi, Freunde der sieben Meere! Heute ist der Internationale Sprich-wie-ein-Pirat-Tag. Egal ob zu Land oder auf hoher See – setzen Sie heute den Dreispitz auf und hissen Sie die Totenkopfflagge! Dieser kuriose Feiertag entstand 1995 aus einem Scherz zweier Freunde, die damit einen echten Trend ins Leben riefen. Während eines Racquetballspiels rief einer von ihnen nach einer Verletzung „Aaarrr!” – und so war die Idee für einen Tag geboren, der der Piratensprache gewidmet ist. Der Schabernack segelte um die Welt, als der beliebte Humorist Dave Barry 2002 einen Artikel darüber veröffentlichte."
+    },
+    {
         "fullstartdate": "202409172200",
         "date": "20240918",
         "url": "https://www.bing.com/th?id=OHR.GujoHachiman_DE-DE4199645559_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216",
         "copyright": "Delfine in der Nähe der Insel Réunion, Indischer Ozean, französisches Überseegebiet (© Joost van Uffelen/Shutterstock)",
         "copyrightKeyword": "Welt-Delfin-Tag",
-        "hsh": "95afdd82d85825aaccfd9f43f65ce5bd",
-        "description": "Machen Sie sich bereit für einen Sprung ins kühle Nass – heute ist Welt-Delfin-Tag! Dieser Tag wurde 2022 von der Organisation Sea Shepherd Global ins Leben gerufen, um das Bewusstsein für die Bedrohungen zu schärfen, denen diese verspielten Meeresbewohner ausgesetzt sind. Sie sind klug, neugierig und überall zuhause – von unseren heimischen Küstengewässern bis hin zu den exotischen Stränden der Insel Réunion im Indischen Ozean, die auf unserem heutigen Bild zu sehen ist. Leider wächst die Anzahl der bedrohten Delfinarten aufgrund von Verschmutzung, Jagd und Fischerei."
-    },
-    {
-        "fullstartdate": "202409102200",
-        "date": "20240911",
-        "url": "https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394",
-        "copyright": "Burg Eltz, Wierschem, Rheinland-Pfalz (© Allard Schager/Alamy)",
-        "copyrightKeyword": "Burg Eltz",
-        "hsh": "ecf603fa0131fa5f54bff06c689ef916"
+        "hsh": "95afdd82d85825aaccfd9f43f65ce5bd"
     }
 ]
