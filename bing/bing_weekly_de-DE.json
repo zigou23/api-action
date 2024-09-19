@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409192200",
+        "date": "20240920",
+        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097",
+        "copyright": "Ocracoke-Leuchtturm auf Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "Nort Carolina, USA",
+        "hsh": "62243689411a0a84cd3135fd12ad3b9d",
+        "description": "Willkommen auf Ocracoke Island in North Carolina. Bestaunen Sie den Ocracoke-Leuchtturm mit seinem imposanten, fast 25 Meter hohen Bauwerk. Aber das ist noch nicht alles: Mit seinen 8.000 Kerzen ist er bis zu 23 Kilometer vor der Küste zu sehen. Außerdem ist er einer der ältesten noch aktiven Leuchttürme der USA. Seit seiner Errichtung im Jahr 1823 leitet er die Seefahrer durch die tückischen Gewässer des Pamlico Sound und der Ocracoke Strait."
+    },
+    {
         "fullstartdate": "202409182200",
         "date": "20240919",
         "url": "https://www.bing.com/th?id=OHR.PiratePlayground_DE-DE1271475836_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SanssouciPalace_DE-DE1364639804",
         "copyright": "Schloss Sanssouci, Schlosspark, Potsdam, Brandenburg (© Günter Gräfenhain/Alamy)",
         "copyrightKeyword": "Schloss Sanssouci Schlossgarten",
-        "hsh": "e076caae3230e51f7ec8af3ddd44165a",
-        "description": "Schloss Sanssouci und sein Park in Potsdam auf unserem heutigen Bild sind nicht nur ein Juwel preußischer Architektur, sondern auch ein beeindruckendes Beispiel höchster Gartenkunst. 1990 nahm die UNESCO den Park 1990 in die Liste des Weltkulturerbes auf. Der Bau des Schlosses begann 1743 auf Wunsch von Friedrich des Großen. Das Schloss bietet mit seiner einzigartigen Terrassenanlage, die dem Weinbau gewidmet ist, einen spektakulären Ausblick über Potsdam. Friedrich der Große plante das Schloss als Sommerresidenz und ließ sich dort auch seine letzte Ruhestätte anlegen. Im 19. Jahrhundert erweiterte König Friedrich Wilhelm IV. den Garten erheblich. Er integrierte einen malerischen Landschaftspark und fügte faszinierende Naturinszenierungen sowie prachtvolle Bauten des Klassizismus und der Romantik hinzu."
-    },
-    {
-        "fullstartdate": "202409112200",
-        "date": "20240912",
-        "url": "https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216",
-        "copyright": "Delfine in der Nähe der Insel Réunion, Indischer Ozean, französisches Überseegebiet (© Joost van Uffelen/Shutterstock)",
-        "copyrightKeyword": "Welt-Delfin-Tag",
-        "hsh": "95afdd82d85825aaccfd9f43f65ce5bd"
+        "hsh": "e076caae3230e51f7ec8af3ddd44165a"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409192200",
+        "date": "20240920",
+        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310",
+        "copyright": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA",
+        "hsh": "00b20a9a7ed506c33b7344ebb4e44588",
+        "description": "Il faro di Ocracoke, situato sull’omonima isola nella Carolina del Nord, è uno dei fari più antichi ancora in funzione negli Stati Uniti. Costruito nel 1823, il faro ha un aspetto semplice ma affascinante, con la sua torre bianca alta circa 23 metri. Grazie alla sua posizione strategica, ha guidato generazioni di marinai attraverso le insidiose acque di Pamlico Sound e dello stretto di Ocracoke. Ciò che rende quest’isola, estesa per ben 25 chilometri di litorali inesplorati, ancora più affascinante è che sia raggiungibile solo in traghetto o via aerea, trovandosi lontano dalle coste statunitensi."
+    },
+    {
         "fullstartdate": "202409182200",
         "date": "20240919",
         "url": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_IT-IT5474541020",
         "copyright": "Faro di Point Reyes National Seashore, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images)",
         "copyrightKeyword": "Faro di Point Reyes National Seashore, California, USA",
-        "hsh": "6f2e40981eec165fb8cabc849651ab3f",
-        "description": "Benvenuti nella Riserva Nazionale di Point Reyes, dove il cielo si fonde con la terra. Questo paradiso costiero di quasi 290 km², situato sulla penisola di Point Reyes, nella contea di Marin in California, USA, è un rifugio di biodiversità e bellezze naturali. È famoso anche per il suo clima spesso nuvoloso e nebbioso, che, nel corso dei secoli, ha provocato numerosi naufragi. Per questo motivo, nel 1870 fu eretto il faro di Point Reyes per guidare i marinai nelle pericolose acque della zona. La riserva offre paesaggi spettacolari, con scogliere a picco sull’Oceano Pacifico."
-    },
-    {
-        "fullstartdate": "202409112200",
-        "date": "20240912",
-        "url": "https://www.bing.com/th?id=OHR.DolphinReunion_IT-IT1645140668_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_IT-IT1645140668",
-        "copyright": "Baccello di delfini vicino alle coste dell’isola della Riunione, Oceano Indiano (© Joost van Uffelen/Shutterstock)",
-        "copyrightKeyword": "Delfino",
-        "hsh": "6cf99f3294977164697a1ac41f9a19a7"
+        "hsh": "6f2e40981eec165fb8cabc849651ab3f"
     }
 ]
