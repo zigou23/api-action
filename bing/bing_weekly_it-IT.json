@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409202200",
+        "date": "20240921",
+        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360",
+        "copyright": "Oktoberfest a Monaco di Baviera, Germania (© AllesSuper21/iStock/Getty Images)",
+        "copyrightKeyword": "Oktoberfest",
+        "hsh": "9cb8a50a22c4247a10f5478808f2329a",
+        "description": "O’zapft is! È stappata, sono le famose parole pronunciate dal sindaco di Monaco di Baviera, in Germania, al momento dell’inizio dell’Oktoberfest. Immergetevi in questa grandiosa festa che celebra la cultura bavarese, le sue usanze e l’impareggiabile birra. Sapevate che, per legge, questa può provenire solamente dai produttori storici di Monaco? Una tradizione tutta bavarese, dove i locali, per l’occasione, sfoderano i loro abiti tipici come il Dirndl e la Lederhose. Vi consigliamo di accompagnare la birra con le leccornie tradizionali come la Bratwurst, la Brezel, un tipico pane tedesco, e i celebri crauti."
+    },
+    {
         "fullstartdate": "202409192200",
         "date": "20240920",
         "url": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035",
         "copyright": "Alba ad Ahu Tongariki, Parco Nazionale Rapa Nui, Isola di Pasqua, Cile (© Piriya Photography/Getty Images)",
         "copyrightKeyword": "Rapa Nui, Isola di Pasqua",
-        "hsh": "4866e5ac8bc1bae1ddae2d35d2e443ca",
-        "description": "Allievi e amanti della storia, unitevi a noi in un’avventura in terra cilena a Rapa Nui, altrimenti nota come Isola di Pasqua. Ci troviamo nel bel mezzo dell’Oceano Pacifico e quest’isola vanta un paesaggio che vi lascerà a bocca aperta. Ma non solo la natura di questo luogo remoto, ma anche la cultura è qualcosa di affascinante, tanto che i ricercatori ancora dibattono sull’epoca dell’insediamento polinesiano, stimato all’incirca nel VII secolo. Qui potrete godervi un’alba straordinaria, immergervi nei crinali vulcanici e percorrere le verdi pianure dove dominano le statue."
-    },
-    {
-        "fullstartdate": "202409122200",
-        "date": "20240913",
-        "url": "https://www.bing.com/th?id=OHR.PointReyes_IT-IT5474541020_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_IT-IT5474541020",
-        "copyright": "Faro di Point Reyes National Seashore, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images)",
-        "copyrightKeyword": "Faro di Point Reyes National Seashore, California, USA",
-        "hsh": "6f2e40981eec165fb8cabc849651ab3f"
+        "hsh": "4866e5ac8bc1bae1ddae2d35d2e443ca"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409200300",
+        "date": "20240921",
+        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_PT-BR0175808147_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_PT-BR0175808147",
+        "copyright": "Faro de Ocracoke na ilha de Ocracoke, Carolina do Norte, EUA (© Chansak Joe/Getty Images)",
+        "copyrightKeyword": "Farol de Ocracocke",
+        "hsh": "09037eb32fcec1b032e46cca17f849d8",
+        "description": "Bem-vindos à encantadora Ilha de Ocracoke, em Outer Banks, Estados Unidos, onde a natureza exuberante e a história se entrelaçam em um cenário de tirar o fôlego. Este refúgio único, acessível apenas por ferry ou pequenos aviões, revela mais de 25 quilômetros de praias virgens, tão fascinantes quanto as costas brasileiras, mas impregnadas de um charme distinto. Imagine caminhar por essas areias desertas, sentindo a brisa suave e o sussurro das ondas, enquanto a história ganha vida ao seu redor. O Farol de Ocracoke, estrela da imagem do dia, celebra seu bicentenário desde 2023. Sua luz, poderosa como 8.000 velas, guia os navegantes por até 22 quilômetros no mar."
+    },
+    {
         "fullstartdate": "202409190300",
         "date": "20240920",
         "url": "https://www.bing.com/th?id=OHR.DiaNacionaldoTeatro_PT-BR7232325945_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_PT-BR8277913386",
         "copyright": "Point Reyes National Seashore Lighthouse, California (© RMB Images/Photography by Robert Bowman/Getty Images)",
         "copyrightKeyword": "Point Reyes National Seashore, Parque na Califórnia",
-        "hsh": "b8a494ef470caf468dcbfffbed606cd1",
-        "description": "Descubra a Costa Nacional de Point Reyes, uma joia escondida na costa californiana, EUA, onde o céu se encontra com a terra em perfeita harmonia. Repleto de trilhas deslumbrantes que serpenteiam por florestas exuberantes ao longo de penhascos dramáticos, este refúgio natural oferece uma imersão completa em paisagens de tirar o fôlego e uma vida selvagem rica e diversificada."
-    },
-    {
-        "fullstartdate": "202409120300",
-        "date": "20240913",
-        "url": "https://www.bing.com/th?id=OHR.DolphinReunion_PT-BR8025622682_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DolphinReunion_PT-BR8025622682",
-        "copyright": "Grupo de golfinhos perto da Ilha da Reunião, Oceano Índico, Departamento Ultramarino Francês (© Joost van Uffelen/Shutterstock)",
-        "copyrightKeyword": "Espécies de Golfinhos",
-        "hsh": "ec87643b96a59bb48ef8f17d15dbcde7"
+        "hsh": "b8a494ef470caf468dcbfffbed606cd1"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409201830",
+        "date": "20240921",
+        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088",
+        "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
+        "copyrightKeyword": "Munich",
+        "hsh": "b1954efe12f39dea096fb06cf943211b",
+        "description": "Step into Munich, Bavaria, Germany, pictured here, for a celebration like no other, Oktoberfest. The culture of Bavaria is distinct from the rest of Germany, especially in rural areas where traditions, religion and language play a significant role. They take great pride in their heritage, which is reflected in the traditional attire known as tracht—lederhosen for men and dirndls for women—worn during special occasions. Known for their egalitarian and informal nature, Bavarians are famously sociable, a trait that's on full display during the annual Oktoberfest, the world's largest beer festival, attracting about six million visitors each year. This sociability is also evident in Bavaria's iconic beer gardens, where patrons are welcome to bring their own food while enjoying beer exclusively from the hosting brewery."
+    },
+    {
         "fullstartdate": "202409191830",
         "date": "20240920",
         "url": "https://www.bing.com/th?id=OHR.OcracokeLight_EN-IN6376239162_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010",
         "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
         "copyrightKeyword": "Ahu Tongariki",
-        "hsh": "906045e393804afa9ca3895bf42bd364",
-        "description": "Welcome to Rapa Nui, also known as Easter Island, Chile—one of the world's most remote and enchanting paradises. Famous for its iconic moai statues, this stunning island is a treasure trove of breathtaking landscapes and rich cultural heritage. Experts are divided on the timeline of the Polynesians' arrival, though many researchers suggest that it occurred around the 8th century. Take in the mesmerising sunrise featured in today's image and explore the striking volcanic craters and lush, grassy plains where the imposing statues stand. The World Heritage property of Easter Island spans more than 68 square kilometres, including four nearby islets."
-    },
-    {
-        "fullstartdate": "202409121830",
-        "date": "20240913",
-        "url": "https://www.bing.com/th?id=OHR.PointReyes_EN-IN7769414761_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_EN-IN7769414761",
-        "copyright": "Point Reyes National Seashore Lighthouse, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images)",
-        "copyrightKeyword": "Point Reyes National Seashore",
-        "hsh": "99473f2c84da19f9c482eaeb81194b40"
+        "hsh": "906045e393804afa9ca3895bf42bd364"
     }
 ]
