@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409212300",
+        "date": "20240922",
+        "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-GB0937833138_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-GB0937833138",
+        "copyright": "Buttermere, Lake District National Park, England (© Alan Novelli/Alamy Stock Photo)",
+        "copyrightKeyword": "September equinox",
+        "hsh": "4357878ecfc5fea27d4a6204ddfcb7bb",
+        "description": "Autumn is in the air—officially. The September equinox marks the transition from the lush summer to the mellow autumn in the Northern Hemisphere, while in the Southern Hemisphere, it signals the beginning of spring. The term 'equinox' is derived from Latin, meaning 'equal night.' During this moment, the Earth's axis is perpendicular to the sun, meaning it rises due east and sets due west, a rare moment of global balance. This balance occurs because the Earth's axis is neither tilted toward nor away from the sun."
+    },
+    {
         "fullstartdate": "202409202300",
         "date": "20240921",
         "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-GB0671591824_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058",
         "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
         "copyrightKeyword": "Stockholm Public Library Sweden",
-        "hsh": "71ffd67e931147402343c0615a1c9e24",
-        "description": "If you're ever in Sweden and looking for a quiet place to get 'shelved,' the Stockholm Public Library, or 'Stadsbiblioteket' as it is known to locals, is your spot. Opened in 1928, this library is not just a place to borrow books; it's a cultural icon and an architectural marvel. Here, more than 2 million volumes wait to unfold stories in over 100 languages. Designed by architect Erik Gunnar Asplund in the 1920s, this Nordic Classicist composition features the geometry of a cylinder intersecting a cubic base. Its accessible façade belies a treasure trove within a 360-degree rotunda, inviting even the casual reader into a literal circle of knowledge."
-    },
-    {
-        "fullstartdate": "202409132300",
-        "date": "20240914",
-        "url": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214",
-        "copyright": "Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)",
-        "copyrightKeyword": "Last Night of the Proms",
-        "hsh": "0e5668636e96764d50f0f943a44fe195"
+        "hsh": "71ffd67e931147402343c0615a1c9e24"
     }
 ]

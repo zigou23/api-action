@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409210700",
+        "date": "20240922",
+        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793",
+        "copyright": "Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)",
+        "copyrightKeyword": "munich oktoberfest",
+        "hsh": "0cd12c2dfc6716d44dd4f98e00131129",
+        "description": "Today, we're raising a stein and saying Prost! Step into Munich, capital of the German state of Bavaria, for a celebration like no other. Oktoberfest, first held here in 1810, is a vibrant blend of Bavarian culture, tradition, and, of course, beer."
+    },
+    {
         "fullstartdate": "202409200700",
         "date": "20240921",
         "url": "https://www.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843",
         "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
         "copyrightKeyword": "easter island",
-        "hsh": "af0fae78f23a26711586dfc703263272",
-        "description": "Welcome to Rapa Nui, also known as Easter Island, one of the world's most remote and enchanting paradises, roughly 2,330 miles west of mainland Chile. Famous for its iconic moai statues, Rapa Nui boasts breathtaking landscapes and rich cultural heritage. Experts are divided on when the island's ancestral inhabitants first arrived from Polynesia, though many researchers suggest it was around the 8th century. Take in the mesmerizing sunrise featured in today's image and explore the striking volcanic craters and lush, grassy plains where the imposing statues stand. The World Heritage property of Easter Island spans more than 17,000 acres, including four nearby islets."
-    },
-    {
-        "fullstartdate": "202409130700",
-        "date": "20240914",
-        "url": "https://www.bing.com/th?id=OHR.PointReyes_EN-US4731803211_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PointReyes_EN-US4731803211",
-        "copyright": "Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)",
-        "copyrightKeyword": "Point Reyes National Seashore",
-        "hsh": "97c53ddee1e050000db7b0a8a6318dd3"
+        "hsh": "af0fae78f23a26711586dfc703263272"
     }
 ]
