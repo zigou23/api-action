@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409220400",
+        "date": "20240923",
+        "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-CA9786205803_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-CA9786205803",
+        "copyright": "Buttermere, Lake District National Park, England, United Kingdom (© Alan Novelli/Alamy Stock Photo)",
+        "copyrightKeyword": "September equinox",
+        "hsh": "fe6d283f5256f044783ad512059cae85",
+        "description": "Autumn is in the air—officially. The September equinox marks the transition from the lush summer to the mellow fall in the Northern Hemisphere, while in the Southern Hemisphere, it signals the beginning of spring. The term 'equinox' is derived from Latin, meaning 'equal night.' During this moment, the Earth's axis is perpendicular to the sun, meaning it rises due east and sets due west, a rare moment of global balance. This balance occurs because the Earth's axis is neither tilted toward nor away from the sun."
+    },
+    {
         "fullstartdate": "202409210400",
         "date": "20240922",
         "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199",
         "copyright": "Ouimet Canyon near Thunder Bay (© plainpicture/Design Pics/Susan Dykstra)",
         "copyrightKeyword": "Ouimet Canyon Dorion",
-        "hsh": "238452b9bbf07d140e47099822d36a46",
-        "description": "Explore the Ouimet Canyon, seen in today's image, a remarkable geological formation in the Ouimet Canyon Provincial Park near Thunder Bay, Ontario. Formed over a billion years, this natural wonder features sheer cliffs rising 100 metres above the canyon floor, stretching for over two kilometres. Designated as a provincial park in 1972, this landscape preserves a unique microenvironment, hosting arctic plant species typically found 1,000 kilometres to the north. In 2022 the park celebrated 50 years of conserving this unique slice of Canadian natural heritage. The two viewing platforms on the west side provide spectacular vistas of the canyon's depth and the verdant forest below. The park's incredible geology owes its existence to the last Ice Age, which left behind this awe-inspiring feature that continues to attract nature enthusiasts and photographers alike."
-    },
-    {
-        "fullstartdate": "202409140400",
-        "date": "20240915",
-        "url": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-CA0278736669_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-CA0278736669",
-        "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
-        "copyrightKeyword": "Ahu Tongariki",
-        "hsh": "f75ec64d581d5e8bddd5ba996136453b"
+        "hsh": "238452b9bbf07d140e47099822d36a46"
     }
 ]

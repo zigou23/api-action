@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409222300",
+        "date": "20240923",
+        "url": "https://www.bing.com/th?id=OHR.IcebergOtter_EN-GB1302406748_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_EN-GB1302406748",
+        "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
+        "copyrightKeyword": "Sea otters",
+        "hsh": "0b5fa4059642b8a1a90633158c0efdae",
+        "description": "Sea otters are native to the northern and eastern coasts of the North Pacific Ocean. The otter featured in today's image was photographed in Prince William Sound, Alaska, United States. Weighing 14-45 kilograms, they're expert foragers, diving to the seabed to find food. These clever critters are smart as well as cute: they use rocks to crack open shellfish, making them one of the few animals that use tools. There used to be as many as 300,000 in the wild, but they were heavily hunted for almost two centuries, as their dense fur was highly prized. By 1911, it is thought that only around 2,000 were left. Thankfully, an international hunting ban, conservation efforts and reintroduction programs have helped them rebound, and they are now found in about two-thirds of their historic habitat. Despite this success, some populations are still struggling, and sea otters are still an endangered species."
+    },
+    {
         "fullstartdate": "202409212300",
         "date": "20240922",
         "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-GB0937833138_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SunriseWallabies_EN-GB4531988184",
         "copyright": "Wallabies, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)",
         "copyrightKeyword": "Wallaby",
-        "hsh": "7f4443151523b1cfaf5b0e5f588336cd",
-        "description": "Amid the hues of dawn, captured in today's image, two wallabies stand alert in a field near the Adelaide River in Australia. These marsupials, smaller cousins of the kangaroo, are native to Australia and New Guinea. Wallabies have around 30 different species, including brush wallabies, rock-wallabies, hare-wallabies, nail-tail wallabies and swamp wallabies. These agile and sprightly mammals are herbivores, nibbling on grasses, leaves and fruits. With a height of 30 to 104 centimetres, wallabies have strong hind legs that help them take impressive leaps and serve as a defence against predators. During mating season, male wallabies engage in boxing bouts to show dominance in an attempt to grab females' attention. Social creatures, wallabies form small groups called 'mobs,' which provide safety and mutual grooming. Their playgrounds are forests that echo with the thudding of their hops as they navigate their home range with ease."
-    },
-    {
-        "fullstartdate": "202409142300",
-        "date": "20240915",
-        "url": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.StockholmLibrary_EN-GB4478334058",
-        "copyright": "Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)",
-        "copyrightKeyword": "Stockholm Public Library Sweden",
-        "hsh": "71ffd67e931147402343c0615a1c9e24"
+        "hsh": "7f4443151523b1cfaf5b0e5f588336cd"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409222200",
+        "date": "20240923",
+        "url": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180",
+        "copyright": "Seeotter, Prince-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
+        "copyrightKeyword": "Seeotter",
+        "hsh": "be2a28fe483440d40c3465b67f370320",
+        "description": "Seeotter sind faszinierende Bewohner der Küstengewässer des nordöstlichen Pazifiks. Ihr dichtes Fell, das zu den dichtesten im Tierreich zählt, schützt sie vor der Kälte des Meeres. Leider ist der dicke, warme Pelz einer der Gründe dafür, dass die Seeotterpopulation im letzten Jahrhundert drastisch zurückgegangen ist. Aus diesem Grund wird diese Woche in den Vereinigten Staaten die „Otter Awareness Week“ gefeiert. Die putzigen Tiere sind wahre Meister im Umgang mit Werkzeugen: Geschickt knacken sie Muscheln und andere Schalentiere mit Steinen, während sie auf dem Rücken liegend im Wasser treiben."
+    },
+    {
         "fullstartdate": "202409212200",
         "date": "20240922",
         "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_DE-DE9036257746_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966",
         "copyright": "Wallabys bei Sonnenaufgang, Adelaide River, Nordterritorium, Australien (© Jeremy Woodhouse/Getty Images)",
         "copyrightKeyword": "Wallaby",
-        "hsh": "78de1115b1a8a948155cd0e2875c6ed6",
-        "description": "Erleben Sie mit uns einen malerischen Morgen in Australien, wo in der Morgendämmerung zwei aufmerksame Wallabys im Gebiet des Adelaide River zu sehen sind. Diese flinken Beuteltiere, enge Verwandte des Kängurus, sind in Australien und Neuguinea heimisch. Wallabys, von denen es über 30 Arten gibt, wie beispielsweise die Pinselschwanz-, Felsen-, Hasen-, Nagelschwanz- und Sumpfwallabys, ernähren sich vegetarisch – sie knabbern an Gräsern, Blättern und Früchten. Sie erreichen eine Größe von etwa 30 bis 105 Zentimetern und können mit ihren kräftigen Hinterbeinen beeindruckende Sprünge machen, um sich vor Feinden zu schützen. In der Paarungszeit beeindrucken männliche Wallabys mit Boxkämpfen, um ihre Dominanz zu demonstrieren und die Aufmerksamkeit der Weibchen auf sich zu ziehen. Wallabys sind gesellige Tiere und bilden kleine Gruppen, so genannte „Mobs”, die ihnen Sicherheit und gegenseitige Fürsorge bieten."
-    },
-    {
-        "fullstartdate": "202409142200",
-        "date": "20240915",
-        "url": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CalabriaPeperoncino_DE-DE2438358101",
-        "copyright": "Strand von Arco Magno, Kalabrien, Italien (© Alessio de Cicco/Getty Images)",
-        "copyrightKeyword": "Kalabrien",
-        "hsh": "b8ef8a449af542c9e78e280e42cd2f6f"
+        "hsh": "78de1115b1a8a948155cd0e2875c6ed6"
     }
 ]
