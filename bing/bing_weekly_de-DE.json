@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409232200",
+        "date": "20240924",
+        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523",
+        "copyright": "Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images)",
+        "copyrightKeyword": "Vatnajökull-Nationalpark",
+        "hsh": "c39be5cdd365a05bb81c3dabcd4c3b7f",
+        "description": "Erleben Sie mit uns die Wunder der Natur im isländischen Skaftafell, wo der Herbst nicht nur eine Jahreszeit, sondern ein Erlebnis für die Sinne ist. Im Nationalpark Vatnajökull, der Heimat des zweitgrößten Eisfeldes Europas, erstreckt sich der Gletscher Skaftafellsjökull - eine spektakuläre Eismasse, die von der gewaltigen Kraft des Vulkanfeuers und des Gletscherwassers zeugt. Ab jetzt ist Tageslicht hier kostbarer als Gold, aber der isländische Herbst hat ein Highlight zu bieten: das schillernde Farbenspiel der Nordlichter, die den Nachthimmel in eine bezaubernde Bühne verwandeln."
+    },
+    {
         "fullstartdate": "202409222200",
         "date": "20240923",
         "url": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874",
         "copyright": "Mondfest in den Gardens by the Bay, Singapur (© Victor Y. Zhuo/Alamy Stock Photo)",
         "copyrightKeyword": "Mondfest",
-        "hsh": "0f71122cfece3a7c6af4979ccfb83217",
-        "description": "Tauchen Sie ein in die faszinierende Welt des Mondfestes – ein Höhepunkt der asiatischen Kultur, das in der Vollmondnacht des achten Monats nach dem traditionellen chinesischen Mondkalender gefeiert wird. Auf unserem heutigen Bild befinden wir uns in den Gardens by the Bay in Singapur und die Super Trees (mit Pflanzen bewachsene Stahlgerüste) erstrahlen zum Mondfest in einem Meer aus Laternen. Ein Fest, dessen Wurzeln über 3000 Jahre in die chinesische Geschichte zurückreichen, lädt dazu ein, den Vollmond zu bewundern und das Ende der Erntesaison zu feiern. Bei diesem festlichen Beisammensein essen Familien und Freunde köstliche Mondkuchen mit süßer Bohnenpaste, salzigem Eigelb oder Lotossamen. Farbenfrohe Laternen erhellen den Abendhimmel und stehen sinnbildlich für Glück und Wohlergehen."
-    },
-    {
-        "fullstartdate": "202409152200",
-        "date": "20240916",
-        "url": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SunriseWallabies_DE-DE3495794966",
-        "copyright": "Wallabys bei Sonnenaufgang, Adelaide River, Nordterritorium, Australien (© Jeremy Woodhouse/Getty Images)",
-        "copyrightKeyword": "Wallaby",
-        "hsh": "78de1115b1a8a948155cd0e2875c6ed6"
+        "hsh": "0f71122cfece3a7c6af4979ccfb83217"
     }
 ]
