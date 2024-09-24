@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409242200",
+        "date": "20240925",
+        "url": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158",
+        "copyright": "Montone, Umbria, Italia (© Davide Seddio/Gettz Images)",
+        "copyrightKeyword": "Montone Umbria",
+        "hsh": "976c662cbdbf2155c298476bc343afc0",
+        "description": "Nel cuore verde dell’Umbria, incastonato tra dolci colline e rigogliosa vegetazione, sorge Montone, un incantevole borgo medievale che sembra essere rimasto sospeso nel tempo. Conosciuto per il suo pittoresco centro storico, Montone offre un’atmosfera cristallizzata nel tempo, con stradine acciottolate e case in pietra che evocano il fascino di epoche passate. Uno dei gioielli architettonici del luogo è la Chiesa di San Francesco, risalente al 1300, che segue la tipica architettura degli ordini mendicanti, presentando forme semplici e lineari."
+    },
+    {
         "fullstartdate": "202409232200",
         "date": "20240924",
         "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461",
         "copyright": "Castello di Gujō Hachiman, Prefettura di Gifu, Giappone (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "Prefettura di Gifu, Giappone",
-        "hsh": "1fe5857e61f1f04b31ae2cb9204949df",
-        "description": "Esiste davvero questo castello? Pare emergere direttamente dalle pagine incantate di un racconto di Hayao Miyazaki, con la sua magia e il suo fascino senza tempo. Eppure, questo luogo esiste e lo potete visitare. Quello che potete ammirare oggi è il Castello di Gujō Hachiman sul Monte Hachiman, nella prefettura di Gifu in Giappone. Eretto originariamente nel 1559, questo gioiello rappresenta un pezzo importante della cultura e dell’architettura tradizionale nipponica. Potrete visitare il suo museo, un’oasi per gli amanti della storia, con cinque piani che offrono uno sguardo a 360 gradi sul passato della Terra del Sol Levante."
-    },
-    {
-        "fullstartdate": "202409162200",
-        "date": "20240917",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_IT-IT4809811002",
-        "copyright": "Festa di metà autunno a Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)",
-        "copyrightKeyword": "Festa di metà autunno, Cina",
-        "hsh": "5c44fc0a33dc2f61367d82b6fd02c919"
+        "hsh": "1fe5857e61f1f04b31ae2cb9204949df"
     }
 ]

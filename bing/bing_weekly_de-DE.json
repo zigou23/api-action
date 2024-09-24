@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409242200",
+        "date": "20240925",
+        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_DE-DE0297473056_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_DE-DE0297473056",
+        "copyright": "Riesenmammutbäume, Sequoia-Nationalpark, Kalifornien, USA (© Galyna Andrushko/Shutterstock)",
+        "copyrightKeyword": "Der Sequoia-Nationalpark",
+        "hsh": "c0cfd4a8ba65425418fc56fd4eb17dcc",
+        "description": "Entdecken Sie mit uns den 1890 gegründeten Sequoia-Nationalpark in Kalifornien, USA, wo sich die Giganten der Natur die Hand reichen! Mit einer Fläche von knappen 1.600 km² gleicht das Gebiet einem grünen Meer voller Lebensfreude. Hier stehen mächtige Mammutbäume, die zum Teil über 2.200 Jahre alt sind und selbst Schloss Neuschwanstein an Erhabenheit übertreffen. So ragt der General-Sherman-Mammutbaum mit seinen 83 Metern Höhe und 11 Metern Breite wie eine fest verankerte Legende in den Himmel. Lassen Sie sich verzaubern von dieser fantastischen Landschaft, die mit den heimischen Naturwundern wie dem Berchtesgadener Land wetteifert und gewinnen Sie unvergessliche Eindrücke."
+    },
+    {
         "fullstartdate": "202409232200",
         "date": "20240924",
         "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_DE-DE4199645559",
         "copyright": "Burg Gujō Hachiman, Präfektur Gifu, Japan (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "Burg Gujo Hachiman",
-        "hsh": "16b211943bcde16b710fa8811899a3ef",
-        "description": "Erleben Sie auf dem Berg Hachiman in der Präfektur Gifu auf Burg Gujō Hachiman eine Reise durch die faszinierende Geschichte Japans. Ursprünglich im Jahre 1559 erbaut, war diese über die Jahrhunderte hinweg Schauplatz der Machtkämpfe der japanischen Clans. In den Wirren der Meiji-Restauration wurde es zerstört, aber 1933 wieder aufgebaut. Was wir heute bewundern können, ist ein seltenes hölzernes Rekonstruktionswunder - im Gegensatz zu den oft aus Beton wiedererrichteten Burgen Japans. Das fünfstöckige Gebäude beheimatet ein Museum und bietet atemberaubende Blicke auf das Tal - ein Tor zum feudalen Japan."
-    },
-    {
-        "fullstartdate": "202409162200",
-        "date": "20240917",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_DE-DE3783759874",
-        "copyright": "Mondfest in den Gardens by the Bay, Singapur (© Victor Y. Zhuo/Alamy Stock Photo)",
-        "copyrightKeyword": "Mondfest",
-        "hsh": "0f71122cfece3a7c6af4979ccfb83217"
+        "hsh": "16b211943bcde16b710fa8811899a3ef"
     }
 ]
