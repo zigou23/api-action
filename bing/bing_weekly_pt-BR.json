@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409250300",
+        "date": "20240926",
+        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_PT-BR0989155735_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_PT-BR0989155735",
+        "copyright": "Sequoias gigantes, Parque Nacional da Sequoia, Califórnia, EUA (© Galyna Andrushko/Shutterstock)",
+        "copyrightKeyword": "Parque Nacional da Sequoia",
+        "hsh": "31bf06a4275febb64e6abaff9e1782f7",
+        "description": "Partiu uma jornada mágica no Parque Nacional de Sequoia, nos Estados Unidos? Fundado em 1890, esse santuário californiano protege as imensas sequoias, colossos verdes que parecem tocar o céu. Com seus mais de 1.600 km² de pureza natural, o parque é o lar de criaturas fascinantes, como o encantador urso-negro e mais de 200 espécies de aves. Entre essas maravilhas, a sequoia-gigante General Sherman se destaca com seus 83 metros de altura e 11 metros de diâmetro, uma verdadeira gigante que parece desafiar o tempo."
+    },
+    {
         "fullstartdate": "202409240300",
         "date": "20240925",
         "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_PT-BR0775400551_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_PT-BR3323033809",
         "copyright": "Castelo Gujō Hachiman, Prefeitura de Gifu, Japão (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "Castelo Gujo Hachiman Japão",
-        "hsh": "5a2a8cc1e6e9f8c23aade0cc4170fc42",
-        "description": "Escondido entre as brumas místicas das montanhas de Gifu, no Japão, o majestoso Castelo de Gujō Hachiman surge como um guardião atemporal, testemunha silenciosa dos segredos e batalhas que moldaram os destinos de poderosos clãs. Erguido em 1559, esse castelo foi palco de intrigas e glórias, viu a ascensão e queda de dinastias e quase desapareceu na voragem da Restauração Meiji, apenas para renascer das cinzas em 1933. Hoje, imponente e enigmático, o castelo se destaca como uma rara reconstrução em madeira em um país onde as réplicas de concreto predominam."
-    },
-    {
-        "fullstartdate": "202409170300",
-        "date": "20240918",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_PT-BR5635809883_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_PT-BR5635809883",
-        "copyright": "Festival de Meio do Outono em Jardins da Baía, Singapura (© Victor Y. Zhuo/Alamy)",
-        "copyrightKeyword": "Jardins da Baía, Singapura",
-        "hsh": "5c63491da05a07cbb0ab61cb0ad2d3f8"
+        "hsh": "5a2a8cc1e6e9f8c23aade0cc4170fc42"
     }
 ]

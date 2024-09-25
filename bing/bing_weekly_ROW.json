@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409250700",
+        "date": "20240926",
+        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_ROW6962026915_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_ROW6962026915",
+        "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
+        "copyrightKeyword": "Sequoia National Park",
+        "hsh": "887481b3bd2a0fde37cdaf1e18b8254e",
+        "description": "Named after the giant sequoias that dominate the landscape, Sequoia National Park in California, United States, spans approximately 162,910 hectares. It is home to wildlife such as black bears, mule deer and over 200 species of birds, including warblers, vireos and flycatchers. The giant sequoia trees here have been rooted for more than 2,200 years and are among Earth's oldest living organisms. The park's renowned General Sherman tree rises to nearly 84 metres. Named after the American Civil War general William Tecumseh Sherman, it's not only tall but is also more than 10 metres wide. Visitors flock to capture moments among these ancient giants, whose reddish-brown, fibrous bark and wide-reaching branches evoke a sense of living history."
+    },
+    {
         "fullstartdate": "202409240700",
         "date": "20240925",
         "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ROW6753428234_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_ROW5500166549",
         "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "Gujo Hachiman Castle",
-        "hsh": "e58726a7128975276350570ddf7fbec9",
-        "description": "In Japan's Gifu Prefecture, Gujō Hachiman Castle stands majestically on Hachiman Mountain. Originally constructed in 1559, this castle has witnessed centuries of Japanese history, including the rise and fall of powerful clans. It was torn down during the tumultuous Meiji Restoration—the period that marked the return of imperial power in the country— but was rebuilt in 1933. The castle seen in today's image is a unique wooden reconstruction, a rarity among Japan's often concrete-rebuilt castles. This five-story structure, which includes a museum, offers a glimpse into feudal Japan while providing stunning views of the valley below. In addition to the castle, the city of Gujō is also famous for hosting the Gujō Odori, one of Japan's oldest dance festivals. Held annually from mid-July to early September, the festival sees locals and tourists alike dancing through the night in the castle town, preserving a tradition that dates back more than 400 years."
-    },
-    {
-        "fullstartdate": "202409170700",
-        "date": "20240918",
-        "url": "https://www.bing.com/th?id=OHR.KeralaSummer_ROW5096349608_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.KeralaSummer_ROW5096349608",
-        "copyright": "Kerala, India (© Pranavan Shoots/Shutterstock)",
-        "copyrightKeyword": "Kerala India",
-        "hsh": "7854527d94ff232edddbee447e560730"
+        "hsh": "e58726a7128975276350570ddf7fbec9"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409252200",
+        "date": "20240926",
+        "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087",
+        "copyright": "Fiume Wind, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
+        "copyrightKeyword": "L'Arctic National Wildlife Refuge (ANWR) è un'area naturale",
+        "hsh": "12e60c3aec47a093d265858e471492dc",
+        "description": "Vi siete mai domandati come alcuni fiumi conservino la loro bellezza originale? Questa bellezza che possiamo ammirare oggi è il Wind River, un fiume di 137 chilometri nel cuore dell’Alaska, negli Stati Uniti. Grazie ad un atto firmato nel 1968 a favore della preservazione dei fiumi, quasi 20.500 chilometri di fiumi sono tutelati nel paese. E pensare che questo rappresenta solo una frazione dello 0,25% dei 5,6 milioni di chilometri di fiumi negli USA. Rimaniamo in Alaska: questo fiume è un esempio di natura incontaminata che dimostra l'importanza della conservazione, non trovate?"
+    },
+    {
         "fullstartdate": "202409242200",
         "date": "20240925",
         "url": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895",
         "copyright": "Parco giochi presso il faro di Obereversand a Dorum-Neufeld, Germania (© INGO WAGNER/DPA/AFP via Getty Images)",
         "copyrightKeyword": "Dorum-Neufeld, Germania",
-        "hsh": "4f876b070b913fe9f3d27e7ef011538e",
-        "description": "Il faro di Obereversand, situato a Dorum in Germania, è una meraviglia ingegneristica del XIX secolo. Fu costruito tra il 1896 e il 1897, e con un’altezza di quasi 40 metri, svolge un ruolo cruciale nella navigazione del Mare del Nord. Il suo segnale luminoso guida i marinai attraverso le acque insidiose, evitando scogli e pericoli, e la sua presenza continua a garantire sicurezza e orientamento per le imbarcazioni in transito."
-    },
-    {
-        "fullstartdate": "202409172200",
-        "date": "20240918",
-        "url": "https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_IT-IT6052956461",
-        "copyright": "Castello di Gujō Hachiman, Prefettura di Gifu, Giappone (© ta2funk ito/500px/Getty Images)",
-        "copyrightKeyword": "Prefettura di Gifu, Giappone",
-        "hsh": "1fe5857e61f1f04b31ae2cb9204949df"
+        "hsh": "4f876b070b913fe9f3d27e7ef011538e"
     }
 ]

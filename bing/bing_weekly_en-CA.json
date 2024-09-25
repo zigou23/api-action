@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409250400",
+        "date": "20240926",
+        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-CA0725943426_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-CA0725943426",
+        "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
+        "copyrightKeyword": "Sequoia National Park",
+        "hsh": "0b1cfefa1324eabfbc6a91463f013b98",
+        "description": "On this day in 1890, Sequoia National Park, California, United States, was founded in the southern Sierra Nevada to protect one of America's natural splendours. Named after the giant sequoias that dominate the landscape, the park spans more than 1,600 square kilometres and is home to wildlife such as black bears, mule deer and over 200 species of birds, including warblers, vireos and flycatchers. The giant sequoia trees here have been rooted for more than 2,200 years and are among Earth's oldest living organisms. The park's renowned General Sherman tree rises to an astonishing 84 metres. Named after the American Civil War general William Tecumseh Sherman, it's not only tall but is also more than 11 metres wide. Visitors flock to capture moments among these ancient giants, whose reddish-brown, fibrous bark and wide-reaching branches evoke a sense of living history."
+    },
+    {
         "fullstartdate": "202409240400",
         "date": "20240925",
         "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-CA0508271608_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GujoHachiman_EN-CA0510851106",
         "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
         "copyrightKeyword": "Gujo Hachiman Castle",
-        "hsh": "904f60a1501aaf7542b9827eaa8bd8fb",
-        "description": "In Japan's Gifu Prefecture, Gujō Hachiman Castle stands majestically on Hachiman Mountain. Originally constructed in 1559, this castle has witnessed centuries of Japanese history, including the rise and fall of powerful clans. It was torn down during the tumultuous Meiji Restoration—the period that marked the return of imperial power in the country— but was rebuilt in 1933. The castle seen in today's image is a unique wooden reconstruction, a rarity among Japan's often concrete-rebuilt castles. This five-story structure, which includes a museum, offers a glimpse into feudal Japan while providing stunning views of the valley below. In addition to the castle, the city of Gujō is also famous for hosting the Gujō Odori, one of Japan's oldest dance festivals. Held annually from mid-July to early September, the festival sees locals and tourists alike dancing through the night in the castle town, preserving a tradition that dates back more than 400 years."
-    },
-    {
-        "fullstartdate": "202409170400",
-        "date": "20240918",
-        "url": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-CA0460554285_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-CA0460554285",
-        "copyright": "Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)",
-        "copyrightKeyword": "Mid-Autumn Festival",
-        "hsh": "a4ac9f2837f7abe7c23f035eba6164c8"
+        "hsh": "904f60a1501aaf7542b9827eaa8bd8fb"
     }
 ]
