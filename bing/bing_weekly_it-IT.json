@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409262200",
+        "date": "20240927",
+        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522",
+        "copyright": "Canal Grande e della Basilica di Santa Maria della Salute, Venezia (© Bachir Moukarzel/Amazing Aerial Agency)",
+        "copyrightKeyword": "Santa Maria della Salute",
+        "hsh": "bd308071ef8fc6633ef7335d1cad3729",
+        "description": "La Basilica di Santa Maria della Salute a Venezia fu costruita dall’architetto Baldassare Longhena, in seguito a un voto della città per la fine della terribile peste del 1630. Edificata tra il 1631 e il 1687, la basilica è un omaggio alla Vergine Maria, alla quale i veneziani attribuirono la loro salvezza. La struttura della basilica è unica per il suo schema ottagonale, un elemento simbolico di grande rilevanza nella tradizione cristiana. Infatti, il numero 8 è, secondo alcuni studi, il numero che rappresenterebbe nella dottrina cristiana la salvezza e la speranza."
+    },
+    {
         "fullstartdate": "202409252200",
         "date": "20240926",
         "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310",
         "copyright": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA",
-        "hsh": "00b20a9a7ed506c33b7344ebb4e44588",
-        "description": "Il faro di Ocracoke, situato sull’omonima isola nella Carolina del Nord, è uno dei fari più antichi ancora in funzione negli Stati Uniti. Costruito nel 1823, il faro ha un aspetto semplice ma affascinante, con la sua torre bianca alta circa 23 metri. Grazie alla sua posizione strategica, ha guidato generazioni di marinai attraverso le insidiose acque di Pamlico Sound e dello stretto di Ocracoke. Ciò che rende quest’isola, estesa per ben 25 chilometri di litorali inesplorati, ancora più affascinante è che sia raggiungibile solo in traghetto o via aerea, trovandosi lontano dalle coste statunitensi."
-    },
-    {
-        "fullstartdate": "202409182200",
-        "date": "20240919",
-        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_IT-IT1371008895",
-        "copyright": "Parco giochi presso il faro di Obereversand a Dorum-Neufeld, Germania (© INGO WAGNER/DPA/AFP via Getty Images)",
-        "copyrightKeyword": "Dorum-Neufeld, Germania",
-        "hsh": "4f876b070b913fe9f3d27e7ef011538e"
+        "hsh": "00b20a9a7ed506c33b7344ebb4e44588"
     }
 ]

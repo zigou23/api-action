@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409261600",
+        "date": "20240927",
+        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525",
+        "copyright": "大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)",
+        "copyrightKeyword": "安康圣母教堂",
+        "hsh": "bc169a8649e14b1219be21276294badd",
+        "description": "威尼斯的安康圣母教堂历史悠久，是巴洛克建筑风格的典范。这座教堂建于1631年至1687年，是为了纪念1630年威尼斯从一场毁灭性瘟疫中解脱出来。教堂建在大运河的入口处，其圆顶在威尼斯的天际线上占据着主导地位，正如今天的图片所示。意大利建筑师巴尔达萨雷·隆盖纳在26岁时就构思了这座建筑，它成为了隆盖纳毕生的事业，并在他去世后完工。教堂外部的涡卷状装饰和雕像与宽敞的八角形内部形成鲜明对比，内部装饰着文艺复兴时期艺术家提香和丁托列托的作品。每年11月，威尼斯都会在圣母节期间纪念这座教堂的重要意义，这是一场文化庆祝活动，内容包括节日游行和献蜡烛等，以感谢圣母将人类从瘟疫中解救出来。"
+    },
+    {
         "fullstartdate": "202409251600",
         "date": "20240926",
         "url": "https://www.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077",
         "copyright": "奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "奥克拉科克灯塔",
-        "hsh": "1e138fbe19a120e4b70fd21c0e7f242d",
-        "description": "欢迎来到北卡罗来纳州外滩的奥克拉科克岛。这是一个历史与自然交织的地方。这座只有乘坐渡轮或小型飞机才能到达的僻静小岛，拥有16英里长的人迹罕至的海滩和丰富的故事。从今天的图片中可以看到，奥克拉科克灯塔是一个引人注目的地标，它于2023年迎来了200周年纪念日，并成为了北卡罗来纳州最古老的、持续运行的灯塔。这座灯塔的灯光亮度与8000支蜡烛的亮度相当，在离岸14英里处都能看到。"
-    },
-    {
-        "fullstartdate": "202409181600",
-        "date": "20240919",
-        "url": "https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593",
-        "copyright": "埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)",
-        "copyrightKeyword": "阿尔伯塔省",
-        "hsh": "9f638dbd0503a7a664d0188200008973"
+        "hsh": "1e138fbe19a120e4b70fd21c0e7f242d"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409261500",
+        "date": "20240927",
+        "url": "https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830",
+        "copyright": "夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)",
+        "copyrightKeyword": "横浜ベイブリッジ",
+        "hsh": "391aecdbe13a08e381c67dc227a06280",
+        "description": "1989 年の今日、 9 月 27 日に横浜ベイブリッジが開通しました。東京港と横浜港を結ぶこの橋は、長さ 860m の斜張橋で、上層部は首都高速湾岸線、下層部は国道 357 号という 2 層構造になっており、都市部の渋滞を緩和する役割を果たしています…"
+    },
+    {
         "fullstartdate": "202409251500",
         "date": "20240926",
         "url": "https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027",
         "copyright": "オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "オクラコーク島",
-        "hsh": "8f8a79f7406079d5d1617b3e576c9f24",
-        "description": "ここは米国ノースカロライナ州にあるオクラコーク島。フェリーか小型飛行機でのみアクセス可能な美しい島で、約 26km に及ぶ手つかずのビーチが広がっています。そして、画像は 1823 年に建設された島のシンボル的存在であるオクラコーク灯台。州内で稼働している灯台の中で、最も古い灯台とされています…"
-    },
-    {
-        "fullstartdate": "202409181500",
-        "date": "20240919",
-        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087",
-        "copyright": "船の遊具で海賊ごっごを楽しむ子供たち, ドイツ (© INGO WAGNER/DPA/AFP via Getty Images)",
-        "copyrightKeyword": "世界海賊口調日",
-        "hsh": "c3fd25f6d87f126d92cc85ff22562f95"
+        "hsh": "8f8a79f7406079d5d1617b3e576c9f24"
     }
 ]

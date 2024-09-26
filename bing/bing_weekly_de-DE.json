@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409262200",
+        "date": "20240927",
+        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063",
+        "copyright": "Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency)",
+        "copyrightKeyword": "Santa Maria della Salute",
+        "hsh": "405111c9ef9b1261e0e0ff399180871b",
+        "description": "Die Basilika Santa Maria della Salute in Venedig wurde von dem Architekten Baldassare Longhena errichtet, nachdem die Stadt ein Gelübde abgelegt hatte, um die schreckliche Pest von 1630 zu beenden. Die zwischen 1631 und 1687 erbaute Basilika ist eine Hommage an die Jungfrau Maria, der die Venezianer ihre Rettung verdanken. Im Inneren der Basilika befinden sich Meisterwerke von Tizian, darunter das berühmte Gemälde „Kain und Abel“, und unschätzbare Werke von Tintoretto, wie „Die Hochzeit zu Kana“. Diese Gemälde bereichern die wertvolle Kunstsammlung und machen die Basilika nicht nur zu einem Monument des Glaubens, sondern auch der Kunst."
+    },
+    {
         "fullstartdate": "202409252200",
         "date": "20240926",
         "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097",
         "copyright": "Ocracoke-Leuchtturm auf Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "Nort Carolina, USA",
-        "hsh": "62243689411a0a84cd3135fd12ad3b9d",
-        "description": "Willkommen auf Ocracoke Island in North Carolina. Bestaunen Sie den Ocracoke-Leuchtturm mit seinem imposanten, fast 25 Meter hohen Bauwerk. Aber das ist noch nicht alles: Mit seinen 8.000 Kerzen ist er bis zu 23 Kilometer vor der Küste zu sehen. Außerdem ist er einer der ältesten noch aktiven Leuchttürme der USA. Seit seiner Errichtung im Jahr 1823 leitet er die Seefahrer durch die tückischen Gewässer des Pamlico Sound und der Ocracoke Strait."
-    },
-    {
-        "fullstartdate": "202409182200",
-        "date": "20240919",
-        "url": "https://www.bing.com/th?id=OHR.PiratePlayground_DE-DE1271475836_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.PiratePlayground_DE-DE1271475836",
-        "copyright": "Spielplatz am Leuchtturm Obereversand in Dorum-Neufeld, Deutschland (© INGO WAGNER/DPA/AFP via Getty Images)",
-        "copyrightKeyword": "Sprich-wie-ein-Pirat-Tag",
-        "hsh": "7190d910b61c2bcb50504939abe40e64"
+        "hsh": "62243689411a0a84cd3135fd12ad3b9d"
     }
 ]
