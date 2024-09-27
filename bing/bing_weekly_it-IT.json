@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409272200",
+        "date": "20240928",
+        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453",
+        "copyright": "Spiaggia di Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Florida Stati Uniti",
+        "hsh": "479cfe395d0c686e24aeb58ba32ce977",
+        "description": "La spiaggia di Gulf Island National Seashore in Florida, negli USA, è un angolo di paradiso dove poter concludere le proprie vacanze, poiché qui il tempo sembra rallentare. Le acque turchesi accarezzano dolcemente la spiaggia bianca, creando un contrasto di colori che invita al relax. Il fascino selvaggio delle coste del Golfo del Messico catturerà la vostra attenzione e vi farà dimenticare qualsiasi distrazione. Ogni onda che si infrange sulla riva racconta la storia di questo luogo unico, così perfetto nel suo essere. Non c’è da stupirsi che lo scrittore Ernest Hemingway abbia vissuto a Key West, a pochi chilometri di distanza da qui."
+    },
+    {
         "fullstartdate": "202409262200",
         "date": "20240927",
         "url": "https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_1920x1080.jpg",
@@ -46,7 +56,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475",
         "copyright": "Lontra marina, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Lontra marina",
-        "hsh": "21ea9e87fdfde645bc7a0ecd6935bbd1",
+        "hsh": "8a28330ddebcc5ee093dd6443b5260c2",
         "description": "Nel Prince William Sound in Alaska, negli USA, una lontra marina nuota placidamente tra le gelide acque dello stato più a nord del paese. Le lontre marine pesano tra i 14 e i 45 kg e dimostrano straordinarie doti di ricerca del cibo sul fondale marino. Questi astuti animali sono noti per l'utilizzo di sassi e altri utensili per aprire i gusci dei molluschi – un esempio eccezionale di uso di strumenti nel regno animale. Oggi purtroppo, questo affascinante animale si trova nella lista rossa come animale in pericolo di estinzione."
     },
     {
@@ -56,7 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_IT-IT4193827391",
         "copyright": "Buttermere, Parco Nazionale del Lake District, Inghilterra, Regno Unito (© Alan Novelli/Alamy Stock Photo)",
         "copyrightKeyword": "Equinozio di settembre",
-        "hsh": "f15ea618d0ba0844f96a6b1f4f7c1ba1",
+        "hsh": "a9d592fc81593e3c636bda76ab54fdfe",
         "description": "Viene in mente anche a voi “Impressioni di Settembre” della P.F.M e le gocce di rugiada, ammirando questa foto? Oggi, in occasione dell’equinozio di settembre, celebriamo l’arrivo dell’autunno nell’emisfero settentrionale, una stagione che porta con sé colori caldi, foglie cadenti e un’atmosfera di riflessione e cambiamento. L’equinozio, il cui nome deriva dal latino e significa “notte uguale”, è un fenomeno in cui la durata del giorno e della notte sono identiche. In questo momento, l’asse della Terra si allinea perfettamente perpendicolare ai raggi solari, facendo sì che il sole sorga esattamente a est e tramonti a ovest."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_IT-IT3943225360",
         "copyright": "Oktoberfest a Monaco di Baviera, Germania (© AllesSuper21/iStock/Getty Images)",
         "copyrightKeyword": "Oktoberfest",
-        "hsh": "9cb8a50a22c4247a10f5478808f2329a",
-        "description": "O’zapft is! È stappata, sono le famose parole pronunciate dal sindaco di Monaco di Baviera, in Germania, al momento dell’inizio dell’Oktoberfest. Immergetevi in questa grandiosa festa che celebra la cultura bavarese, le sue usanze e l’impareggiabile birra. Sapevate che, per legge, questa può provenire solamente dai produttori storici di Monaco? Una tradizione tutta bavarese, dove i locali, per l’occasione, sfoderano i loro abiti tipici come il Dirndl e la Lederhose. Vi consigliamo di accompagnare la birra con le leccornie tradizionali come la Bratwurst, la Brezel, un tipico pane tedesco, e i celebri crauti."
-    },
-    {
-        "fullstartdate": "202409192200",
-        "date": "20240920",
-        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310",
-        "copyright": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA (© Chansak Joe/Getty Images)",
-        "copyrightKeyword": "Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA",
-        "hsh": "00b20a9a7ed506c33b7344ebb4e44588"
+        "hsh": "1df76ae4a7ebf8c58fc63e760f50f353"
     }
 ]

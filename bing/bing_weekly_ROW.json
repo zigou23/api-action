@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409270700",
+        "date": "20240928",
+        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_ROW7352144146_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_ROW7352144146",
+        "copyright": "Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
+        "copyrightKeyword": "Santa Maria della Salute",
+        "hsh": "a86d4abff6184ed47f52cd6a47d1d7f4",
+        "description": "Steeped in history, the Santa Maria della Salute church in Venice is a prime example of Baroque architecture. Constructed between 1631 and 1687, the church was a votive offering for the city's deliverance from a devastating plague in 1630. Built at the entrance to the Grand Canal, its dome dominates the Venice skyline, as seen in today's image. Italian architect Baldassare Longhena envisioned this structure at the age of 26, and it became his lifelong project, which was completed after his death. The exterior of the church, with its volutes—spiral, scroll-like ornaments—and statues contrasts with the spacious octagonal interior adorned with works by Renaissance artists like Titian and Tintoretto. Each November, Venice commemorates the church's significance during the Festa della Madonna della Salute, a cultural celebration that includes festive processions and offering of candles in gratitude for deliverance from the plague."
+    },
+    {
         "fullstartdate": "202409260700",
         "date": "20240927",
         "url": "https://www.bing.com/th?id=OHR.LittleToucanet_ROW7160252018_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_ROW2373875700",
         "copyright": "Ocracoke Lighthouse on Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images)",
         "copyrightKeyword": "Ocracoke Lighthouse",
-        "hsh": "b2f29e095994280af9aa6772850a4727",
-        "description": "Welcome to Ocracoke Island in the Outer Banks of North Carolina, United States. This is a place where history and nature intertwine. This secluded island, reachable only by ferry or small plane, offers 25 kilometres of untouched beaches and a wealth of stories. The Ocracoke Lighthouse, seen in today's image, stands out as a notable landmark. The lighthouse celebrated its 200th anniversary in 2023, making it the oldest continuously operating lighthouse in North Carolina. It boasts an 8,000-candlepower light, which can be seen up to 2,200 hectares offshore."
-    },
-    {
-        "fullstartdate": "202409190700",
-        "date": "20240920",
-        "url": "https://www.bing.com/th?id=OHR.ElbowRiver_ROW2359666399_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ElbowRiver_ROW2359666399",
-        "copyright": "Milky Way over the Elbow River, Alberta, Canada (© Alan Dyer/Getty Images)",
-        "copyrightKeyword": "Elbow River Canada",
-        "hsh": "bf10e5f22b8a875f1f08e575476e429f"
+        "hsh": "b2f29e095994280af9aa6772850a4727"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409272300",
+        "date": "20240928",
+        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647",
+        "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+        "copyrightKeyword": "Taj Mahal",
+        "hsh": "5536731acdde7d2d7297132a6dd1074e",
+        "description": "Let's explore the Taj Mahal, one of the Seven Wonders of the World. On the banks of the Yamuna River in Agra, Uttar Pradesh in India, this ivory-white marble mausoleum will certainly leave an impression. The Taj, seen in today's image, was commissioned in 1631 by Shah Jahan, the fifth Mughal emperor, to honour his beloved wife, Mumtaz Mahal. This tomb is the centrepiece of a sprawling 42-acre (17-hectare) complex, which also includes a mosque, a guest house and beautifully landscaped gardens surrounded by a grand wall. Laid out in a striking rectangular shape, the tomb is flanked by giant arches and alcoves that merge Indo-Islamic and Mughal architectural styles."
+    },
+    {
         "fullstartdate": "202409262300",
         "date": "20240927",
         "url": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-GB0671591824",
         "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
         "copyrightKeyword": "oktoberfest",
-        "hsh": "0d8d9d04eda7876748ef9d0f4c6e9334",
-        "description": "Today, we're raising a stein and saying Prost! Step into the capital of Bavaria, Germany, pictured here, for a celebration like no other. Oktoberfest, dating back to 1810, starts today in Munich. This grand event is a vibrant blend of Bavarian culture, tradition and, of course, beer."
-    },
-    {
-        "fullstartdate": "202409192300",
-        "date": "20240920",
-        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_EN-GB0317471752_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_EN-GB0317471752",
-        "copyright": "Ocracoke Lighthouse on Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images)",
-        "copyrightKeyword": "Ocracoke Lighthouse",
-        "hsh": "6fc57f731828ba938a1ea1eac9d4a207"
+        "hsh": "0d8d9d04eda7876748ef9d0f4c6e9334"
     }
 ]

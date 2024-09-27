@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409272200",
+        "date": "20240928",
+        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914",
+        "copyright": "Strand bei Sonnenaufgang, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightKeyword": "Florida",
+        "hsh": "f5ad2e5935df29828b4ab52c7dd82888",
+        "description": "Beeindruckend, finden Sie nicht auch? Wir befinden uns im Gulf Islands National Seashore in Florida, USA. Kilometerlange Sandstrände, die sich sanft in das türkisblaue Wasser des Golfs von Mexiko schmiegen, laden zum Verweilen ein. Die weitläufigen Dünen und die vielfältige Tierwelt, darunter Delfine und Meeresschildkröten, machen diesen Ort zu einem besonderen Erlebnis. Die sanften Wellen und der endlose Horizont, bieten die perfekte Kulisse für Entspannung und Inspiration. Jetzt, wo sich der Sommer dem Ende zuneigt, verspürt man doch den Wunsch, noch einmal im Meer zu baden, die Sonne auf der Haut zu spüren und den Alltag hinter sich zu lassen. Warum nicht einen kurzen Abstecher in dieses kleine Paradies planen? Es ist die perfekte Gelegenheit, die letzten Sommertage in vollen Zügen zu genießen."
+    },
+    {
         "fullstartdate": "202409262200",
         "date": "20240927",
         "url": "https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255",
         "copyright": "Menschen im „Spaten“-Bierzelt auf dem größten Volksfest der Welt, Oktoberfest 2017, München, Bayern (© FooTToo/Getty Images)",
         "copyrightKeyword": "Oktoberfest",
-        "hsh": "ad29fc04b19e1431512431f7ef236fca",
-        "description": "Das Oktoberfest, das größte Volksfest der Welt, findet 2024 vom 21. September bis 6. Oktober statt und zieht jedes Jahr über sechs Millionen Besucher aus aller Welt an. Ursprünglich 1810 anlässlich der Hochzeit von Kronprinz Ludwig und Prinzessin Therese ins Leben gerufen, hat sich das Oktoberfest zu einem globalen Phänomen entwickelt. Das Festgelände, die Theresienwiese, verwandelt sich während dieser Zeit in ein riesiges Areal voller Bierzelte, Fahrgeschäfte und Buden. In den Bierzelten können Besucher traditionelle bayerische Musik genießen, während sie eine frische gezapfte Maß Bier und bayerische Spezialitäten wie Bratwürste, Brezen und Sauerkraut kosten. Die traditionellen Trachten, die Dirndl für die Damen und Lederhosen für die Herren, sorgen für eine ganz besondere Atmosphäre. Diese historischen Kleidungsstücke sind mehr als nur Mode; sie sind ein sichtbares Zeichen bayerischer Tradition und Lebensfreude."
-    },
-    {
-        "fullstartdate": "202409192200",
-        "date": "20240920",
-        "url": "https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097",
-        "copyright": "Ocracoke-Leuchtturm auf Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images)",
-        "copyrightKeyword": "Nort Carolina, USA",
-        "hsh": "62243689411a0a84cd3135fd12ad3b9d"
+        "hsh": "ad29fc04b19e1431512431f7ef236fca"
     }
 ]
