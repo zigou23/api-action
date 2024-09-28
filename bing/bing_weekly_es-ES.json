@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409282200",
+        "date": "20240929",
+        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344",
+        "copyright": "El Puente Cubierto de West Cornwall sobre el río Housatonic, Connecticut, EE.UU. (© pabradyphoto/Getty Images)",
+        "copyrightKeyword": "connecticut estados unidos",
+        "hsh": "a9249475b6dec36f17a30d814d6da0d5",
+        "description": "¿Sabías que, en el corazón de Nueva Inglaterra, en el noroeste de EE. UU, se encuentra un tesoro de ingeniería que data del siglo XIX? El Puente Cubierto de West Cornwall en Connecticut, es un emblema de durabilidad y estética. No todos los días se ve un puente de madera de 1864 que aún funcione. Esta joya abarca 55 metros sobre el río Housatonic y ha resistido el paso del tiempo gracias a su diseño con tejado y revestimientos laterales, que preservan la madera de los elementos naturales."
+    },
+    {
         "fullstartdate": "202409272200",
         "date": "20240928",
         "url": "https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345",
         "copyright": "Equinoccio de otoño en la Pradera de Ordesa, Huesca (© Susana Guzman/Alamy Stock Photo)",
         "copyrightKeyword": "Otoño",
-        "hsh": "22cb77e6a6ffad0aff81242180bf59c1",
-        "description": "Hoy, el otoño ha llegado oficialmente, dando inicio a una temporada que despliega un asombroso espectáculo natural en todo su esplendor. En la Pradera de Ordesa (Aragón), la protagonista de la imagen de hoy, los bosques se transforman en un verdadero deleite visual, con sus intensos tonos anaranjados y una atmósfera serena y envolvente."
-    },
-    {
-        "fullstartdate": "202409202200",
-        "date": "20240921",
-        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_ES-ES5226807539_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_ES-ES5226807539",
-        "copyright": "Oktoberfest en Múnich desde lo alto al atardecer (© AllesSuper21/iStock/Getty Images)",
-        "copyrightKeyword": "oktoberfest",
-        "hsh": "af82d2fe95ecf257dfb4662cd313dc6b"
+        "hsh": "22cb77e6a6ffad0aff81242180bf59c1"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409281830",
+        "date": "20240929",
+        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847",
+        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
+        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
+        "hsh": "ccdc90da6f0b3e46a7b3736ca75b1fac",
+        "description": "Covered bridges like West Cornwall Covered Bridge, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
+    },
+    {
         "fullstartdate": "202409271830",
         "date": "20240928",
         "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006",
         "copyright": "Bada Bagh complex in Jaisalmer, Rajasthan (© Meinzahn/Getty Images)",
         "copyrightKeyword": "bada bagh",
-        "hsh": "39eaadba534f7fb12ad181c3cdc7d859",
-        "description": "In the middle of the desert, there's a garden that's anything but ordinary—Bada Bagh, visible in the distance in today's image. It is about six kilometres north of Jaisalmer, Rajasthan, and is home to an impressive collection of royal chhatri cenotaphs, built by the Maharajas of Jaisalmer State from the 18th to the early 20th centuries. Meticulously carved from yellow sandstone blocks, these cenotaphs showcase the elegance of Rajasthani architecture, combining elements of Hindu and Islamic styles. Embellished with exquisite paintings, sculptures and inscriptions, these were built in four distinct sizes, each reflecting the royal hierarchy."
-    },
-    {
-        "fullstartdate": "202409201830",
-        "date": "20240921",
-        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-IN6726777088",
-        "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
-        "copyrightKeyword": "Munich",
-        "hsh": "b1954efe12f39dea096fb06cf943211b"
+        "hsh": "39eaadba534f7fb12ad181c3cdc7d859"
     }
 ]
