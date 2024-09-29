@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409290700",
+        "date": "20240930",
+        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ROW8232454989_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ROW8232454989",
+        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
+        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
+        "hsh": "ff313cfaefcca4ef992942c7302e8c89",
+        "description": "Covered bridges like West Cornwall Covered Bridge, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
+    },
+    {
         "fullstartdate": "202409280700",
         "date": "20240929",
         "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_ROW7569075310_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_ROW4250501115",
         "copyright": "Buttermere, Lake District National Park, England, United Kingdom (© Alan Novelli/Alamy Stock Photo)",
         "copyrightKeyword": "Lake District National Park England",
-        "hsh": "3f9f05aac85ae7a4368e1bebfc88afbd",
-        "description": "Let's explore Buttermere in Lake District, which is a mountainous region and national park in Cumbria, North West England, as seen in today's image. Here, a Norse leader, Jarl Buthar, once defied Norman conquests during the 12th century. Some people think Buttermere's name may come from Buthar, but the more likely explanation is the nearby dairy pastures; Buttermere literally means 'the lake by the dairy pastures.' The lake, approximately 2 kilometres long, is not only a National Trust treasure but also the perfect place to take a break from the hustle and let nature refresh your spirit."
-    },
-    {
-        "fullstartdate": "202409210700",
-        "date": "20240922",
-        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_ROW5521501764_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_ROW5521501764",
-        "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
-        "copyrightKeyword": "oktoberfest",
-        "hsh": "9ef79458251df5f181206afe0c5ed762"
+        "hsh": "3f9f05aac85ae7a4368e1bebfc88afbd"
     }
 ]

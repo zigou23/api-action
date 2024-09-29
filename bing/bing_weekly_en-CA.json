@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409290400",
+        "date": "20240930",
+        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073",
+        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
+        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
+        "hsh": "d93d7ceba132bed9138ec961a673ec21",
+        "description": "Covered bridges like the West Cornwall Covered Bridge in Connecticut, United States, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
+    },
+    {
         "fullstartdate": "202409280400",
         "date": "20240929",
         "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-CA2359430134_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_EN-CA9786205803",
         "copyright": "Buttermere, Lake District National Park, England, United Kingdom (© Alan Novelli/Alamy Stock Photo)",
         "copyrightKeyword": "September equinox",
-        "hsh": "fe6d283f5256f044783ad512059cae85",
-        "description": "Autumn is in the air—officially. The September equinox marks the transition from the lush summer to the mellow fall in the Northern Hemisphere, while in the Southern Hemisphere, it signals the beginning of spring. The term 'equinox' is derived from Latin, meaning 'equal night.' During this moment, the Earth's axis is perpendicular to the sun, meaning it rises due east and sets due west, a rare moment of global balance. This balance occurs because the Earth's axis is neither tilted toward nor away from the sun."
-    },
-    {
-        "fullstartdate": "202409210400",
-        "date": "20240922",
-        "url": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.MunichBeerfest_EN-CA0865675708",
-        "copyright": "Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)",
-        "copyrightKeyword": "oktoberfest",
-        "hsh": "a072fe3c5c4f0cff0b764492bdbe01b1"
+        "hsh": "fe6d283f5256f044783ad512059cae85"
     }
 ]

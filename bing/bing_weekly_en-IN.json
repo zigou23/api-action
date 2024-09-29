@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409291830",
+        "date": "20240930",
+        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367",
+        "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
+        "copyrightKeyword": "walrus",
+        "hsh": "9d5fc13d51470503d5e403949a2c863a",
+        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus like the ones in today's image, the answer might be taking a quick dip with your crew, chowing down on clams and mussels and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Photographed in the waters off Spitsbergen, the largest of the archipelago's nine islands, these aquatic mammals are year-round residents that are often found in male or female herds. Male walruses can be almost 3-metres long and weigh more than 1,179 kilograms, and during mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
+    },
+    {
         "fullstartdate": "202409281830",
         "date": "20240929",
         "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_EN-IN0982120054",
         "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Sea otter",
-        "hsh": "aa491cb42dd8c009f80f26e0d0921ce9",
-        "description": "The otter featured in today's image was photographed in Prince William Sound, Alaska, United States. Sea otters are native to the northern and eastern coasts of the North Pacific Ocean. Weighing 13–45 kilograms, they're expert foragers, diving to the seabed to find food. These clever critters are smart as well as cute: they use rocks to crack open shellfish, making them one of the few animals that use tools. There used to be as many as 300,000 in the wild, but they were heavily hunted for almost two centuries, as their dense fur was highly prized. By 1911, it is thought that only around 2,000 were left. Thankfully, an international hunting ban, conservation efforts and reintroduction programs have helped them rebound, and they are now found in about two-thirds of their historic habitat. Despite this success, some populations are still struggling, and sea otters are still an endangered species."
-    },
-    {
-        "fullstartdate": "202409211830",
-        "date": "20240922",
-        "url": "https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006",
-        "copyright": "Bada Bagh complex in Jaisalmer, Rajasthan (© Meinzahn/Getty Images)",
-        "copyrightKeyword": "bada bagh",
-        "hsh": "39eaadba534f7fb12ad181c3cdc7d859"
+        "hsh": "aa491cb42dd8c009f80f26e0d0921ce9"
     }
 ]

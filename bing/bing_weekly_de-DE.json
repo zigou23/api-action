@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409292200",
+        "date": "20240930",
+        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072",
+        "copyright": "Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)",
+        "copyrightKeyword": "Walross",
+        "hsh": "0adcb61952b3d98e15f8a9c9dd9e0759",
+        "description": "Entdecken Sie den Zauber der Mitternachtssonne! An den unberührten Küsten Spitzbergens, auf Svalbard in Norwegen, feiern die Bewohner wie die Walrösser ein nächtliches Fest: ein erfrischendes Bad unter Freunden, gefolgt von einem Festmahl aus Muscheln und anderen Köstlichkeiten des Meeres. Spitzbergen ist ein Naturparadies auf halbem Weg zwischen Norwegen und dem Nordpol. Wussten Sie, dass männliche Walrosse fast 3,7 Meter lang werden und beeindruckende 1.200 Kilogramm auf die Waage bringen? Ihre imposante Präsenz sichert ihnen während der Paarungszeit die Vorherrschaft über die Weibchen."
+    },
+    {
         "fullstartdate": "202409282200",
         "date": "20240929",
         "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180",
         "copyright": "Seeotter, Prince-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Seeotter",
-        "hsh": "be2a28fe483440d40c3465b67f370320",
-        "description": "Seeotter sind faszinierende Bewohner der Küstengewässer des nordöstlichen Pazifiks. Ihr dichtes Fell, das zu den dichtesten im Tierreich zählt, schützt sie vor der Kälte des Meeres. Leider ist der dicke, warme Pelz einer der Gründe dafür, dass die Seeotterpopulation im letzten Jahrhundert drastisch zurückgegangen ist. Aus diesem Grund wird diese Woche in den Vereinigten Staaten die „Otter Awareness Week“ gefeiert. Die putzigen Tiere sind wahre Meister im Umgang mit Werkzeugen: Geschickt knacken sie Muscheln und andere Schalentiere mit Steinen, während sie auf dem Rücken liegend im Wasser treiben."
-    },
-    {
-        "fullstartdate": "202409212200",
-        "date": "20240922",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_DE-DE9036257746_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_DE-DE9036257746",
-        "copyright": "Buttermere, Lake District National Park, England, Vereinigtes Königreich (© Alan Novelli/Alamy Stock Photo)",
-        "copyrightKeyword": "Herbst Äquinoktium",
-        "hsh": "84069eff37cf5cdc50247513a07a27eb"
+        "hsh": "be2a28fe483440d40c3465b67f370320"
     }
 ]

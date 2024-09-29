@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409290300",
+        "date": "20240930",
+        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943",
+        "copyright": "Ponte Coberta de West Cornwall sobre o rio Housatonic, Connecticut, EUA (© pabradyphoto/Getty Images)",
+        "copyrightKeyword": "Ponte Coberta de West Cornwall, EUA",
+        "hsh": "aae4859cf901bf8551fa86f6228d0fd8",
+        "description": "Descubra a herança da Nova Inglaterra nos Estados Unidos com a Ponte Coberta de West Cornwall, uma joia de 1864! Localizada em Cornwall, Connecticut, e estendendo-se sobre o Rio Housatonic, esta charmosa construção que traduz a engenhosidade do século XIX é uma das três únicas pontes cobertas restantes em Connecticut."
+    },
+    {
         "fullstartdate": "202409280300",
         "date": "20240929",
         "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.Primavera_PT-BR5788355112",
         "copyright": "Arara-azul em um ipê-rosa durante a estação de floração, Pantanal, Mato Grosso (© Luiz Claudio Marigo/Minden PIctures)",
         "copyrightKeyword": "Equinócio de Primavera",
-        "hsh": "150a519e6753c0f05322968c921c461a",
-        "description": "Inicie sua primavera com a magia da natureza no Pantanal! Quando as cores vibrantes do ipê se espalham pelo cenário, elas criam um espetáculo digno de contemplação. A estação vem sendo inaugurada com o majestoso voo da arara-azul, emoldurando ainda mais nossa paisagem natural. É nesse equilíbrio delicado que o equinócio marca um momento de renovação."
-    },
-    {
-        "fullstartdate": "202409210300",
-        "date": "20240922",
-        "url": "https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995",
-        "copyright": "Vista de baixo ângulo de uma árvore com flores cor-de-rosa contra o céu, Distrito Federal (© Bruno Couto via 500px/GettyImages)",
-        "copyrightKeyword": "Dia da Árvore",
-        "hsh": "ae48307ceb7c42aa7758163712e001c2"
+        "hsh": "150a519e6753c0f05322968c921c461a"
     }
 ]
