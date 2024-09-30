@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409302200",
+        "date": "20241001",
+        "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355",
+        "copyright": "Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)",
+        "copyrightKeyword": "Half Dome, Yosemite-National-Park, Kalifornien",
+        "hsh": "c56b173a5671a6092dabe1d4a9bb1a62",
+        "description": "Entdecken Sie eines der Naturwunder Amerikas: den Yosemite-Nationalpark. Mit Aussichten wie dem Half Dome, der in der kalifornischen Sierra Nevada thront, ist es nicht verwunderlich, dass dieser Park seit dem 19. Jahrhundert Künstler und Naturliebhaber anzieht, wie zum Beispiel den amerikanischen Fotografen Ansel Adams, der diesen Ort durch seine Fotografien weltberühmt machte. Auf Beschluss des US-Kongresses wurde dieses Naturjuwel 1890 zum Nationalpark erklärt und vor Abholzung und Beweidung geschützt. Rund 3 Millionen Besucher kommen jährlich in den Park, der von der UNESCO zum Weltnaturerbe erklärt wurde."
+    },
+    {
         "fullstartdate": "202409292200",
         "date": "20240930",
         "url": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523",
         "copyright": "Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images)",
         "copyrightKeyword": "Vatnajökull-Nationalpark",
-        "hsh": "c39be5cdd365a05bb81c3dabcd4c3b7f",
-        "description": "Erleben Sie mit uns die Wunder der Natur im isländischen Skaftafell, wo der Herbst nicht nur eine Jahreszeit, sondern ein Erlebnis für die Sinne ist. Im Nationalpark Vatnajökull, der Heimat des zweitgrößten Eisfeldes Europas, erstreckt sich der Gletscher Skaftafellsjökull - eine spektakuläre Eismasse, die von der gewaltigen Kraft des Vulkanfeuers und des Gletscherwassers zeugt. Ab jetzt ist Tageslicht hier kostbarer als Gold, aber der isländische Herbst hat ein Highlight zu bieten: das schillernde Farbenspiel der Nordlichter, die den Nachthimmel in eine bezaubernde Bühne verwandeln."
-    },
-    {
-        "fullstartdate": "202409222200",
-        "date": "20240923",
-        "url": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180",
-        "copyright": "Seeotter, Prince-William-Sund, Alaska, USA (© Gerald Corsi/Getty Images)",
-        "copyrightKeyword": "Seeotter",
-        "hsh": "be2a28fe483440d40c3465b67f370320"
+        "hsh": "c39be5cdd365a05bb81c3dabcd4c3b7f"
     }
 ]

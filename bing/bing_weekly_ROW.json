@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202409300700",
+        "date": "20241001",
+        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_ROW7949861182_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_ROW7949861182",
+        "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
+        "copyrightKeyword": "walrus",
+        "hsh": "883db1a00357d339ec3db969264a7905",
+        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus like the ones in today's image, the answer might be taking a quick dip with your crew, chowing down on clams and mussels and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Photographed in the waters off Spitsbergen, the largest of the archipelago's nine islands, these aquatic mammals are year-round residents that are often found in male or female herds. Male walruses can be almost 3-metres long and weigh more than 1,179 kilograms; during mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
+    },
+    {
         "fullstartdate": "202409290700",
         "date": "20240930",
         "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ROW8232454989_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_ROW6436603276",
         "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
         "copyrightKeyword": "Sea otter",
-        "hsh": "e396bfd282154be308a2706c05298d15",
-        "description": "The otter featured in today's image was photographed in Prince William Sound, Alaska, United States. Sea otters are native to the northern and eastern coasts of the North Pacific Ocean. Weighing 14 to 45 kilograms, they're expert foragers, diving to the seabed to find food. These clever critters are smart as well as cute: they use rocks to crack open shellfish, making them one of the few animals that use tools. There used to be as many as 300,000 in the wild, but they were heavily hunted for almost two centuries, as their dense fur was highly prized. By 1911, it is thought that only around 2,000 were left. Thankfully, an international hunting ban, conservation efforts, and reintroduction programs have helped them rebound, and they are now found in about two-thirds of their historic habitat. So, whenever you see their fuzzy heads bobbing in the waves, remember, you're witnessing a story of nature's triumph."
-    },
-    {
-        "fullstartdate": "202409220700",
-        "date": "20240923",
-        "url": "https://www.bing.com/th?id=OHR.AutumnCumbria_ROW4250501115_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.AutumnCumbria_ROW4250501115",
-        "copyright": "Buttermere, Lake District National Park, England, United Kingdom (© Alan Novelli/Alamy Stock Photo)",
-        "copyrightKeyword": "Lake District National Park England",
-        "hsh": "3f9f05aac85ae7a4368e1bebfc88afbd"
+        "hsh": "e396bfd282154be308a2706c05298d15"
     }
 ]
