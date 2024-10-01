@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410011830",
+        "date": "20241002",
+        "url": "https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616",
+        "copyright": "Statue of Mahatma Gandhi at Parliament Square, Westminster, UK (© cowardlion/Shutterstock)",
+        "copyrightKeyword": "Gandhi Jayanti",
+        "hsh": "4172de0b1a0f20de52f46f9cb0b7fb48",
+        "description": "Today is Gandhi Jayanti—a day that marks the birth of Mahatma Gandhi, whose words of truth and nonviolence echo through history. Mohandas Karamchand Gandhi was a well-known lawyer, anti-colonial nationalist and political ethicist. He is celebrated for his use of nonviolent resistance to spearhead India's successful struggle for independence from British rule. This day is globally recognised as the International Day of Non-Violence by the United Nations. Gandhi Jayanti is marked by prayer services and tributes throughout the country, with special observances at Raj Ghat in New Delhi, the site of his cremation."
+    },
+    {
         "fullstartdate": "202409301830",
         "date": "20241001",
         "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-IN3902421361_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-IN1537226741",
         "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
         "copyrightKeyword": "Sequoia National Park",
-        "hsh": "8b9494f2798c5436ac5171e622e0f4bf",
-        "description": "Today's image features the giant sequoias in Sequoia National Park in California, . Named after the trees that dominate the landscape, the park spans more than 1629 square kilometres and is home to wildlife such as black bears, mule deer and over 200 species of birds, including warblers, vireos and flycatchers. The giant sequoia trees here have been rooted for more than 2,200 years and are among Earth's oldest living organisms. The park's renowned General Sherman tree rises to an astonishing 83 metres. Named after the American Civil War general William Tecumseh Sherman, it's not only tall but is also more than 10 metres wide. Visitors flock to capture moments among these ancient giants, whose reddish-brown, fibrous bark and wide-reaching branches evoke a sense of living history."
-    },
-    {
-        "fullstartdate": "202409231830",
-        "date": "20240924",
-        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-IN1234167290_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-IN1234167290",
-        "copyright": "Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)",
-        "copyrightKeyword": "Skaftafell Iceland",
-        "hsh": "7e9bc092c67372baa89474639d5898da"
+        "hsh": "8b9494f2798c5436ac5171e622e0f4bf"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410012200",
+        "date": "20241002",
+        "url": "https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964",
+        "copyright": "Lago di Braies, Trentino-Aldo Adige, Italia (© pidjoe/Getty Images)",
+        "copyrightKeyword": "Festa dei nonni",
+        "hsh": "ae8b317c538f036ff7690d9135b681a3",
+        "description": "Il lago di Braies, incastonato tra le Dolomiti nel Trentino-Alto Adige, risplende con una bellezza senza tempo, esattamente come i ricordi dei nostri nonni. In questo specchio d’acqua cristallina, si riflette non solo la maestosità della natura, ma anche la saggezza e la serenità che solo l’esperienza di una vita può donare. Ogni increspatura sul lago sembra raccontare una storia, proprio come fanno i nostri nonni, custodi di un passato che ci lega a radici profonde."
+    },
+    {
         "fullstartdate": "202409302200",
         "date": "20241001",
         "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_1920x1080.jpg",
@@ -26,7 +36,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656",
         "copyright": "Ponte coperto di West Cornwall sul fiume Housatonic, Connecticut, USA (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "Housatonic Fiume nel Connecticut",
-        "hsh": "994dbaae932c82879bafcc9d0b8e0fa2",
+        "hsh": "e0b5b1a31c2fa8d2e18e782bff4f9c73",
         "description": "A voi questo affascinante ponte, il West Cornwall Covered Bridge, immerso nel pittoresco paesaggio del Connecticut, sulla East Coast degli Stati Uniti, non richiama alla mente l’atmosfera del film “I ponti di Madison County” di Clint Eastwood? Anche se il ponte della celebre pellicola di Eastwood si trova nello stato dell’Iowa, il West Cornwall Covered Bridge condivide lo stesso fascino nostalgico, unendo passato e presente in un abbraccio di legno e storia. Costruito nel 1864, questo ponte coperto è uno dei pochi rimasti nello stato del Connecticut, un’icona di architettura rurale che attraversa placidamente il fiume Housatonic. Lungo poco più di 50 metri, è avvolto da una bellezza senza tempo, con il suo tetto di legno rosso e le tracce che raccontano di un’epoca in cui il ritmo della vita era scandito dal ritmo delle carrozze."
     },
     {
@@ -36,7 +46,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453",
         "copyright": "Spiaggia di Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
         "copyrightKeyword": "Florida Stati Uniti",
-        "hsh": "479cfe395d0c686e24aeb58ba32ce977",
+        "hsh": "024c0f80e3c5384bbf3a9a2aab73bfa8",
         "description": "La spiaggia di Gulf Island National Seashore in Florida, negli USA, è un angolo di paradiso dove poter concludere le proprie vacanze, poiché qui il tempo sembra rallentare. Le acque turchesi accarezzano dolcemente la spiaggia bianca, creando un contrasto di colori che invita al relax. Il fascino selvaggio delle coste del Golfo del Messico catturerà la vostra attenzione e vi farà dimenticare qualsiasi distrazione. Ogni onda che si infrange sulla riva racconta la storia di questo luogo unico, così perfetto nel suo essere. Non c’è da stupirsi che lo scrittore Ernest Hemingway abbia vissuto a Key West, a pochi chilometri di distanza da qui."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158",
         "copyright": "Montone, Umbria, Italia (© Davide Seddio/Gettz Images)",
         "copyrightKeyword": "Montone Umbria",
-        "hsh": "976c662cbdbf2155c298476bc343afc0",
-        "description": "Nel cuore verde dell’Umbria, incastonato tra dolci colline e rigogliosa vegetazione, sorge Montone, un incantevole borgo medievale che sembra essere rimasto sospeso nel tempo. Conosciuto per il suo pittoresco centro storico, Montone offre un’atmosfera cristallizzata nel tempo, con stradine acciottolate e case in pietra che evocano il fascino di epoche passate. Uno dei gioielli architettonici del luogo è la Chiesa di San Francesco, risalente al 1300, che segue la tipica architettura degli ordini mendicanti, presentando forme semplici e lineari."
-    },
-    {
-        "fullstartdate": "202409232200",
-        "date": "20240924",
-        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063",
-        "copyright": "Cascata a Skaftafell, Parco Nazionale del Vatnajökull, Islanda (© Nopasorn Kowathanakul/Getty Images)",
-        "copyrightKeyword": "Cascata a Skaftafell, Parco Nazionale del Vatnajökull",
-        "hsh": "d9e6c78796d93f245d2e3de3fc13485d"
+        "hsh": "976c662cbdbf2155c298476bc343afc0"
     }
 ]

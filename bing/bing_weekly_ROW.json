@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410010700",
+        "date": "20241002",
+        "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_ROW8093920979_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_ROW8093920979",
+        "copyright": "Last light on Half Dome, Yosemite National Park, California, USA (© Adam Burton/Alamy Stock Photo)",
+        "copyrightKeyword": "Half Dome Yosemite",
+        "hsh": "9989d2025bccfc4fe30c6acb16278467",
+        "description": "There's a reason why famed American photographer Ansel Adams fell in love with Yosemite National Park: vistas like today's image of Half Dome. Located in central California's Sierra Nevada mountain range, the park has been a popular destination for artists, mountaineers, settlers and nature lovers since the mid-1800s. To preserve the area and protect it from logging and overgrazing by cattle, the US Congress designated Yosemite a national park on this day in 1890. It's one of the most visited parks in the United States, with annual attendance exceeding 3 million, and it's a UNESCO World Heritage Site."
+    },
+    {
         "fullstartdate": "202409300700",
         "date": "20241001",
         "url": "https://www.bing.com/th?id=OHR.WalrusNorway_ROW7949861182_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ROW6753428234",
         "copyright": "Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)",
         "copyrightKeyword": "Skaftafell Iceland",
-        "hsh": "daa3d6c7c98aadbdabba63f6db81d5a9",
-        "description": "In Iceland's Skaftafell, autumn isn't just a season—it's an experience. From glaciers to waterfalls, like the one featured here today, to northern lights, this area in Vatnajökull National Park is a showcase of nature's raw beauty. Skaftafell, once a thriving farm and now a preservation area, has been formed over thousands of years by the fierce interplay of volcanic fire and glacial water. Here, the glacier Skaftafellsjökull, a branch of Vatnajökull—the second largest ice cap in Europe—stretches out like a frozen river, inviting visitors for guided hikes. Then there's Svartifoss, another waterfall in the park, fed by glacial meltwater. Surrounded by dark lava columns that resemble a heart from afar, this waterfall inspired the design of Iceland's National Theatre and the Hallgrímskirkja church in Reykjavík. Skaftafell's hiking trails range from easy walks to challenging climbs, so there's something for everyone. While the daylight hours may be shorter in this season, there's a bright"
-    },
-    {
-        "fullstartdate": "202409230700",
-        "date": "20240924",
-        "url": "https://www.bing.com/th?id=OHR.IcebergOtter_ROW6436603276_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.IcebergOtter_ROW6436603276",
-        "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
-        "copyrightKeyword": "Sea otter",
-        "hsh": "e396bfd282154be308a2706c05298d15"
+        "hsh": "daa3d6c7c98aadbdabba63f6db81d5a9"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410012200",
+        "date": "20241002",
+        "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_DE-DE4243955227_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_DE-DE4243955227",
+        "copyright": "Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
+        "copyrightKeyword": "Arctic National Wildlife Refuge, Vereinigte Staaten",
+        "hsh": "9a2b15698fe49a664ce9d3a8473d4266",
+        "description": "Wussten Sie, dass es Richtlinien gibt, die Flüsse genauso schützen wie Nationalparks? In den USA sorgt der „Wild and Scenic Rivers Act“ seit 1968 dafür, dass Flüsse wie der Wind River ihre Wildheit behalten. Auf seinen 137 Kilometern tummeln sich Dall-Schafe und Grizzlybären in unberührter Natur. Fast 20.500 Flusskilometer stehen unter Schutz. Unglaublich wenig, wenn man bedenkt, dass das nur ein Bruchteil von 0,25 Prozent der 5,6 Millionen Flusskilometer in den USA ist. Aber es ist ein Erfolg, der zeigt: Es lohnt sich, sich für den Erhalt natürlicher Fließgewässer einzusetzen. Deshalb glauben wir, dass Bildung für den Schutz der Flüsse enorm wichtig ist, denn die Reinhaltung der Flüsse ist eine Investition in das wertvollste Gut, das wir haben: unseren Planeten. Nehmen wir uns ein Beispiel an den USA, lassen Sie uns gemeinsam unsere Flüsse zum Strahlen bringen und den kommenden Generationen eine blühende Zukunft sichern."
+    },
+    {
         "fullstartdate": "202409302200",
         "date": "20241001",
         "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_DE-DE0297473056",
         "copyright": "Riesenmammutbäume, Sequoia-Nationalpark, Kalifornien, USA (© Galyna Andrushko/Shutterstock)",
         "copyrightKeyword": "Der Sequoia-Nationalpark",
-        "hsh": "c0cfd4a8ba65425418fc56fd4eb17dcc",
-        "description": "Entdecken Sie mit uns den 1890 gegründeten Sequoia-Nationalpark in Kalifornien, USA, wo sich die Giganten der Natur die Hand reichen! Mit einer Fläche von knappen 1.600 km² gleicht das Gebiet einem grünen Meer voller Lebensfreude. Hier stehen mächtige Mammutbäume, die zum Teil über 2.200 Jahre alt sind und selbst Schloss Neuschwanstein an Erhabenheit übertreffen. So ragt der General-Sherman-Mammutbaum mit seinen 83 Metern Höhe und 11 Metern Breite wie eine fest verankerte Legende in den Himmel. Lassen Sie sich verzaubern von dieser fantastischen Landschaft, die mit den heimischen Naturwundern wie dem Berchtesgadener Land wetteifert und gewinnen Sie unvergessliche Eindrücke."
-    },
-    {
-        "fullstartdate": "202409232200",
-        "date": "20240924",
-        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523",
-        "copyright": "Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images)",
-        "copyrightKeyword": "Vatnajökull-Nationalpark",
-        "hsh": "c39be5cdd365a05bb81c3dabcd4c3b7f"
+        "hsh": "c0cfd4a8ba65425418fc56fd4eb17dcc"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410012300",
+        "date": "20241002",
+        "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-GB7636614285_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-GB7636614285",
+        "copyright": "Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
+        "copyrightKeyword": "National Wild and Scenic Rivers System",
+        "hsh": "aa66a509549c1156e26e62ba88ec9974",
+        "description": "Nestled within the sprawling Arctic National Wildlife Refuge in Alaska, United States, the Wind River lives up to its name—whipping through the rugged terrain and carving out a path that adventurers can't resist. This 85-mile river flows from the Philip Smith Mountains to the East Fork of the Chandalar River, winding through a valley filled with lakes and wetlands. Part of the Arctic National Wildlife Refuge, this river valley is a bustling habitat for Dall sheep, moose, caribou and grizzly bears. For those who prefer their adventures with a paddle in hand, the Wind River is a waterway that offers everything from tranquil stretches ideal for soaking in the scenery to rapids that'll keep your heart racing. So, while the Wind River may sweep you off your feet, be sure to leave nothing but footprints behind."
+    },
+    {
         "fullstartdate": "202409302300",
         "date": "20241001",
         "url": "https://www.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-GB2106477767",
         "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
         "copyrightKeyword": "Sequoia National Park",
-        "hsh": "1e4999a85173b07987a4081d27a6a20b",
-        "description": "Sequoia National Park was founded in 1890 in the southern Sierra Nevada to protect one of America's natural splendors. Named after the giant sequoias that dominate the landscape, the park spans more than 629 square miles and is home to wildlife such as black bears, mule deer and over 200 species of birds, including warblers, vireos and flycatchers. The giant sequoia trees here have been rooted for more than 2,200 years and are among Earth's oldest living organisms. The park's renowned General Sherman tree rises to about 84 metres. Named after the American Civil War general William Tecumseh Sherman, it's not only tall but is also nearly 11 metres wide. Visitors flock to capture moments among these ancient giants, whose reddish-brown, fibrous bark and wide-reaching branches evoke a sense of living history."
-    },
-    {
-        "fullstartdate": "202409232300",
-        "date": "20240924",
-        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-GB1674771386_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-GB1674771386",
-        "copyright": "Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)",
-        "copyrightKeyword": "Skaftafell Iceland",
-        "hsh": "642f1bcb351154eb361f6c38585396da"
+        "hsh": "1e4999a85173b07987a4081d27a6a20b"
     }
 ]
