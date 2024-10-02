@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410020300",
+        "date": "20241003",
+        "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_PT-BR4944339151_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_PT-BR4944339151",
+        "copyright": "Wind River, Brooks Range, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, EUA (© Design Pics/Danita Delimont)",
+        "copyrightKeyword": "Refúgio Nacional de Vida Selvagem do Ártico, EUA",
+        "hsh": "7911d9d60c20dd825a3980f2993b8bf2",
+        "description": "Você sabia que enquanto alguns rios estão ameaçados, outros fluem livres e selvagens? Em 1968, os EUA fizeram história com a Lei dos Rios Selvagens e Cênicos, criando um sistema de preservação exemplar. Imagina, mais de 20.500 quilômetros de 209 rios em 40 estados sendo protegidos!"
+    },
+    {
         "fullstartdate": "202410010300",
         "date": "20241002",
         "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_PT-BR4764561878_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_PT-BR0989155735",
         "copyright": "Sequoias gigantes, Parque Nacional da Sequoia, Califórnia, EUA (© Galyna Andrushko/Shutterstock)",
         "copyrightKeyword": "Parque Nacional da Sequoia",
-        "hsh": "31bf06a4275febb64e6abaff9e1782f7",
-        "description": "Partiu uma jornada mágica no Parque Nacional de Sequoia, nos Estados Unidos? Fundado em 1890, esse santuário californiano protege as imensas sequoias, colossos verdes que parecem tocar o céu. Com seus mais de 1.600 km² de pureza natural, o parque é o lar de criaturas fascinantes, como o encantador urso-negro e mais de 200 espécies de aves. Entre essas maravilhas, a sequoia-gigante General Sherman se destaca com seus 83 metros de altura e 11 metros de diâmetro, uma verdadeira gigante que parece desafiar o tempo."
-    },
-    {
-        "fullstartdate": "202409240300",
-        "date": "20240925",
-        "url": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_PT-BR0775400551_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SkaftafellWaterfall_PT-BR0775400551",
-        "copyright": "Cachoeira em Skaftafell, Parque Nacional Vatnajökull, Islândia (© Nopasorn Kowathanakul/Getty Images)",
-        "copyrightKeyword": "Skaftafell Islândia",
-        "hsh": "52452326907a291a6d968236e7bf31cd"
+        "hsh": "31bf06a4275febb64e6abaff9e1782f7"
     }
 ]

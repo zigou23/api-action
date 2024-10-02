@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410022200",
+        "date": "20241003",
+        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_IT-IT1242921978_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_IT-IT1242921978",
+        "copyright": "Taj Mahal ad Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+        "copyrightKeyword": "Taj Mahal",
+        "hsh": "3eebb418a59de550f03e7a6979816cda",
+        "description": "Ammirate lo splendore di questo mausoleo, il Taj Mahal, situato ad Agra, in India. Possiamo considerarlo tra i monumenti più iconici al mondo. Costruito nel XVII secolo dall’imperatore Shah Jahan in memoria della sua amata moglie Mumtaz Mahal, il mausoleo è un capolavoro di architettura moghul, combinata con elementi islamici, persiani e indiani. Il bianco scintillante del marmo, i delicati intarsi di pietre preziose e la simmetria perfetta fanno del Taj Mahal un simbolo eterno dell’amore e della devozione. Ogni anno, milioni di visitatori affollano questo luogo, attratti dalla sua bellezza e dalla sua storia affascinante."
+    },
+    {
         "fullstartdate": "202410012200",
         "date": "20241002",
         "url": "https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087",
         "copyright": "Fiume Wind, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
         "copyrightKeyword": "L'Arctic National Wildlife Refuge (ANWR) è un'area naturale",
-        "hsh": "12e60c3aec47a093d265858e471492dc",
-        "description": "Vi siete mai domandati come alcuni fiumi conservino la loro bellezza originale? Questa bellezza che possiamo ammirare oggi è il Wind River, un fiume di 137 chilometri nel cuore dell’Alaska, negli Stati Uniti. Grazie ad un atto firmato nel 1968 a favore della preservazione dei fiumi, quasi 20.500 chilometri di fiumi sono tutelati nel paese. E pensare che questo rappresenta solo una frazione dello 0,25% dei 5,6 milioni di chilometri di fiumi negli USA. Rimaniamo in Alaska: questo fiume è un esempio di natura incontaminata che dimostra l'importanza della conservazione, non trovate?"
-    },
-    {
-        "fullstartdate": "202409242200",
-        "date": "20240925",
-        "url": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158",
-        "copyright": "Montone, Umbria, Italia (© Davide Seddio/Gettz Images)",
-        "copyrightKeyword": "Montone Umbria",
-        "hsh": "976c662cbdbf2155c298476bc343afc0"
+        "hsh": "12e60c3aec47a093d265858e471492dc"
     }
 ]

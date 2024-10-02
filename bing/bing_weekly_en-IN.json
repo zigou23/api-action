@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410021830",
+        "date": "20241003",
+        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-IN4245237170_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-IN4245237170",
+        "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+        "copyrightKeyword": "Taj Mahal",
+        "hsh": "49b4247acdeea983ed73c20a1f58528a",
+        "description": "Let's explore the Taj Mahal, one of the Seven Wonders of the World. On the banks of the Yamuna River in Agra, Uttar Pradesh, this ivory-white marble mausoleum will certainly leave an impression. The Taj, seen in today's image, was commissioned in 1631 by Shah Jahan, the fifth Mughal emperor, to honour his beloved wife, Mumtaz Mahal."
+    },
+    {
         "fullstartdate": "202410011830",
         "date": "20241002",
         "url": "https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LittleToucanet_EN-IN1849827364",
         "copyright": "Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)",
         "copyrightKeyword": "Blue-throated toucanet",
-        "hsh": "b593d0e1c11426d692a1f84cd1349bf3",
-        "description": "Tucked away in the highlands of Costa Rica, Los Quetzales National Park offers a kaleidoscope of lush habitats, including one that's home to the blue-throated toucanet. Measuring 27–38 centimetres in length, these non-migratory birds use their dexterous toes to navigate branches, while their distinctive bills deftly forage for fruits, insects and small lizards."
-    },
-    {
-        "fullstartdate": "202409241830",
-        "date": "20240925",
-        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-IN1537226741_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_EN-IN1537226741",
-        "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
-        "copyrightKeyword": "Sequoia National Park",
-        "hsh": "8b9494f2798c5436ac5171e622e0f4bf"
+        "hsh": "b593d0e1c11426d692a1f84cd1349bf3"
     }
 ]
