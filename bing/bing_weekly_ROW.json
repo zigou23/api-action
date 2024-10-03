@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410030700",
+        "date": "20241004",
+        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_ROW8732180669_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_ROW8732180669",
+        "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
+        "copyrightKeyword": "Taj Mahal",
+        "hsh": "52ca5c0293eeec1b3d156048e0889850",
+        "description": "Let's explore the Taj Mahal, one of the Seven Wonders of the World. On the banks of the Yamuna River in Agra, Uttar Pradesh in India, this ivory-white marble mausoleum will certainly leave an impression. The Taj, seen in today's image, was commissioned in 1631 by Shah Jahan, the fifth Mughal emperor, to honour his beloved wife, Mumtaz Mahal."
+    },
+    {
         "fullstartdate": "202410020700",
         "date": "20241003",
         "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_ROW8103793021_1920x1080.jpg",
@@ -56,7 +66,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_ROW7352144146",
         "copyright": "Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "a86d4abff6184ed47f52cd6a47d1d7f4",
+        "hsh": "a871aa06511db33e0ec96a86d436a75c",
         "description": "Steeped in history, the Santa Maria della Salute church in Venice is a prime example of Baroque architecture. Constructed between 1631 and 1687, the church was a votive offering for the city's deliverance from a devastating plague in 1630. Built at the entrance to the Grand Canal, its dome dominates the Venice skyline, as seen in today's image. Italian architect Baldassare Longhena envisioned this structure at the age of 26, and it became his lifelong project, which was completed after his death. The exterior of the church, with its volutes—spiral, scroll-like ornaments—and statues contrasts with the spacious octagonal interior adorned with works by Renaissance artists like Titian and Tintoretto. Each November, Venice commemorates the church's significance during the Festa della Madonna della Salute, a cultural celebration that includes festive processions and offering of candles in gratitude for deliverance from the plague."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LittleToucanet_ROW7160252018",
         "copyright": "Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)",
         "copyrightKeyword": "Blue-throated toucanet",
-        "hsh": "0d018daaa9b2b33c7e4c07df87146cc0",
-        "description": "Tucked away in the highlands of Costa Rica, Los Quetzales National Park offers a kaleidoscope of lush habitats, including one that's home to the blue-throated toucanet. Measuring 29-37 centimetres in length, these non-migratory birds use their dexterous toes to navigate branches, while their distinctive bills deftly forage for fruits, insects and small lizards."
-    },
-    {
-        "fullstartdate": "202409250700",
-        "date": "20240926",
-        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_ROW6962026915_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_ROW6962026915",
-        "copyright": "Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)",
-        "copyrightKeyword": "Sequoia National Park",
-        "hsh": "887481b3bd2a0fde37cdaf1e18b8254e"
+        "hsh": "50da1a3db238123f1d6a9c9f577038f5"
     }
 ]

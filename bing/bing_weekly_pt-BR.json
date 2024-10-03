@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410030300",
+        "date": "20241004",
+        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_PT-BR5120942939_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_PT-BR5120942939",
+        "copyright": "Taj Mahal em Agra, Uttar Pradesh, Índia (© Tanarch/Getty Images)",
+        "copyrightKeyword": "Taj Mahal",
+        "hsh": "d7d295198149f8310cda43cb39f344de",
+        "description": "Permita-se ser cativado pela magia do Taj Mahal, uma das Sete Maravilhas do Mundo! Situado às margens do Rio Yamuna, em Agra, este impressionante mausoléu de mármore branco encanta todos os que o visitam. Erguido em 1631 pelo imperador Shah Jahan para homenagear sua amada esposa, Mumtaz Mahal, o Taj Mahal é o centro de um vasto complexo de 17 hectares, que inclui uma mesquita, uma casa de hóspedes, e jardins exuberantes, todos cercados por um majestoso muro."
+    },
+    {
         "fullstartdate": "202410020300",
         "date": "20241003",
         "url": "https://www.bing.com/th?id=OHR.WindRiverAlaska_PT-BR4944339151_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.LittleToucanet_PT-BR1307591671",
         "copyright": "Tucano de garganta azul, Parque Nacional Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)",
         "copyrightKeyword": "Tucano-de garganta azul",
-        "hsh": "1fc674edab0e19603154bf24b0fe0f61",
-        "description": "Explore o coração verde da Costa Rica no Parque Nacional Los Quetzales, um verdadeiro paraíso onde a natureza revela seus segredos mais deslumbrantes. Aqui, o tucano de garganta azul, com seus 28 a 38 centímetros de pura beleza e um bico vibrante, transforma cada galho em um palco de cores e sons. Usando seus dedos flexíveis, eles escalam agilmente os ramos, enquanto saboreiam um banquete de frutas, insetos e lagartixas, encantando todos com sua vivacidade."
-    },
-    {
-        "fullstartdate": "202409250300",
-        "date": "20240926",
-        "url": "https://www.bing.com/th?id=OHR.GiantSequoias_PT-BR0989155735_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.GiantSequoias_PT-BR0989155735",
-        "copyright": "Sequoias gigantes, Parque Nacional da Sequoia, Califórnia, EUA (© Galyna Andrushko/Shutterstock)",
-        "copyrightKeyword": "Parque Nacional da Sequoia",
-        "hsh": "31bf06a4275febb64e6abaff9e1782f7"
+        "hsh": "1fc674edab0e19603154bf24b0fe0f61"
     }
 ]
