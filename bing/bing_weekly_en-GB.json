@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410042300",
+        "date": "20241005",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413",
+        "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "World Teachers Day",
+        "hsh": "ef60c13b46afeecba60e1eabbf905345",
+        "description": "Today we celebrate the real influencers, our teachers—Happy World Teachers' Day to all the educators across the globe. Every year, on October 5th, we recognise the essential role of teachers in shaping society. Since 1994, this day has celebrated the invaluable contributions of teachers in nurturing young minds. It serves as a reminder to appreciate, assess and improve the teaching profession while acknowledging the challenges educators face in guiding future generations."
+    },
+    {
         "fullstartdate": "202410032300",
         "date": "20241004",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_EN-GB4032019865_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647",
         "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
         "copyrightKeyword": "Taj Mahal",
-        "hsh": "aa8004c5c7e6957d021131f30e0c9d2c",
-        "description": "Let's explore the Taj Mahal, one of the Seven Wonders of the World. On the banks of the Yamuna River in Agra, Uttar Pradesh in India, this ivory-white marble mausoleum will certainly leave an impression. The Taj, seen in today's image, was commissioned in 1631 by Shah Jahan, the fifth Mughal emperor, to honour his beloved wife, Mumtaz Mahal. This tomb is the centrepiece of a sprawling 42-acre (17-hectare) complex, which also includes a mosque, a guest house and beautifully landscaped gardens surrounded by a grand wall. Laid out in a striking rectangular shape, the tomb is flanked by giant arches and alcoves that merge Indo-Islamic and Mughal architectural styles."
-    },
-    {
-        "fullstartdate": "202409262300",
-        "date": "20240927",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474",
-        "copyright": "Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "01926bc6f2067ae5f7af5896fcb7b1b0"
+        "hsh": "aa8004c5c7e6957d021131f30e0c9d2c"
     }
 ]

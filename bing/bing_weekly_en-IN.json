@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410041830",
+        "date": "20241005",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-IN6887174228_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-IN6887174228",
+        "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "African elephants",
+        "hsh": "641bb77bc6734d617c4e51270d08037c",
+        "description": "Step into the world of the African elephants, the largest land mammals, celebrated for their extraordinary intelligence. Through gentle nudging, vocalisations and demonstrations, elephant mothers pass down vital knowledge that helps their young survive in the wild. Sadly, these precious animals face significant threats from habitat loss and poaching. As we admire these majestic creatures and strive to protect them, we can learn valuable lessons about empathy, cooperation and the importance of community."
+    },
+    {
         "fullstartdate": "202410031830",
         "date": "20241004",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_EN-IN7952428847_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730",
         "copyright": "Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
         "copyrightKeyword": "Gulf Islands National Seashore",
-        "hsh": "66c5126edd4bafb203c8aed52e74293c",
-        "description": "Gulf Islands National Seashore, seen in today's image, spans the northern Gulf of Mexico along the coasts of Florida and Mississippi in the United States. The national seashore is managed by the US National Park Service. Established in 1971, it boasts kilometres of white sand beaches, historic fortifications and rich wildlife habitats. The seashore includes a 16-square kilometre wilderness area on Mississippi's Petit Bois and Horn Islands, protecting these regions' unique ecosystems. The Mississippi District of the seashore offers many attractions, including untouched natural beaches, historic landmarks, wildlife sanctuaries and boat-accessible islands. The National Seashore offers two developed campgrounds, one in Florida and the other in Mississippi, along with designated spots for primitive camping."
-    },
-    {
-        "fullstartdate": "202409261830",
-        "date": "20240927",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499",
-        "copyright": "Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "0b5a3e26b65ecf3b6850f236cc43f61c"
+        "hsh": "66c5126edd4bafb203c8aed52e74293c"
     }
 ]

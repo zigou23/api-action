@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410041500",
+        "date": "20241005",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317",
+        "copyright": "ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "ツァボイースト国立公園のアフリカゾウ",
+        "hsh": "50f87ac53ef298bdf4d0998141267f3e",
+        "description": "今日 10 月 5 日は世界教師デー。教師に感謝し、教育における彼らの貢献を称える日として、1994 年から開催されており、現在、100 以上の国々で祝われています。日本ではまだあまり浸透していませんが、この取り組みを広めるために、記念フォーラムや感謝セレモニーなど、教師への感謝を示すイベントや啓発・広報活動が行われています…"
+    },
+    {
         "fullstartdate": "202410031500",
         "date": "20241004",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079",
         "copyright": "サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "サンタ・マリア・デッラ・サルーテ聖堂",
-        "hsh": "ac8fc51a3e0f061c901a38b92a855881",
-        "description": "今日の画像はサンタ・マリア・デッラ・サルーテ聖堂の航空写真。イタリアのヴェネツィアにあるバロック様式の壮麗なこの教会は、カナル・グランデというヴェネツィアの運河の入り口に位置し、八角形の形状やドームが印象的です。内部には、ティツィアーノやティントレットといったルネサンス期の芸術家の作品が飾られています…"
-    },
-    {
-        "fullstartdate": "202409261500",
-        "date": "20240927",
-        "url": "https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830",
-        "copyright": "夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)",
-        "copyrightKeyword": "横浜ベイブリッジ",
-        "hsh": "391aecdbe13a08e381c67dc227a06280"
+        "hsh": "ac8fc51a3e0f061c901a38b92a855881"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410040300",
+        "date": "20241005",
+        "url": "https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.EuropaMoon_PT-BR6260569357",
+        "copyright": "Europa, a lua gelada de Júpiter (© NASA/JPL-Caltech/SETI Institute)",
+        "copyrightKeyword": "o que é a world space week",
+        "hsh": "1d1fd23f5c7df2f1a0e813b36b451d66",
+        "description": "Prepare-se porque estamos decolando para uma aventura cósmica! Este ano, com o tema \"Espaço e Mudança Climática\" na Semana Mundial do Espaço, vamos explorar como a tecnologia espacial é essencial para entender e monitorar as mudanças no nosso clima. E adivinha? O Brasil está brilhando nessa missão! Nossos astronautas, como o pioneiro Marcos Pontes, as descobertas de missões como o satélite Amazônia 1, que monitora o desmatamento e ajuda a preservar a nossa rica biodiversidade, ou o Centro de Lançamento de Alcântara, no Maranhão, um dos centros de lançamento de foguetes mais estratégicos do mundo, são exemplos brilhantes de como estamos fazendo uma diferença real no espaço e na Terra."
+    },
+    {
         "fullstartdate": "202410030300",
         "date": "20241004",
         "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_PT-BR5120942939_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_PT-BR3049943279",
         "copyright": "Vista aérea do Grande Canal e da Basílica de Santa Maria della Salute, Veneza, Itália (© Bachir Moukarzel/Amazing Aerial Agency)",
         "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "877c2ff1028d58eaf983e7bbbabd87f6",
-        "description": "Imagine-se viajando no tempo para o ano de 1631, quando nasceu a deslumbrante Igreja de Santa Maria della Salute, em Veneza, Itália. Localizada às margens do Grande Canal, sua imponente cúpula se ergue com uma grandeza que rivaliza com a vastidão das praias brasileiras. Ao contemplar esta obra-prima, você é transportado para um cenário de fé e beleza, semelhante ao fervor da Festa da Madonna della Salute, que ressoa com a devoção encontrada no Círio de Nazaré, no Pará."
-    },
-    {
-        "fullstartdate": "202409260300",
-        "date": "20240927",
-        "url": "https://www.bing.com/th?id=OHR.LittleToucanet_PT-BR1307591671_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LittleToucanet_PT-BR1307591671",
-        "copyright": "Tucano de garganta azul, Parque Nacional Los Quetzales, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)",
-        "copyrightKeyword": "Tucano-de garganta azul",
-        "hsh": "1fc674edab0e19603154bf24b0fe0f61"
+        "hsh": "877c2ff1028d58eaf983e7bbbabd87f6"
     }
 ]

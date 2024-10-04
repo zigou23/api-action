@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410041600",
+        "date": "20241005",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499",
+        "copyright": "东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "世界教师日",
+        "hsh": "a94400a0c6827692103d58ecaf714844",
+        "description": "今天，我们为真正有影响力的人，也就是我们的老师而庆祝。让我们一起祝愿全球所有的教育工作者世界教师日快乐。每年的10月5日，我们都会认识到教师在塑造社会方面的重要作用。自1994年以来，这一天一直是纪念教师在培养青少年心智方面做出宝贵贡献的日子。它提醒我们要欣赏、评估和改进教师这个职业，同时要认识到教育工作者在指导下一代时所面临的挑战。"
+    },
+    {
         "fullstartdate": "202410031600",
         "date": "20241004",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639",
         "copyright": "日出时的海滩，海湾岛国家海岸，佛罗里达，美国 (© Tim Fitzharris/Minden Pictures)",
         "copyrightKeyword": "海湾岛国家海岸",
-        "hsh": "b0174b1f05bec002ab20232d64ca30dc",
-        "description": "每年9月的第四个星期六是美国国家公共土地日，今天的主题是保护公共土地，无论是国家公园，还是城市绿地，都囊括其中。在这一天，许多联邦土地免收门票，那些参与清理或修复历史建筑等保护活动的人可以获得免费的入场券，用于今后游览这些地方。自1994年设立以来，这一节日已经有了长足的发展。首次庆祝活动由三个国家机构发起，吸引了700名志愿者。到2010年，志愿者人数已增至17万人，分布在大大小小2000多个地点。"
-    },
-    {
-        "fullstartdate": "202409261600",
-        "date": "20240927",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525",
-        "copyright": "大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "安康圣母教堂",
-        "hsh": "a1680b461bb8b01902406b9fbcf1db33"
+        "hsh": "b0174b1f05bec002ab20232d64ca30dc"
     }
 ]
