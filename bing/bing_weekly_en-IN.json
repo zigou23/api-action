@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410051830",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-IN7315826699_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-IN7315826699",
+        "copyright": "Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Coyote Gulch",
+        "hsh": "db37ebd9011402c491888dde8153b4a0",
+        "description": "Framed by a natural arch in Coyote Gulch, Utah, the vibrant golden cottonwood trees stand out against the colourful rock formations of the Escalante canyon country. Coyote Gulch is a well-known backpacking destination offering towering vertical canyon walls, narrow slot canyons, domes, arches and natural bridges to visitors. The upper reaches of the gulch lie within the Grand Staircase–Escalante National Monument, while today's image showcases its lower sections in the Glen Canyon National Recreation Area (GCNRA). Established in 1972 and managed by the United States National Park Service, GCNRA is a conservation area that balances recreation and preservation. Unlike national parks that focus primarily on natural preservation, GCNRA offers a variety of facilities, including four public campgrounds, two small airports and several houseboat rental services, making it a popular destination for visitors."
+    },
+    {
         "fullstartdate": "202410041830",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-IN6887174228_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847",
         "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "ccdc90da6f0b3e46a7b3736ca75b1fac",
-        "description": "Covered bridges like West Cornwall Covered Bridge, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
-    },
-    {
-        "fullstartdate": "202409271830",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730",
-        "copyright": "Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
-        "copyrightKeyword": "Gulf Islands National Seashore",
-        "hsh": "66c5126edd4bafb203c8aed52e74293c"
+        "hsh": "ccdc90da6f0b3e46a7b3736ca75b1fac"
     }
 ]

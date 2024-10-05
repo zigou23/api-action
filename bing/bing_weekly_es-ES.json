@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410052200",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_ES-ES4387990059_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_ES-ES4387990059",
+        "copyright": "Cottonwoods visto a través de un arco en Coyote Gulch, Glen Canyon Recreation Area, Utah, EE. UU. (© Stephen Matera/Tandem Stills + Motion)",
+        "copyrightKeyword": "Utah",
+        "hsh": "2e2c359c42c3d6959518dee38ba4f0be",
+        "description": "¡Hola, aventureros! ¿Listos para descubrir una impresionante joya natural? Hoy os damos la bienvenida a Coyote Gulch, en Utah, Estados Unidos. Aquí, los colores vibrantes de los álamos se combinan con formaciones rocosas majestuosas, creando un paisaje único. Este lugar, que forma parte del Monumento Nacional Grand Staircase-Escalante, es una auténtica aula de geología al aire libre, con casi 761.000 hectáreas dedicadas a la conservación, el campismo y otras actividades recreativas."
+    },
+    {
         "fullstartdate": "202410042200",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_ES-ES3979458374_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344",
         "copyright": "El Puente Cubierto de West Cornwall sobre el río Housatonic, Connecticut, EE.UU. (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "connecticut estados unidos",
-        "hsh": "a9249475b6dec36f17a30d814d6da0d5",
-        "description": "¿Sabías que, en el corazón de Nueva Inglaterra, en el noroeste de EE. UU, se encuentra un tesoro de ingeniería que data del siglo XIX? El Puente Cubierto de West Cornwall en Connecticut, es un emblema de durabilidad y estética. No todos los días se ve un puente de madera de 1864 que aún funcione. Esta joya abarca 55 metros sobre el río Housatonic y ha resistido el paso del tiempo gracias a su diseño con tejado y revestimientos laterales, que preservan la madera de los elementos naturales."
-    },
-    {
-        "fullstartdate": "202409272200",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077",
-        "copyright": "Atardecer en la Playa de Zurriola, San Sebastián, País Vasco (© Poliki/iStock/Gettyimages)",
-        "copyrightKeyword": "Festival Internacional de Cine de San Sebastian SSIFF",
-        "hsh": "941d25c3d1bfa69cf1845602967d3f9f"
+        "hsh": "a9249475b6dec36f17a30d814d6da0d5"
     }
 ]

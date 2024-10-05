@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410050700",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_ROW8011424345_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_ROW8011424345",
+        "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "Tsavo East National Park Kenya",
+        "hsh": "5a3e0ca04cd8770be5187818c8e0c7db",
+        "description": "Amidst the landscapes of Kenya, Tsavo East National Park, seen in today's image, emerges as a sanctuary for nature lovers and wildlife enthusiasts. Covering an expansive area of roughly 1,374,700 hectares, Tsavo East is recognised as one of the oldest and largest protected zones in the country. Here, African elephants roam in their natural splendour. These elephants, the largest land mammals, are celebrated for their extraordinary intelligence. Elephants are remarkable in guiding their young through essential skills such as finding water, selecting safe food and navigating complex social dynamics. Through gentle nudging, vocalisations and demonstrations, elephant mothers help their young survive in the wild. Whether you are capturing a splendid sunrise or exploring, Tsavo East is a place where memories are engraved into the soul, where every visit tells a new tale of the wild's untamed beauty."
+    },
+    {
         "fullstartdate": "202410040700",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_ROW7675171022_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_ROW7569075310",
         "copyright": "Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
         "copyrightKeyword": "Gulf Islands National Seashore",
-        "hsh": "448fd1dd4400a05be00f6b282b0efb7f",
-        "description": "Gulf Islands National Seashore, seen in today's image, spans the northern Gulf of Mexico along the coasts of Florida and Mississippi, United States. The national seashore is managed by the National Park Service. Established in 1971, it boasts kilometres of white sand beaches, historic fortifications and rich wildlife habitats. The seashore includes a 16-square kilometre wilderness area on Mississippi's Petit Bois and Horn Islands, protecting these regions' unique ecosystems. The Mississippi District of the seashore offers many attractions, including untouched natural beaches, historic landmarks, wildlife sanctuaries and boat-accessible islands. The National Seashore offers two developed campgrounds, one in Florida and the other in Mississippi, along with designated spots for primitive camping."
-    },
-    {
-        "fullstartdate": "202409270700",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_ROW7352144146_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_ROW7352144146",
-        "copyright": "Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "a871aa06511db33e0ec96a86d436a75c"
+        "hsh": "448fd1dd4400a05be00f6b282b0efb7f"
     }
 ]

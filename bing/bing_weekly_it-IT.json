@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410052200",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566",
+        "copyright": "Paesaggio autunnale, Parco Nazionale del Gran Paradiso, Italia (© Ondrej Prosicky/Alamy Stock Photo)",
+        "copyrightKeyword": "Parco Nazionale del Gran Paradiso",
+        "hsh": "ccd4579b374cb6b5949afd28f275d939",
+        "description": "Immergetevi nel cuore della Valle d'Aosta, dove i contorni montuosi del Parco Nazionale del Gran Paradiso abbracciano la vallata come una madre accoglie i suoi figli. Come potete ammirare, qui l'autunno è uno spettacolo di colori: i verdi si trasformano in arancioni e rossi. Ma non è solo un piacere per lo sguardo. La Valle d’Aosta si anima ogni anno durante la “Festa delle Mele”, un evento che celebra il frutto simbolo di questi monti. Mentre l’occhio si perde tra i riflessi dorati delle foglie, la bocca assapora la dolcezza croccante delle mele, fondendo vista e gusto in un’armonia perfetta."
+    },
+    {
         "fullstartdate": "202410042200",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_IT-IT9988351261_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656",
         "copyright": "Ponte coperto di West Cornwall sul fiume Housatonic, Connecticut, USA (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "Housatonic Fiume nel Connecticut",
-        "hsh": "e0b5b1a31c2fa8d2e18e782bff4f9c73",
-        "description": "A voi questo affascinante ponte, il West Cornwall Covered Bridge, immerso nel pittoresco paesaggio del Connecticut, sulla East Coast degli Stati Uniti, non richiama alla mente l’atmosfera del film “I ponti di Madison County” di Clint Eastwood? Anche se il ponte della celebre pellicola di Eastwood si trova nello stato dell’Iowa, il West Cornwall Covered Bridge condivide lo stesso fascino nostalgico, unendo passato e presente in un abbraccio di legno e storia. Costruito nel 1864, questo ponte coperto è uno dei pochi rimasti nello stato del Connecticut, un’icona di architettura rurale che attraversa placidamente il fiume Housatonic. Lungo poco più di 50 metri, è avvolto da una bellezza senza tempo, con il suo tetto di legno rosso e le tracce che raccontano di un’epoca in cui il ritmo della vita era scandito dal ritmo delle carrozze."
-    },
-    {
-        "fullstartdate": "202409272200",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453",
-        "copyright": "Spiaggia di Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures)",
-        "copyrightKeyword": "Florida Stati Uniti",
-        "hsh": "024c0f80e3c5384bbf3a9a2aab73bfa8"
+        "hsh": "e0b5b1a31c2fa8d2e18e782bff4f9c73"
     }
 ]

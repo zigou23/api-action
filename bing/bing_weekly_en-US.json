@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410050700",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732",
+        "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "World Teachers Day",
+        "hsh": "c3040ed5cd77c8b1abd0f46f911a20ec",
+        "description": "Today we celebrate the real influencers—Happy World Teachers' Day! Every year on October 5, we recognize the essential role of teachers in nurturing young minds, while acknowledging the challenges they face."
+    },
+    {
         "fullstartdate": "202410040700",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001",
         "copyright": "Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)",
         "copyrightKeyword": "national public lands day ",
-        "hsh": "e184647b49df2e405c5f58fc4a64740b",
-        "description": "National Public Lands Day takes place every fourth Saturday of September. Today is all about preserving public lands, which can be anything from national parks to urban green spaces. On this day, entry fees to many federal lands are waived, and those who participate in conservation activities like cleanups or restoring historic structures receive free entry coupons for future visits to these locations. This day has grown substantially since it began in 1994. Its first celebration was started by three national agencies and drew 700 volunteers. By 2010, the number of volunteers had increased to 170,000, spreading across more than 2,000 sites."
-    },
-    {
-        "fullstartdate": "202409270700",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118",
-        "copyright": "Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Santa Maria della Salute",
-        "hsh": "0cf1be8f3a0476022bb64e56d8ccb284"
+        "hsh": "e184647b49df2e405c5f58fc4a64740b"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410050400",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_FR-CA0466901926_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_FR-CA0466901926",
+        "copyright": "Éléphants d'Afrique dans le parc national de Tsavo East, Kenya (© Neil Bowman/Minden Pictures)",
+        "copyrightKeyword": "Journée mondiale des enseignants",
+        "hsh": "cd59cfd84d6b80a15d5a7425f96c9ba3",
+        "description": "Célébrons aujourd'hui les véritables influenceurs de nos vies : nos enseignants. Chaque année, le 5 octobre, la Journée mondiale des enseignants rend hommage à ceux qui, partout dans le monde, jouent un rôle clé dans l'éducation et la transmission des savoirs. Mais, saviez-vous que le rôle de l'enseignant ne se limite pas aux humains ? En Afrique, les éléphants jouent un rôle crucial dans l'apprentissage de leurs petits, comme ceux visibles dans l’image d’aujourd’hui. Ces majestueux pachydermes, dotés d'une grande intelligence, enseignent à leurs progénitures des compétences vitales, comme trouver de l'eau ou reconnaître les dangers."
+    },
+    {
         "fullstartdate": "202410040400",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_FR-CA6560650769",
         "copyright": "Plage au lever du soleil, Gulf Islands National Seashore, Floride, États-Unis (© Tim Fitzharris/Minden Pictures)",
         "copyrightKeyword": "Gulf Islands National Seashore Floride ",
-        "hsh": "215d1a3e70c7e121b38b82848660ca70",
-        "description": "Bienvenue dans le Gulf Islands National Seashore aux Etats-Unis, est un trésor naturel qui s'étend le long de la côte du golfe du Mexique. Ce parc unique, qui relie la Floride et le Mississippi, offre des plages de sable blanc et des sentiers accessibles à tous. En visitant ce parc, vous pourrez observer plus de 280 espèces d'oiseaux, dont les majestueux hérons et les pélicans bruns. En hiver, les American Oystercatchers et les ternes migrateurs affluent vers cette région. Saviez-vous que plus de 80 % du parc est sous l'eau ? Cela en fait un lieu de prédilection pour les plongeurs et les plongeurs. Venez explorer ce sanctuaire naturel et laissez-vous émerveiller par sa diversité écologique!"
-    },
-    {
-        "fullstartdate": "202409270400",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048",
-        "copyright": "Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)",
-        "copyrightKeyword": "Santa Maria della Salute italie",
-        "hsh": "9362263154566a589ff8adf57b198a14"
+        "hsh": "215d1a3e70c7e121b38b82848660ca70"
     }
 ]

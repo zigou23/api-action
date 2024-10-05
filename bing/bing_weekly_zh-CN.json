@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410051600",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336",
+        "copyright": "郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)",
+        "copyrightKeyword": "郊狼峡谷",
+        "hsh": "7e25885bb1ec35d17b7c647ae23053c9",
+        "description": "在犹他州郊狼峡谷天然拱门的衬托下，生机盎然的金色白杨树与埃斯卡兰特峡谷地区色彩斑斓的岩层相映成趣。郊狼峡谷是著名的背包旅行目的地，这里有高耸的垂直峡谷壁、狭窄的缝隙峡谷、穹顶、拱门和天然桥梁。峡谷的上游位于大阶梯埃斯卡兰特国家纪念区内，而今天的图片展示的是峡谷下游的格兰峡谷休闲区。这个休闲区成立于1972年。由美国国家公园管理局管理，是一个兼顾休闲和保护的保护区。与主要侧重于自然保护的国家公园不同，格兰峡谷休闲区会提供各种设施，包括四个公共露营地、两个小型机场和几家游艇租赁服务公司，因此成为了游客的热门目的地。"
+    },
+    {
         "fullstartdate": "202410041600",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ZH-CN4957862425",
         "copyright": "横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国 (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "西康沃尔廊桥",
-        "hsh": "4fb17d2f409402feed9eaea9b87f8daa",
-        "description": "廊桥的顶棚和壁板，可以保护里面的木质结构，使其免受风雨的侵蚀，从而大大提高它的耐用性，图中的西康沃尔廊桥就是一个很好的例子。美国的许多廊桥建于19世纪，但很少有廊桥能幸存至今，那些幸存下来的往往是因为其历史和视觉价值，才得以保留。"
-    },
-    {
-        "fullstartdate": "202409271600",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639",
-        "copyright": "日出时的海滩，海湾岛国家海岸，佛罗里达，美国 (© Tim Fitzharris/Minden Pictures)",
-        "copyrightKeyword": "海湾岛国家海岸",
-        "hsh": "b0174b1f05bec002ab20232d64ca30dc"
+        "hsh": "4fb17d2f409402feed9eaea9b87f8daa"
     }
 ]

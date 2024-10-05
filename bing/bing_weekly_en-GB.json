@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410052300",
+        "date": "20241006",
+        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-GB6471507229_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-GB6471507229",
+        "copyright": "Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)",
+        "copyrightKeyword": "Coyote Gulch",
+        "hsh": "83ff09e1b16ce4c6d9c3092f53689f41",
+        "description": "Framed by a natural arch in Coyote Gulch, Utah, the vibrant golden cottonwood trees stand out against the colourful rock formations of the Escalante canyon country. Coyote Gulch is a well-known backpacking destination offering towering vertical canyon walls, narrow slot canyons, domes, arches and natural bridges to visitors. The upper reaches of the gulch lie within the Grand Staircase–Escalante National Monument, while today's image showcases its lower sections in the Glen Canyon National Recreation Area (GCNRA). Established in 1972 and managed by the United States National Park Service, GCNRA is a conservation area that balances recreation and preservation. Unlike national parks that focus primarily on natural preservation, GCNRA offers a variety of facilities, including four public campgrounds, two small airports and several houseboat rental services, making it a popular destination for visitors."
+    },
+    {
         "fullstartdate": "202410042300",
         "date": "20241005",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-GB6974263231",
         "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "c3fa210173a45ba690582c4b9eb83410",
-        "description": "Covered bridges like West Cornwall Covered Bridge, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
-    },
-    {
-        "fullstartdate": "202409272300",
-        "date": "20240928",
-        "url": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_EN-GB6507271647",
-        "copyright": "Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
-        "copyrightKeyword": "Taj Mahal",
-        "hsh": "aa8004c5c7e6957d021131f30e0c9d2c"
+        "hsh": "c3fa210173a45ba690582c4b9eb83410"
     }
 ]
