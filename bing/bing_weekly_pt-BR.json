@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410060300",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_PT-BR8564618055_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_PT-BR8564618055",
+        "copyright": "Algodoeiros em um arco em Coyote Gulch, Área de Recreação de Glen Canyon, Utah, EUA (© Stephen Matera/Tandem Stills + Motion)",
+        "copyrightKeyword": "Área de Recreação Glen Canyon Estados Unidos",
+        "hsh": "c5b3372cafd3ff3271c6a329873ba1d4",
+        "description": "Mergulhe na beleza intemporal de Coyote Gulch, um verdadeiro paraíso esculpido pelo tempo no coração de Utah, EUA. Esta região é famosa por seu impressionante sistema de canyons e arcos naturais. Com extensos quilômetros de trilhas sinuosas, você pode explorar fendas estreitas e cavernas amplas, revelando formações geológicas e maravilhas naturais únicas a cada passo. As árvores de algodão dourado, brilhando sob um arco natural, criam um espetáculo de beleza que rivaliza com as nossas paisagens brasileiras, como as da Chapada Diamantina."
+    },
+    {
         "fullstartdate": "202410050300",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.MaraMigration_PT-BR7440860691_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943",
         "copyright": "Ponte Coberta de West Cornwall sobre o rio Housatonic, Connecticut, EUA (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "Ponte Coberta de West Cornwall, EUA",
-        "hsh": "aae4859cf901bf8551fa86f6228d0fd8",
-        "description": "Descubra a herança da Nova Inglaterra nos Estados Unidos com a Ponte Coberta de West Cornwall, uma joia de 1864! Localizada em Cornwall, Connecticut, e estendendo-se sobre o Rio Housatonic, esta charmosa construção que traduz a engenhosidade do século XIX é uma das três únicas pontes cobertas restantes em Connecticut."
-    },
-    {
-        "fullstartdate": "202409280300",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_PT-BR4145108998",
-        "copyright": "Praia ao nascer do sol, Costa Nacional das Ilhas do Golfo, Flórida, EUA (© Tim Fitzharris/Minden Pictures)",
-        "copyrightKeyword": "Parque Nacional das Ilhas do Golfo",
-        "hsh": "a1f302ebbc505663b2bd6c83f9c0d1a0"
+        "hsh": "aae4859cf901bf8551fa86f6228d0fd8"
     }
 ]

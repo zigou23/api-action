@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410060700",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147",
+        "copyright": "Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)",
+        "copyrightKeyword": "sorano tuscany",
+        "hsh": "ee375f0481222683970e7a6b9f80c690",
+        "description": "Sorano is a serene medieval village perched atop a cliff in the Italian province of Grosseto, southern Tuscany. Walking through the age-old cobblestone streets, one can explore the Fortezza Orsini, a fortress-turned-museum that dates back to the 11th century. Visitors engage with centuries-old tales of power and defense with each step they take inside the fort. Near Poggio San Rocco and Poggio Croce hills lies a necropolis—a large, ancient burial site—with well-preserved Etruscan tombs that hint at the area's long history. The Etruscan civilization inhabited this area and flourished in what is now Tuscany and Umbria between the 8th and 3rd centuries BCE."
+    },
+    {
         "fullstartdate": "202410050700",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937",
         "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)",
         "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "78956fb072c210ab4842d6a1a20ccdd1",
-        "description": "Covered bridges like West Cornwall Covered Bridge, pictured in today's image, were designed with roofs and siding to protect their wooden structures from weathering, greatly increasing their durability. While many were built in the 19th century, few have survived to the present day, and the ones that have are often preserved for their historical and visual significance."
-    },
-    {
-        "fullstartdate": "202409280700",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001",
-        "copyright": "Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)",
-        "copyrightKeyword": "national public lands day ",
-        "hsh": "e184647b49df2e405c5f58fc4a64740b"
+        "hsh": "78956fb072c210ab4842d6a1a20ccdd1"
     }
 ]

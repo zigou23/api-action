@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410062200",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_DE-DE0654455444_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_DE-DE0654455444",
+        "copyright": "Die Elbphilharmonie in Hamburg (© Canetti/Shutterstock)",
+        "copyrightKeyword": "Welttag der Architektur UIA",
+        "hsh": "5773680c9b61b414c4c3a5fcdef9de15",
+        "description": "„Architektur ist gefrorene Musik.” – Johann Wolfgang von Goethe. Entdecken Sie mit uns den Welttag der Architektur: Seit seiner Einführung 1985 wird er am ersten Montag im Oktober gefeiert. Unser heutiges Highlight ist die Elbphilharmonie auf der Grasbrook-Halbinsel im Hamburger Hafen. Entworfen vom Schweizer Architekturbüro Herzog & de Meuron, thront dieses Konzerthaus auf einem historischen Backsteinlagerhaus aus dem Jahr 1963."
+    },
+    {
         "fullstartdate": "202410052200",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072",
         "copyright": "Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)",
         "copyrightKeyword": "Walross",
-        "hsh": "0adcb61952b3d98e15f8a9c9dd9e0759",
-        "description": "Entdecken Sie den Zauber der Mitternachtssonne! An den unberührten Küsten Spitzbergens, auf Svalbard in Norwegen, feiern die Bewohner wie die Walrösser ein nächtliches Fest: ein erfrischendes Bad unter Freunden, gefolgt von einem Festmahl aus Muscheln und anderen Köstlichkeiten des Meeres. Spitzbergen ist ein Naturparadies auf halbem Weg zwischen Norwegen und dem Nordpol. Wussten Sie, dass männliche Walrosse fast 3,7 Meter lang werden und beeindruckende 1.200 Kilogramm auf die Waage bringen? Ihre imposante Präsenz sichert ihnen während der Paarungszeit die Vorherrschaft über die Weibchen."
-    },
-    {
-        "fullstartdate": "202409282200",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007",
-        "copyright": "West Cornwall Covered Bridge über den Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "Housatonic River Vereinigte Staaten",
-        "hsh": "a17fa44500d1fcbe8454cfc0f4c46871"
+        "hsh": "0adcb61952b3d98e15f8a9c9dd9e0759"
     }
 ]

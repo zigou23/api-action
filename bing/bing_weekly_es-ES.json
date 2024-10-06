@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410062200",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_ES-ES5119623297_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_ES-ES5119623297",
+        "copyright": "Sala de conciertos Filarmónica del Elba, Hamburgo, Alemania (© Canetti/Shutterstock)",
+        "copyrightKeyword": "Historia de la arquitectura",
+        "hsh": "6650e1259a355d03e438f9f710d1d12a",
+        "description": "¡Celebremos juntos la belleza de la arquitectura moderna! ¿Sabías que el primer lunes de octubre se conmemora el Día Mundial de la Arquitectura? No hay mejor manera de hacerlo que destacando la Elbphilharmonie de Hamburgo, Alemania, un brillante ejemplo de cómo una estructura puede renacer con un nuevo propósito. Este antiguo almacén, construido en 1963, se ha transformado en una joya arquitectónica. Con sus 108 metros de altura, es el edificio habitado más alto de la ciudad. Además de sus 45 elegantes apartamentos, cuenta con tres impresionantes salas de conciertos que realzan aún más su esplendor."
+    },
+    {
         "fullstartdate": "202410052200",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_ES-ES4387990059_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641",
         "copyright": "Manada de morsas en el norte de Spitsbergen, archipiélago de Svalbard, Noruega (© AWL Images/Danita Delimont)",
         "copyrightKeyword": "Morsa",
-        "hsh": "3201afc6fecccee01e124fe1907c4c01",
-        "description": "¿Alguna vez habéis soñado con observar morsas bajo la luz interminable del Ártico? Svalbard, ese enclave encantador noruego cerca del Polo Norte, os invita a vivir esta experiencia. Aquí podréis admirar a estos colosos, que aparecen en la imagen de hoy, con casi 4 metros de altura y más de una tonelada de peso, mientras os adentráis en una fascinante cultura e historia. Desde el siglo XVII, los marinos españoles ya exploraban este lugar, que hoy es un aula global sobre diversidad e historia natural. Es el destino ideal para experimentar un verano o dejaros maravillar por las auroras boreales que iluminan sus noches."
-    },
-    {
-        "fullstartdate": "202409282200",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344",
-        "copyright": "El Puente Cubierto de West Cornwall sobre el río Housatonic, Connecticut, EE.UU. (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "connecticut estados unidos",
-        "hsh": "a9249475b6dec36f17a30d814d6da0d5"
+        "hsh": "3201afc6fecccee01e124fe1907c4c01"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410062200",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_IT-IT4294250253_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_IT-IT4294250253",
+        "copyright": "La sala concerti Elbphilharmonie di Amburgo, Germania (© Canetti/Shutterstock)",
+        "copyrightKeyword": "Architettura",
+        "hsh": "9bcd18516550afd55c6305fd139710ef",
+        "description": "Dal 1985, ogni primo lunedì di ottobre celebriamo la “Giornata Mondiale dell’Architettura”, un’occasione per riflettere sul ruolo dell’architettura nel migliorare la vita e la sostenibilità. Tra gli esempi di eccellenza architettonica contemporanea, spicca la Elbphilharmonie di Amburgo, in Germania, inaugurata nel 2017. Progettata dagli architetti Herzog & de Meuron, sorge sul porto della città, sul fiume Elba, combinando elementi storici e moderni: la sua base è costituita da un vecchio magazzino in mattoni, su cui si erge una struttura in vetro dalle forme ondulate, ispirata al movimento delle onde."
+    },
+    {
         "fullstartdate": "202410052200",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501",
         "copyright": "Trichechi nel nord di Spitsbergen, arcipelago delle Svalbard, Norvegia (© AWL Images/DanitaDelimont)",
         "copyrightKeyword": "Tricheco",
-        "hsh": "072897f4f39a013970069f477e894f54",
-        "description": "Scoprite la magia del sole di mezzanotte! Sulle coste incontaminate delle Svalbard, in Norvegia, gli abitanti sono abituati a celebrare feste notturne sotto i raggi del sole! Questi trichechi si fanno anche un bagno rinfrescante, seguito da un banchetto di cozze e altre prelibatezze del mare. Le Svalbard sono un paradiso naturale tra la Norvegia e il Polo Nord. Sapevate che i trichechi maschi raggiungono quasi 3,7 metri di lunghezza e un peso impressionante di 1.200 chilogrammi? La loro imponente presenza garantisce il dominio delle femmine durante la stagione degli amori."
-    },
-    {
-        "fullstartdate": "202409282200",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656",
-        "copyright": "Ponte coperto di West Cornwall sul fiume Housatonic, Connecticut, USA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "Housatonic Fiume nel Connecticut",
-        "hsh": "e0b5b1a31c2fa8d2e18e782bff4f9c73"
+        "hsh": "072897f4f39a013970069f477e894f54"
     }
 ]

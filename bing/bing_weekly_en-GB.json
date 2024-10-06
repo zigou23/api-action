@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410062300",
+        "date": "20241007",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-GB8668543385_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-GB8668543385",
+        "copyright": "The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)",
+        "copyrightKeyword": "world architecture day",
+        "hsh": "da81a3b86d8357489f8287547191479d",
+        "description": "Build your excitement—it's World Architecture Day. Initiated by the International Union of Architects in 1985, this day is celebrated on the first Monday of October. Today's image features the Elbphilharmonie on the Grasbrook peninsula of the Elbe River in Hamburg, Germany. Designed by the Swiss architecture firm Herzog & de Meuron, this concert hall is a modern architectural marvel perched atop an old brick warehouse from 1963. A centrepiece of the new Hafencity development, it's Hamburg's tallest inhabited building—there are 45 luxury apartments on the upper floors—reaching a height of 114 metres."
+    },
+    {
         "fullstartdate": "202410052300",
         "date": "20241006",
         "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-GB6471507229_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191",
         "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
         "copyrightKeyword": "walrus",
-        "hsh": "073da79efabce2798c2afed85d61c131",
-        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus like the ones in today's image, the answer might be taking a quick dip with your crew, chowing down on clams and mussels, and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Photographed in the waters off Spitsbergen, the largest of the archipelago's nine islands, these aquatic mammals are year-round residents that are often found in male or female herds. Male walruses can be almost 3.6 metres long and weigh more than 1,180 kilograms, and during mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
-    },
-    {
-        "fullstartdate": "202409282300",
-        "date": "20240929",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-GB6974263231_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-GB6974263231",
-        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "c3fa210173a45ba690582c4b9eb83410"
+        "hsh": "073da79efabce2798c2afed85d61c131"
     }
 ]
