@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202410070700",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.BoraPapeete_ROW2749253003_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.BoraPapeete_ROW2749253003",
+        "copyright": "Aerial view of Bora Bora in French Polynesia (© GLF Media/Shutterstock)",
+        "copyrightKeyword": "Bora Bora French Polynesia",
+        "hsh": "75f474c0df07ff41891f1da2d6561715",
+        "description": "Imagine a place where turquoise water meets white sand beaches, and the lush mountains kiss the azure sky. Welcome to Bora Bora, the pearl of French Polynesia. Just a 50-minute flight from Tahiti-Faa'a, you'll find a natural paradise.  After a morning of diving in the lagoon, observing manta rays and multicoloured fish, relax on the famous Matira beach, a real jewel that looks like it was taken from a postcard."
+    },
+    {
         "fullstartdate": "202410060700",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_ROW8299172913_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.CoyoteGulch_ROW8299172913",
         "copyright": "Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)",
         "copyrightKeyword": "Coyote Gulch",
-        "hsh": "d93d39492f49a09fc3d4a8c56f444d52",
+        "hsh": "928a836ff75d04652f7325663eb1e2c9",
         "description": "Framed by a natural arch in Coyote Gulch, Utah, United States, the vibrant golden cottonwood trees stand out against the colourful rock formations of the Escalante Canyon country. Coyote Gulch is a well-known backpacking destination offering towering vertical canyon walls, narrow slot canyons, domes, arches and natural bridges to visitors. The upper reaches of the gulch lie within the Grand Staircase–Escalante National Monument, while today's image showcases its lower sections in the Glen Canyon National Recreation Area (GCNRA). Established in 1972 and managed by the United States National Park Service, GCNRA is a conservation area that balances recreation and preservation. Unlike national parks that focus primarily on natural preservation, GCNRA offers a variety of facilities, including four public campgrounds, two small airports and several houseboat rental services, making it a popular destination for visitors."
     },
     {
@@ -16,7 +26,7 @@
         "urlbase": "https://www.bing.com/th?id=OHR.ElephantTeacher_ROW8011424345",
         "copyright": "African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)",
         "copyrightKeyword": "Tsavo East National Park Kenya",
-        "hsh": "5a3e0ca04cd8770be5187818c8e0c7db",
+        "hsh": "10e61a5785c21ca5b59673dc23963ac0",
         "description": "Amidst the landscapes of Kenya, Tsavo East National Park, seen in today's image, emerges as a sanctuary for nature lovers and wildlife enthusiasts. Covering an expansive area of roughly 1,374,700 hectares, Tsavo East is recognised as one of the oldest and largest protected zones in the country. Here, African elephants roam in their natural splendour. These elephants, the largest land mammals, are celebrated for their extraordinary intelligence. Elephants are remarkable in guiding their young through essential skills such as finding water, selecting safe food and navigating complex social dynamics. Through gentle nudging, vocalisations and demonstrations, elephant mothers help their young survive in the wild. Whether you are capturing a splendid sunrise or exploring, Tsavo East is a place where memories are engraved into the soul, where every visit tells a new tale of the wild's untamed beauty."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_ROW7949861182",
         "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
         "copyrightKeyword": "walrus",
-        "hsh": "883db1a00357d339ec3db969264a7905",
-        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus like the ones in today's image, the answer might be taking a quick dip with your crew, chowing down on clams and mussels and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Photographed in the waters off Spitsbergen, the largest of the archipelago's nine islands, these aquatic mammals are year-round residents that are often found in male or female herds. Male walruses can be almost 3-metres long and weigh more than 1,179 kilograms; during mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
-    },
-    {
-        "fullstartdate": "202409290700",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ROW8232454989_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_ROW8232454989",
-        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "ff313cfaefcca4ef992942c7302e8c89"
+        "hsh": "883db1a00357d339ec3db969264a7905"
     }
 ]

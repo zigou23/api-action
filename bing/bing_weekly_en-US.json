@@ -1,12 +1,22 @@
 [
     {
+        "fullstartdate": "202410070700",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086",
+        "copyright": "The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)",
+        "copyrightKeyword": "world architecture day",
+        "hsh": "fef207bc1a31c2b123889d23959cd999",
+        "description": "Build your excitement—it's World Architecture Day! Today's image features the Elbphilharmonie on the Grasbrook peninsula of the Elbe River in Hamburg, Germany. Designed by the Swiss architecture firm Herzog & de Meuron, this concert hall is a modern architectural marvel perched atop an old brick warehouse from 1963. A centerpiece of the new Hafencity development, it's Hamburg's tallest inhabited building—there are 45 luxury apartments in the upper floors—reaching a height of 354 feet."
+    },
+    {
         "fullstartdate": "202410060700",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_1920x1080.jpg",
         "urlbase": "https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147",
         "copyright": "Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)",
         "copyrightKeyword": "sorano tuscany",
-        "hsh": "ee375f0481222683970e7a6b9f80c690",
+        "hsh": "03936861b1e494da5ddecf0c64a8d905",
         "description": "Sorano is a serene medieval village perched atop a cliff in the Italian province of Grosseto, southern Tuscany. Walking through the age-old cobblestone streets, one can explore the Fortezza Orsini, a fortress-turned-museum that dates back to the 11th century. Visitors engage with centuries-old tales of power and defense with each step they take inside the fort. Near Poggio San Rocco and Poggio Croce hills lies a necropolis—a large, ancient burial site—with well-preserved Etruscan tombs that hint at the area's long history. The Etruscan civilization inhabited this area and flourished in what is now Tuscany and Umbria between the 8th and 3rd centuries BCE."
     },
     {
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878",
         "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)",
         "copyrightKeyword": "walrus",
-        "hsh": "19b500d8da49372cbc55c2203d5bbf87",
-        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus, the answer might be taking a quick dip with your crew, chowing down on clams and mussels, and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Our homepage stars were photographed in the waters off Spitsbergen, the largest of the archipelago's nine islands, where male and female herds are found year-round. Male walruses can reach almost 12 feet long and weigh more than 2,600 pounds. During mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
-    },
-    {
-        "fullstartdate": "202409290700",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937",
-        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "78956fb072c210ab4842d6a1a20ccdd1"
+        "hsh": "19b500d8da49372cbc55c2203d5bbf87"
     }
 ]

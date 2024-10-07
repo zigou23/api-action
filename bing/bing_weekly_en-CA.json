@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410070400",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-CA1458789835_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-CA1458789835",
+        "copyright": "The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)",
+        "copyrightKeyword": "World Architecture Day",
+        "hsh": "36b20396a6fcd284dba08885409c69fa",
+        "description": "Build your excitement—it's World Architecture Day. Initiated by the International Union of Architects in 1985, this day is celebrated on the first Monday of October. Today's image features the Elbphilharmonie on the Grasbrook peninsula of the Elbe River in Hamburg, Germany. Designed by the Swiss architecture firm Herzog & de Meuron, this concert hall is a modern architectural marvel perched atop an old brick warehouse from 1963."
+    },
+    {
         "fullstartdate": "202410060400",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_EN-CA9362587881_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184",
         "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
         "copyrightKeyword": "walrus",
-        "hsh": "742ac4daf3aae79eb4019b3ec02ac11e",
-        "description": "What's the perfect thing to do under the midnight sun? If you're a walrus like the ones in today's image, the answer might be taking a quick dip with your crew, chowing down on clams and mussels and then sunbathing on a beach or ice floe. Welcome to Svalbard, an archipelago in the Arctic Ocean halfway between Norway and the North Pole. Photographed in the waters of Spitsbergen, the largest of the archipelago's nine islands, these aquatic mammals are year-round residents that are often found in male or female herds. Male walruses can be almost 4 metres long and weigh more than 1,200 kilograms, and during mating season, they use this girth to fight among themselves for dominance over groups of females, called harems."
-    },
-    {
-        "fullstartdate": "202409290400",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-CA8942855073",
-        "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "West Cornwall Covered Bridge Housatonic River",
-        "hsh": "d93d7ceba132bed9138ec961a673ec21"
+        "hsh": "742ac4daf3aae79eb4019b3ec02ac11e"
     }
 ]

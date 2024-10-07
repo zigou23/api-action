@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410070300",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_PT-BR9107755270_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_PT-BR9107755270",
+        "copyright": "Sala de concertos Elbphilharmonie em Hamburgo, Alemanha (© Canetti/Shutterstock)",
+        "copyrightKeyword": "Dia Mundial da Arquitetura",
+        "hsh": "6e60c05e45e7f95b4547f6390dee7d22",
+        "description": "Prepare-se para celebrar a grandeza da arquitetura no Dia Mundial da Arquitetura! Desde 1985, a União Internacional dos Arquitetos marca esta data na primeira segunda-feira de outubro. Hoje, destacamos a Elbphilharmonie, uma obra-prima que une tradição e modernidade em Hamburgo, Alemanha. Com impressionantes 108 metros de altura, este edifício é um exemplo marcante de como a arquitetura pode transformar cidades. Projetada pelo escritório suíço Herzog & de Meuron, a Elbphilharmonie não só abriga 45 apartamentos no topo, como também um Grande Salão de Concertos que acolhe desde música clássica até jazz."
+    },
+    {
         "fullstartdate": "202410060300",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.CoyoteGulch_PT-BR8564618055_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839",
         "copyright": "Colônia de morsas no norte de Spitsbergen, arquipélago de Svalbard, Noruega (© AWL Images/Danita Delimont)",
         "copyrightKeyword": "morsa animal",
-        "hsh": "c637ca0343cef7aa839ae5d4034e3bf5",
-        "description": "Quer saber o que fazer sob o sol que nunca se põe? Se você fosse uma morsa em Svalbard, um mergulho no Ártico à meia-noite seria apenas o começo da diversão. Bem-vindo a Svalbard, um arquipélago situado entre a Noruega e o Polo Norte. Nas águas ao largo de Spitsbergen, a maior das ilhas do arquipélago, essas impressionantes morsas, que podem atingir quase 3,7 metros de comprimento e pesar mais de 1.200 quilos, são vistas em grupos durante a época de acasalamento, disputando domínio."
-    },
-    {
-        "fullstartdate": "202409290300",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943",
-        "copyright": "Ponte Coberta de West Cornwall sobre o rio Housatonic, Connecticut, EUA (© pabradyphoto/Getty Images)",
-        "copyrightKeyword": "Ponte Coberta de West Cornwall, EUA",
-        "hsh": "aae4859cf901bf8551fa86f6228d0fd8"
+        "hsh": "c637ca0343cef7aa839ae5d4034e3bf5"
     }
 ]

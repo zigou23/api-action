@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410072200",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.MototiOctopus_IT-IT6416760928_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MototiOctopus_IT-IT6416760928",
+        "copyright": "Polpo ocellato, Stretto di Lembeh, Indonesia (© Howard Chew/Alamy Stock Photo)",
+        "copyrightKeyword": "Polpo ocellato",
+        "hsh": "e530e647d5ca68c86b7d26d1b614efe9",
+        "description": "Oggi, 8 ottobre, festeggiamo la “Giornata Mondiale del Polpo” Questo cefalopode, che ha addirittura tre cuori, rappresenta un simbolo di fluidità e adattabilità, incarnando la capacità di trasformarsi e fondersi con l’ambiente. Con i suoi tentacoli flessibili, rappresenta la resilienza e la versatilità, muovendosi agilmente tra gli ostacoli della vita. Il polpo elude ogni barriera, adattandosi ai cambiamenti come l’acqua che scorre. La sua abilità di rigenerare gli arti simboleggia il potere di rinascita, mostrando come, nelle avversità, ci sia sempre spazio per il rinnovamento e la crescita."
+    },
+    {
         "fullstartdate": "202410062200",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_IT-IT4294250253_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418",
         "copyright": "Half Dome, Parco Nazionale di Yosemite, California, USA (© Adam Burton/Alamy Stock Photo)",
         "copyrightKeyword": "Half Dome Parco Nazionale di Yosemite",
-        "hsh": "404bef349d35fd663e2e713437640d89",
-        "description": "Avete mai visto questa incredibile vetta? Non ci troviamo nelle Alpi, né negli Appennini. Oggi il nostro viaggio ci porta nella parte occidentale degli Stati Uniti, in California. Benvenuti al Parco Nazionale di Yosemite, lieti di presentarvi il Half Dome, una montagna appartenente alla catena montuosa della Sierra Nevada. Questa formazione granitica, che svetta a oltre 2.600 metri, è un capolavoro naturale forgiato dal tempo e dall’erosione. L’escursione fino alla sua cima è un viaggio che fonde la fatica con la ricompensa di panorami ineguagliabili e dell’orgoglio di poter toccare il cielo con un dito. D’altronde, la montagna ha sempre affascinato molti poeti e avventurieri e non potrebbe esserci frase più azzeccata di questa citazione del grandissimo Francesco Petrarca nel X sonetto del Canzoniere: “…Tra l’erba verde, e ’l bel monte vicino, Onde si scende poetando, e poggia. Levan di terra al ciel nostr’intelletto…”"
-    },
-    {
-        "fullstartdate": "202409292200",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501",
-        "copyright": "Trichechi nel nord di Spitsbergen, arcipelago delle Svalbard, Norvegia (© AWL Images/DanitaDelimont)",
-        "copyrightKeyword": "Tricheco",
-        "hsh": "072897f4f39a013970069f477e894f54"
+        "hsh": "404bef349d35fd663e2e713437640d89"
     }
 ]

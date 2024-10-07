@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410071500",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494",
+        "copyright": "秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)",
+        "copyrightKeyword": "秋の八甲田ロープウェイ",
+        "hsh": "4823b960206f53db2bb2c2004bc2321d",
+        "description": "今日 10 月 8 日は二十四節気の｢寒露｣で、露が冷気によって凍り、朝晩の気温がぐっと下がるころです。秋が深まり、紅葉が美しく色づく時期でもあります。ここ、青森県青森市にある八甲田山の紅葉も、見頃の時期を迎えます…"
+    },
+    {
         "fullstartdate": "202410061500",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040",
         "copyright": "ヨセミテ国立公園, 米国 カリフォルニア州 (© Adam Burton/Alamy)",
         "copyrightKeyword": "ヨセミテ国立公園",
-        "hsh": "00f8303d12455891a83d96166524d385",
-        "description": "ここはヨセミテ国立公園。米国カリフォルニア州の東部を縦貫するシエラネバダ山脈の西山麓に広がっている公園で、花崗岩の崖、渓谷、巨大な滝、澄んだ小川、巨木の林、そして多様な生態系で知られています。1890 年の今日、10 月 1 日に国立公園に指定され、その後 1984 年には世界遺産にも登録されました…"
-    },
-    {
-        "fullstartdate": "202409291500",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299",
-        "copyright": "スヴァールバル諸島, ノルウェー (© AWL Images/Danita Delimont)",
-        "copyrightKeyword": "セイウチの群れ",
-        "hsh": "a940488693e46039e574574da041f526"
+        "hsh": "00f8303d12455891a83d96166524d385"
     }
 ]

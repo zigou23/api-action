@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410072200",
+        "date": "20241008",
+        "url": "https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998",
+        "copyright": "Mototi-Oktopus, Lembeh Strait, Indonesien (© Howard Chew/Alamy)",
+        "copyrightKeyword": "Welt-Oktopus-Tag",
+        "hsh": "15346a07a4a197e7956e017367ba018c",
+        "description": "Wer besitzt gleich drei Herzen und kann seine Farbe nach Belieben ändern? Lassen Sie uns heute den Oktopus feiern! Dieses faszinierende Meereswesen ist Teil der Familie der Kopffüßer und Verwandter von Kalmaren und Sepien und zeichnet sich durch seine Tentakel aus. Auf unserem heutigen Bild ist ein Mototi-Oktopus zu sehen. Er wurde 1999 in der Nähe der Insel Rapa im Südpazifik entdeckt und fällt besonders durch seine „falschen Augen” auf: blau-gelb leuchtende Ringe zwischen Augen und Armen."
+    },
+    {
         "fullstartdate": "202410062200",
         "date": "20241007",
         "url": "https://www.bing.com/th?id=OHR.ElbePhilharmonic_DE-DE0654455444_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355",
         "copyright": "Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)",
         "copyrightKeyword": "Half Dome, Yosemite-National-Park, Kalifornien",
-        "hsh": "c56b173a5671a6092dabe1d4a9bb1a62",
-        "description": "Entdecken Sie eines der Naturwunder Amerikas: den Yosemite-Nationalpark. Mit Aussichten wie dem Half Dome, der in der kalifornischen Sierra Nevada thront, ist es nicht verwunderlich, dass dieser Park seit dem 19. Jahrhundert Künstler und Naturliebhaber anzieht, wie zum Beispiel den amerikanischen Fotografen Ansel Adams, der diesen Ort durch seine Fotografien weltberühmt machte. Auf Beschluss des US-Kongresses wurde dieses Naturjuwel 1890 zum Nationalpark erklärt und vor Abholzung und Beweidung geschützt. Rund 3 Millionen Besucher kommen jährlich in den Park, der von der UNESCO zum Weltnaturerbe erklärt wurde."
-    },
-    {
-        "fullstartdate": "202409292200",
-        "date": "20240930",
-        "url": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072",
-        "copyright": "Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)",
-        "copyrightKeyword": "Walross",
-        "hsh": "0adcb61952b3d98e15f8a9c9dd9e0759"
+        "hsh": "c56b173a5671a6092dabe1d4a9bb1a62"
     }
 ]
