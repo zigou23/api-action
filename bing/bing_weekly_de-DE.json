@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410082200",
+        "date": "20241009",
+        "url": "https://www.bing.com/th?id=OHR.PotsdamerPlatzBerlin_DE-DE6566333403_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.PotsdamerPlatzBerlin_DE-DE6566333403",
+        "copyright": "Potsdamer Platz in Berlin (© franckreporter/Getty Images)",
+        "copyrightKeyword": "Potsdamer Platz",
+        "hsh": "1b8a1ae6785baf48e9fc464b20400963",
+        "description": "Der Potsdamer Platz in Berlin ist ein faszinierender Ort, der die Geschichte und den Wandel unserer Hauptstadt widerspiegelt. Einst einer der belebtesten Plätze Europas, wurde er im Zweiten Weltkrieg fast vollständig zerstört. Zu Zeiten des Kalten Krieges lag er im Niemandsland zwischen Ost- und Westberlin, geteilt durch die Berliner Mauer."
+    },
+    {
         "fullstartdate": "202410072200",
         "date": "20241008",
         "url": "https://www.bing.com/th?id=OHR.MototiOctopus_DE-DE2317582998_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.WindRiverAlaska_DE-DE4243955227",
         "copyright": "Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)",
         "copyrightKeyword": "Arctic National Wildlife Refuge, Vereinigte Staaten",
-        "hsh": "9a2b15698fe49a664ce9d3a8473d4266",
-        "description": "Wussten Sie, dass es Richtlinien gibt, die Flüsse genauso schützen wie Nationalparks? In den USA sorgt der „Wild and Scenic Rivers Act“ seit 1968 dafür, dass Flüsse wie der Wind River ihre Wildheit behalten. Auf seinen 137 Kilometern tummeln sich Dall-Schafe und Grizzlybären in unberührter Natur. Fast 20.500 Flusskilometer stehen unter Schutz. Unglaublich wenig, wenn man bedenkt, dass das nur ein Bruchteil von 0,25 Prozent der 5,6 Millionen Flusskilometer in den USA ist. Aber es ist ein Erfolg, der zeigt: Es lohnt sich, sich für den Erhalt natürlicher Fließgewässer einzusetzen. Deshalb glauben wir, dass Bildung für den Schutz der Flüsse enorm wichtig ist, denn die Reinhaltung der Flüsse ist eine Investition in das wertvollste Gut, das wir haben: unseren Planeten. Nehmen wir uns ein Beispiel an den USA, lassen Sie uns gemeinsam unsere Flüsse zum Strahlen bringen und den kommenden Generationen eine blühende Zukunft sichern."
-    },
-    {
-        "fullstartdate": "202409302200",
-        "date": "20241001",
-        "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355",
-        "copyright": "Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)",
-        "copyrightKeyword": "Half Dome, Yosemite-National-Park, Kalifornien",
-        "hsh": "c56b173a5671a6092dabe1d4a9bb1a62"
+        "hsh": "9a2b15698fe49a664ce9d3a8473d4266"
     }
 ]
