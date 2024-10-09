@@ -1,5 +1,15 @@
 [
     {
+        "fullstartdate": "202410092200",
+        "date": "20241010",
+        "url": "https://www.bing.com/th?id=OHR.SoranoItaly_IT-IT6958617726_1920x1080.jpg",
+        "urlbase": "https://www.bing.com/th?id=OHR.SoranoItaly_IT-IT6958617726",
+        "copyright": "Sorano, Toscana, Italia (© Luigi Vaccarella/eStock Photo)",
+        "copyrightKeyword": "Sorano comune",
+        "hsh": "4fdee5cfcab5a9093a903950b4463cc0",
+        "description": "Avete mai sognato di viaggiare indietro nel tempo? Se avete in mente di visitare Sorano, in Toscana, questo sogno può diventare realtà. Questo incantevole borgo medievale è arroccato su una rupe di tufo, e non a caso è soprannominato la “Matera della Toscana” per le sue case scavate nella roccia. La storia di Sorano affonda le radici nell’epoca etrusca, con testimonianze di necropoli e insediamenti. Durante il Medioevo, il borgo visse un periodo di splendore sotto la potente famiglia degli Aldobrandeschi e successivamente sotto i conti Orsini. Infatti, tra i monumenti più significativi, spicca la Fortezza Orsini, un’imponente costruzione difensiva e la collegiata di San Nicolò."
+    },
+    {
         "fullstartdate": "202410082200",
         "date": "20241009",
         "url": "https://www.bing.com/th?id=OHR.AspensColorado_IT-IT4462449086_1920x1080.jpg",
@@ -66,16 +76,6 @@
         "urlbase": "https://www.bing.com/th?id=OHR.TajMahalReflection_IT-IT1242921978",
         "copyright": "Taj Mahal ad Agra, Uttar Pradesh, India (© Tanarch/Getty Images)",
         "copyrightKeyword": "Taj Mahal",
-        "hsh": "3eebb418a59de550f03e7a6979816cda",
-        "description": "Ammirate lo splendore di questo mausoleo, il Taj Mahal, situato ad Agra, in India. Possiamo considerarlo tra i monumenti più iconici al mondo. Costruito nel XVII secolo dall’imperatore Shah Jahan in memoria della sua amata moglie Mumtaz Mahal, il mausoleo è un capolavoro di architettura moghul, combinata con elementi islamici, persiani e indiani. Il bianco scintillante del marmo, i delicati intarsi di pietre preziose e la simmetria perfetta fanno del Taj Mahal un simbolo eterno dell’amore e della devozione. Ogni anno, milioni di visitatori affollano questo luogo, attratti dalla sua bellezza e dalla sua storia affascinante."
-    },
-    {
-        "fullstartdate": "202410012200",
-        "date": "20241002",
-        "url": "https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_1920x1080.jpg",
-        "urlbase": "https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964",
-        "copyright": "Lago di Braies, Trentino-Aldo Adige, Italia (© pidjoe/Getty Images)",
-        "copyrightKeyword": "Festa dei nonni",
-        "hsh": "ae8b317c538f036ff7690d9135b681a3"
+        "hsh": "3eebb418a59de550f03e7a6979816cda"
     }
 ]
